@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" site="kan.org.il">
+  <channels>
+    <channel update="i" site="kan.org.il" site_id="1" xmltv_id="כאן 11">כאן 11</channel>
+    <channel update="i" site="kan.org.il" site_id="19" xmltv_id="חינוכית">חינוכית</channel>
+    <channel update="i" site="kan.org.il" site_id="2" xmltv_id="مكان">مكان</channel>
+    <channel update="i" site="kan.org.il" site_id="8" xmltv_id="כאן ב">כאן ב</channel>
+    <channel update="i" site="kan.org.il" site_id="9" xmltv_id="גימל">גימל</channel>
+    <channel update="i" site="kan.org.il" site_id="4" xmltv_id="88">88</channel>
+    <channel update="i" site="kan.org.il" site_id="7" xmltv_id="תרבות">תרבות</channel>
+    <channel update="i" site="kan.org.il" site_id="5" xmltv_id="קול המוסיקה">קול המוסיקה</channel>
+    <channel update="i" site="kan.org.il" site_id="11" xmltv_id="מורשת">מורשת</channel>
+    <channel update="i" site="kan.org.il" site_id="6" xmltv_id="REKA">REKA</channel>
+    <channel update="i" site="kan.org.il" site_id="10" xmltv_id="راديو مكان">راديو مكان</channel>
+  </channels>
+</site>

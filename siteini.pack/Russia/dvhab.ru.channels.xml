@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="dvhab.ru">
+  <channels>
+    <channel update="i" site="dvhab.ru" site_id="1691" xmltv_id="Русский роман">Русский роман</channel>
+    <channel update="i" site="dvhab.ru" site_id="659" xmltv_id="Иллюзион +">Иллюзион +</channel>
+    <channel update="i" site="dvhab.ru" site_id="658" xmltv_id="Русский Иллюзион">Русский Иллюзион</channel>
+    <channel update="i" site="dvhab.ru" site_id="289" xmltv_id="TV21">TV21</channel>
+    <channel update="i" site="dvhab.ru" site_id="650" xmltv_id="Настоящее Страшное Телевидение">Настоящее Страшное Телевидение</channel>
+    <channel update="i" site="dvhab.ru" site_id="288" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="dvhab.ru" site_id="552" xmltv_id="TV1000 Русское кино">TV1000 Русское кино</channel>
+    <channel update="i" site="dvhab.ru" site_id="1917" xmltv_id="Русский бестселлер">Русский бестселлер</channel>
+    <channel update="i" site="dvhab.ru" site_id="981" xmltv_id="Еврокино">Еврокино</channel>
+    <channel update="i" site="dvhab.ru" site_id="2419" xmltv_id="Русский Детектив">Русский Детектив</channel>
+    <channel update="i" site="dvhab.ru" site_id="623" xmltv_id="Дом кино">Дом кино</channel>
+    <channel update="i" site="dvhab.ru" site_id="1061" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="dvhab.ru" site_id="1017" xmltv_id="Кино плюс">Кино плюс</channel>
+    <channel update="i" site="dvhab.ru" site_id="682" xmltv_id="Феникс+ Кино">Феникс+ Кино</channel>
+    <channel update="i" site="dvhab.ru" site_id="202" xmltv_id="Наше кино">Наше кино</channel>
+    <channel update="i" site="dvhab.ru" site_id="1936" xmltv_id="TV1000 Megahit HD">TV1000 Megahit HD</channel>
+    <channel update="i" site="dvhab.ru" site_id="447" xmltv_id="Наше Новое Кино">Наше Новое Кино</channel>
+    <channel update="i" site="dvhab.ru" site_id="961" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="dvhab.ru" site_id="697" xmltv_id="Sony Sci-fi">Sony Sci-fi</channel>
+    <channel update="i" site="dvhab.ru" site_id="666" xmltv_id="Кинопоказ">Кинопоказ</channel>
+    <channel update="i" site="dvhab.ru" site_id="1073" xmltv_id="Кто есть кто">Кто есть кто</channel>
+    <channel update="i" site="dvhab.ru" site_id="689" xmltv_id="SONY ТВ">SONY ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="960" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="dvhab.ru" site_id="1001" xmltv_id="Мир сериала">Мир сериала</channel>
+    <channel update="i" site="dvhab.ru" site_id="1624" xmltv_id="AMEDIA">AMEDIA</channel>
+    <channel update="i" site="dvhab.ru" site_id="264" xmltv_id="Культура">Культура</channel>
+    <channel update="i" site="dvhab.ru" site_id="226" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="dvhab.ru" site_id="325" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="dvhab.ru" site_id="284" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="dvhab.ru" site_id="621" xmltv_id="Время">Время</channel>
+    <channel update="i" site="dvhab.ru" site_id="550" xmltv_id="Моя Планета">Моя Планета</channel>
+    <channel update="i" site="dvhab.ru" site_id="2042" xmltv_id="История">История</channel>
+    <channel update="i" site="dvhab.ru" site_id="324" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="dvhab.ru" site_id="1352" xmltv_id="Наука 2.0">Наука 2.0</channel>
+    <channel update="i" site="dvhab.ru" site_id="224" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="dvhab.ru" site_id="1961" xmltv_id="Travel+Adventure">Travel+Adventure</channel>
+    <channel update="i" site="dvhab.ru" site_id="955" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="dvhab.ru" site_id="636" xmltv_id="Ocean TV">Ocean TV</channel>
+    <channel update="i" site="dvhab.ru" site_id="1673" xmltv_id="Galaxy TV">Galaxy TV</channel>
+    <channel update="i" site="dvhab.ru" site_id="1030" xmltv_id="Russian Travel Guide">Russian Travel Guide</channel>
+    <channel update="i" site="dvhab.ru" site_id="1128" xmltv_id="Совершенно секретно">Совершенно секретно</channel>
+    <channel update="i" site="dvhab.ru" site_id="662" xmltv_id="Телепутешествия">Телепутешествия</channel>
+    <channel update="i" site="dvhab.ru" site_id="1296" xmltv_id="Просвещение">Просвещение</channel>
+    <channel update="i" site="dvhab.ru" site_id="2883" xmltv_id="Матч ТВ">Матч ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="540" xmltv_id="Русский Экстрим">Русский Экстрим</channel>
+    <channel update="i" site="dvhab.ru" site_id="554" xmltv_id="Боец">Боец</channel>
+    <channel update="i" site="dvhab.ru" site_id="1066" xmltv_id="Viasat_Sport">Viasat_Sport</channel>
+    <channel update="i" site="dvhab.ru" site_id="1019" xmltv_id="КХЛ">КХЛ</channel>
+    <channel update="i" site="dvhab.ru" site_id="259" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="dvhab.ru" site_id="376" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="dvhab.ru" site_id="206" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="dvhab.ru" site_id="672" xmltv_id="ЖИВИ!">ЖИВИ!</channel>
+    <channel update="i" site="dvhab.ru" site_id="205" xmltv_id="НТВ-ПЛЮС Футбол">НТВ-ПЛЮС Футбол</channel>
+    <channel update="i" site="dvhab.ru" site_id="1492" xmltv_id="Eurosport News">Eurosport News</channel>
+    <channel update="i" site="dvhab.ru" site_id="1681" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="dvhab.ru" site_id="1543" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="dvhab.ru" site_id="595" xmltv_id="Радость Моя">Радость Моя</channel>
+    <channel update="i" site="dvhab.ru" site_id="218" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="dvhab.ru" site_id="211" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="dvhab.ru" site_id="696" xmltv_id="Детский">Детский</channel>
+    <channel update="i" site="dvhab.ru" site_id="1016" xmltv_id="Мультимания">Мультимания</channel>
+    <channel update="i" site="dvhab.ru" site_id="1151" xmltv_id="TiJi">TiJi</channel>
+    <channel update="i" site="dvhab.ru" site_id="2445" xmltv_id="МУЛЬТ">МУЛЬТ</channel>
+    <channel update="i" site="dvhab.ru" site_id="987" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="dvhab.ru" site_id="963" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="dvhab.ru" site_id="1661" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="dvhab.ru" site_id="655" xmltv_id="Мать и дитя">Мать и дитя</channel>
+    <channel update="i" site="dvhab.ru" site_id="1699" xmltv_id="NHK WORLD TV">NHK WORLD TV</channel>
+    <channel update="i" site="dvhab.ru" site_id="208" xmltv_id="EuroNews">EuroNews</channel>
+    <channel update="i" site="dvhab.ru" site_id="326" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="dvhab.ru" site_id="962" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="dvhab.ru" site_id="651" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="dvhab.ru" site_id="1036" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="dvhab.ru" site_id="221" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="dvhab.ru" site_id="1982" xmltv_id="Russia Today Doc (RT Doc)">Russia Today Doc (RT Doc)</channel>
+    <channel update="i" site="dvhab.ru" site_id="229" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="dvhab.ru" site_id="661" xmltv_id="BRIDGE TV">BRIDGE TV</channel>
+    <channel update="i" site="dvhab.ru" site_id="2132" xmltv_id="MTV Russia">MTV Russia</channel>
+    <channel update="i" site="dvhab.ru" site_id="557" xmltv_id="Ля-Минор">Ля-Минор</channel>
+    <channel update="i" site="dvhab.ru" site_id="1485" xmltv_id="Europa Plus TV">Europa Plus TV</channel>
+    <channel update="i" site="dvhab.ru" site_id="1065" xmltv_id="VH1 European">VH1 European</channel>
+    <channel update="i" site="dvhab.ru" site_id="2641" xmltv_id="MTV Rocks International">MTV Rocks International</channel>
+    <channel update="i" site="dvhab.ru" site_id="999" xmltv_id="MCM TOP">MCM TOP</channel>
+    <channel update="i" site="dvhab.ru" site_id="2643" xmltv_id="MTV Hits International">MTV Hits International</channel>
+    <channel update="i" site="dvhab.ru" site_id="2642" xmltv_id="MTV Dance International">MTV Dance International</channel>
+    <channel update="i" site="dvhab.ru" site_id="1064" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="dvhab.ru" site_id="553" xmltv_id="Авто Плюс">Авто Плюс</channel>
+    <channel update="i" site="dvhab.ru" site_id="432" xmltv_id="Усадьба">Усадьба</channel>
+    <channel update="i" site="dvhab.ru" site_id="530" xmltv_id="Охота и рыбалка">Охота и рыбалка</channel>
+    <channel update="i" site="dvhab.ru" site_id="585" xmltv_id="Кухня ТВ">Кухня ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="1071" xmltv_id="Оружие">Оружие</channel>
+    <channel update="i" site="dvhab.ru" site_id="1755" xmltv_id="Paramount Comedy Russia">Paramount Comedy Russia</channel>
+    <channel update="i" site="dvhab.ru" site_id="528" xmltv_id="Драйв">Драйв</channel>
+    <channel update="i" site="dvhab.ru" site_id="1078" xmltv_id="Загородная жизнь">Загородная жизнь</channel>
+    <channel update="i" site="dvhab.ru" site_id="529" xmltv_id="Здоровое ТВ">Здоровое ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="1028" xmltv_id="Психология 21">Психология 21</channel>
+    <channel update="i" site="dvhab.ru" site_id="958" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="dvhab.ru" site_id="228" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="dvhab.ru" site_id="1063" xmltv_id="Успех">Успех</channel>
+    <channel update="i" site="dvhab.ru" site_id="1493" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="dvhab.ru" site_id="1321" xmltv_id="СТС">СТС</channel>
+    <channel update="i" site="dvhab.ru" site_id="2048" xmltv_id="Пятница">Пятница</channel>
+    <channel update="i" site="dvhab.ru" site_id="1464" xmltv_id="ТНТ ДАЛЬ-ТВ">ТНТ ДАЛЬ-ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="1216" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="dvhab.ru" site_id="1886" xmltv_id="Ю +7">Ю +7</channel>
+    <channel update="i" site="dvhab.ru" site_id="291" xmltv_id="Комедия ТВ">Комедия ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="276" xmltv_id="2x2">2x2</channel>
+    <channel update="i" site="dvhab.ru" site_id="231" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="dvhab.ru" site_id="1023" xmltv_id="Парк развлечений">Парк развлечений</channel>
+    <channel update="i" site="dvhab.ru" site_id="657" xmltv_id="Сарафан">Сарафан</channel>
+    <channel update="i" site="dvhab.ru" site_id="1029" xmltv_id="Дождь">Дождь</channel>
+    <channel update="i" site="dvhab.ru" site_id="1069" xmltv_id="Вопросы и ответы">Вопросы и ответы</channel>
+    <channel update="i" site="dvhab.ru" site_id="1013" xmltv_id="Nat Geo WILD">Nat Geo WILD</channel>
+    <channel update="i" site="dvhab.ru" site_id="1481" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="dvhab.ru" site_id="214" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="dvhab.ru" site_id="1009" xmltv_id="Viasat Nature CEE">Viasat Nature CEE</channel>
+    <channel update="i" site="dvhab.ru" site_id="980" xmltv_id="Домашние животные">Домашние животные</channel>
+    <channel update="i" site="dvhab.ru" site_id="1081" xmltv_id="Zooпарк">Zooпарк</channel>
+    <channel update="i" site="dvhab.ru" site_id="329" xmltv_id="Ретро">Ретро</channel>
+    <channel update="i" site="dvhab.ru" site_id="630" xmltv_id="Ностальгия">Ностальгия</channel>
+    <channel update="i" site="dvhab.ru" site_id="501" xmltv_id="TV club">TV club</channel>
+    <channel update="i" site="dvhab.ru" site_id="1202" xmltv_id="Россия 1">Россия 1</channel>
+    <channel update="i" site="dvhab.ru" site_id="1145" xmltv_id="РЕН ТВ">РЕН ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="1456" xmltv_id="Домашний">Домашний</channel>
+    <channel update="i" site="dvhab.ru" site_id="3346" xmltv_id="Первый">Первый</channel>
+    <channel update="i" site="dvhab.ru" site_id="840" xmltv_id="ТВ Центр - Дальний Восток">ТВ Центр - Дальний Восток</channel>
+    <channel update="i" site="dvhab.ru" site_id="1142" xmltv_id="НТВ">НТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="1418" xmltv_id="ТВ-3">ТВ-3</channel>
+    <channel update="i" site="dvhab.ru" site_id="731" xmltv_id="5 канал">5 канал</channel>
+    <channel update="i" site="dvhab.ru" site_id="1428" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="dvhab.ru" site_id="1692" xmltv_id="Губерния (Хабаровск)">Губерния (Хабаровск)</channel>
+    <channel update="i" site="dvhab.ru" site_id="1298" xmltv_id="6 ТВ (Хабаровск)">6 ТВ (Хабаровск)</channel>
+    <channel update="i" site="dvhab.ru" site_id="2664" xmltv_id="МИР+7">МИР+7</channel>
+    <channel update="i" site="dvhab.ru" site_id="3847" xmltv_id="Общественное телевидение России">Общественное телевидение России</channel>
+    <channel update="i" site="dvhab.ru" site_id="1987" xmltv_id="Кино ТВ">Кино ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="3607" xmltv_id="СПАС">СПАС</channel>
+    <channel update="i" site="dvhab.ru" site_id="2687" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="dvhab.ru" site_id="3513" xmltv_id="МУЗ ТВ">МУЗ ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="2898" xmltv_id="Че">Че</channel>
+    <channel update="i" site="dvhab.ru" site_id="3451" xmltv_id="Хабаровск">Хабаровск</channel>
+    <channel update="i" site="dvhab.ru" site_id="2796" xmltv_id="СЭТ ТВ">СЭТ ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="1080" xmltv_id="Zee-TV">Zee-TV</channel>
+    <channel update="i" site="dvhab.ru" site_id="3459" xmltv_id="МАТЧ! ПРЕМЬЕР">МАТЧ! ПРЕМЬЕР</channel>
+    <channel update="i" site="dvhab.ru" site_id="2934" xmltv_id="ТНТ4">ТНТ4</channel>
+    <channel update="i" site="dvhab.ru" site_id="2831" xmltv_id="Детский мир">Детский мир</channel>
+    <channel update="i" site="dvhab.ru" site_id="1391" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="dvhab.ru" site_id="1825" xmltv_id="ТНВ-планета">ТНВ-планета</channel>
+    <channel update="i" site="dvhab.ru" site_id="3193" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="dvhab.ru" site_id="3613" xmltv_id="КиноСат">КиноСат</channel>
+    <channel update="i" site="dvhab.ru" site_id="2873" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="dvhab.ru" site_id="984" xmltv_id="Раз ТВ">Раз ТВ</channel>
+    <channel update="i" site="dvhab.ru" site_id="290" xmltv_id="Ru.TV">Ru.TV</channel>
+  </channels>
+</site>

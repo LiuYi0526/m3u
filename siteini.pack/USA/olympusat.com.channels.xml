@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="olympusat.com">
+  <channels>
+    <channel update="i" site="olympusat.com" site_id="645##2017/02/CineMexicano_Logo-145x48" xmltv_id="Cine Mexicano">Cine Mexicano</channel>
+    <channel update="i" site="olympusat.com" site_id="647##cubaplay-color-logo-145x48" xmltv_id="CubaPlay">CubaPlay</channel>
+    <channel update="i" site="olympusat.com" site_id="648##2016/11/gran-cine-color-logo-1-145x62" xmltv_id="Gran Cine">Gran Cine</channel>
+    <channel update="i" site="olympusat.com" site_id="410##2017/03/sorpresalogo_P-145x66" xmltv_id="Sorpresa">Sorpresa</channel>
+    <channel update="i" site="olympusat.com" site_id="649##teleN-logo" xmltv_id="Tele N">Tele N</channel>
+    <channel update="i" site="olympusat.com" site_id="1132##toku-color-logo-1-145x39" xmltv_id="Toku">Toku</channel>
+    <channel update="i" site="olympusat.com" site_id="1120##2016/11/Logo_ultra-banda-1-145x48" xmltv_id="Ultra Banda">Ultra Banda</channel>
+    <channel update="i" site="olympusat.com" site_id="1131##UltraCineLogoBlack-145x48" xmltv_id="Ultra Cine">Ultra Cine</channel>
+    <channel update="i" site="olympusat.com" site_id="1121##UltraClasicoLogoBlack-145x48" xmltv_id="Ultra Clásico">Ultra Clásico</channel>
+    <channel update="i" site="olympusat.com" site_id="1122##UltraDocuLogoBlack-145x48" xmltv_id="Ultra Docu">Ultra Docu</channel>
+    <channel update="i" site="olympusat.com" site_id="1123##2016/11/Logo_ultra-familia-1-145x48" xmltv_id="Ultra Familia">Ultra Familia</channel>
+    <channel update="i" site="olympusat.com" site_id="1124##UltraFiestaLogoBlack-145x48" xmltv_id="Ultra Fiesta">Ultra Fiesta</channel>
+    <channel update="i" site="olympusat.com" site_id="1125##UltraFilmLogoBlack-145x48" xmltv_id="Ultra Film">Ultra Film</channel>
+    <channel update="i" site="olympusat.com" site_id="1126##UltraKidzLogoBlack-145x48" xmltv_id="Ultra Kidz">Ultra Kidz</channel>
+    <channel update="i" site="olympusat.com" site_id="1127##UltraLunaLogoBlack-145x48" xmltv_id="Ultra Luna">Ultra Luna</channel>
+    <channel update="i" site="olympusat.com" site_id="1128##UltraMachoLogoBlack-145x48" xmltv_id="Ultra Macho">Ultra Macho</channel>
+    <channel update="i" site="olympusat.com" site_id="1129##UltraMexLogoBlack-145x48" xmltv_id="Ultra Mex">Ultra Mex</channel>
+    <channel update="i" site="olympusat.com" site_id="1130##UltraTainmentLogoBlack-145x48" xmltv_id="Ultra Tainment">Ultra Tainment</channel>
+    <channel update="i" site="olympusat.com" site_id="650##2017/02/UntamedSportsN_Logo-145x48" xmltv_id="Untamed Sports">Untamed Sports</channel>
+  </channels>
+</site>

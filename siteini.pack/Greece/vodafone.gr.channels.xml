@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.1 -- Jan van Straaten" site="vodafone.gr">
+  <channels>
+    <channel update="i" site="vodafone.gr" site_id="119" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel update="i" site="vodafone.gr" site_id="104" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
+    <channel update="i" site="vodafone.gr" site_id="148" xmltv_id="SKY NEWS">SKY NEWS</channel>
+    <channel update="i" site="vodafone.gr" site_id="149" xmltv_id="FRANCE 24 FR">FRANCE 24 FR</channel>
+    <channel update="i" site="vodafone.gr" site_id="103" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+    <channel update="i" site="vodafone.gr" site_id="132" xmltv_id="AL JAZEERA">AL JAZEERA</channel>
+    <channel update="i" site="vodafone.gr" site_id="150" xmltv_id="RT">RT</channel>
+    <channel update="i" site="vodafone.gr" site_id="157" xmltv_id="NHK WORLD">NHK WORLD</channel>
+    <channel update="i" site="vodafone.gr" site_id="376" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="vodafone.gr" site_id="700" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="vodafone.gr" site_id="159" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="vodafone.gr" site_id="380" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="vodafone.gr" site_id="382" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="vodafone.gr" site_id="152" xmltv_id="DISCOVERY TLC">DISCOVERY TLC</channel>
+    <channel update="i" site="vodafone.gr" site_id="109" xmltv_id="FOOD NETWORK">FOOD NETWORK</channel>
+    <channel update="i" site="vodafone.gr" site_id="162" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel update="i" site="vodafone.gr" site_id="161" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+    <channel update="i" site="vodafone.gr" site_id="87" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel update="i" site="vodafone.gr" site_id="158" xmltv_id="TRAVEL CHANNEL">TRAVEL CHANNEL</channel>
+    <channel update="i" site="vodafone.gr" site_id="100" xmltv_id="HISTORY CHANNEL">HISTORY CHANNEL</channel>
+    <channel update="i" site="vodafone.gr" site_id="147" xmltv_id="IDX">IDX</channel>
+    <channel update="i" site="vodafone.gr" site_id="145" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel update="i" site="vodafone.gr" site_id="163" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel update="i" site="vodafone.gr" site_id="151" xmltv_id="RT DOC">RT DOC</channel>
+    <channel update="i" site="vodafone.gr" site_id="154" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel update="i" site="vodafone.gr" site_id="514" xmltv_id="DISNEY-XD">DISNEY-XD</channel>
+    <channel update="i" site="vodafone.gr" site_id="160" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel update="i" site="vodafone.gr" site_id="512" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="vodafone.gr" site_id="1" xmltv_id="NOVASPORTS1HD">NOVASPORTS1HD</channel>
+    <channel update="i" site="vodafone.gr" site_id="2" xmltv_id="NOVASPORTS2HD">NOVASPORTS2HD</channel>
+    <channel update="i" site="vodafone.gr" site_id="10003" xmltv_id="NOVASPORTS3HD">NOVASPORTS3HD</channel>
+    <channel update="i" site="vodafone.gr" site_id="10004" xmltv_id="NOVASPORTS4HD">NOVASPORTS4HD</channel>
+    <channel update="i" site="vodafone.gr" site_id="10005" xmltv_id="NOVASPORTS5HD">NOVASPORTS5HD</channel>
+    <channel update="i" site="vodafone.gr" site_id="10006" xmltv_id="NOVASPORTS24HD">NOVASPORTS24HD</channel>
+    <channel update="i" site="vodafone.gr" site_id="10008" xmltv_id="EUROSPORT1">EUROSPORT1</channel>
+    <channel update="i" site="vodafone.gr" site_id="10009" xmltv_id="EUROSPORT2">EUROSPORT2</channel>
+    <channel update="i" site="vodafone.gr" site_id="383" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel update="i" site="vodafone.gr" site_id="90" xmltv_id="EXTREME TV">EXTREME TV</channel>
+    <channel update="i" site="vodafone.gr" site_id="10015" xmltv_id="Insight TV">Insight TV</channel>
+    <channel update="i" site="vodafone.gr" site_id="153" xmltv_id="NAUTICAL CHANNEL">NAUTICAL CHANNEL</channel>
+    <channel update="i" site="vodafone.gr" site_id="386" xmltv_id="FUEL TV">FUEL TV</channel>
+    <channel update="i" site="vodafone.gr" site_id="101" xmltv_id="FASHION TV">FASHION TV</channel>
+    <channel update="i" site="vodafone.gr" site_id="381" xmltv_id="LUXE TV">LUXE TV</channel>
+    <channel update="i" site="vodafone.gr" site_id="10012" xmltv_id="MAD TV">MAD TV</channel>
+    <channel update="i" site="vodafone.gr" site_id="10013" xmltv_id="MTV LIVE">MTV LIVE</channel>
+    <channel update="i" site="vodafone.gr" site_id="515" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="vodafone.gr" site_id="10019" xmltv_id="MEGA CHANNEL">MEGA CHANNEL</channel>
+    <channel update="i" site="vodafone.gr" site_id="10021" xmltv_id="MAD Pickup">MAD Pickup</channel>
+  </channels>
+</site>

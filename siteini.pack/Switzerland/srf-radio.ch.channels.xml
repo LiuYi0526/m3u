@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="srf-radio.ch">
+  <channels>
+    <channel update="i" site="srf-radio.ch" site_id="radio-srf-1" xmltv_id="SRF 1">SRF 1</channel>
+    <channel update="i" site="srf-radio.ch" site_id="radio-srf-2-kultur" xmltv_id="SRF 2 Kultur">SRF 2 Kultur</channel>
+    <channel update="i" site="srf-radio.ch" site_id="radio-srf-3" xmltv_id="SRF 3">SRF 3</channel>
+    <channel update="i" site="srf-radio.ch" site_id="radio-srf-4-news" xmltv_id="SRF 4 News">SRF 4 News</channel>
+    <channel update="i" site="srf-radio.ch" site_id="radio-srf-musikwelle" xmltv_id="SRF Musikwelle">SRF Musikwelle</channel>
+    <channel update="i" site="srf-radio.ch" site_id="radio-srf-virus" xmltv_id="Virus">Virus</channel>
+  </channels>
+</site>

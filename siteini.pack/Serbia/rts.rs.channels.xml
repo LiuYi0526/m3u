@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="rts.rs">
+  <channels>
+    <channel update="i" site="rts.rs" site_id="20/rts-1" xmltv_id="RTS 1">RTS 1</channel>
+    <channel update="i" site="rts.rs" site_id="21/rts-2" xmltv_id="RTS 2">RTS 2</channel>
+    <channel update="i" site="rts.rs" site_id="255/rts-3" xmltv_id="RTS 3">RTS 3</channel>
+    <channel update="i" site="rts.rs" site_id="22/rts-svet" xmltv_id="RTS Svet">RTS Svet</channel>
+    <channel update="i" site="rts.rs" site_id="3110/rts-nauka" xmltv_id="RTS Nauka">RTS Nauka</channel>
+    <channel update="i" site="rts.rs" site_id="2682/rts-drama" xmltv_id="RTS Drama">RTS Drama</channel>
+    <channel update="i" site="rts.rs" site_id="2688/rts-zivot" xmltv_id="RTS Život">RTS Život</channel>
+    <channel update="i" site="rts.rs" site_id="2694/rts-kolo" xmltv_id="RTS Kolo">RTS Kolo</channel>
+    <channel update="i" site="rts.rs" site_id="2700/rts-trezor" xmltv_id="RTS Trezor">RTS Trezor</channel>
+    <channel update="i" site="rts.rs" site_id="2706/rts-muzika" xmltv_id="RTS Muzika">RTS Muzika</channel>
+    <channel update="i" site="rts.rs" site_id="2712/rts-poletarac" xmltv_id="RTS Poletarac">RTS Poletarac</channel>
+  </channels>
+</site>

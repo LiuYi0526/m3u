@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="awilime.com">
+  <channels>
+    <channel update="i" site="awilime.com" site_id="rtl_klub" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="awilime.com" site_id="tv2" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="awilime.com" site_id="film" xmltv_id="film+">film+</channel>
+    <channel update="i" site="awilime.com" site_id="cool" xmltv_id="Cool">Cool</channel>
+    <channel update="i" site="awilime.com" site_id="mozi" xmltv_id="Mozi+">Mozi+</channel>
+    <channel update="i" site="awilime.com" site_id="supertv2" xmltv_id="SuperTV2">SuperTV2</channel>
+    <channel update="i" site="awilime.com" site_id="duna_televizio" xmltv_id="Duna Televízió">Duna Televízió</channel>
+    <channel update="i" site="awilime.com" site_id="m4_sport" xmltv_id="m4 sport">m4 sport</channel>
+    <channel update="i" site="awilime.com" site_id="bonumtv" xmltv_id="BonumTV">BonumTV</channel>
+    <channel update="i" site="awilime.com" site_id="budapest_europa_tv" xmltv_id="Budapest Európa TV">Budapest Európa TV</channel>
+    <channel update="i" site="awilime.com" site_id="comedy_central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="awilime.com" site_id="comedy_central_family" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel update="i" site="awilime.com" site_id="d1_tv" xmltv_id="D1 TV">D1 TV</channel>
+    <channel update="i" site="awilime.com" site_id="dikh_tv" xmltv_id="Dikh TV">Dikh TV</channel>
+    <channel update="i" site="awilime.com" site_id="duna_world" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="awilime.com" site_id="fem3" xmltv_id="FEM3">FEM3</channel>
+    <channel update="i" site="awilime.com" site_id="hatoscsatorna" xmltv_id="Hatoscsatorna">Hatoscsatorna</channel>
+    <channel update="i" site="awilime.com" site_id="pax_tv" xmltv_id="PAX TV">PAX TV</channel>
+    <channel update="i" site="awilime.com" site_id="prime" xmltv_id="Prime">Prime</channel>
+    <channel update="i" site="awilime.com" site_id="rtl_ii" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="awilime.com" site_id="tv2_comedy" xmltv_id="TV2 Comedy">TV2 Comedy</channel>
+    <channel update="i" site="awilime.com" site_id="viasat_3" xmltv_id="Viasat 3">Viasat 3</channel>
+    <channel update="i" site="awilime.com" site_id="viasat_6" xmltv_id="Viasat 6">Viasat 6</channel>
+    <channel update="i" site="awilime.com" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="awilime.com" site_id="atv_spirit" xmltv_id="ATV Spirit">ATV Spirit</channel>
+    <channel update="i" site="awilime.com" site_id="hir_tv" xmltv_id="hír TV">hír TV</channel>
+    <channel update="i" site="awilime.com" site_id="m1" xmltv_id="m1">m1</channel>
+    <channel update="i" site="awilime.com" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="awilime.com" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="awilime.com" site_id="cinemax" xmltv_id="CineMax">CineMax</channel>
+    <channel update="i" site="awilime.com" site_id="cinemax_2" xmltv_id="CineMax 2">CineMax 2</channel>
+    <channel update="i" site="awilime.com" site_id="epic_drama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="awilime.com" site_id="film_cafe" xmltv_id="Film Café">Film Café</channel>
+    <channel update="i" site="awilime.com" site_id="film_mania" xmltv_id="Film Mánia">Film Mánia</channel>
+    <channel update="i" site="awilime.com" site_id="film_now" xmltv_id="Film Now">Film Now</channel>
+    <channel update="i" site="awilime.com" site_id="film4" xmltv_id="FILM4">FILM4</channel>
+    <channel update="i" site="awilime.com" site_id="filmbox" xmltv_id="Filmbox">Filmbox</channel>
+    <channel update="i" site="awilime.com" site_id="filmbox_extra_hd" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
+    <channel update="i" site="awilime.com" site_id="filmbox_family" xmltv_id="Filmbox Family">Filmbox Family</channel>
+    <channel update="i" site="awilime.com" site_id="filmbox_premium" xmltv_id="Filmbox Prémium">Filmbox Prémium</channel>
+    <channel update="i" site="awilime.com" site_id="filmbox_stars" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel update="i" site="awilime.com" site_id="galaxy4" xmltv_id="GALAXY4">GALAXY4</channel>
+    <channel update="i" site="awilime.com" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="awilime.com" site_id="hbo_2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="awilime.com" site_id="hbo_3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="awilime.com" site_id="izaura_tv" xmltv_id="Izaura TV">Izaura TV</channel>
+    <channel update="i" site="awilime.com" site_id="jocky_tv" xmltv_id="Jocky TV">Jocky TV</channel>
+    <channel update="i" site="awilime.com" site_id="moziverzum" xmltv_id="Moziverzum">Moziverzum</channel>
+    <channel update="i" site="awilime.com" site_id="paramount_channel" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="awilime.com" site_id="rtl_gold" xmltv_id="RTL Gold">RTL Gold</channel>
+    <channel update="i" site="awilime.com" site_id="rtl_spike" xmltv_id="RTL Spike">RTL Spike</channel>
+    <channel update="i" site="awilime.com" site_id="rtl" xmltv_id="RTL+">RTL+</channel>
+    <channel update="i" site="awilime.com" site_id="sony_max" xmltv_id="Sony Max">Sony Max</channel>
+    <channel update="i" site="awilime.com" site_id="sony_movie_channel" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
+    <channel update="i" site="awilime.com" site_id="sorozat" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="awilime.com" site_id="story4" xmltv_id="STORY4">STORY4</channel>
+    <channel update="i" site="awilime.com" site_id="tv4" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="awilime.com" site_id="animal_planet_hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="awilime.com" site_id="cbs_reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="awilime.com" site_id="digi_animal_world" xmltv_id="DIGI Animal World">DIGI Animal World</channel>
+    <channel update="i" site="awilime.com" site_id="digi_life" xmltv_id="DIGI Life">DIGI Life</channel>
+    <channel update="i" site="awilime.com" site_id="digi_world" xmltv_id="DIGI World">DIGI World</channel>
+    <channel update="i" site="awilime.com" site_id="discovery_channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="awilime.com" site_id="discovery_hd_showcase" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="awilime.com" site_id="discovery_science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="awilime.com" site_id="discovery_turbo_xtra" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel update="i" site="awilime.com" site_id="fishing_and_hunting" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel update="i" site="awilime.com" site_id="history" xmltv_id="History">History</channel>
+    <channel update="i" site="awilime.com" site_id="history2" xmltv_id="History2">History2</channel>
+    <channel update="i" site="awilime.com" site_id="id_xtra" xmltv_id="ID Xtra">ID Xtra</channel>
+    <channel update="i" site="awilime.com" site_id="lichi_tv" xmltv_id="LiChi TV">LiChi TV</channel>
+    <channel update="i" site="awilime.com" site_id="lifetv" xmltv_id="LifeTV">LifeTV</channel>
+    <channel update="i" site="awilime.com" site_id="m5" xmltv_id="m5">m5</channel>
+    <channel update="i" site="awilime.com" site_id="national_geographic_hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="awilime.com" site_id="national_geographic_wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="awilime.com" site_id="ozonetv" xmltv_id="OzoneTV">OzoneTV</channel>
+    <channel update="i" site="awilime.com" site_id="spektrum_hd" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="awilime.com" site_id="spektrum_home" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel update="i" site="awilime.com" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="awilime.com" site_id="tv_paprika" xmltv_id="tv paprika">tv paprika</channel>
+    <channel update="i" site="awilime.com" site_id="viasat_explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="awilime.com" site_id="viasat_history" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="awilime.com" site_id="viasat_nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="awilime.com" site_id="arena4" xmltv_id="Arena4">Arena4</channel>
+    <channel update="i" site="awilime.com" site_id="digi_sport_1" xmltv_id="DIGI Sport 1">DIGI Sport 1</channel>
+    <channel update="i" site="awilime.com" site_id="digi_sport_2" xmltv_id="DIGI Sport 2">DIGI Sport 2</channel>
+    <channel update="i" site="awilime.com" site_id="digi_sport_3" xmltv_id="DIGI Sport 3">DIGI Sport 3</channel>
+    <channel update="i" site="awilime.com" site_id="eurosport_1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="awilime.com" site_id="eurosport_2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="awilime.com" site_id="spiler1_tv" xmltv_id="Spíler1 TV">Spíler1 TV</channel>
+    <channel update="i" site="awilime.com" site_id="spiler2_tv" xmltv_id="Spíler2 TV">Spíler2 TV</channel>
+    <channel update="i" site="awilime.com" site_id="sport_1" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="awilime.com" site_id="sport_2" xmltv_id="Sport 2">Sport 2</channel>
+    <channel update="i" site="awilime.com" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="awilime.com" site_id="cartoon_network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="awilime.com" site_id="disney_csatorna" xmltv_id="Disney Csatorna">Disney Csatorna</channel>
+    <channel update="i" site="awilime.com" site_id="duck_tv_hd" xmltv_id="Duck TV HD">Duck TV HD</channel>
+    <channel update="i" site="awilime.com" site_id="duck_tv_sd" xmltv_id="Duck TV SD">Duck TV SD</channel>
+    <channel update="i" site="awilime.com" site_id="jim_jam" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="awilime.com" site_id="m2" xmltv_id="m2">m2</channel>
+    <channel update="i" site="awilime.com" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="awilime.com" site_id="nick_jr" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="awilime.com" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="awilime.com" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="awilime.com" site_id="tv2_kids" xmltv_id="TV2 Kids">TV2 Kids</channel>
+    <channel update="i" site="awilime.com" site_id="hit_music_channel" xmltv_id="H!T Music Channel">H!T Music Channel</channel>
+    <channel update="i" site="awilime.com" site_id="mtv_music_television" xmltv_id="MTV Music Television">MTV Music Television</channel>
+    <channel update="i" site="awilime.com" site_id="music_channel" xmltv_id="Music Channel">Music Channel</channel>
+    <channel update="i" site="awilime.com" site_id="muzsika_tv" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="awilime.com" site_id="slager_tv" xmltv_id="Sláger TV">Sláger TV</channel>
+    <channel update="i" site="awilime.com" site_id="zenebutik" xmltv_id="Zenebutik">Zenebutik</channel>
+  </channels>
+</site>

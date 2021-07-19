@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="tv.blue.ch">
+  <channels>
+    <channel update="i" site="tv.blue.ch" site_id="1221##c1a69c87-3920-3200-7048-4ea5d91389cc" xmltv_id="blue Zoom D">blue Zoom D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="399##74f9021a-675e-4cfe-b46e-fcaa495a0676" xmltv_id="SRF 1">SRF 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="401##d5156e2e-bb98-423e-a46e-589ac75dac29" xmltv_id="SRF zwei">SRF zwei</channel>
+    <channel update="i" site="tv.blue.ch" site_id="400##52404018-4781-4464-8d4c-a4e2f1c9deee" xmltv_id="SRF info">SRF info</channel>
+    <channel update="i" site="tv.blue.ch" site_id="25##03487477-8e1c-47bb-8010-f4ea7a93790e" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="tv.blue.ch" site_id="656##dc2170b1-c35c-46ee-9fbd-871d13dbd0e6" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tv.blue.ch" site_id="303##f2c746f0-67cc-492c-ace7-7a022a43b1c8" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="360##bb90dc61-2607-4c93-95a6-7f64d4d3efdf" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tv.blue.ch" site_id="322##d1cd8b9b-5572-4686-bc5c-72ed5d9c39be" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="tv.blue.ch" site_id="375##ae66c5a2-83fe-41e6-9f14-e3ac09218dc1" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="4##f10f900d-5192-41a3-a2fd-03cf36541635" xmltv_id="3+">3+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="325##00f349bf-887d-4d6d-987e-c58d78dca6a1" xmltv_id="Puls 8">Puls 8</channel>
+    <channel update="i" site="tv.blue.ch" site_id="634##26b2482f-3b5c-404e-bb68-a38a64174709" xmltv_id="TV24">TV24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="7##2fe7726a-41ed-4d5b-ba2f-7828f4bfe9b7" xmltv_id="4+">4+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="8##9af06b44-56f5-488e-863e-d33f9645e6b8" xmltv_id="5+">5+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="665##f62eadbf-60e4-4273-86a8-0d06bfbd0b29" xmltv_id="TV25">TV25</channel>
+    <channel update="i" site="tv.blue.ch" site_id="374##eeaa0068-125b-4da5-811a-aea3ffee154a" xmltv_id="S1">S1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1469##827677bf-bf83-2300-7048-bdbaa361d067" xmltv_id="6+">6+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1223##f64c8cbd-e025-3200-7048-bb6e332cab2e" xmltv_id="SWISS1">SWISS1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="405##2bc30a08-d8a4-4d09-9c53-6610fa331d1c" xmltv_id="Star TV">Star TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="651##763e3d18-7902-43f1-8d2c-f31a6f6bd98b" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="tv.blue.ch" site_id="359##5cb2da08-efd2-4ea2-96a2-0db7f79e8b29" xmltv_id="RTL ZWEI">RTL ZWEI</channel>
+    <channel update="i" site="tv.blue.ch" site_id="302##79c40755-71fc-4736-abdf-d763420bd830" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="27##2690d323-7b14-4964-80b9-8844f46bcda6" xmltv_id="Arte Deutsch">Arte Deutsch</channel>
+    <channel update="i" site="tv.blue.ch" site_id="6##d4cfab21-5cd9-46b5-998e-e2b5de92e696" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="tv.blue.ch" site_id="226##47057ee0-cc86-4dee-8c21-16ef9e693df0" xmltv_id="Kabel eins">Kabel eins</channel>
+    <channel update="i" site="tv.blue.ch" site_id="136##5bc6879a-25af-452b-bb0b-692677ae207b" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="tv.blue.ch" site_id="585##0c715945-e47e-4b79-a7bf-be70077977d3" xmltv_id="TeleZüri">TeleZüri</channel>
+    <channel update="i" site="tv.blue.ch" site_id="570##1c6ed4b9-23a0-4752-b923-d0d0f9b6261e" xmltv_id="Tele 1">Tele 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="572##57283b95-dbf4-4b05-ad98-75c47c568ccc" xmltv_id="Tele Bärn">Tele Bärn</channel>
+    <channel update="i" site="tv.blue.ch" site_id="575##0bac5403-c6c0-4f56-8595-3d914257e1af" xmltv_id="Tele M1">Tele M1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="586##84437d77-7146-4a03-a1dc-c607fb35decb" xmltv_id="Telebasel">Telebasel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="641##fe37a838-453c-4b3a-a8fe-adfa4e4da47a" xmltv_id="TVO">TVO</channel>
+    <channel update="i" site="tv.blue.ch" site_id="579##438f4630-a31c-49d2-9cdc-727e466e0822" xmltv_id="Tele Top">Tele Top</channel>
+    <channel update="i" site="tv.blue.ch" site_id="621##a5670e30-2dbc-49ea-9160-c2388ea3f827" xmltv_id="TV Südostschweiz">TV Südostschweiz</channel>
+    <channel update="i" site="tv.blue.ch" site_id="583##d4deeaf2-0b9f-41e9-8f74-55f2b07a0357" xmltv_id="Tele Z">Tele Z</channel>
+    <channel update="i" site="tv.blue.ch" site_id="227##4d81e91f-4196-4000-9c9d-4b03e4483762" xmltv_id="Kanal 9">Kanal 9</channel>
+    <channel update="i" site="tv.blue.ch" site_id="573##29b29cde-5a5c-49af-8371-3bf4b0441aca" xmltv_id="Tele Bielingue">Tele Bielingue</channel>
+    <channel update="i" site="tv.blue.ch" site_id="382##3331fda4-03e0-4612-a982-f7530cdefdbd" xmltv_id="SHf - Schaffhauser Fernsehen">SHf - Schaffhauser Fernsehen</channel>
+    <channel update="i" site="tv.blue.ch" site_id="414##2ccd00fc-77e0-45bd-a6c4-c94ee1a900bc" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="tv.blue.ch" site_id="659##78695dfd-508a-431e-a146-daf1c374ed12" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel update="i" site="tv.blue.ch" site_id="55##f2b57c15-10d5-4300-892c-0ce08a092ab7" xmltv_id="BR">BR</channel>
+    <channel update="i" site="tv.blue.ch" site_id="381##7e0384dd-cd58-48bf-a3b1-192b4740923e" xmltv_id="Servus TV">Servus TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="654##b018f622-e453-4629-9a0e-f06080e21bfe" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="tv.blue.ch" site_id="286##c83c5302-776b-48fb-a9b6-0a344825beb1" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="tv.blue.ch" site_id="256##1dec385a-163f-4664-bd14-a25bbeb1ce39" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="tv.blue.ch" site_id="205##63ee71dc-e994-4b47-98ca-8837174eb699" xmltv_id="HR">HR</channel>
+    <channel update="i" site="tv.blue.ch" site_id="342##1e9a704c-452c-4890-a8a4-ae004e8cc66d" xmltv_id="RBB">RBB</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1222##92ed5454-2534-3200-7048-90019f4c9967" xmltv_id="ORF 3">ORF 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1502##1406e1cd-b03f-6300-7048-518994b1b9a1" xmltv_id="SR Fernsehen">SR Fernsehen</channel>
+    <channel update="i" site="tv.blue.ch" site_id="326##de1cd69a-a1f6-43a3-a6b6-09c8880b9bef" xmltv_id="R9 Österreich">R9 Österreich</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1770##71f78604-8dc8-2010-7048-cc7e8c8ffef0" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tv.blue.ch" site_id="32##36dce47c-88fd-0300-7048-788ed22b67fe" xmltv_id="Sony AXN">Sony AXN</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1399##bfcba137-d47a-1300-7048-2d2b17539b71" xmltv_id="Kinowelt">Kinowelt</channel>
+    <channel update="i" site="tv.blue.ch" site_id="181##4507e5da-2db1-0300-7048-2ffbe0b6f956" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="tv.blue.ch" site_id="361##6767ed9a-2db1-0300-7048-2ffbe0b6f912" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="tv.blue.ch" site_id="305##2ac8ad1e-2db1-0300-7048-2ffbe0b6f970" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1389##7f85e03b-c53a-1300-7048-918d11ae61b3" xmltv_id="kabel eins CLASSICS">kabel eins CLASSICS</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1635##2397072e-f525-0010-7048-99b3309d7f47" xmltv_id="Eurochannel D">Eurochannel D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1216##49bb688b-ff93-2e00-7048-d8d59d805fb5" xmltv_id="Auftanken TV">Auftanken TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="363##b8eddcf5-0b71-467f-a934-ee6625f1f732" xmltv_id="Nitro">Nitro</channel>
+    <channel update="i" site="tv.blue.ch" site_id="385##9447ecf0-d9fc-4296-8e90-fa45c64bf4c7" xmltv_id="sixx">sixx</channel>
+    <channel update="i" site="tv.blue.ch" site_id="323##75eeefd9-dacc-46cb-a6f9-7946cfc9c379" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel update="i" site="tv.blue.ch" site_id="377##ba80795b-99d6-4086-b1f2-a041fffc7558" xmltv_id="SAT.1 GOLD">SAT.1 GOLD</channel>
+    <channel update="i" site="tv.blue.ch" site_id="919##a553a4f2-ff63-5200-7048-d8d59d805f80" xmltv_id="RTL Plus">RTL Plus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="571##f10a182e-5fa3-4947-b198-1efc3e650197" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="147##2e7f701f-3cff-4b9d-a914-797b68ad31f2" xmltv_id="One">One</channel>
+    <channel update="i" site="tv.blue.ch" site_id="110##21978e0a-516d-454d-bc5f-643db9c577a0" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tv.blue.ch" site_id="24##089e0fb2-736b-4b8c-b757-756925af3454" xmltv_id="Anixe">Anixe</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1612##bac71f88-9dd0-0010-7048-2f0d374470ec" xmltv_id="VOXup">VOXup</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1254##f6bfd462-e4dc-0300-7048-8706990b6804" xmltv_id="eo TV">eo TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="920##fa2d85fe-bf6f-1200-7048-bdbaa361d0b5" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
+    <channel update="i" site="tv.blue.ch" site_id="396##632139da-2d35-0300-7048-2ffbe0b6f9e8" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel update="i" site="tv.blue.ch" site_id="278##fec0b19a-2d35-0300-7048-2ffbe0b6f99a" xmltv_id="National Geographic D">National Geographic D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="362##8a97ed1e-2db1-0300-7048-2ffbe0b6f970" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1409##584bfb81-ff68-2300-7048-d8d59d805f5e" xmltv_id="doxx">doxx</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1616##8504b4a4-9d18-4010-7048-96b17a6f4874" xmltv_id="auto motor und sport">auto motor und sport</channel>
+    <channel update="i" site="tv.blue.ch" site_id="655##72688699-d81c-4e75-8f2a-388c4afdd7be" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1272##5fc74826-41e9-0300-7048-9ceb3de29559" xmltv_id="Wetter.TV">Wetter.TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1468##a33fbf37-bfc3-2300-7048-bdbaa361d0b0" xmltv_id="Televista">Televista</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1325##d97f3b8f-e945-5300-7048-a2f3b8cf3b18" xmltv_id="Session National Council">Session National Council</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1326##54b084df-e945-5300-7048-a2f3b8cf3be4" xmltv_id="Session Council Of States">Session Council Of States</channel>
+    <channel update="i" site="tv.blue.ch" site_id="277##78e28570-604e-4cba-801f-051ed80445db" xmltv_id="WELT">WELT</channel>
+    <channel update="i" site="tv.blue.ch" site_id="658##de4dd900-ebbe-4aac-a0ad-d47d1bd8bcb7" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="tv.blue.ch" site_id="297##d087fda5-7dbc-47d6-b17d-4babf3977ac9" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="tv.blue.ch" site_id="307##5878b02d-c5f3-4723-b040-0eb7a154cee9" xmltv_id="Phoenix TV">Phoenix TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1030##add287ac-bf2c-2200-7048-bdbaa361d089" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="tv.blue.ch" site_id="26##01584882-d700-4112-9e34-37419fecd153" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel update="i" site="tv.blue.ch" site_id="163##314e9a14-a608-449e-8181-f66e55fa40dd" xmltv_id="Euronews D">Euronews D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="417##6b61c277-54f2-470a-b724-3d986458cf52" xmltv_id="Tagesschau24">Tagesschau24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1447##0a8d9034-34e1-6300-7048-0d2396a54248" xmltv_id="DW Deutsch">DW Deutsch</channel>
+    <channel update="i" site="tv.blue.ch" site_id="669##327d8b02-24bf-4ee6-9baa-f8910efe69d7" xmltv_id="UHD1 by ASTRA">UHD1 by ASTRA</channel>
+    <channel update="i" site="tv.blue.ch" site_id="143##ff2b4b4a-12ff-46f5-a363-b046fd24b402" xmltv_id="E! Entertainment Deutschland">E! Entertainment Deutschland</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1569##dc84512a-283e-b300-7048-5ba463768431" xmltv_id="BonGusto">BonGusto</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1783##98400495-ff49-2010-7048-dcc8c51e1f92" xmltv_id="auto motor sport">auto motor sport</channel>
+    <channel update="i" site="tv.blue.ch" site_id="607##0efbb534-239e-46dc-a5e4-3b216d02a53a" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tv.blue.ch" site_id="100##7651ada0-9b31-410b-a8e7-2c2257c8d100" xmltv_id="CCONE">CCONE</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1510##47ce2ce7-d80d-b300-7048-d8bae14495a6" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="167##cc61d18e-348e-4b48-bdbb-c9a95d63193f" xmltv_id="Eurosport 1 D">Eurosport 1 D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="170##0b2e9a23-91bb-4e20-87c9-ddbf12532b6e" xmltv_id="Eurosport 2 D">Eurosport 2 D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="398##4b59eb3a-2aca-4939-809f-74d4d5a8da1a" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1033##3185316e-ff20-6200-7048-d8d59d805feb" xmltv_id="Sky Sport News">Sky Sport News</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1601##0dc62497-2093-7300-7048-d1a01246623a" xmltv_id="Swiss Sport TV">Swiss Sport TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1224##c62a9535-e065-3200-7048-bb6e332cabf5" xmltv_id="Game TV">Game TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1406##372cfe3e-dc13-5300-7048-480df34bf8bb" xmltv_id="ES1">ES1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1408##2a39ec21-41c0-2300-7048-3d048aee7d89" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1626##51761bca-0855-0010-7048-c727c8766d25" xmltv_id="ducktv">ducktv</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1605##011f7b37-bfc3-2300-7048-bdbaa361d0cb" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1792##78ad5b70-3c22-2010-7048-1fe72ba8f97d" xmltv_id="Fix &amp; Foxi TV">Fix &amp; Foxi TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="411##e4bd5149-19ad-44c1-a93a-f1dc7ee64d50" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="tv.blue.ch" site_id="128##8cd63a84-9be5-498a-9562-270d746d2390" xmltv_id="Disney Channel D">Disney Channel D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="228##60ef00ec-dd67-4f52-9e53-14cad1666fe1" xmltv_id="KiKa">KiKa</channel>
+    <channel update="i" site="tv.blue.ch" site_id="289##6bd38cba-76e7-437c-bce8-b82d10b681b0" xmltv_id="Nick">Nick</channel>
+    <channel update="i" site="tv.blue.ch" site_id="918##2d53a4f2-ff63-5200-7048-d8d59d805f80" xmltv_id="Toggo Plus">Toggo Plus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="350##82e3bf2b-efe7-438b-ba89-b79dd3e6cf13" xmltv_id="RIC TV">RIC TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="630##b2bcb8cb-9234-49d1-a9d2-44fec961ee6f" xmltv_id="TV Rheintal">TV Rheintal</channel>
+    <channel update="i" site="tv.blue.ch" site_id="378##56cb7797-0fe5-4985-83fe-1b723b62c8f5" xmltv_id="Schweiz 5">Schweiz 5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="628##b03c6876-613c-436c-92dd-91ef9fdab8d7" xmltv_id="TV Oberwallis">TV Oberwallis</channel>
+    <channel update="i" site="tv.blue.ch" site_id="584##378c4722-3092-440f-9fa5-817560e9a6db" xmltv_id="Tele Zentralschweiz">Tele Zentralschweiz</channel>
+    <channel update="i" site="tv.blue.ch" site_id="49##c58dbea2-62bd-4b2e-9cca-5fea0bc75f8f" xmltv_id="Bodensee TV">Bodensee TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="574##880e3991-df82-4acd-9cca-3e8b76d3c8a4" xmltv_id="Tele D">Tele D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="904##0153a4f2-ff63-5200-7048-d8d59d805f7e" xmltv_id="regioTVplus">regioTVplus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1466##7f3cc105-596a-6300-7048-2eee064afb1b" xmltv_id="Rheinwelten TV">Rheinwelten TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1444##007219cc-34a1-2300-7048-0d2396a54263" xmltv_id="St. Moritz ENJY TV">St. Moritz ENJY TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1027##8a324df1-bfd0-2200-7048-bdbaa361d077" xmltv_id="Loly TV">Loly TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="116##4b2ae4d4-0e71-42fb-9575-55a46d86776e" xmltv_id="Info TV Davos Klosters">Info TV Davos Klosters</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1377##228037f6-00a2-1300-7048-690854190e08" xmltv_id="ALF-TV">ALF-TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1504##d84fff37-bfc3-2300-7048-bdbaa361d040" xmltv_id="TV Central">TV Central</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1269##635205d2-7951-4300-7048-2cad884d5051" xmltv_id="TV4TNG">TV4TNG</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1784##d0d83e0e-49cd-2010-7048-40fb83770139" xmltv_id="rrotv">rrotv</channel>
+    <channel update="i" site="tv.blue.ch" site_id="255##e5849c80-7ca7-45eb-bcca-c9961d4462e8" xmltv_id="MCM Top">MCM Top</channel>
+    <channel update="i" site="tv.blue.ch" site_id="258##4db2c276-6421-4bb1-99b9-1c64a83ac41f" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="tv.blue.ch" site_id="647##b9c8d814-7cba-46b0-9935-2b15b73418b9" xmltv_id="Video Italia TV">Video Italia TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1079##80c1b19e-2d35-0300-7048-2ffbe0b6f979" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="tv.blue.ch" site_id="616##1671315e-2d35-0300-7048-2ffbe0b6f9c9" xmltv_id="Trace Caribbean">Trace Caribbean</channel>
+    <channel update="i" site="tv.blue.ch" site_id="211##573b060b-35e6-45ef-9e62-6f8315826a69" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
+    <channel update="i" site="tv.blue.ch" site_id="120##d0e85185-b50c-45a2-9e7f-c23b45ce9234" xmltv_id="Deluxe Music">Deluxe Music</channel>
+    <channel update="i" site="tv.blue.ch" site_id="102##25dd9bc3-f6d7-4faa-9047-d21ad8aa981f" xmltv_id="Stingray Classica D">Stingray Classica D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="103##bb69e4a3-199d-4ba4-a7b9-c1ffb74fe78c" xmltv_id="Stingray Classica F">Stingray Classica F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1606##28c97055-4493-2300-7048-fbc1c1eacd48" xmltv_id="Stingray djazz">Stingray djazz</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1541##dadf7b49-a152-b300-7048-501a95af2788" xmltv_id="Mezzo Live">Mezzo Live</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1257##c124aebf-4870-8300-7048-87e4a6e40f3a" xmltv_id="Stingray Festival 4K">Stingray Festival 4K</channel>
+    <channel update="i" site="tv.blue.ch" site_id="104##3281ba76-3f15-4015-805b-63f01c51756f" xmltv_id="Stingray Classica I">Stingray Classica I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1786##50f99a32-44c2-6010-7048-8ee270ff77e7" xmltv_id="Goldstar TV">Goldstar TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="18##1bdc808b-5fdc-4cd2-8bbf-c761350f3851" xmltv_id="Alpenland TV">Alpenland TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="246##9485af5b-2e9a-46db-9c20-1351df470e64" xmltv_id="lfm TV">lfm TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="275##a6ae9d90-8a8a-494f-a8f3-4cef02ebeb5d" xmltv_id="musig24">musig24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="640##8693ea86-340d-47e0-b890-7080208a1ac3" xmltv_id="TVM3">TVM3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="301##ba8cc570-81c7-4766-9a35-dc3750044d2b" xmltv_id="One TV">One TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="308##baaa0959-ccf1-4dfc-9b76-7251f7f2a64a" xmltv_id="Pilatus Beatz">Pilatus Beatz</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1337##f9f976e6-518e-1300-7048-2d660e9b3f4c" xmltv_id="LATINOS 1">LATINOS 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="268##75ed46d5-66b7-4c06-8f64-06a17290b347" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="114##5e31d528-4e70-4a14-9cbc-6ada39211137" xmltv_id="CSTAR">CSTAR</channel>
+    <channel update="i" site="tv.blue.ch" site_id="266##31e8e938-9489-4600-9a79-1f7e1bc206c6" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="tv.blue.ch" site_id="118##f735054d-a20b-4045-8464-74b9e0b1ad1f" xmltv_id="NOVE">NOVE</channel>
+    <channel update="i" site="tv.blue.ch" site_id="604##3076fe02-3bb6-45da-a1a9-17b87a8aae6b" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="tv.blue.ch" site_id="17##45d9c768-4044-4768-b90a-cad5ac0cb2b8" xmltv_id="Deluxe Music">Deluxe Music</channel>
+    <channel update="i" site="tv.blue.ch" site_id="94##fa89b6a1-73c6-4733-9e45-5bfb4170b56e" xmltv_id="Now 90s">Now 90s</channel>
+    <channel update="i" site="tv.blue.ch" site_id="121##3392a9a9-5d49-48f2-a990-e059a800e78e" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel update="i" site="tv.blue.ch" site_id="105##96ffc129-1602-4a1b-9acb-0d0ffb0392fa" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="230##531c859d-d5cb-43eb-b252-d9a24267d479" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1499##35d0fc01-b0fb-6300-7048-518994b1b9a6" xmltv_id="Radionorba TV">Radionorba TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1489##1c4fff37-bfc3-2300-7048-bdbaa361d042" xmltv_id="RTL 102.5 TV">RTL 102.5 TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="391##6e9a4840-5185-496d-80eb-741084b3ec0a" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="tv.blue.ch" site_id="91##78edcf79-0ac1-4fe4-95cf-5b65f43eb50c" xmltv_id="Trace Xmas">Trace Xmas</channel>
+    <channel update="i" site="tv.blue.ch" site_id="180##c399b2ba-76a3-43da-a9e6-30fe03b97c15" xmltv_id="folx.tv">folx.tv</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1376##f0bf2fb6-00a2-1300-7048-690854190e4c" xmltv_id="MelodieTV">MelodieTV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="194##18360400-7bc8-4876-b849-47b99c9ea7a7" xmltv_id="gotv">gotv</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1641##0a720bb2-fd56-0410-7048-a79d764cc747" xmltv_id="Deejay TV">Deejay TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1253##4aa5ff30-956b-3200-7048-d0158b774533" xmltv_id="VH1 Italy">VH1 Italy</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1716##718ecc0e-4192-1010-7048-c599eac62d67" xmltv_id="Now 70s">Now 70s</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1715##72295e73-5115-1010-7048-31182ec44d8a" xmltv_id="Now 80s">Now 80s</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1714##0034ed85-251a-1010-7048-3bc17a9fcfb3" xmltv_id="Schlager Deluxe">Schlager Deluxe</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1766##96e24525-70a6-1010-7048-873622c4ebfc" xmltv_id="Volksmusik.TV">Volksmusik.TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1788##9b53f8a8-ff12-6010-7048-dcc8c51e1f5d" xmltv_id="culturebox">culturebox</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1790##d4f049f0-ff92-2010-7048-dcc8c51e1fa9" xmltv_id="One Music Television">One Music Television</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1791##02810534-ff92-2010-7048-dcc8c51e1f35" xmltv_id="Zwei Music Television">Zwei Music Television</channel>
+    <channel update="i" site="tv.blue.ch" site_id="44##6e445423-bcfe-4acd-98ea-72a066b627e9" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="233##05ddf1c2-fcab-4be9-a6f1-9771a09b414a" xmltv_id="K-TV">K-TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="204##376aa2eb-3ed6-4d0d-9a33-4f0df9835338" xmltv_id="Hope Channel">Hope Channel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1040##50b434a5-bfd1-2200-7048-bdbaa361d084" xmltv_id="Helvetia One TV">Helvetia One TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1724##2f2ef1fe-ff15-0010-7048-d8d59d805f8a" xmltv_id="Premium Shopping">Premium Shopping</channel>
+    <channel update="i" site="tv.blue.ch" site_id="207##78bed0fa-f7de-40c7-9941-c7ad19eee5cb" xmltv_id="HSE 24">HSE 24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="588##bf83ffb5-8bf0-4b29-8e9c-6ff1ea1e5a3c" xmltv_id="blue Prime">blue Prime</channel>
+    <channel update="i" site="tv.blue.ch" site_id="591##18c5e279-b749-4736-8969-372e9165a1b5" xmltv_id="blue Action">blue Action</channel>
+    <channel update="i" site="tv.blue.ch" site_id="589##123e1d58-411c-49e9-9852-90c883ac38bb" xmltv_id="blue Stars">blue Stars</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1225##9cde798c-7dfd-1300-7048-5b442209c523" xmltv_id="blue City">blue City</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1226##a52dc8d7-002a-1300-7048-690854190e3b" xmltv_id="blue Retro">blue Retro</channel>
+    <channel update="i" site="tv.blue.ch" site_id="610##95cc711f-9983-4420-8f58-05af04bdaa73" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="tv.blue.ch" site_id="354##b64585e7-37da-441d-b7bb-161025602e4e" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1451##0fc0a1ee-e5a9-2300-7048-5a949f9cc357" xmltv_id="blue Prime X">blue Prime X</channel>
+    <channel update="i" site="tv.blue.ch" site_id="2##5ccdae4a-d41e-4ff4-9b0f-760ba6625259" xmltv_id="13th Street">13th Street</channel>
+    <channel update="i" site="tv.blue.ch" site_id="612##1b8d8184-1da8-4b17-8acb-64c884aacead" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel update="i" site="tv.blue.ch" site_id="611##d3728d39-02a9-435b-bb57-d79169a7c11e" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="tv.blue.ch" site_id="415##897d1a0c-174f-42eb-94f3-6d851d96e054" xmltv_id="Syfy D">Syfy D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1124##98362b2d-bfb6-6600-7048-bdbaa361d0a6" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1083##3df271a1-ff12-6600-7048-d8d59d805fc7" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1607##628bb89c-6140-4010-7048-039cb91d3263" xmltv_id="pro 7 fun">pro 7 fun</channel>
+    <channel update="i" site="tv.blue.ch" site_id="282##92a42f88-a472-4121-ad3a-9649b4c21cff" xmltv_id="National Geographic Wild D">National Geographic Wild D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="122##8b62b9ed-bd06-4599-a377-e0c6990eff8d" xmltv_id="Discovery Channel D">Discovery Channel D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="20##fb4887c1-91f1-4ac5-bc3f-da51b50e9299" xmltv_id="Animal Planet D">Animal Planet D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1334##a760be88-7d31-5300-7048-5b442209c5e3" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1333##c90f6688-7d31-5300-7048-5b442209c5cb" xmltv_id="GEO Television">GEO Television</channel>
+    <channel update="i" site="tv.blue.ch" site_id="203##7bfce0b1-f2d3-477f-a5b8-622a81b98b3a" xmltv_id="History">History</channel>
+    <channel update="i" site="tv.blue.ch" site_id="395##57a7d566-81ac-41af-8e82-c567c58386fc" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel update="i" site="tv.blue.ch" site_id="54##a2d70376-224f-4ee6-abf7-b05a27e3ca6e" xmltv_id="Boomerang D">Boomerang D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="131##ae140aa3-d97c-49b5-9e82-1f94d7abac86" xmltv_id="Disney Junior D">Disney Junior D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="83##e1c70408-8a21-4295-b44e-a2ba6d6e999d" xmltv_id="Cartoon Network D">Cartoon Network D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="224##dc534145-5e2d-47a3-aebf-51d3438d6443" xmltv_id="Junior">Junior</channel>
+    <channel update="i" site="tv.blue.ch" site_id="664##420069dd-7493-4aa4-aa3f-d619b513aca8" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="tv.blue.ch" site_id="483##87327ea5-eb60-4e86-8a6b-8583e177592d" xmltv_id="blue Sport 1">blue Sport 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="494##64efa4d4-970e-460d-9136-8ba6af04f1f5" xmltv_id="blue Sport 2">blue Sport 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="663##89eac34f-edb1-4519-9ee9-2e11e5625cfb" xmltv_id="blue Sport 3">blue Sport 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="511##e2b4f2d5-f906-4f3c-ad52-d185972da4cf" xmltv_id="blue Sport 4">blue Sport 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="512##20520046-251b-4c0f-874e-c52119831080" xmltv_id="blue Sport 5">blue Sport 5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="513##c4b80ec2-4b13-49bc-a28c-55f921c079ff" xmltv_id="blue Sport 6">blue Sport 6</channel>
+    <channel update="i" site="tv.blue.ch" site_id="514##7e60fce5-996c-446d-9162-43ff5805e357" xmltv_id="blue Sport 7">blue Sport 7</channel>
+    <channel update="i" site="tv.blue.ch" site_id="515##b130226c-be0b-49fd-ac50-ae1dda3b1d62" xmltv_id="blue Sport 8">blue Sport 8</channel>
+    <channel update="i" site="tv.blue.ch" site_id="516##ceeb53c4-1b86-4d22-917a-c2eabe48bff1" xmltv_id="blue Sport 9">blue Sport 9</channel>
+    <channel update="i" site="tv.blue.ch" site_id="484##172e42f9-2fec-441c-9080-bcc82b16f80a" xmltv_id="blue Sport 10">blue Sport 10</channel>
+    <channel update="i" site="tv.blue.ch" site_id="485##7d2e374e-fd32-49b5-bd71-da0fd9bd7010" xmltv_id="blue Sport 11">blue Sport 11</channel>
+    <channel update="i" site="tv.blue.ch" site_id="486##7e8cc5d8-5f57-48ae-b509-abad0bffcae1" xmltv_id="blue Sport 12">blue Sport 12</channel>
+    <channel update="i" site="tv.blue.ch" site_id="487##569003a4-7234-47fc-bb73-db79fdaa5f97" xmltv_id="blue Sport 13">blue Sport 13</channel>
+    <channel update="i" site="tv.blue.ch" site_id="488##abd8a071-4264-4e26-a4df-dfbdc7d68fa7" xmltv_id="blue Sport 14">blue Sport 14</channel>
+    <channel update="i" site="tv.blue.ch" site_id="489##056708ff-4c27-4f0c-89a5-c4f530940733" xmltv_id="blue Sport 15">blue Sport 15</channel>
+    <channel update="i" site="tv.blue.ch" site_id="490##a4eca73a-ada5-4e41-87d4-394d795c3cb1" xmltv_id="blue Sport 16">blue Sport 16</channel>
+    <channel update="i" site="tv.blue.ch" site_id="491##fbb1f77e-eecf-408f-bc12-d77842dabfd9" xmltv_id="blue Sport 17">blue Sport 17</channel>
+    <channel update="i" site="tv.blue.ch" site_id="492##6b72f21e-ef4e-4b84-be59-3c04836537e2" xmltv_id="blue Sport 18">blue Sport 18</channel>
+    <channel update="i" site="tv.blue.ch" site_id="493##945fdb06-f70c-429a-a775-e5d826ad132a" xmltv_id="blue Sport 19">blue Sport 19</channel>
+    <channel update="i" site="tv.blue.ch" site_id="495##c7611872-b55f-4d17-9828-25f13e64e481" xmltv_id="blue Sport 20">blue Sport 20</channel>
+    <channel update="i" site="tv.blue.ch" site_id="496##528f26a5-460f-4809-8d46-12ee46228b84" xmltv_id="blue Sport 21">blue Sport 21</channel>
+    <channel update="i" site="tv.blue.ch" site_id="497##ef5e3faf-11ec-4e5b-8bf0-7b0ded414830" xmltv_id="blue Sport 22">blue Sport 22</channel>
+    <channel update="i" site="tv.blue.ch" site_id="498##2a60455e-d672-4db7-a6a8-c4abac9662c8" xmltv_id="blue Sport 23">blue Sport 23</channel>
+    <channel update="i" site="tv.blue.ch" site_id="499##cf4fa349-9b2b-4570-8f73-470011b13b32" xmltv_id="blue Sport 24">blue Sport 24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="500##2f90cdc2-513a-40fa-b01c-d2dfafe86bac" xmltv_id="blue Sport 25">blue Sport 25</channel>
+    <channel update="i" site="tv.blue.ch" site_id="501##80478ad8-d47f-486c-a77b-1af54f6f2a4f" xmltv_id="blue Sport 26">blue Sport 26</channel>
+    <channel update="i" site="tv.blue.ch" site_id="502##e613be24-62c4-4cde-ac8a-707f5210e2c0" xmltv_id="blue Sport 27">blue Sport 27</channel>
+    <channel update="i" site="tv.blue.ch" site_id="503##24fc8797-6e99-4166-9153-933dce413895" xmltv_id="blue Sport 28">blue Sport 28</channel>
+    <channel update="i" site="tv.blue.ch" site_id="504##4d433d6b-77ad-4177-a071-026cc20be552" xmltv_id="blue Sport 29">blue Sport 29</channel>
+    <channel update="i" site="tv.blue.ch" site_id="924##8553a4f2-ff63-5200-7048-d8d59d805f7d" xmltv_id="blue Sport 30">blue Sport 30</channel>
+    <channel update="i" site="tv.blue.ch" site_id="926##9953a4f2-ff63-5200-7048-d8d59d805f7f" xmltv_id="blue Sport 31">blue Sport 31</channel>
+    <channel update="i" site="tv.blue.ch" site_id="928##ac53a4f2-ff63-5200-7048-d8d59d805f7a" xmltv_id="blue Sport 32">blue Sport 32</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1415##5330c147-74f0-2300-7048-67d39e2bc4ef" xmltv_id="blue Sport 33">blue Sport 33</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1427##e4c9f899-4cc1-2300-7048-558b4775e3d2" xmltv_id="blue Sport 34">blue Sport 34</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1428##b73abc99-4cc1-2300-7048-558b4775e34d" xmltv_id="blue Sport 35">blue Sport 35</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1429##3b8a30d9-4cc1-2300-7048-558b4775e358" xmltv_id="blue Sport 36">blue Sport 36</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1430##97dab0d9-4cc1-2300-7048-558b4775e3c5" xmltv_id="blue Sport 37">blue Sport 37</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1431##543bf0d9-4cc1-2300-7048-558b4775e37b" xmltv_id="blue Sport 38">blue Sport 38</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1432##188b74d9-4cc1-2300-7048-558b4775e351" xmltv_id="blue Sport 39">blue Sport 39</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1433##27cb38d9-4cc1-2300-7048-558b4775e345" xmltv_id="blue Sport 40">blue Sport 40</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1442##132f2c15-4cc1-2300-7048-558b4775e320" xmltv_id="blue Sport 41">blue Sport 41</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1000##a853a4f2-ff63-5200-7048-d8d59d805f7a" xmltv_id="blue Sport 1">blue Sport 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1249##576d1686-08d3-3200-7048-6f8d6c717c45" xmltv_id="blue Sport 2">blue Sport 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1250##53be1a86-08d3-3200-7048-6f8d6c717c8e" xmltv_id="blue Sport 3">blue Sport 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1440##89b90b27-74b0-6300-7048-67d39e2bc499" xmltv_id="blue Sport 4">blue Sport 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1240##bf252351-00f2-3200-7048-947439a151c3" xmltv_id="blue Sport Extra">blue Sport Extra</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1036##2d61e4b4-bf45-2200-7048-bdbaa361d096" xmltv_id="RMC Sport Access 1">RMC Sport Access 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="250##03b87e1b-4c77-411f-b66b-a279d66eb2c7" xmltv_id="RMC Sport Access 2">RMC Sport Access 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="264##ddf565d1-da87-4a2d-90ce-a459c8009801" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1544##948e5e65-a1d2-f300-7048-501a95af2792" xmltv_id="MySports 2 D">MySports 2 D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1545##0dee92a5-a1d2-f300-7048-501a95af2731" xmltv_id="MySports 3 D">MySports 3 D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1546##9e90eae5-a1d2-f300-7048-501a95af2791" xmltv_id="MySports 4 D">MySports 4 D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1547##0401aee5-a1d2-f300-7048-501a95af27de" xmltv_id="MySports 5 D">MySports 5 D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1548##44612629-a1d2-f300-7048-501a95af27fd" xmltv_id="MySports 6 D">MySports 6 D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1543##110e9a65-a1d2-f300-7048-501a95af274d" xmltv_id="MySports One D">MySports One D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="169##af4dd186-5b1b-4dad-89cb-42bf7816c94c" xmltv_id="Eurosport 1 I">Eurosport 1 I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="172##e2565a1c-8404-4efe-b69b-e742511104e0" xmltv_id="Eurosport 2 I">Eurosport 2 I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1552##0e5f96a5-a1d2-f300-7048-501a95af273b" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1553##8bbf9ea5-a1d2-f300-7048-501a95af27e7" xmltv_id="eSports1">eSports1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1554##b520a2e5-a1d2-f300-7048-501a95af279f" xmltv_id="SPORTDIGITAL FUSSBALL">SPORTDIGITAL FUSSBALL</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1555##dc552ee9-a1d2-f300-7048-501a95af27ed" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1722##971e7c5b-d01a-1010-7048-ea50f63e4fda" xmltv_id="EDGEsport">EDGEsport</channel>
+    <channel update="i" site="tv.blue.ch" site_id="37##5bf10b53-151e-448e-b049-183792f9de82" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="tv.blue.ch" site_id="39##76bcf5c9-9d7c-4a74-9efc-c5b0452f68d0" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="tv.blue.ch" site_id="218##57d84785-328e-4149-8ac3-9c16d5178593" xmltv_id="itv 1">itv 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="89##1c18b213-5df5-46bf-9eab-e162c3fbefbf" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="178##b7bd1a2b-2e91-413e-904b-1b271b4e72cf" xmltv_id="Five">Five</channel>
+    <channel update="i" site="tv.blue.ch" site_id="219##e965f59f-a32d-4195-88fd-451a796baf9f" xmltv_id="itv 2">itv 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="220##97b188ed-f145-4ef0-b0d6-10c6177fd8ef" xmltv_id="itv 3">itv 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="221##f43acfb7-9d7c-4910-b3cf-fc0e9d4bd702" xmltv_id="itv 4">itv 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1400##452c6537-d47a-1300-7048-2d2b17539b88" xmltv_id="ITV Be">ITV Be</channel>
+    <channel update="i" site="tv.blue.ch" site_id="35##354b1562-4080-4174-a868-e0a4d2959638" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="tv.blue.ch" site_id="262##a58b5205-b1f8-45a4-b23c-cadf431a28cb" xmltv_id="More 4">More 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="176##800dc30d-57cc-433f-b3ec-9b7c3aad7252" xmltv_id="Film Four">Film Four</channel>
+    <channel update="i" site="tv.blue.ch" site_id="146##64f5e56c-4ee2-43f8-854a-1465cbb55e6b" xmltv_id="E4">E4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="902##8253a4f2-ff63-5200-7048-d8d59d805f82" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1507##cdf16c2e-b864-7300-7048-1581fb19762b" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1411##969e660f-fd6c-2300-7048-f15ba3548c2c" xmltv_id="5USA">5USA</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1670##25256dd3-35be-4010-7048-17319da6723d" xmltv_id="5SELECT">5SELECT</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1677##1b12395f-35be-4010-7048-17319da672d0" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1654##12abf549-21f2-8010-7048-6b73c0692c94" xmltv_id="DMAX UK">DMAX UK</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1678##1905e9d3-35be-4010-7048-17319da672e0" xmltv_id="4Seven">4Seven</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1669##58fa6cdc-ff4b-0010-7048-d8d59d805f43" xmltv_id="Paramount Network UK">Paramount Network UK</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1029##fee75d10-bfa8-2200-7048-bdbaa361d0d6" xmltv_id="Insight">Insight</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1509##b1672ec6-399d-7300-7048-9799bcfae64f" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1398##b39a6df3-d47a-1300-7048-2d2b17539bc0" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1375##87bb66f6-5182-5300-7048-2d660e9b3fa7" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1258##a6920e97-e9c5-0300-7048-14a9c8023925" xmltv_id="4K Universe">4K Universe</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1256##49a1aeb3-78f0-4300-7048-52024d7f9784" xmltv_id="Fun Box Ultra">Fun Box Ultra</channel>
+    <channel update="i" site="tv.blue.ch" site_id="667##0c37eab2-85c0-4399-9bbf-9a8533f41c94" xmltv_id="Insight">Insight</channel>
+    <channel update="i" site="tv.blue.ch" site_id="107##a3e698a4-ce67-4a36-bdb6-b6a2297cd520" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tv.blue.ch" site_id="40##0004fef4-eac4-4a71-a467-271bb3d2099e" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="tv.blue.ch" site_id="36##9b5cf583-ec61-4688-b47c-8224fc310329" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="tv.blue.ch" site_id="106##f28fa6b0-3a59-46bc-afe3-bb902b37c3d1" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="tv.blue.ch" site_id="390##0738bb3c-12c9-401b-8185-5e1d9a6255c4" xmltv_id="Sky News International">Sky News International</channel>
+    <channel update="i" site="tv.blue.ch" site_id="164##90002e4d-da42-4dd7-baa6-396bb636e5dd" xmltv_id="Euronews E">Euronews E</channel>
+    <channel update="i" site="tv.blue.ch" site_id="15##097da0dc-e678-4213-b18a-82484322568b" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="tv.blue.ch" site_id="46##762fd73c-2936-4918-9cf5-5ab995adbe2f" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="142##790b45c4-3b7b-4349-b3db-3eebad868ce9" xmltv_id="DW Englisch">DW Englisch</channel>
+    <channel update="i" site="tv.blue.ch" site_id="287##57a546c5-65e0-476a-a86e-207f9ed1fbc7" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="tv.blue.ch" site_id="373##3982897d-0f5d-446c-bc36-2ca87e4ed3aa" xmltv_id="RT">RT</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1490##243f7f37-bfc3-2300-7048-bdbaa361d058" xmltv_id="Smithsonian Channel UK">Smithsonian Channel UK</channel>
+    <channel update="i" site="tv.blue.ch" site_id="208##10ff02d9-505f-4f96-9dd7-abbc5dbe405a" xmltv_id="i24 News">i24 News</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1637##7a836db0-2065-4010-7048-d499d2e6daca" xmltv_id="Voice of America">Voice of America</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1404##fe538217-2500-5300-7048-5f365cd3b9bc" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1397##5f3520c4-1d17-1300-7048-a3edafb39381" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1503##333fbf37-bfc3-2300-7048-bdbaa361d0b8" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1378##8031f7f6-00a2-1300-7048-690854190ebb" xmltv_id="NASA TV">NASA TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1639##2d852797-bf91-8010-7048-bdbaa361d045" xmltv_id="France 24 English">France 24 English</channel>
+    <channel update="i" site="tv.blue.ch" site_id="670##2a78d1b4-052c-4d32-b948-ce23395a3320" xmltv_id="Hot Bird 4K1">Hot Bird 4K1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1674##2e867553-35fe-4010-7048-17319da67297" xmltv_id="Yesterday">Yesterday</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1651##5e3fdd50-4d52-c010-7048-29e7e7815937" xmltv_id="Vox Africa">Vox Africa</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1659##0e42a2bc-3cee-8010-7048-9a300dee9de2" xmltv_id="ITV Granada">ITV Granada</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1717##155abe7d-048b-8010-7048-09216547280a" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="tv.blue.ch" site_id="145##56b3b138-578f-453e-b83a-07f2e42708ab" xmltv_id="E! Entertainment Europe">E! Entertainment Europe</channel>
+    <channel update="i" site="tv.blue.ch" site_id="175##e06cfa2b-36b8-480a-9a05-6d89fae7be13" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1292##53117b19-b8a4-1300-7048-768b25d33472" xmltv_id="Food Network E">Food Network E</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1604##c651ef43-912b-3300-7048-e8bb12369663" xmltv_id="Quest">Quest</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1682##6cc37d9f-35be-4010-7048-17319da67295" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1652##eaad7dc9-21f2-8010-7048-6b73c0692c5a" xmltv_id="5Star">5Star</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1697##01693b3e-1924-1010-7048-ecb82784c99c" xmltv_id="Home &amp; Garden TV UK">Home &amp; Garden TV UK</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1781##fcd4251c-4cb0-2010-7048-2b9ccd0142bf" xmltv_id="Fashion 4K">Fashion 4K</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1488##e7e9a8d4-41a3-6300-7048-3405682a0e42" xmltv_id="Eurosport 1 E">Eurosport 1 E</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1603##c400e343-912b-3300-7048-e8bb1236962a" xmltv_id="FreeSports">FreeSports</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1655##34ccf9be-ff15-0010-7048-d8d59d805f01" xmltv_id="Dubai Sports">Dubai Sports</channel>
+    <channel update="i" site="tv.blue.ch" site_id="86##d90bf26c-3588-4a16-9440-75509bcc6137" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="tv.blue.ch" site_id="85##3b79b767-2548-44de-9b12-339d351b863c" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1653##3bccbd89-21f2-8010-7048-6b73c0692c87" xmltv_id="CITV U.K.">CITV U.K.</channel>
+    <channel update="i" site="tv.blue.ch" site_id="369##778725dd-1c03-4c47-bdd0-1c4834b78471" xmltv_id="RTS un">RTS un</channel>
+    <channel update="i" site="tv.blue.ch" site_id="367##94838171-7fb9-4607-af9e-b71913027fec" xmltv_id="RTS deux">RTS deux</channel>
+    <channel update="i" site="tv.blue.ch" site_id="601##5f17d5d6-135c-4087-8922-49fdfc511509" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="249##f6ea00f3-d87c-4b5c-b330-1192c9c848d4" xmltv_id="M6">M6</channel>
+    <channel update="i" site="tv.blue.ch" site_id="182##b91d17e9-1def-44b0-a763-c81c51ea7ce6" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="184##c10a3cb6-7e3e-4556-9889-83a1abb10176" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="185##56eaeea5-a2a0-471a-b99f-95567e07430a" xmltv_id="France 4">France 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="186##d337590d-43e4-42c5-bbac-b44767fafd62" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="609##0af28c03-6b56-41ef-8170-92582971576e" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="tv.blue.ch" site_id="295##f504a3e2-db29-4bd4-b6cd-d28c932f1b50" xmltv_id="TFX">TFX</channel>
+    <channel update="i" site="tv.blue.ch" site_id="115##3ace09b9-e732-49b2-a1d5-688121b9dec5" xmltv_id="C8">C8</channel>
+    <channel update="i" site="tv.blue.ch" site_id="420##d29f30aa-ce0a-4da5-ab24-5373e7bee925" xmltv_id="blue Zoom F">blue Zoom F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="355##44bbae80-b78d-4961-a2a5-94dca8048920" xmltv_id="Rouge TV">Rouge TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="653##f85bd1d2-a3be-47ca-8369-24755b44ad4b" xmltv_id="W9">W9</channel>
+    <channel update="i" site="tv.blue.ch" site_id="28##4e0eb072-19d4-4839-8e94-25a41f1e31dd" xmltv_id="Arte Français">Arte Français</channel>
+    <channel update="i" site="tv.blue.ch" site_id="364##713160f9-c83a-4df5-a1c4-c3ba32b5c7c2" xmltv_id="RTL9">RTL9</channel>
+    <channel update="i" site="tv.blue.ch" site_id="293##91f37011-14bc-4273-9069-7da26d4b1709" xmltv_id="NRJ12">NRJ12</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1081##806b7db4-bf02-6200-7048-bdbaa361d0fa" xmltv_id="AB 3">AB 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="9##c13fb913-7263-430e-b4e1-5ce6e131965a" xmltv_id="6ter">6ter</channel>
+    <channel update="i" site="tv.blue.ch" site_id="11##46d50358-2a05-4f62-a31a-7abac9fbe524" xmltv_id="AB1">AB1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="244##f38d395b-bea8-4fb1-bdcc-11827e58aeb1" xmltv_id="Léman Bleu Télévision">Léman Bleu Télévision</channel>
+    <channel update="i" site="tv.blue.ch" site_id="242##9c0b51a3-c424-4a60-9e8e-9f01e53ea3cf" xmltv_id="La Télé">La Télé</channel>
+    <channel update="i" site="tv.blue.ch" site_id="72##24ad6bb6-47d1-43d1-81a0-0ee245038f2a" xmltv_id="Canal 9">Canal 9</channel>
+    <channel update="i" site="tv.blue.ch" site_id="74##753cb157-a0c4-4ec7-b265-e17bbdb9485d" xmltv_id="Canal Alpha NE">Canal Alpha NE</channel>
+    <channel update="i" site="tv.blue.ch" site_id="73##383694e6-e7f9-47a0-a8d2-488a52400240" xmltv_id="Canal Alpha JU">Canal Alpha JU</channel>
+    <channel update="i" site="tv.blue.ch" site_id="637##fd4f5140-ee3b-4846-9af2-26f6c605c62c" xmltv_id="TV8 Mont Blanc">TV8 Mont Blanc</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1695##7ed5e7b3-94e7-1010-7048-a1774d92a931" xmltv_id="Alsace 20">Alsace 20</channel>
+    <channel update="i" site="tv.blue.ch" site_id="12##7393570f-e881-4806-94dd-388296ea7471" xmltv_id="Action">Action</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1128##394caa20-bf4b-a600-7048-bdbaa361d0ce" xmltv_id="Crime District">Crime District</channel>
+    <channel update="i" site="tv.blue.ch" site_id="63##2e1aa0e5-55aa-4c3e-b686-ba368e4e6047" xmltv_id="Canal+ en clair">Canal+ en clair</channel>
+    <channel update="i" site="tv.blue.ch" site_id="622##af198ced-a61a-453e-ac0a-2cb77dc55a1e" xmltv_id="tv breizh">tv breizh</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1532##723fbf37-bfc3-2300-7048-bdbaa361d064" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1636##b01773b7-ffe1-8010-7048-d8d59d805f68" xmltv_id="Eurochannel F">Eurochannel F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="199##ab791559-b9d6-4e4e-b106-c5fd0ad73bbd" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
+    <channel update="i" site="tv.blue.ch" site_id="93##276aba02-c1e2-4bdc-8890-61c068ba38f1" xmltv_id="Chérie 25">Chérie 25</channel>
+    <channel update="i" site="tv.blue.ch" site_id="22##d6a080a9-0644-42f2-a013-29fa0e719084" xmltv_id="Animaux">Animaux</channel>
+    <channel update="i" site="tv.blue.ch" site_id="379##2bfd364b-1011-4a90-a027-004b3c38c3d0" xmltv_id="Science &amp; Vie">Science &amp; Vie</channel>
+    <channel update="i" site="tv.blue.ch" site_id="615##ae4210ea-99ac-4d13-a6d4-77fbee5a66a4" xmltv_id="Toute l'Histoire">Toute l'Histoire</channel>
+    <channel update="i" site="tv.blue.ch" site_id="618##bddd587b-27c3-4dd8-ad27-73a50807f97c" xmltv_id="Trek">Trek</channel>
+    <channel update="i" site="tv.blue.ch" site_id="279##60f0351e-2d35-0300-7048-2ffbe0b6f9e2" xmltv_id="National Geographic F">National Geographic F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="283##154ba516-2df1-0300-7048-2ffbe0b6f958" xmltv_id="National Geographic Wild F">National Geographic Wild F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="202##2b1a52dd-66ae-47a0-982e-f10a62e62e56" xmltv_id="histoire">histoire</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1217##b83c7f02-bfa3-2200-7048-bdbaa361d06a" xmltv_id="Ultra Nature">Ultra Nature</channel>
+    <channel update="i" site="tv.blue.ch" site_id="380##60fac14d-696f-4379-8069-487a9a8163f9" xmltv_id="Seasons">Seasons</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1754##77a4b9df-35be-4010-7048-17319da672bf" xmltv_id="Clique TV">Clique TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="635##5db44ebd-fb6e-4bd9-8eb7-54081e20982d" xmltv_id="TV5 MONDE EUROPE">TV5 MONDE EUROPE</channel>
+    <channel update="i" site="tv.blue.ch" site_id="43##5d8466af-3d42-438e-85cd-beb1f4c92c32" xmltv_id="BFM TV">BFM TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="183##7149da9e-7c85-4333-beff-97c079d44c4d" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="636##e72e9e55-2b2d-4207-b606-e03599ed7eae" xmltv_id="TV5 Monde FBS">TV5 Monde FBS</channel>
+    <channel update="i" site="tv.blue.ch" site_id="165##7ac56485-95d5-4892-8a14-cdcfb9d788ce" xmltv_id="Euronews F">Euronews F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="217##d00f07f0-8f75-4f81-ab05-8fa1d59b3609" xmltv_id="CNEWS">CNEWS</channel>
+    <channel update="i" site="tv.blue.ch" site_id="241##b6914a88-e6f6-4e13-a85e-5d61f4a6ba0c" xmltv_id="La Chaine Info">La Chaine Info</channel>
+    <channel update="i" site="tv.blue.ch" site_id="41##690a58b3-487d-49d3-ab49-f05261337e2c" xmltv_id="Teleswizz">Teleswizz</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1064##d81d1b92-bfe1-6200-7048-bdbaa361d097" xmltv_id="franceinfo">franceinfo</channel>
+    <channel update="i" site="tv.blue.ch" site_id="353##c6f62a6f-c33b-43a6-827a-c7b3d3fbb05d" xmltv_id="RMC Découverte">RMC Découverte</channel>
+    <channel update="i" site="tv.blue.ch" site_id="209##4060150f-f9e0-4d97-ba89-b804fce7aaa9" xmltv_id="i24 News Français">i24 News Français</channel>
+    <channel update="i" site="tv.blue.ch" site_id="298##061993bd-4f15-4d74-8e93-3134c3b72e95" xmltv_id="RMC Story">RMC Story</channel>
+    <channel update="i" site="tv.blue.ch" site_id="42##c616cbc1-5557-47fc-89f7-77458bc73683" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1658##88cf48e8-3ce6-4010-7048-9a300dee9d09" xmltv_id="La Chaîne parlementaire">La Chaîne parlementaire</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1686##07ae9910-4d52-c010-7048-29e7e78159ff" xmltv_id="ORTB">ORTB</channel>
+    <channel update="i" site="tv.blue.ch" site_id="144##fa36864c-cb3e-4b7d-b539-dd5cdea4b33d" xmltv_id="E! Entertainment France">E! Entertainment France</channel>
+    <channel update="i" site="tv.blue.ch" site_id="168##b9a33d60-dfe6-4ab6-82b4-d381d44534ce" xmltv_id="Eurosport 1 F">Eurosport 1 F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="171##81ab7bd2-addb-470d-be0a-f18a3de4797f" xmltv_id="Eurosport 2 F">Eurosport 2 F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="10##18a109ac-c929-4992-b363-699c8b265a5d" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
+    <channel update="i" site="tv.blue.ch" site_id="245##4dc9ad06-ea83-4430-8b24-e41ead495610" xmltv_id="L'Equipe">L'Equipe</channel>
+    <channel update="i" site="tv.blue.ch" site_id="82##7d96705b-ce65-46d0-a6d8-460a48c09894" xmltv_id="Cartoon Network F">Cartoon Network F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="53##757642b2-8be7-45f2-8ca6-984e26dff865" xmltv_id="Boomerang F">Boomerang F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="605##41e088f2-7a2a-4d7f-8e7d-837486decc9f" xmltv_id="Tiji">Tiji</channel>
+    <channel update="i" site="tv.blue.ch" site_id="76##aef05353-724b-4c56-ba05-cd21c3561a6e" xmltv_id="Canal J">Canal J</channel>
+    <channel update="i" site="tv.blue.ch" site_id="291##57b781d3-6035-45f7-ac36-59b3da0e3aa0" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tv.blue.ch" site_id="595##07e17d5e-2d35-0300-7048-2ffbe0b6f92f" xmltv_id="Télétoon+">Télétoon+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1765##673fbf37-bfc3-2300-7048-bdbaa361d0ae" xmltv_id="J-One">J-One</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1767##39312c26-ad73-1010-7048-e122548c2619" xmltv_id="Nickelodeon Teen">Nickelodeon Teen</channel>
+    <channel update="i" site="tv.blue.ch" site_id="195##7da75cc8-b9d2-49b1-a6f9-ecb8ae76905a" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1395##9086a83b-c53a-1300-7048-918d11ae615e" xmltv_id="La Télé - Fribourg">La Télé - Fribourg</channel>
+    <channel update="i" site="tv.blue.ch" site_id="253##3715a9fe-ec83-411e-8d66-9bdc73b18967" xmltv_id="Max TV">Max TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1456##5a1124a1-4c75-6300-7048-44adee6561d4" xmltv_id="Ajoie TV">Ajoie TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="582##f0cf8908-173e-4383-884a-00d61114a55c" xmltv_id="Genève Région Television/TéléVersoix">Genève Région Television/TéléVersoix</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1467##5f1ec145-596a-6300-7048-2eee064afb40" xmltv_id="Vernier Visions">Vernier Visions</channel>
+    <channel update="i" site="tv.blue.ch" site_id="294##0043c4cf-e8e5-4e94-9beb-c4191e8004ee" xmltv_id="NRTV">NRTV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1328##c0909add-dc51-5300-7048-971219309167" xmltv_id="Grand Genève TV">Grand Genève TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1331##04a528a7-7de5-1300-7048-5b442209c567" xmltv_id="TV Onex">TV Onex</channel>
+    <channel update="i" site="tv.blue.ch" site_id="232##2843abca-017b-435b-968e-097b9d3a250f" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1082##19cd068d-bf42-6200-7048-bdbaa361d0bd" xmltv_id="TV Suisseplus">TV Suisseplus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1227##fc44c934-09d2-3200-7048-851cbdd38bc3" xmltv_id="OCS Max">OCS Max</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1228##1d05c534-09d2-3200-7048-851cbdd38b49" xmltv_id="OCS City génération HBO">OCS City génération HBO</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1229##a1a50d34-09d2-3200-7048-851cbdd38bd8" xmltv_id="OCS Choc">OCS Choc</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1230##26464d34-09d2-3200-7048-851cbdd38be4" xmltv_id="OCS Géants">OCS Géants</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1##57310d81-702d-4a0d-98e0-7fc1005bc02f" xmltv_id="13eme Rue">13eme Rue</channel>
+    <channel update="i" site="tv.blue.ch" site_id="416##21c8c022-554b-443b-84fe-8d48995a0571" xmltv_id="Syfy F">Syfy F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1329##d5fc2da7-2191-5300-7048-ee71a56cc956" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="123##7e8ab93f-f0e2-4e5a-b958-ff327eea77d3" xmltv_id="Discovery F">Discovery F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="125##16241430-5997-4063-a865-9847ee0d3446" xmltv_id="Science Channel F">Science Channel F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="644##804146df-aef4-4497-87b2-e923bd26a0bb" xmltv_id="Ushuaia TV">Ushuaia TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="129##287eb6c6-756f-4944-a1f9-3e9d83ec40bb" xmltv_id="Disney Channel F">Disney Channel F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="132##46706acf-c160-4f52-a53a-a2941241893f" xmltv_id="Disney Junior F">Disney Junior F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="290##9267c7c2-ee21-4225-89ce-ba10c0abca9b" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1330##e6513de7-2191-5300-7048-ee71a56cc95d" xmltv_id="Toonami">Toonami</channel>
+    <channel update="i" site="tv.blue.ch" site_id="52##f8512911-77c5-46e6-819e-c14dd699de67" xmltv_id="Boing F">Boing F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="252##7da5983a-a966-40f9-8a26-a0afec1cdddc" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="tv.blue.ch" site_id="304##178959d8-5da1-418d-9e56-1345700b67e4" xmltv_id="Paramount F">Paramount F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1286##d4bb299f-25cc-1300-7048-5f365cd3b937" xmltv_id="OCS App">OCS App</channel>
+    <channel update="i" site="tv.blue.ch" site_id="67##771a0f57-25b3-4b82-b014-d89e49670ac4" xmltv_id="Ciné + Premier">Ciné + Premier</channel>
+    <channel update="i" site="tv.blue.ch" site_id="66##c4abbd70-c2b0-45f7-8366-c1c923c2ef49" xmltv_id="Cine+ Frisson">Cine+ Frisson</channel>
+    <channel update="i" site="tv.blue.ch" site_id="62##8191eeac-60e8-4285-88df-30db99397c4b" xmltv_id="Cine+ Emotion">Cine+ Emotion</channel>
+    <channel update="i" site="tv.blue.ch" site_id="65##43938452-7996-450e-aa43-299a81896768" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
+    <channel update="i" site="tv.blue.ch" site_id="60##81fb4d72-81d7-4197-8cc7-5cd82e10911b" xmltv_id="Ciné+ Club">Ciné+ Club</channel>
+    <channel update="i" site="tv.blue.ch" site_id="59##f5d5b376-b467-4bfe-afda-2b24049e96bd" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
+    <channel update="i" site="tv.blue.ch" site_id="109##f21729d1-724d-499d-836d-54d5e1da9a86" xmltv_id="Comedie!+">Comedie!+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="316##64731b45-457f-4a79-84b2-75e4b13edc2c" xmltv_id="Planète+">Planète+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="317##d44cc1fa-26f6-404e-b060-b6ee84a2a8ae" xmltv_id="Planète+ A&amp;E">Planète+ A&amp;E</channel>
+    <channel update="i" site="tv.blue.ch" site_id="318##ad17ec8b-ff4c-4e7c-a102-ccce7a59b148" xmltv_id="Planète+ C&amp;I">Planète+ C&amp;I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="315##701a446a-edb8-46a3-9ad6-c374315e1e9f" xmltv_id="Piwi+">Piwi+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="213##49de6f00-a63b-4ef6-96ea-0e13fee80874" xmltv_id="infosport+">infosport+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="590##32afb982-a7f7-4f39-b339-832e74134278" xmltv_id="blue Sports 1">blue Sports 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1414##b63fe88b-2cb0-2300-7048-dda91e3470db" xmltv_id="Motorvision">Motorvision</channel>
+    <channel update="i" site="tv.blue.ch" site_id="950##1953a4f2-ff63-5200-7048-d8d59d805f7f" xmltv_id="blue Sports 2">blue Sports 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="952##0953a4f2-ff63-5200-7048-d8d59d805f7d" xmltv_id="blue Sports 3">blue Sports 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="954##1553a4f2-ff63-5200-7048-d8d59d805f7f" xmltv_id="blue Sports 4">blue Sports 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="956##2553a4f2-ff63-5200-7048-d8d59d805f80" xmltv_id="blue Sports 5">blue Sports 5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="958##bc53a4f2-ff63-5200-7048-d8d59d805f7b" xmltv_id="blue Sports 6">blue Sports 6</channel>
+    <channel update="i" site="tv.blue.ch" site_id="930##9d53a4f2-ff63-5200-7048-d8d59d805f7e" xmltv_id="blue Sports 7">blue Sports 7</channel>
+    <channel update="i" site="tv.blue.ch" site_id="932##8953a4f2-ff63-5200-7048-d8d59d805f7d" xmltv_id="blue Sports 8">blue Sports 8</channel>
+    <channel update="i" site="tv.blue.ch" site_id="934##3c53a4f2-ff63-5200-7048-d8d59d805f7c" xmltv_id="blue Sports 9">blue Sports 9</channel>
+    <channel update="i" site="tv.blue.ch" site_id="936##2c53a4f2-ff63-5200-7048-d8d59d805f7a" xmltv_id="blue Sports 10">blue Sports 10</channel>
+    <channel update="i" site="tv.blue.ch" site_id="938##a453a4f2-ff63-5200-7048-d8d59d805f7b" xmltv_id="blue Sports 11">blue Sports 11</channel>
+    <channel update="i" site="tv.blue.ch" site_id="940##0d53a4f2-ff63-5200-7048-d8d59d805f7d" xmltv_id="blue Sports 12">blue Sports 12</channel>
+    <channel update="i" site="tv.blue.ch" site_id="942##2153a4f2-ff63-5200-7048-d8d59d805f80" xmltv_id="blue Sports 13">blue Sports 13</channel>
+    <channel update="i" site="tv.blue.ch" site_id="944##bc53a4f2-ff63-5200-7048-d8d59d805f7c" xmltv_id="blue Sports 14">blue Sports 14</channel>
+    <channel update="i" site="tv.blue.ch" site_id="946##a953a4f2-ff63-5200-7048-d8d59d805f80" xmltv_id="blue Sports 15">blue Sports 15</channel>
+    <channel update="i" site="tv.blue.ch" site_id="948##bd53a4f2-ff63-5200-7048-d8d59d805f81" xmltv_id="blue Sports 16">blue Sports 16</channel>
+    <channel update="i" site="tv.blue.ch" site_id="506##cefc46a0-95bc-4efe-900e-961b1bcb6304" xmltv_id="blue Sports 17">blue Sports 17</channel>
+    <channel update="i" site="tv.blue.ch" site_id="507##a50f9863-38c4-4966-ba8e-1cbf42d07953" xmltv_id="blue Sports 18">blue Sports 18</channel>
+    <channel update="i" site="tv.blue.ch" site_id="508##c4bf9598-38ab-4b8a-8a91-44204bbfa77f" xmltv_id="blue Sports 19">blue Sports 19</channel>
+    <channel update="i" site="tv.blue.ch" site_id="509##465bdea6-8ddf-46b0-800d-a8936c7b27b3" xmltv_id="blue Sports 20">blue Sports 20</channel>
+    <channel update="i" site="tv.blue.ch" site_id="510##6e598c9e-5431-4eb3-acbe-73f923c635bd" xmltv_id="blue Sports 21">blue Sports 21</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1356##51596949-e9ea-1300-7048-b462556a3451" xmltv_id="blue Sports 22">blue Sports 22</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1354##4a912d45-e9ea-1300-7048-b462556a34c8" xmltv_id="blue Sports 23">blue Sports 23</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1355##6fc22d45-e9ea-1300-7048-b462556a34fa" xmltv_id="blue Sports 24">blue Sports 24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1357##e78a6141-e92e-1300-7048-b462556a3427" xmltv_id="blue Sports 25">blue Sports 25</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1358##8f8b614d-e92e-1300-7048-b462556a348e" xmltv_id="blue Sports 26">blue Sports 26</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1359##325c294d-e92e-1300-7048-b462556a34da" xmltv_id="blue Sports 27">blue Sports 27</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1360##f51d2d4d-e92e-1300-7048-b462556a3453" xmltv_id="blue Sports 28">blue Sports 28</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1361##98cdadc9-e96e-1300-7048-b462556a34ec" xmltv_id="blue Sports 29">blue Sports 29</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1362##01f07d0d-e96e-1300-7048-b462556a348e" xmltv_id="blue Sports 30">blue Sports 30</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1364##8ae1354d-e96e-1300-7048-b462556a34cc" xmltv_id="blue Sports 31">blue Sports 31</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1437##ca167459-4cc1-2300-7048-558b4775e313" xmltv_id="blue Sports 32">blue Sports 32</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1438##0457b859-4cc1-2300-7048-558b4775e3bc" xmltv_id="blue Sports 33">blue Sports 33</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1439##e0a73c59-4cc1-2300-7048-558b4775e39b" xmltv_id="blue Sports 34">blue Sports 34</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1001##3553a4f2-ff63-5200-7048-d8d59d805f81" xmltv_id="blue Sports 1">blue Sports 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1251##8b8f1ac6-08d3-3200-7048-6f8d6c717c5d" xmltv_id="blue Sports 2">blue Sports 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1252##d3ffdec6-08d3-3200-7048-6f8d6c717c43" xmltv_id="blue Sports 3">blue Sports 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1441##c48b0367-74b0-6300-7048-67d39e2bc494" xmltv_id="blue Sports 4">blue Sports 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="192##f24f8755-3bc8-4931-8592-4e4adc7efe3e" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="285##375f2db3-35c0-4d8a-a128-05d65baa25f8" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="151##bbffe034-f874-41d4-8013-329aecc1b66e" xmltv_id="Equidia Live">Equidia Live</channel>
+    <channel update="i" site="tv.blue.ch" site_id="92##39e6883a-0b22-4321-adb6-bc8c3835cc35" xmltv_id="Chasse et Peche">Chasse et Peche</channel>
+    <channel update="i" site="tv.blue.ch" site_id="57##07fcd334-97be-4b69-9828-4baed31b97fe" xmltv_id="CANAL+">CANAL+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="61##ec4ae060-8b90-4872-b771-dbdd44fe19f9" xmltv_id="CANAL+ Décalé">CANAL+ Décalé</channel>
+    <channel update="i" site="tv.blue.ch" site_id="58##5acb0725-adb5-49f2-9fbb-bf015f1faf34" xmltv_id="CANAL+ Cinema">CANAL+ Cinema</channel>
+    <channel update="i" site="tv.blue.ch" site_id="68##40ab5712-cafb-4331-af70-d19bee7ed575" xmltv_id="CANAL+ Series">CANAL+ Series</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1273##052e2108-51b1-0300-7048-a7889d405dc0" xmltv_id="Polar+">Polar+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1730##cca970bc-fc97-1010-7048-f0701a52e0ca" xmltv_id="BET">BET</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1731##1dbaf0fc-fc97-1010-7048-f0701a52e0c5" xmltv_id="Novelas">Novelas</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1729##c748b83c-fc97-1010-7048-f0701a52e09b" xmltv_id="Olympia TV">Olympia TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="349##45fe55bb-c343-4cfd-9911-55957de43e65" xmltv_id="RFM TV">RFM TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1761##d23fbf37-bfc3-2300-7048-bdbaa361d02e" xmltv_id="Melody">Melody</channel>
+    <channel update="i" site="tv.blue.ch" site_id="69##59e04dc3-5353-416b-8697-e863891ca3af" xmltv_id="CANAL+ Sport">CANAL+ Sport</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1760##fe3fbf37-bfc3-2300-7048-bdbaa361d061" xmltv_id="la chaîne météo">la chaîne météo</channel>
+    <channel update="i" site="tv.blue.ch" site_id="64##ee445699-2f74-4c01-bd25-16a530153495" xmltv_id="CANAL+ Family">CANAL+ Family</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1762##f23fbf37-bfc3-2300-7048-bdbaa361d066" xmltv_id="Non Stop People">Non Stop People</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1772##661fbb37-bfc3-2300-7048-bdbaa361d099" xmltv_id="Game One">Game One</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1336##aaccda5a-e131-5300-7048-910309e2f401" xmltv_id="my Canal">my Canal</channel>
+    <channel update="i" site="tv.blue.ch" site_id="193##71649302-e4b1-4346-b5cc-948fd5a0f3bb" xmltv_id="GOLF+">GOLF+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1558##d52c2e21-a116-f300-7048-501a95af271c" xmltv_id="MySports 2 F">MySports 2 F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1559##c9dc2261-a116-f300-7048-501a95af2707" xmltv_id="MySports 3 F">MySports 3 F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1560##df8d2e61-a116-f300-7048-501a95af27e7" xmltv_id="MySports 4 F">MySports 4 F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1561##7c4eaaa1-a116-f300-7048-501a95af2709" xmltv_id="MySports 5 F">MySports 5 F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1562##2bdea2e1-a116-f300-7048-501a95af2717" xmltv_id="MySports 6 F">MySports 6 F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1557##3c1b6aed-a1d2-f300-7048-501a95af2770" xmltv_id="MySports One F">MySports One F</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1723##7d12cd9f-d01a-1010-7048-ea50f63e4f37" xmltv_id="Motorvision.TV France">Motorvision.TV France</channel>
+    <channel update="i" site="tv.blue.ch" site_id="356##25a9f6c2-e765-44b6-a7e1-07c888a6d9dc" xmltv_id="RSI La 1">RSI La 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="357##295e54ea-2982-4ed6-88c2-6441a770f34a" xmltv_id="RSI LA 2">RSI LA 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="79##1e5f5485-44a8-4c75-8062-051d344d3284" xmltv_id="Canale 5">Canale 5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="327##65a4d083-50e4-4916-954a-ecd32e48da98" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="328##caf245e5-3111-4a51-9f4b-c0064c2f913a" xmltv_id="Rai 2">Rai 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="329##acaf5818-f98e-429e-8490-3a6e281541b8" xmltv_id="Rai 3">Rai 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="330##14d8a50d-11dc-4f21-97de-42fbb11935c0" xmltv_id="Rai 4">Rai 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="348##eb9a73ff-3c5c-4dd4-b579-4f8b40ae76aa" xmltv_id="Rete 4">Rete 4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="215##dd5b182b-d9b2-4d11-8763-1590eacd58ef" xmltv_id="Italia 1">Italia 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="96##5e6e3989-ec8f-46f5-85c9-2839b684b2d6" xmltv_id="Cielo">Cielo</channel>
+    <channel update="i" site="tv.blue.ch" site_id="237##00d2cd9c-22de-4d5b-9e23-eb32f868785a" xmltv_id="La 7">La 7</channel>
+    <channel update="i" site="tv.blue.ch" site_id="578##e8eea777-c5d5-4c29-bb34-17f1ea69d694" xmltv_id="Tele Ticino">Tele Ticino</channel>
+    <channel update="i" site="tv.blue.ch" site_id="257##98699cd1-832f-42d3-bf76-551bf91805d1" xmltv_id="Mediaset Extra">Mediaset Extra</channel>
+    <channel update="i" site="tv.blue.ch" site_id="216##e15bb3a1-5711-4dca-a02e-0b12391933f0" xmltv_id="Italia 2">Italia 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="592##a24ca9a4-c4c3-42ca-81dc-b4020a4d5388" xmltv_id="Telelombardia">Telelombardia</channel>
+    <channel update="i" site="tv.blue.ch" site_id="80##09f7380f-c07a-4f34-ac84-bb8dbac2cdae" xmltv_id="Canale Italia">Canale Italia</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1380##313f58dd-f9b2-1300-7048-808b56eb3b65" xmltv_id="Antenna 3">Antenna 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="593##f1e3e500-326e-4fb6-84e8-ba4a91713a5d" xmltv_id="Telenova">Telenova</channel>
+    <channel update="i" site="tv.blue.ch" site_id="243##5fb92314-9717-41ea-ad80-f30000fd6733" xmltv_id="La5">La5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="214##7a699b69-b99d-4a6e-a57a-7004c58c06ad" xmltv_id="IRIS">IRIS</channel>
+    <channel update="i" site="tv.blue.ch" site_id="239##01c68f3e-5d90-4553-b86f-ffdcee004459" xmltv_id="La 7d">La 7d</channel>
+    <channel update="i" site="tv.blue.ch" site_id="334##3ee6555b-574c-49e9-a266-0abe5d9d5bc5" xmltv_id="Rai Movie">Rai Movie</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1379##4801cb34-ff15-4010-7048-d8d59d805f42" xmltv_id="20 Mediaset">20 Mediaset</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1288##0333cad3-2500-5300-7048-5f365cd3b908" xmltv_id="Paramount Channel I">Paramount Channel I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="336##8bb139a0-1466-4144-840c-1ba566c92b5a" xmltv_id="Rai Premium">Rai Premium</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1347##db34460b-d09e-1300-7048-1813510a648e" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="tv.blue.ch" site_id="613##9f65f8a9-ac98-4775-b355-1015dc835ba9" xmltv_id="Top Crime">Top Crime</channel>
+    <channel update="i" site="tv.blue.ch" site_id="191##1845422e-a104-42ce-b110-65dc5e822ab7" xmltv_id="Giallo">Giallo</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1388##82b2191d-f9f2-1300-7048-808b56eb3be8" xmltv_id="Telecity 7 Gold">Telecity 7 Gold</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1665##108fe9ab-9c7a-8010-7048-4c8c8ea59aa4" xmltv_id="Cine34">Cine34</channel>
+    <channel update="i" site="tv.blue.ch" site_id="124##db18e9ed-df96-4284-ab54-9efd6adab5dd" xmltv_id="Discovery Channel I">Discovery Channel I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="126##8d63ad08-f7de-4230-9058-a4df7d7d20be" xmltv_id="Science Channel I">Science Channel I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="280##ad6b128e-22e7-46fc-84eb-4a95b7ce31fd" xmltv_id="National Geographic I">National Geographic I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="284##2dcf1714-28c6-4d40-b105-e9481ccd16bb" xmltv_id="National Geographic Wild I">National Geographic Wild I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1693##d73fbf37-bfc3-2300-7048-bdbaa361d086" xmltv_id="History IT">History IT</channel>
+    <channel update="i" site="tv.blue.ch" site_id="137##462e1d47-efd9-4792-a96b-c86b7f221ed5" xmltv_id="DMAX Italia">DMAX Italia</channel>
+    <channel update="i" site="tv.blue.ch" site_id="335##f1a95978-ac45-40b0-91fd-c64bb28bc4b5" xmltv_id="Rai News">Rai News</channel>
+    <channel update="i" site="tv.blue.ch" site_id="346##3cb9862d-afca-4380-9fe5-54d846846bbc" xmltv_id="Real Time">Real Time</channel>
+    <channel update="i" site="tv.blue.ch" site_id="166##3f942761-80df-4a30-af80-d07af6788d8f" xmltv_id="Euronews I">Euronews I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="340##a5924f6a-d944-4822-8ce7-fa6ba10f58da" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1346##b4438ec7-d09e-1300-7048-1813510a64ec" xmltv_id="Focus">Focus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="331##32580c11-29d2-4872-bdf5-58b107cb1dbc" xmltv_id="Rai 5">Rai 5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1384##4f90d5d9-f9f2-1300-7048-808b56eb3bc3" xmltv_id="Motor Trend">Motor Trend</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1287##f2d20217-2500-5300-7048-5f365cd3b9e6" xmltv_id="TGCom24">TGCom24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="393##186d687d-a516-4379-955c-e48e31d2433b" xmltv_id="sky TG 24">sky TG 24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="337##3cc83a3f-8c0a-4f6e-9fcf-6e904ad3b7dc" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel update="i" site="tv.blue.ch" site_id="643##61cf8da4-7545-4975-92a4-3d4f8bbdb061" xmltv_id="UNINETTUNO University TV">UNINETTUNO University TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1645##d63ed9dc-4d12-c010-7048-29e7e7815993" xmltv_id="Espansione TV">Espansione TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1671##98591850-ff4b-0010-7048-d8d59d805f31" xmltv_id="Senato Italiano">Senato Italiano</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1644##7d9e64b3-b1ea-0410-7048-0c324f6e1992" xmltv_id="Italian Fishing TV">Italian Fishing TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1719##f7be9119-f0da-1010-7048-7273721d8834" xmltv_id="San Marino RTV">San Marino RTV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1348##e907028b-d09e-1300-7048-1813510a6451" xmltv_id="Food Network IT">Food Network IT</channel>
+    <channel update="i" site="tv.blue.ch" site_id="16##10cc9330-068e-4877-a3ac-d0c9b8405f90" xmltv_id="ALMA TV">ALMA TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="101##de6cc6ef-7f3e-452a-aeb1-03024a03e7eb" xmltv_id="Class TV Moda">Class TV Moda</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1646##179a14c1-213e-4010-7048-6b73c0692c37" xmltv_id="Home &amp; Garden TV IT">Home &amp; Garden TV IT</channel>
+    <channel update="i" site="tv.blue.ch" site_id="338##29f5051b-66fb-4163-86bd-8b3fc58a9e74" xmltv_id="Rai Sport 1">Rai Sport 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="339##6c332a06-dcb0-42f2-abf5-71fc11ca99eb" xmltv_id="Rai Sport 2">Rai Sport 2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1387##0252951d-f9f2-1300-7048-808b56eb3bd4" xmltv_id="Sport Italia">Sport Italia</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1386##c791111d-f9f2-1300-7048-808b56eb3b4f" xmltv_id="SuperTennis TV">SuperTennis TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1667##96399158-ff0f-0010-7048-d8d59d805fd7" xmltv_id="Top Calcio 24">Top Calcio 24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="51##adeee589-65fc-4113-a39d-abced93e9435" xmltv_id="Boing I">Boing I</channel>
+    <channel update="i" site="tv.blue.ch" site_id="332##b04f750d-d7a2-4280-aaee-1d8ac2abd0d4" xmltv_id="Rai Gulp">Rai Gulp</channel>
+    <channel update="i" site="tv.blue.ch" site_id="84##e3d9e84e-b5da-48d8-a10c-741eca485183" xmltv_id="cartoonito">cartoonito</channel>
+    <channel update="i" site="tv.blue.ch" site_id="225##f9cde70c-459e-42be-9b8c-5a5a2cd33567" xmltv_id="K2">K2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="189##d8637342-6498-4674-ab59-b1f69297ee97" xmltv_id="Frisbee">Frisbee</channel>
+    <channel update="i" site="tv.blue.ch" site_id="341##54305901-e9ce-415f-b719-88fc0b408a24" xmltv_id="Rai Yoyo">Rai Yoyo</channel>
+    <channel update="i" site="tv.blue.ch" site_id="412##88c6b3fd-e914-4507-838b-497860b4bec2" xmltv_id="Super!">Super!</channel>
+    <channel update="i" site="tv.blue.ch" site_id="633##6170b2ac-699c-4149-ad20-db90bc37a145" xmltv_id="TV2000">TV2000</channel>
+    <channel update="i" site="tv.blue.ch" site_id="594##82770109-2373-4e72-ba91-3d6a19fa8db5" xmltv_id="Telepace">Telepace</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1382##12f0e011-f9f2-1300-7048-808b56eb3b21" xmltv_id="Italia Channel">Italia Channel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="625##edaba8c3-a4d0-42cf-9a0e-abfb125c3c61" xmltv_id="TV Globo Internacional">TV Globo Internacional</channel>
+    <channel update="i" site="tv.blue.ch" site_id="384##9a3a0529-70f6-4c2d-aac8-03111c6990db" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1483##893f7f37-bfc3-2300-7048-bdbaa361d09c" xmltv_id="TVI Internacional">TVI Internacional</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1487##853f7f37-bfc3-2300-7048-bdbaa361d082" xmltv_id="TVI Ficção">TVI Ficção</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1484##572f3f37-bfc3-2300-7048-bdbaa361d0c4" xmltv_id="RTP 3">RTP 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1482##661fbb37-bfc3-2300-7048-bdbaa361d09d" xmltv_id="SIC Noticias">SIC Noticias</channel>
+    <channel update="i" site="tv.blue.ch" site_id="365##4648836e-bd58-45d3-ad0f-c7807a4c7a2e" xmltv_id="RTP Internacional">RTP Internacional</channel>
+    <channel update="i" site="tv.blue.ch" site_id="347##2a4adfc7-24a3-4939-8863-5483ffec38ab" xmltv_id="Record TV">Record TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1401##3b1d6d37-d47a-1300-7048-2d2b17539bd7" xmltv_id="Kuriakos TV">Kuriakos TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1685##3fba4f7e-fd56-0410-7048-a79d764cc7e4" xmltv_id="TPA Internacional">TPA Internacional</channel>
+    <channel update="i" site="tv.blue.ch" site_id="608##a66074b5-ab1f-4a6a-ab4b-cd945c0ed279" xmltv_id="Tlnovelas">Tlnovelas</channel>
+    <channel update="i" site="tv.blue.ch" site_id="75##38c31b2a-94a9-43f2-8096-cb363f4517d7" xmltv_id="Las Estrellas">Las Estrellas</channel>
+    <channel update="i" site="tv.blue.ch" site_id="117##c2c56536-3b73-40f6-ba19-5143c42fdc8b" xmltv_id="De Pelicula">De Pelicula</channel>
+    <channel update="i" site="tv.blue.ch" site_id="352##00059b34-16cb-4fda-8504-699b9ae26838" xmltv_id="Telehit Urbano">Telehit Urbano</channel>
+    <channel update="i" site="tv.blue.ch" site_id="639##34454073-e3b3-4e90-accb-3db0d723bce1" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel update="i" site="tv.blue.ch" site_id="71##ddd6d02f-f18d-4dbb-88dd-fcb528506e27" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel update="i" site="tv.blue.ch" site_id="19##cdd6ac72-0d32-40de-874d-abeb1e0514d0" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1535##b4694bb0-bf71-7300-7048-bdbaa361d0d5" xmltv_id="Aragón TV Int">Aragón TV Int</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1291##183f2fd5-b8a4-1300-7048-768b25d334a1" xmltv_id="Canal Extremadura">Canal Extremadura</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1668##20ec5f76-35b6-0010-7048-17319da672cf" xmltv_id="teleSUR">teleSUR</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1696##b01fb199-9443-4010-7048-8198471dece1" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="tv.blue.ch" site_id="624##ba26ee5a-5406-4b2b-a087-a1465e6394b1" xmltv_id="Televisión de Galicia">Televisión de Galicia</channel>
+    <channel update="i" site="tv.blue.ch" site_id="383##4a85fcf6-2ecc-4044-aa07-aaa70cd855ae" xmltv_id="Show Türk">Show Türk</channel>
+    <channel update="i" site="tv.blue.ch" site_id="30##1f9241a6-4d47-4eb8-9caa-7fc40503763f" xmltv_id="ATV Avrupa">ATV Avrupa</channel>
+    <channel update="i" site="tv.blue.ch" site_id="161##fe9beb8c-0abc-4a9f-9459-22e1a656e6ff" xmltv_id="Euro D">Euro D</channel>
+    <channel update="i" site="tv.blue.ch" site_id="620##b54510aa-3590-4544-a785-2b15b7bfedad" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel update="i" site="tv.blue.ch" site_id="638##7a044e65-d308-47bb-bd0f-77c9666450a9" xmltv_id="TV8 Turkey">TV8 Turkey</channel>
+    <channel update="i" site="tv.blue.ch" site_id="162##959179d0-924a-441c-856a-74b5dadec3ce" xmltv_id="Euro Star">Euro Star</channel>
+    <channel update="i" site="tv.blue.ch" site_id="394##593b5576-c736-4f2b-b291-a34637bc546a" xmltv_id="360">360</channel>
+    <channel update="i" site="tv.blue.ch" site_id="602##11761ac4-7aa7-42ef-833d-9ece91fb292e" xmltv_id="TGRT EU">TGRT EU</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1297##9b24fb59-b8a4-1300-7048-768b25d3342c" xmltv_id="Showmax">Showmax</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1480##fb3fbf37-bfc3-2300-7048-bdbaa361d0ee" xmltv_id="TRT Müzik">TRT Müzik</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1479##7b3fbf37-bfc3-2300-7048-bdbaa361d0ec" xmltv_id="TRT Spor">TRT Spor</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1478##f73fbf37-bfc3-2300-7048-bdbaa361d0cf" xmltv_id="TRT Belgesel">TRT Belgesel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1477##373fbf37-bfc3-2300-7048-bdbaa361d0c8" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1656##2d1ed5dc-4d12-c010-7048-29e7e781591f" xmltv_id="CNN Türk">CNN Türk</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1718##1299f253-b182-1010-7048-c05bcc723fa7" xmltv_id="ATV (TR)">ATV (TR)</channel>
+    <channel update="i" site="tv.blue.ch" site_id="619##d4b607df-5580-4726-8443-92672b577b56" xmltv_id="TRT Kurdi">TRT Kurdi</channel>
+    <channel update="i" site="tv.blue.ch" site_id="235##6b259604-936b-4248-9816-1c23d938017a" xmltv_id="Kurdistan TV">Kurdistan TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="372##be2ec2a2-84ba-47cd-befe-a195b18bda15" xmltv_id="Rudaw TV">Rudaw TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="370##b28dc0e1-3eed-4a53-bb04-0cf5e91cd9c1" xmltv_id="Radiotelevizioni 21">Radiotelevizioni 21</channel>
+    <channel update="i" site="tv.blue.ch" site_id="234##b9b73272-2d3f-4ff2-881b-7b3e48fb1261" xmltv_id="KTV Kohavision">KTV Kohavision</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1446##60f73873-4975-6300-7048-8a30bbb56c3f" xmltv_id="TV Dukagjini">TV Dukagjini</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1688##58263153-35fe-4010-7048-17319da67210" xmltv_id="First Channel">First Channel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1689##8f9d31fe-ff15-0010-7048-d8d59d805f06" xmltv_id="T7">T7</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1782##421e1965-a834-2010-7048-158ac4727c5c" xmltv_id="Klan Albania">Klan Albania</channel>
+    <channel update="i" site="tv.blue.ch" site_id="358##82c8af8a-fd46-443a-9f50-ead53c1fd46a" xmltv_id="RTK1">RTK1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1679##b83e781b-353e-4010-7048-17319da672d1" xmltv_id="Zico TV">Zico TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1681##4013133a-3576-0010-7048-17319da67261" xmltv_id="RTSH 3">RTSH 3</channel>
+    <channel update="i" site="tv.blue.ch" site_id="314##ab8cb170-06e9-4fb3-b6ce-9835e9e7e6ee" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="309##60395d77-5ac5-4678-aa25-8ddec9ed6783" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="tv.blue.ch" site_id="310##273d9b63-0199-4043-a686-7329913ec1cf" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="tv.blue.ch" site_id="313##2da5864c-5945-4a98-b8c9-3a5f27eb8e56" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1413##b5736d86-01f8-6300-7048-f150948fd5bc" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel update="i" site="tv.blue.ch" site_id="311##cdfaf1f1-4412-4f0e-965f-14ef260737f2" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1459##03f04c57-e5a9-6300-7048-5a949f9cc30b" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel update="i" site="tv.blue.ch" site_id="312##1cc8f54c-f1b0-4f7f-9ce4-8a8ff4b4326d" xmltv_id="Pink Koncert">Pink Koncert</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1691##4c3d7dbe-ff15-0010-7048-d8d59d805f1f" xmltv_id="Pink World">Pink World</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1692##c7963953-35fe-4010-7048-17319da67270" xmltv_id="Pink Serije">Pink Serije</channel>
+    <channel update="i" site="tv.blue.ch" site_id="135##7877486a-4c37-4a38-8cef-c06fa3769a29" xmltv_id="DM Sat TV">DM Sat TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1445##04ca8a40-bc65-2300-7048-caadea3dd205" xmltv_id="RTS Svet">RTS Svet</channel>
+    <channel update="i" site="tv.blue.ch" site_id="324##ab17ed5f-b64e-4516-8bbe-86850366c71f" xmltv_id="PTPC">PTPC</channel>
+    <channel update="i" site="tv.blue.ch" site_id="413##e4ce88c0-83e2-46e1-8562-20d6c55c070c" xmltv_id="K::CN 3 Svet Plus">K::CN 3 Svet Plus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1649##fa3d7dbe-ff15-0010-7048-d8d59d805f7c" xmltv_id="BN Music">BN Music</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1662##6c6a7cbf-b1ea-0410-7048-0c324f6e19a2" xmltv_id="TV Duga+">TV Duga+</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1663##361fbb37-bfc3-2300-7048-bdbaa361d0af" xmltv_id="RTRS Plus">RTRS Plus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="48##503f7dfb-19c6-4c76-9b5f-4acf10840394" xmltv_id="BN TV Sat">BN TV Sat</channel>
+    <channel update="i" site="tv.blue.ch" site_id="197##7f0b09b3-429d-41d2-9b22-0b6adc170985" xmltv_id="Hayat PLUS">Hayat PLUS</channel>
+    <channel update="i" site="tv.blue.ch" site_id="196##4424d1bf-7cf6-4d2f-9e52-09950909e0ba" xmltv_id="Hayat FOLK">Hayat FOLK</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1481##7e3fbf37-bfc3-2300-7048-bdbaa361d05f" xmltv_id="OBN TV">OBN TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1501##11bde8cd-b0bb-6300-7048-518994b1b9a8" xmltv_id="Hayat Music">Hayat Music</channel>
+    <channel update="i" site="tv.blue.ch" site_id="112##ccd4203c-71e0-4423-b882-1314cd744e45" xmltv_id="Croatian Music Channel">Croatian Music Channel</channel>
+    <channel update="i" site="tv.blue.ch" site_id="206##022bc642-9741-41f3-a9ad-6b7851c9a74c" xmltv_id="HRT 1">HRT 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="632##f0531966-984f-411a-bbd4-0226d67c3692" xmltv_id="Z1 Televizija">Z1 Televizija</channel>
+    <channel update="i" site="tv.blue.ch" site_id="629##e43a7959-7d2d-4e1d-b7e4-fce90f13701a" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="tv.blue.ch" site_id="139##d78b7724-8da4-4e32-9887-aa0d80bf70ca" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="140##09de8970-e118-48be-b024-fd0a1282f6ed" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1527##4b2abafc-ff71-b300-7048-d8d59d805f8e" xmltv_id="M2">M2</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1530##ee90cb34-ffb1-b300-7048-d8d59d805f8c" xmltv_id="M4 Sport">M4 Sport</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1529##03e8febc-ff71-b300-7048-d8d59d805fca" xmltv_id="Duna 1">Duna 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1531##98120774-ffb1-b300-7048-d8d59d805fef" xmltv_id="M5">M5</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1528##c268f2bc-ff71-b300-7048-d8d59d805f1a" xmltv_id="M1">M1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1664##dd42bfa4-4976-0010-7048-d1237e677665" xmltv_id="HRT Int.">HRT Int.</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1699##195aa38b-087d-1010-7048-ab8da2136d23" xmltv_id="CT24">CT24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="321##4679b3d0-dfcd-460f-b0cc-30875f272c9d" xmltv_id="Pro TV International">Pro TV International</channel>
+    <channel update="i" site="tv.blue.ch" site_id="631##5cdb775f-ac69-4690-8d8a-1a508a77d75a" xmltv_id="TV Romania International">TV Romania International</channel>
+    <channel update="i" site="tv.blue.ch" site_id="33##43588d97-ab10-4adb-8cb4-9c067d57477b" xmltv_id="B1 TV">B1 TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1650##de67b67c-ff71-b300-7048-d8d59d805fdc" xmltv_id="Digi 24">Digi 24</channel>
+    <channel update="i" site="tv.blue.ch" site_id="229##d8bd8357-4174-4d44-b188-858cb7470419" xmltv_id="Kinomir">Kinomir</channel>
+    <channel update="i" site="tv.blue.ch" site_id="587##e0cfc2be-87da-4ee7-91e5-ad624d8797c8" xmltv_id="TeleBom - TeleDom">TeleBom - TeleDom</channel>
+    <channel update="i" site="tv.blue.ch" site_id="922##a453a4f2-ff63-5200-7048-d8d59d805f7a" xmltv_id="OstWest">OstWest</channel>
+    <channel update="i" site="tv.blue.ch" site_id="90##c3619c2a-04b8-442c-a83f-52ab69b164b3" xmltv_id="Channel 1 Russia">Channel 1 Russia</channel>
+    <channel update="i" site="tv.blue.ch" site_id="366##1b555a2e-1d31-4132-8d64-2a284083d61e" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1676##09b67953-35fe-4010-7048-17319da672d6" xmltv_id="Karusel Int.">Karusel Int.</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1457##3ee2a66d-b9ce-2300-7048-e501e475875b" xmltv_id="The Israeli Network">The Israeli Network</channel>
+    <channel update="i" site="tv.blue.ch" site_id="153##c6aa03fb-f7e9-4e4c-ba6b-eac64a4d4300" xmltv_id="ERT World">ERT World</channel>
+    <channel update="i" site="tv.blue.ch" site_id="351##b370876e-3698-49ca-a07d-66539f62e678" xmltv_id="RIK Sat">RIK Sat</channel>
+    <channel update="i" site="tv.blue.ch" site_id="56##cd726357-44d1-4be1-80e9-77256d9b0d27" xmltv_id="BVN TV">BVN TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="3##5b308d63-9a23-4d11-bf0f-0a48890a549a" xmltv_id="2M Monde">2M Monde</channel>
+    <channel update="i" site="tv.blue.ch" site_id="14##7c0ecb76-0d97-44e3-b934-586de614c092" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="tv.blue.ch" site_id="138##c6e2f30a-a6a5-467d-b41e-6d1af3367131" xmltv_id="Dubai TV">Dubai TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="13##d09516e6-9255-4274-823f-5c998f775d69" xmltv_id="Al Arabiya">Al Arabiya</channel>
+    <channel update="i" site="tv.blue.ch" site_id="154##7e0ab22d-b7ed-4612-8414-d4e5e082b837" xmltv_id="ESC (Al Masriya)">ESC (Al Masriya)</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1661##96594b3e-fd56-0410-7048-a79d764cc705" xmltv_id="Kuwait TV">Kuwait TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1673##6330182c-3ce6-4010-7048-9a300dee9d79" xmltv_id="Tunisie Nationale">Tunisie Nationale</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1698##bfa51ebf-51d1-1010-7048-31182ec44d27" xmltv_id="Oman TV">Oman TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="403##2d7c1aa7-73d0-4dca-8f2f-f423af1c1c53" xmltv_id="Utsav Gold">Utsav Gold</channel>
+    <channel update="i" site="tv.blue.ch" site_id="404##6adb14d3-1c4d-4226-8ff6-0fe2a75ef7da" xmltv_id="Utsav Plus">Utsav Plus</channel>
+    <channel update="i" site="tv.blue.ch" site_id="407##8386723a-dc1e-44fd-9cc5-6cf3cb3380cf" xmltv_id="Vijay TV">Vijay TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="88##7c7c6e87-058c-4df7-8a76-2661b5a1c0fd" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="tv.blue.ch" site_id="87##902e8cec-3913-4e64-9071-c6b880a5b840" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="tv.blue.ch" site_id="306##aff69f68-5e1d-4a19-8aca-9a291c1907a1" xmltv_id="Phoenix Info News">Phoenix Info News</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1500##93ffaccd-b0bb-6300-7048-518994b1b97a" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="tv.blue.ch" site_id="603##43d99ec5-4f24-4ce5-9158-03446d2c349a" xmltv_id="Thai TV Global Network">Thai TV Global Network</channel>
+    <channel update="i" site="tv.blue.ch" site_id="917##27312307-e945-5300-7048-a2f3b8cf3be6" xmltv_id="blue Vision TV">blue Vision TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1525##df3fbf37-bfc3-2300-7048-bdbaa361d098" xmltv_id="MyMTV Music">MyMTV Music</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1285##c3186d51-b9c3-4300-7048-8cb303d9a57c" xmltv_id="Sky Sport">Sky Sport</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1452##9f23015f-e52d-6300-7048-5a949f9cc357" xmltv_id="DAZN">DAZN</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1759##2a5e8e26-006b-1010-7048-cb9ac64a3925" xmltv_id="Twitch">Twitch</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1080##446b46a4-bf0e-2200-7048-bdbaa361d0f9" xmltv_id="Netflix">Netflix</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1687##a8e5a4e1-040b-4010-7048-0921654728ce" xmltv_id="Sky Show">Sky Show</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1758##ee9912e2-00ab-1010-7048-cb9ac64a3967" xmltv_id="Amazon Prime Video">Amazon Prime Video</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1757##80b3162e-006b-1010-7048-cb9ac64a39aa" xmltv_id="GVAX Latino TV">GVAX Latino TV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1727##656605f2-0562-5010-7048-d228df360d9b" xmltv_id="Inhouse Channel">Inhouse Channel</channel>
+  </channels>
+</site>

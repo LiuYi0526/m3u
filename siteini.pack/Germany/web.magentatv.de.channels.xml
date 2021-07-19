@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="web.magentatv.de">
+  <channels>
+    <channel update="i" site="web.magentatv.de" site_id="373##http://programm-manager.telekom.de/media/cf416cc96a575e40e35f43c05d829efdb176bc35.png" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="web.magentatv.de" site_id="408##http://programm-manager.telekom.de/media/e19130e25f23d70df7f85807c6ddc1c8d62109f5.png" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="web.magentatv.de" site_id="404##http://programm-manager.telekom.de/media/faa7d82f5d52540cf25ca62acd71479093bda977.png" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="web.magentatv.de" site_id="381##http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="374##http://programm-manager.telekom.de/media/67c3154ef4906af6324dc75cdd2ec4b8f32ba77d.png" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="web.magentatv.de" site_id="385##http://programm-manager.telekom.de/media/ab1b4db17f18456ab5fef3b39180c2f0fac69833.png" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="web.magentatv.de" site_id="405##http://programm-manager.telekom.de/media/97cabed29d22f5726bc367c02f7f7860e7e95ea4.png" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel update="i" site="web.magentatv.de" site_id="382##http://programm-manager.telekom.de/media/bcfa273955d4de5c524ab6a632793d4e0ca5d340.png" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel update="i" site="web.magentatv.de" site_id="403##http://programm-manager.telekom.de/media/d424d9dd46e4aadf15c9b290f9566022e1f751e3.png" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="web.magentatv.de" site_id="387##http://programm-manager.telekom.de/media/2f0ff7b44c615c4de521878f52a67bc204e90ccc.png" xmltv_id="KiKA">KiKA</channel>
+    <channel update="i" site="web.magentatv.de" site_id="54##http://programm-manager.telekom.de/media/564172e6fc9ba959953b01338b392280debf2bb3.png" xmltv_id="Nick/CC+1">Nick/CC+1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="392##http://programm-manager.telekom.de/media/cb4ad5071a81df9a8f926ab737dd81934a3f3c43.png" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="web.magentatv.de" site_id="375##http://programm-manager.telekom.de/media/27b5768478a2c8dbae1accd6fce7180eff6267cf.png" xmltv_id="WELT">WELT</channel>
+    <channel update="i" site="web.magentatv.de" site_id="376##http://programm-manager.telekom.de/media/4aeedcd569e01554c2ead254a2e846855f8ba4a0.png" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="web.magentatv.de" site_id="371##http://programm-manager.telekom.de/media/3363e853ea8c2bd2568dc233d3006f205b86096b.png" xmltv_id="phoenix">phoenix</channel>
+    <channel update="i" site="web.magentatv.de" site_id="48##http://programm-manager.telekom.de/media/b3034077452a19ce48784dcf512e70b5c9f73cf2.png" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="web.magentatv.de" site_id="391##http://programm-manager.telekom.de/media/cb898bc1d4f4291a994851ae22ae93b40467181c.png" xmltv_id="zdf_neo">zdf_neo</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4375##http://programm-manager.telekom.de/media/d552ca4b26be8e72d06fd9c047f73880679cfbf9.jpeg" xmltv_id="#dabeiTV">#dabeiTV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4358##http://programm-manager.telekom.de/media/bad33e831e7d988e58e1c5f1eb023e7d4703afcd.png" xmltv_id="Disney+ Select">Disney+ Select</channel>
+    <channel update="i" site="web.magentatv.de" site_id="411##http://programm-manager.telekom.de/media/08e992f63c4d23e5d27998707b63e31abbc4cbf2.jpeg" xmltv_id="Lokal-TV">Lokal-TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="407##http://programm-manager.telekom.de/media/52752f7b78c9f0d2d89f11b03ddda945b42cd2c9.png" xmltv_id="BR Süd">BR Süd</channel>
+    <channel update="i" site="web.magentatv.de" site_id="386##http://programm-manager.telekom.de/media/78802a0c3c0f4ea2447fa3ff3ddf58af91fe16b2.png" xmltv_id="hr">hr</channel>
+    <channel update="i" site="web.magentatv.de" site_id="370##http://programm-manager.telekom.de/media/190c36c2d73c1f6ad33dbe51420e74bcf25a1b8a.png" xmltv_id="MDR Sachsen">MDR Sachsen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="377##http://programm-manager.telekom.de/media/f96f503dad4f3249a2cce3bc0c02d6c02e4bd6e7.png" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="web.magentatv.de" site_id="368##http://programm-manager.telekom.de/media/d9b006bcddd239be7233d41b2fc1ffd4476d8337.png" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="384##http://programm-manager.telekom.de/media/3e3562b88101724740eeae0a5ea8c562ceec77cf.png" xmltv_id="rbb Berlin">rbb Berlin</channel>
+    <channel update="i" site="web.magentatv.de" site_id="379##http://programm-manager.telekom.de/media/738d1dded8cbbc49fc60c4163d254e395b66e230.png" xmltv_id="SR">SR</channel>
+    <channel update="i" site="web.magentatv.de" site_id="398##http://programm-manager.telekom.de/media/495467ab9811c377ee0226fdce0878ed09930b7f.png" xmltv_id="SWR BW">SWR BW</channel>
+    <channel update="i" site="web.magentatv.de" site_id="393##http://programm-manager.telekom.de/media/495467ab9811c377ee0226fdce0878ed09930b7f.png" xmltv_id="SWR RP">SWR RP</channel>
+    <channel update="i" site="web.magentatv.de" site_id="397##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="web.magentatv.de" site_id="389##http://programm-manager.telekom.de/media/78c2b996afeb3ce1579cf2b322ee15216020b0b6.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="401##http://programm-manager.telekom.de/media/6461d1813040d490c6eaf8887286ba876e938a17.png" xmltv_id="SPORT1">SPORT1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="190##http://programm-manager.telekom.de/media/2498751ec7f984ac0d80376e61d8322492d69b83.png" xmltv_id="Sky Sport News">Sky Sport News</channel>
+    <channel update="i" site="web.magentatv.de" site_id="394##http://programm-manager.telekom.de/media/8421f189118991ab7b5d1bb1a749cf8eca1b0501.png" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="web.magentatv.de" site_id="402##http://programm-manager.telekom.de/media/5388fcfe85425017a8b8ef3c9b6083c6e4a05ebf.png" xmltv_id="ONE">ONE</channel>
+    <channel update="i" site="web.magentatv.de" site_id="452##http://programm-manager.telekom.de/media/a39367d3874a697055b11ea159da1e528c79bc69.png" xmltv_id="ANIXE+">ANIXE+</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4777##http://programm-manager.telekom.de/media/6dad0a5ad793821b149d1fc6bfd4168e6d128a2d.png" xmltv_id="ANIXE HD Serie">ANIXE HD Serie</channel>
+    <channel update="i" site="web.magentatv.de" site_id="50##http://programm-manager.telekom.de/media/d53ac960c377cc6e7fba0946689a7cf881caa608.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="web.magentatv.de" site_id="27##http://programm-manager.telekom.de/media/43023439bd3b7a134d90116f72d8911dceeb7a85.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="web.magentatv.de" site_id="429##http://programm-manager.telekom.de/media/ddf2946d5dc4e747b294fadeeb5552643688a6a4.png" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3043##http://programm-manager.telekom.de/media/4e6cae5c4546015a0e24c372384dab6f44d6dd1d.png" xmltv_id="eoTV">eoTV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3583##http://programm-manager.telekom.de/media/fc0f32de5bfb782974da67e5fa6fc7c4ffcb2a64.png" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="396##http://programm-manager.telekom.de/media/39803d8155ac67b6eb5ebc6fc9ee0f776bda9078.png" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel update="i" site="web.magentatv.de" site_id="395##http://programm-manager.telekom.de/media/d39e08b7e07394cf436285fb47ed36c0037b89c6.png" xmltv_id="NITRO">NITRO</channel>
+    <channel update="i" site="web.magentatv.de" site_id="542##http://programm-manager.telekom.de/media/850ee7341edab53ad0ef066c462c22a955952665.png" xmltv_id="RTLplus">RTLplus</channel>
+    <channel update="i" site="web.magentatv.de" site_id="338##http://programm-manager.telekom.de/media/50e21d837d6ca501ef59c832f139c269ea173bf5.png" xmltv_id="SAT.1 GOLD">SAT.1 GOLD</channel>
+    <channel update="i" site="web.magentatv.de" site_id="39##http://programm-manager.telekom.de/media/a4ceb7758df7a2daf8e1db7dda7ae70c02334525.png" xmltv_id="Servus TV">Servus TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="380##http://programm-manager.telekom.de/media/de47028468ad1df49de852883dc42addad5825c1.png" xmltv_id="sixx">sixx</channel>
+    <channel update="i" site="web.magentatv.de" site_id="383##http://programm-manager.telekom.de/media/b586ac90cc3f2a1b5b684c3040248b3f8a4b50ea.png" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="web.magentatv.de" site_id="601##http://programm-manager.telekom.de/media/744f1eae71634557d366ad03a96d557dd4d8cc50.png" xmltv_id="TOGGO plus">TOGGO plus</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3930##http://programm-manager.telekom.de/media/343f563d2dfffc0ef1ef4c10fe83bc88b5dfdad3.png" xmltv_id="VOXup">VOXup</channel>
+    <channel update="i" site="web.magentatv.de" site_id="479##http://programm-manager.telekom.de/media/ca7b82627f3ebabc7c3a37b306b621721bbdc91e.png" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel update="i" site="web.magentatv.de" site_id="485##http://programm-manager.telekom.de/media/fc134f2137d5ab6b589f05da9b4d504ef7ef6510.png" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="480##http://programm-manager.telekom.de/media/e18d03f952a49dd28d494b46f24fce8d49e8f6eb.png" xmltv_id="DW">DW</channel>
+    <channel update="i" site="web.magentatv.de" site_id="482##http://programm-manager.telekom.de/media/17772f35586cde472a7a9a70f8efcd365efd7b10.png" xmltv_id="EuroN D">EuroN D</channel>
+    <channel update="i" site="web.magentatv.de" site_id="487##http://programm-manager.telekom.de/media/44c0777e773540008bb854a5464e6d0db65f30b9.png" xmltv_id="K TV">K TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="573##http://programm-manager.telekom.de/media/6e13a0345c0d40adb0f718755c315dce6269af1d.png" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel update="i" site="web.magentatv.de" site_id="553##http://programm-manager.telekom.de/media/72792fbb249037ecda95dc74746a3b328259584c.png" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="web.magentatv.de" site_id="400##http://programm-manager.telekom.de/media/efb9c4d31b9a35b7c239bbc1ad32379ba8638671.png" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel update="i" site="web.magentatv.de" site_id="60##http://programm-manager.telekom.de/media/b34ca6367edd117b07dcfc59f1b12c61b2d1fe6d.png" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+    <channel update="i" site="web.magentatv.de" site_id="378##http://programm-manager.telekom.de/media/1aeb69ec2c60a45a57bc0c01fd6c36b6dbf377e7.png" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="web.magentatv.de" site_id="25##http://programm-manager.telekom.de/media/0c7d8589ef1ecac504e6441bf09db1188f9d9a54.png" xmltv_id="Deluxe Music">Deluxe Music</channel>
+    <channel update="i" site="web.magentatv.de" site_id="28##http://programm-manager.telekom.de/media/cf07e07f319004abaee8e95d543262b0cdfd1bf4.png" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4724##http://programm-manager.telekom.de/media/c997fed51bd331bc260a8cadeb773a3d036335e8.png" xmltv_id="1-2-3.tv">1-2-3.tv</channel>
+    <channel update="i" site="web.magentatv.de" site_id="451##http://programm-manager.telekom.de/media/968cb75741a60283e32c7872073b153e0599e346.png" xmltv_id="HSE">HSE</channel>
+    <channel update="i" site="web.magentatv.de" site_id="446##http://programm-manager.telekom.de/media/fd01d35d5c28a955c3e7e62a65d1018feb3b8317.png" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="web.magentatv.de" site_id="486##http://programm-manager.telekom.de/media/cb7dc216efdc0daa6b956f55f60793f9449793bc.png" xmltv_id="sonnenklar.TV">sonnenklar.TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="454##http://programm-manager.telekom.de/media/8762828973e9004a6750aa044130b3f44df1e4fb.png" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="web.magentatv.de" site_id="399##http://programm-manager.telekom.de/media/f1647f0e611ec151d06dc31c27989f8f2ecad574.png" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="web.magentatv.de" site_id="616##http://programm-manager.telekom.de/media/f7a78dd42812f05d3bd360c98e09688553f04918.png" xmltv_id="Magenta Musik 1">Magenta Musik 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="617##http://programm-manager.telekom.de/media/f7a78dd42812f05d3bd360c98e09688553f04918.png" xmltv_id="Magenta Musik 2">Magenta Musik 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="255##http://programm-manager.telekom.de/media/a8e6a82760b56428170e316932f38fabeb0814db.png" xmltv_id="13TH STREET">13TH STREET</channel>
+    <channel update="i" site="web.magentatv.de" site_id="110##http://programm-manager.telekom.de/media/147fecdeee0c425d6a580dd43132d4f859bb23a4.png" xmltv_id="SONY AXN">SONY AXN</channel>
+    <channel update="i" site="web.magentatv.de" site_id="567##http://programm-manager.telekom.de/media/718556718a3e4bdb04f2e39ca531bd83fbf75d88.png" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="web.magentatv.de" site_id="157##http://programm-manager.telekom.de/media/a58e98653f4966262ca6d714b555f583cdd5870e.png" xmltv_id="Kabel Eins CLASSICS">Kabel Eins CLASSICS</channel>
+    <channel update="i" site="web.magentatv.de" site_id="137##http://programm-manager.telekom.de/media/ebdbf39814820b3b2fa697c7c5f18c2d2d42bfde.png" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="259##http://programm-manager.telekom.de/media/40e41e7fc04d7c6f355e4cb818abc0f1fa9221a0.png" xmltv_id="ProSieben FUN">ProSieben FUN</channel>
+    <channel update="i" site="web.magentatv.de" site_id="216##http://programm-manager.telekom.de/media/5bedbb425c167d19f490d580a8efb8c4474c6b90.png" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="web.magentatv.de" site_id="133##http://programm-manager.telekom.de/media/0fe285bc64ebc70a42b03567e044e37ddf9247ee.png" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="web.magentatv.de" site_id="181##http://programm-manager.telekom.de/media/477842b642b27b0208a49f3d93895fc07f71ddc6.png" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="web.magentatv.de" site_id="184##http://programm-manager.telekom.de/media/794ed22dcb9465290c2d3977ccef10f201e49122.png" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="web.magentatv.de" site_id="53##http://programm-manager.telekom.de/media/a4bb2b7f33cb2f4c8a3f771733b7f1e754ab0406.png" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel update="i" site="web.magentatv.de" site_id="185##http://programm-manager.telekom.de/media/7f48afa094b2c72438c121e0554924a52dbd928b.png" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="109##http://programm-manager.telekom.de/media/b4541398d4daef82bca028fb931fc9686ef3ba8b.png" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="148##http://programm-manager.telekom.de/media/22b97e786ea3418439d704487dcb338f735c51ed.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="web.magentatv.de" site_id="126##http://programm-manager.telekom.de/media/62db037b6484ffd2e0c2aa3642c19958eb292c80.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="web.magentatv.de" site_id="125##http://programm-manager.telekom.de/media/2114900fe257b49ef0ad6d54558b5cc1b322babb.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="web.magentatv.de" site_id="221##http://programm-manager.telekom.de/media/fd4fdfd9465ebbc2a23b6e484de08f530d6415a2.png" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="web.magentatv.de" site_id="117##http://programm-manager.telekom.de/media/c1b8b637efa554081624dbcee2257dbe813a6ba0.png" xmltv_id="BonGusto">BonGusto</channel>
+    <channel update="i" site="web.magentatv.de" site_id="26##http://programm-manager.telekom.de/media/26673f6295fbb5fafc3d1559873c0a85422afd69.png" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="web.magentatv.de" site_id="22##http://programm-manager.telekom.de/media/b7f2df856b0ce610d4918b61aa5f25ee6cf6c61d.png" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="661##http://programm-manager.telekom.de/media/bde2d6cf0a6444e7c5d69dda485e41a4c7c19d00.png" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="web.magentatv.de" site_id="209##http://programm-manager.telekom.de/media/95ae04b2ad282f1751cb7c5e11d0e0e98a73122b.png" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="web.magentatv.de" site_id="260##http://programm-manager.telekom.de/media/a7090918dd814d59d3aff662fd317b7dd2a176c7.png" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="227##http://programm-manager.telekom.de/media/62b0366bf7dca6deeec9e7ca575e5a1c01401025.png" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="web.magentatv.de" site_id="224##http://programm-manager.telekom.de/media/611aafacc609a226b45e4b6a9f5ec25e6063207d.png" xmltv_id="SAT.1 emotions">SAT.1 emotions</channel>
+    <channel update="i" site="web.magentatv.de" site_id="188##http://programm-manager.telekom.de/media/c185e6513c0e9370583854d681fa17b3b545a30c.png" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="web.magentatv.de" site_id="571##http://programm-manager.telekom.de/media/7dd1aeba5f4bfdf43c3e2c87db051cf7635a9e85.png" xmltv_id="wetter.com TV">wetter.com TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="105##http://programm-manager.telekom.de/media/5255ebd8c1bfed40d33eff7bc066c6a61c7adab4.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="web.magentatv.de" site_id="106##http://programm-manager.telekom.de/media/dfd75d6307871c1d4f40d5741b92c3d411835dec.png" xmltv_id="Crime+Investigation">Crime+Investigation</channel>
+    <channel update="i" site="web.magentatv.de" site_id="23##http://programm-manager.telekom.de/media/ea845e7451e73ccd87dbea800822c4dccbd11345.png" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="web.magentatv.de" site_id="153##http://programm-manager.telekom.de/media/9dd569bb4c1de835f21d29ac6fa9202c4d692a2e.png" xmltv_id="GEO">GEO</channel>
+    <channel update="i" site="web.magentatv.de" site_id="162##http://programm-manager.telekom.de/media/82bd5e5df445626dd24fd8d12892b6936bfaf6be.png" xmltv_id="The HISTORY Channel">The HISTORY Channel</channel>
+    <channel update="i" site="web.magentatv.de" site_id="35##http://programm-manager.telekom.de/media/300ee96526ee22e83abc8cd72778715c6d8be000.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="web.magentatv.de" site_id="569##http://programm-manager.telekom.de/media/825ae85bec16d0c4c593df6419d05971fa13017b.png" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
+    <channel update="i" site="web.magentatv.de" site_id="45##http://programm-manager.telekom.de/media/c88561255251bd5ba00b0baa36b471562256894a.png" xmltv_id="doxx">doxx</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4406##http://programm-manager.telekom.de/media/2f4af2b3cad1d01ef4d324cbe662c76f0d87469a.png" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel update="i" site="web.magentatv.de" site_id="186##http://programm-manager.telekom.de/media/c25af87c47f612643f7fea6496d8850b11c54a4e.png" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="108##http://programm-manager.telekom.de/media/eafee48faac5801ba1be0a006b07b1dedbe4cc8b.png" xmltv_id="auto motor und sport">auto motor und sport</channel>
+    <channel update="i" site="web.magentatv.de" site_id="18##http://programm-manager.telekom.de/media/2e93193d3564e9ceba2faf1a89427e489b5d981a.png" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="122##http://programm-manager.telekom.de/media/26020335deb419e99fdcb9d85cafe1473ee1304a.png" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="web.magentatv.de" site_id="604##http://programm-manager.telekom.de/media/83a652d3768e31ddb78299ee4191f13aeab0b958.png" xmltv_id="MOTORVISION.TV">MOTORVISION.TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="44##http://programm-manager.telekom.de/media/af9a42b6042b440dcbe2d2b0eec4a8ddf5c271af.png" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel update="i" site="web.magentatv.de" site_id="191##http://programm-manager.telekom.de/media/c295c992a70344eb7a9ba0b2058f91818902f434.png" xmltv_id="eSPORTS1">eSPORTS1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="194##http://programm-manager.telekom.de/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png" xmltv_id="SPORTDIGITAL FUSSBALL">SPORTDIGITAL FUSSBALL</channel>
+    <channel update="i" site="web.magentatv.de" site_id="112##http://programm-manager.telekom.de/media/6f12c57f968312ffd7571a42ed181879fb033220.png" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="web.magentatv.de" site_id="32##http://programm-manager.telekom.de/media/b7ebdc82026f8f0c8c630e31fb9de32df0cabf69.png" xmltv_id="Lust pur">Lust pur</channel>
+    <channel update="i" site="web.magentatv.de" site_id="228##http://programm-manager.telekom.de/media/a1aca041369f0c159df932609f2333f16e01d2b2.png" xmltv_id="Penthouse Passion">Penthouse Passion</channel>
+    <channel update="i" site="web.magentatv.de" site_id="34##http://programm-manager.telekom.de/media/80326359bc24cb615cb8b1c45dd5a6918bc2f2bd.png" xmltv_id="Playboy Europe">Playboy Europe</channel>
+    <channel update="i" site="web.magentatv.de" site_id="218##http://programm-manager.telekom.de/media/5b2bf4b5995f479d962a0e5154a7976d752b3ec4.png" xmltv_id="Jukebox">Jukebox</channel>
+    <channel update="i" site="web.magentatv.de" site_id="367##http://programm-manager.telekom.de/media/bef4c74101aa68819c60f53b4405f170819e9861.png" xmltv_id="MyTeam TV - Basketball 1">MyTeam TV - Basketball 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="366##http://programm-manager.telekom.de/media/bef4c74101aa68819c60f53b4405f170819e9861.png" xmltv_id="MyTeam TV - Basketball 2">MyTeam TV - Basketball 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="369##http://programm-manager.telekom.de/media/bef4c74101aa68819c60f53b4405f170819e9861.png" xmltv_id="MyTeam TV - Basketball 3">MyTeam TV - Basketball 3</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3686##http://programm-manager.telekom.de/media/bef4c74101aa68819c60f53b4405f170819e9861.png" xmltv_id="MyTeam TV - Basketball 4">MyTeam TV - Basketball 4</channel>
+    <channel update="i" site="web.magentatv.de" site_id="633##http://programm-manager.telekom.de/media/fb460f60c024d86985aae6c228d24c1a718c26ca.jpeg" xmltv_id="Liveübertragungen der BBL-Spiele 5-9">Liveübertragungen der BBL-Spiele 5-9</channel>
+    <channel update="i" site="web.magentatv.de" site_id="550##http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png" xmltv_id="MyTeam TV - Eishockey 1">MyTeam TV - Eishockey 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="548##http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png" xmltv_id="MyTeam TV - Eishockey 2">MyTeam TV - Eishockey 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="549##http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png" xmltv_id="MyTeam TV - Eishockey 3">MyTeam TV - Eishockey 3</channel>
+    <channel update="i" site="web.magentatv.de" site_id="648##http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png" xmltv_id="MyTeam TV - Eishockey 4">MyTeam TV - Eishockey 4</channel>
+    <channel update="i" site="web.magentatv.de" site_id="645##http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png" xmltv_id="MyTeam TV - Eishockey 5">MyTeam TV - Eishockey 5</channel>
+    <channel update="i" site="web.magentatv.de" site_id="647##http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png" xmltv_id="MyTeam TV - Eishockey 6">MyTeam TV - Eishockey 6</channel>
+    <channel update="i" site="web.magentatv.de" site_id="646##http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png" xmltv_id="MyTeam TV - Eishockey 7">MyTeam TV - Eishockey 7</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3757##http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png" xmltv_id="MyTeam TV - Eishockey 8">MyTeam TV - Eishockey 8</channel>
+    <channel update="i" site="web.magentatv.de" site_id="603##http://programm-manager.telekom.de/media/d2b5a65cfaa9065d8bc5729804b3b097b24aa3b1.png" xmltv_id="FC BAYERN.TV LIVE">FC BAYERN.TV LIVE</channel>
+    <channel update="i" site="web.magentatv.de" site_id="637##http://programm-manager.telekom.de/media/50dd32f0f42a79c4b5379b499412f381564764e3.png" xmltv_id="Sky Sport Kompakt 1">Sky Sport Kompakt 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="638##http://programm-manager.telekom.de/media/529602bb0154fdd0e5d4d85d8e775c6840f5b30c.png" xmltv_id="Sky Sport Kompakt 2">Sky Sport Kompakt 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="639##http://programm-manager.telekom.de/media/b4838fd404f3841e13a61572636d2b35275f09ae.png" xmltv_id="Sky Sport Kompakt 3">Sky Sport Kompakt 3</channel>
+    <channel update="i" site="web.magentatv.de" site_id="640##http://programm-manager.telekom.de/media/1a57f187e215c2cbdb889ca161019a6b83ef197f.png" xmltv_id="Sky Sport Kompakt 4">Sky Sport Kompakt 4</channel>
+    <channel update="i" site="web.magentatv.de" site_id="641##http://programm-manager.telekom.de/media/e3ab8aeeec5898a35c39ae44b4febeb90e1d4245.png" xmltv_id="Sky Sport Kompakt 5">Sky Sport Kompakt 5</channel>
+    <channel update="i" site="web.magentatv.de" site_id="623##http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png" xmltv_id="MyTeam TV - Fußball 1">MyTeam TV - Fußball 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="626##http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png" xmltv_id="MyTeam TV - Fußball 2">MyTeam TV - Fußball 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="624##http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png" xmltv_id="MyTeam TV - Fußball 3">MyTeam TV - Fußball 3</channel>
+    <channel update="i" site="web.magentatv.de" site_id="625##http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png" xmltv_id="MyTeam TV - Fußball 4">MyTeam TV - Fußball 4</channel>
+    <channel update="i" site="web.magentatv.de" site_id="627##http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png" xmltv_id="MyTeam TV - Fußball 5">MyTeam TV - Fußball 5</channel>
+    <channel update="i" site="web.magentatv.de" site_id="629##http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png" xmltv_id="MyTeam TV - Fußball 6">MyTeam TV - Fußball 6</channel>
+    <channel update="i" site="web.magentatv.de" site_id="628##http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png" xmltv_id="MyTeam TV - Fußball 7">MyTeam TV - Fußball 7</channel>
+    <channel update="i" site="web.magentatv.de" site_id="620##http://programm-manager.telekom.de/media/1b231c42b567fdbd518ec42a1f499f6938a70748.jpeg" xmltv_id="Zur Zeit keine Liveübertragung, bitte besuchen Sie Kanal 330 bis 336 oder www.magentasport.de">Zur Zeit keine Liveübertragung, bitte besuchen Sie Kanal 330 bis 336 oder www.magentasport.de</channel>
+    <channel update="i" site="web.magentatv.de" site_id="483##http://programm-manager.telekom.de/media/68d8a0d3c272cb197ee4ea8b1c6c947322a7c357.png" xmltv_id="T-Bom/T-Dom">T-Bom/T-Dom</channel>
+    <channel update="i" site="web.magentatv.de" site_id="475##http://programm-manager.telekom.de/media/17772f35586cde472a7a9a70f8efcd365efd7b10.png" xmltv_id="EuroN RUS">EuroN RUS</channel>
+    <channel update="i" site="web.magentatv.de" site_id="472##http://programm-manager.telekom.de/media/33cb6a595f8e2f571835f118aee7a01fa71fefc0.png" xmltv_id="Kinomir">Kinomir</channel>
+    <channel update="i" site="web.magentatv.de" site_id="481##http://programm-manager.telekom.de/media/9cba2b2b1dcd7c20316204ae17d312c1426c623c.png" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="web.magentatv.de" site_id="476##http://programm-manager.telekom.de/media/f5085da86acff543660f862853381ffaf419d213.png" xmltv_id="Ost West">Ost West</channel>
+    <channel update="i" site="web.magentatv.de" site_id="474##http://programm-manager.telekom.de/media/b84219e0fcb94575469a758d76f2b2fcea92683b.png" xmltv_id="iTVN">iTVN</channel>
+    <channel update="i" site="web.magentatv.de" site_id="473##http://programm-manager.telekom.de/media/53ae13560fbcf257f60a7851ffac4c3c1b95d960.png" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4377##http://programm-manager.telekom.de/media/f3e720cdaf2024ec2d2bebf096ff8bbb36a892e4.png" xmltv_id="CEM TV">CEM TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="136##http://programm-manager.telekom.de/media/f60e277807a9560767b9ee90ae3f55535d522810.png" xmltv_id="Euro D">Euro D</channel>
+    <channel update="i" site="web.magentatv.de" site_id="21##http://programm-manager.telekom.de/media/828a562a5bdf2609a0533caf33470f3518745c55.png" xmltv_id="EURO STAR">EURO STAR</channel>
+    <channel update="i" site="web.magentatv.de" site_id="29##http://programm-manager.telekom.de/media/3ad609da92533d461d3e8b05375cdd4bca8554ba.png" xmltv_id="Kanal 7">Kanal 7</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3826##http://programm-manager.telekom.de/media/4a19027d57fcafb5ae500b4b05d74e802215f76e.png" xmltv_id="beIN iZ">beIN iZ</channel>
+    <channel update="i" site="web.magentatv.de" site_id="440##http://programm-manager.telekom.de/media/71e8b3190d22d14ef2bb72fc9567cb093e3a7105.png" xmltv_id="beIN Movies Turk">beIN Movies Turk</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4378##http://programm-manager.telekom.de/media/69e21d2bd5141f9c5036c6ef5ce6a213b299fd47.png" xmltv_id="Haber Türk">Haber Türk</channel>
+    <channel update="i" site="web.magentatv.de" site_id="215##http://programm-manager.telekom.de/media/52666ef349292a0aa4b04cecc8b4d0377a8d98f8.png" xmltv_id="Show Turk">Show Turk</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3827##http://programm-manager.telekom.de/media/d04769f86b2fd351a94ea197b477cd02782167b1.png" xmltv_id="Show Max">Show Max</channel>
+    <channel update="i" site="web.magentatv.de" site_id="439##http://programm-manager.telekom.de/media/ad55432251410a3afbe0690b9f5c2c98f7dd11b2.png" xmltv_id="TV8 Int">TV8 Int</channel>
+    <channel update="i" site="web.magentatv.de" site_id="236##http://programm-manager.telekom.de/media/17e316bb500c6c2855cadaeb4af2f22d75a53d09.png" xmltv_id="ÜLKE TV">ÜLKE TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="121##http://programm-manager.telekom.de/media/17772f35586cde472a7a9a70f8efcd365efd7b10.png" xmltv_id="EuroN I">EuroN I</channel>
+    <channel update="i" site="web.magentatv.de" site_id="43##http://programm-manager.telekom.de/media/1bbae5fe28e74293cb60d72bcea6c1d88d858791.png" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="web.magentatv.de" site_id="46##http://programm-manager.telekom.de/media/bf946879a0e79dbabd7eeb069e27d68669619f19.png" xmltv_id="Rai Due">Rai Due</channel>
+    <channel update="i" site="web.magentatv.de" site_id="210##http://programm-manager.telekom.de/media/72e75953f83251fa80a8203c1accc2e0110d2d50.png" xmltv_id="Rai Tre">Rai Tre</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3685##http://programm-manager.telekom.de/media/f8e25f69d6dc9870af36dd1126f270c7ce667068.png" xmltv_id="Baden TV">Baden TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3749##http://programm-manager.telekom.de/media/d9aa405e7e59c218e9cf573a1a4cceefaf42b186.png" xmltv_id="Baden TV Süd">Baden TV Süd</channel>
+    <channel update="i" site="web.magentatv.de" site_id="578##http://programm-manager.telekom.de/media/ff1f8f4a51d353bc81d3136a8e1d2e6a2321258f.png" xmltv_id="L-TV">L-TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="660##http://programm-manager.telekom.de/media/476b3a2bff869d9889ad1f0f40426051e49b4b71.png" xmltv_id="Regio TV">Regio TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="246##http://programm-manager.telekom.de/media/8dad17ef50ef042b93b0e1da14f6783c8dd72427.png" xmltv_id="RNF">RNF</channel>
+    <channel update="i" site="web.magentatv.de" site_id="161##http://programm-manager.telekom.de/media/62acac335cc4c018f85314654615d42b81d4541c.png" xmltv_id="a.tv">a.tv</channel>
+    <channel update="i" site="web.magentatv.de" site_id="448##http://programm-manager.telekom.de/media/1d733842aa82ebca90710f51fec8b8f35922ae00.png" xmltv_id="allgäu.tv">allgäu.tv</channel>
+    <channel update="i" site="web.magentatv.de" site_id="175##http://programm-manager.telekom.de/media/f2183e8c0fab4256e688044e1f91b32e41e9c786.png" xmltv_id="BR Nord">BR Nord</channel>
+    <channel update="i" site="web.magentatv.de" site_id="177##http://programm-manager.telekom.de/media/d61709111069c0ec4dcac36522eacecf2d32edd6.png" xmltv_id="NIEDERBAYERN TV - DEG">NIEDERBAYERN TV - DEG</channel>
+    <channel update="i" site="web.magentatv.de" site_id="238##http://programm-manager.telekom.de/media/249a07230d9ffc3599121cc13015d8df893a405d.png" xmltv_id="Franken Fernsehen">Franken Fernsehen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="173##http://programm-manager.telekom.de/media/591b2aa45b01c7b04e08439a252465763e8c1143.png" xmltv_id="tv.ingolstadt">tv.ingolstadt</channel>
+    <channel update="i" site="web.magentatv.de" site_id="174##http://programm-manager.telekom.de/media/272ed12c11ce86adb7859e8df7cbf1acebf2dde8.png" xmltv_id="NIEDERBAYERN TV - LA">NIEDERBAYERN TV - LA</channel>
+    <channel update="i" site="web.magentatv.de" site_id="241##http://programm-manager.telekom.de/media/e40a00b13deb139237015d3e9baff4da2a5cc203.png" xmltv_id="münchen.tv">münchen.tv</channel>
+    <channel update="i" site="web.magentatv.de" site_id="141##http://programm-manager.telekom.de/media/ab54f07b61fde65772eace35d4a5b4989d44aa6d.png" xmltv_id="Oberpfalz TV">Oberpfalz TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="143##http://programm-manager.telekom.de/media/0668ff115be28bc6eb7e0abac251374be72569ca.png" xmltv_id="RFO">RFO</channel>
+    <channel update="i" site="web.magentatv.de" site_id="146##http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" xmltv_id="SAT.1 Bayern">SAT.1 Bayern</channel>
+    <channel update="i" site="web.magentatv.de" site_id="154##http://programm-manager.telekom.de/media/acb9f9a930cfea025f35fef13c12e42ec2c15a24.png" xmltv_id="NIEDERBAYERN TV - PA">NIEDERBAYERN TV - PA</channel>
+    <channel update="i" site="web.magentatv.de" site_id="170##http://programm-manager.telekom.de/media/4b1fcd66cd09a73dd558b8445e439c5ea3b1ff8c.png" xmltv_id="TV Oberfranken">TV Oberfranken</channel>
+    <channel update="i" site="web.magentatv.de" site_id="156##http://programm-manager.telekom.de/media/779906ba18422a5efb284e2338ace1e3b4a08203.png" xmltv_id="TV Mainfranken">TV Mainfranken</channel>
+    <channel update="i" site="web.magentatv.de" site_id="171##http://programm-manager.telekom.de/media/7fda121657e99a215662d2cd788bbf7f5276892c.png" xmltv_id="TVA Ostbayern">TVA Ostbayern</channel>
+    <channel update="i" site="web.magentatv.de" site_id="649##http://programm-manager.telekom.de/media/873f2045f3de1c6007f89009c8889c0c368fff7a.png" xmltv_id="ALEX Berlin">ALEX Berlin</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3284##http://programm-manager.telekom.de/media/5105fa2760d63d308dd1407e329c4cf33efec657.png" xmltv_id="HAUPTSTADT.TV">HAUPTSTADT.TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="599##http://programm-manager.telekom.de/media/ad60211cc743c2dd05c8d7e533d58e31900cb3ec.png" xmltv_id="tv.berlin">tv.berlin</channel>
+    <channel update="i" site="web.magentatv.de" site_id="242##http://programm-manager.telekom.de/media/3e3562b88101724740eeae0a5ea8c562ceec77cf.png" xmltv_id="rbb Brandenburg">rbb Brandenburg</channel>
+    <channel update="i" site="web.magentatv.de" site_id="100##http://programm-manager.telekom.de/media/faa7d82f5d52540cf25ca62acd71479093bda977.png" xmltv_id="RTL HB NDS">RTL HB NDS</channel>
+    <channel update="i" site="web.magentatv.de" site_id="144##http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" xmltv_id="SAT.1 NDS Bremen">SAT.1 NDS Bremen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="244##http://programm-manager.telekom.de/media/5847318b1dc2e8988fd51e45b5abdcae3b16ff95.png" xmltv_id="Hamburg 1">Hamburg 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="150##http://programm-manager.telekom.de/media/f96f503dad4f3249a2cce3bc0c02d6c02e4bd6e7.png" xmltv_id="NDR Hamburg">NDR Hamburg</channel>
+    <channel update="i" site="web.magentatv.de" site_id="151##http://programm-manager.telekom.de/media/f96f503dad4f3249a2cce3bc0c02d6c02e4bd6e7.png" xmltv_id="NDR Schleswig-Holstein">NDR Schleswig-Holstein</channel>
+    <channel update="i" site="web.magentatv.de" site_id="102##http://programm-manager.telekom.de/media/faa7d82f5d52540cf25ca62acd71479093bda977.png" xmltv_id="RTL HH SH">RTL HH SH</channel>
+    <channel update="i" site="web.magentatv.de" site_id="142##http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" xmltv_id="SAT.1 HH SH">SAT.1 HH SH</channel>
+    <channel update="i" site="web.magentatv.de" site_id="546##http://programm-manager.telekom.de/media/aa50f12c3d9e3d21d0e4c9741ba7aefc417651a1.png" xmltv_id="OF-TV">OF-TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="2966##http://programm-manager.telekom.de/media/81b4ec1b0b30843e51da85d7c2d8103a6bf1b9f3.png" xmltv_id="Rhein-Main TV">Rhein-Main TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="101##http://programm-manager.telekom.de/media/faa7d82f5d52540cf25ca62acd71479093bda977.png" xmltv_id="RTL Hessen">RTL Hessen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="240##http://programm-manager.telekom.de/media/f96f503dad4f3249a2cce3bc0c02d6c02e4bd6e7.png" xmltv_id="NDR Mecklenburg-Vorpommern">NDR Mecklenburg-Vorpommern</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4380##http://programm-manager.telekom.de/media/61dc6abade29461f9ef6fd24e90e09d99f1fef3e.png" xmltv_id="ems TV">ems TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4513##http://programm-manager.telekom.de/media/66d06ffd36524af6bc6c4e1922fdb8607ebd1d55.png" xmltv_id="Friesischer Rundfunk">Friesischer Rundfunk</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3750##http://programm-manager.telekom.de/media/0c44abcf7cb6c8d8b359000ad222a39bab0161b0.png" xmltv_id="nrwision">nrwision</channel>
+    <channel update="i" site="web.magentatv.de" site_id="478##http://programm-manager.telekom.de/media/faa7d82f5d52540cf25ca62acd71479093bda977.png" xmltv_id="RTL NRW">RTL NRW</channel>
+    <channel update="i" site="web.magentatv.de" site_id="251##http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" xmltv_id="SAT.1 NRW">SAT.1 NRW</channel>
+    <channel update="i" site="web.magentatv.de" site_id="2616##http://programm-manager.telekom.de/media/a99194167437d4679840d3cf89f5fc50b5bf45f7.png" xmltv_id="Studio 47">Studio 47</channel>
+    <channel update="i" site="web.magentatv.de" site_id="160##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Aachen">WDR Aachen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="158##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Bielefeld">WDR Bielefeld</channel>
+    <channel update="i" site="web.magentatv.de" site_id="155##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Bonn">WDR Bonn</channel>
+    <channel update="i" site="web.magentatv.de" site_id="172##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Dortmund">WDR Dortmund</channel>
+    <channel update="i" site="web.magentatv.de" site_id="165##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Duisburg">WDR Duisburg</channel>
+    <channel update="i" site="web.magentatv.de" site_id="167##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Düsseldorf">WDR Düsseldorf</channel>
+    <channel update="i" site="web.magentatv.de" site_id="531##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Essen">WDR Essen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="239##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Münster">WDR Münster</channel>
+    <channel update="i" site="web.magentatv.de" site_id="166##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Siegen">WDR Siegen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="249##http://programm-manager.telekom.de/media/072c4047903e55e4f77af70338389682cc30974a.png" xmltv_id="WDR Wuppertal">WDR Wuppertal</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3045##http://programm-manager.telekom.de/media/72453bd9b060a7a30ff75c79ffee504b49c3ec54.png" xmltv_id="OK4">OK4</channel>
+    <channel update="i" site="web.magentatv.de" site_id="663##http://programm-manager.telekom.de/media/4efc785a401fd83b88646d7deb768418a5b37e13.png" xmltv_id="OK54 Trier">OK54 Trier</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3042##http://programm-manager.telekom.de/media/63148d56f58138700ccf9b9d12fc0bbe15289648.png" xmltv_id="OK Weinstraße">OK Weinstraße</channel>
+    <channel update="i" site="web.magentatv.de" site_id="662##http://programm-manager.telekom.de/media/098f9980bc72c284198138e51f97b44ea27337c8.png" xmltv_id="OK-TV Ludwigshafen">OK-TV Ludwigshafen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3044##http://programm-manager.telekom.de/media/de927decab3be98047057ec95373c6fe704d3582.png" xmltv_id="OK:TV Mainz">OK:TV Mainz</channel>
+    <channel update="i" site="web.magentatv.de" site_id="145##http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png" xmltv_id="SAT.1 RhlPf Hessen">SAT.1 RhlPf Hessen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="581##http://programm-manager.telekom.de/media/04acbc91f02cc49199e89648411062abaf8898f5.png" xmltv_id="TV Mittelrhein">TV Mittelrhein</channel>
+    <channel update="i" site="web.magentatv.de" site_id="580##http://programm-manager.telekom.de/media/f2579fab54eec3bfd4d4d1a5de91e6023af296ae.png" xmltv_id="WWTV">WWTV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="2612##http://programm-manager.telekom.de/media/29f93afa6409e144b1f37de8ab4a215e1a58b736.png" xmltv_id="Chemnitz Fernsehen">Chemnitz Fernsehen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="2611##http://programm-manager.telekom.de/media/62ec2792973f301a74a17a9ee800ca1b7aadb6c2.png" xmltv_id="Dresden Fernsehen">Dresden Fernsehen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4727##http://programm-manager.telekom.de/media/cc27aae59dc6434bd5536e8cc191993fb287224a.png" xmltv_id="LAUSITZWELLE">LAUSITZWELLE</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3179##http://programm-manager.telekom.de/media/cde7f7c42829fe07dc3fa09679f8efac35f4dd1d.png" xmltv_id="Leipzig Fernsehen">Leipzig Fernsehen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="2610##http://programm-manager.telekom.de/media/17a5ff27bda88bb4ea7bcc16026796b8055574de.png" xmltv_id="TV Westsachsen">TV Westsachsen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4888##http://programm-manager.telekom.de/media/17e77143e8450006004e6be2f5e42773789b684f.png" xmltv_id="MDF.1 Fernsehen">MDF.1 Fernsehen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="147##http://programm-manager.telekom.de/media/82d99273263acb511044616ab1bdd128fcd942dd.png" xmltv_id="MDR Sachsen-Anhalt">MDR Sachsen-Anhalt</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4723##http://programm-manager.telekom.de/media/b34250299328980126e154e22794c54b3e2a633c.png" xmltv_id="RFH Regionalfernsehen Harz">RFH Regionalfernsehen Harz</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3660##http://programm-manager.telekom.de/media/a52f9b9168c967dc322a3c5128f4cda364a710c4.png" xmltv_id="altenburg.tv">altenburg.tv</channel>
+    <channel update="i" site="web.magentatv.de" site_id="252##http://programm-manager.telekom.de/media/eeb066fa281db27368f1f4249c7d79e3acf68b7c.png" xmltv_id="MDR Thüringen">MDR Thüringen</channel>
+    <channel update="i" site="web.magentatv.de" site_id="2609##http://programm-manager.telekom.de/media/a2033d3dcaeebec23efeb7ce299de363df0c3fee.png" xmltv_id="Rennsteig.TV">Rennsteig.TV</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3073##http://programm-manager.telekom.de/media/30f0f958384f3b10efd072a151e72096ea001829.png" xmltv_id="salve.tv">salve.tv</channel>
+    <channel update="i" site="web.magentatv.de" site_id="576##http://programm-manager.telekom.de/media/0686f6f18a8950c0938a98c6dd19d416228752b7.png" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4925##http://programm-manager.telekom.de/media/3944bab06a56adbe2c3750b578ae4f97c0fd1ca1.png" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4924##http://programm-manager.telekom.de/media/4f03dd50f05666fc0dd66e4e39cfd9b11d564f14.png" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel update="i" site="web.magentatv.de" site_id="201##http://programm-manager.telekom.de/media/084a614a9133ae1b17cc942bbe0d81a87710030b.png" xmltv_id="SkyKrimi">SkyKrimi</channel>
+    <channel update="i" site="web.magentatv.de" site_id="264##http://programm-manager.telekom.de/media/67a6531b3ef8e686027b424f95e676182ff35791.png" xmltv_id="SkyAtlantic">SkyAtlantic</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3756##http://programm-manager.telekom.de/media/1704fba7a9be0e19189964b35c25aa0b9635f37b.png" xmltv_id="Sky Serien &amp; Shows">Sky Serien &amp; Shows</channel>
+    <channel update="i" site="web.magentatv.de" site_id="128##http://programm-manager.telekom.de/media/718556718a3e4bdb04f2e39ca531bd83fbf75d88.png" xmltv_id="Fox (Sky)">Fox (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="458##http://programm-manager.telekom.de/media/a4bb2b7f33cb2f4c8a3f771733b7f1e754ab0406.png" xmltv_id="TNT Serie (Sky)">TNT Serie (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="461##http://programm-manager.telekom.de/media/477842b642b27b0208a49f3d93895fc07f71ddc6.png" xmltv_id="TNT Comedy (Sky)">TNT Comedy (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="465##http://programm-manager.telekom.de/media/0fe285bc64ebc70a42b03567e044e37ddf9247ee.png" xmltv_id="Syfy (Sky)">Syfy (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="471##http://programm-manager.telekom.de/media/a8e6a82760b56428170e316932f38fabeb0814db.png" xmltv_id="13TH STREET (Sky)">13TH STREET (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="462##http://programm-manager.telekom.de/media/7f48afa094b2c72438c121e0554924a52dbd928b.png" xmltv_id="Universal TV (Sky)">Universal TV (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="466##http://programm-manager.telekom.de/media/26673f6295fbb5fafc3d1559873c0a85422afd69.png" xmltv_id="E! Entertainment (Sky)">E! Entertainment (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="468##http://programm-manager.telekom.de/media/ea845e7451e73ccd87dbea800822c4dccbd11345.png" xmltv_id="Discovery (Sky)">Discovery (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="464##http://programm-manager.telekom.de/media/300ee96526ee22e83abc8cd72778715c6d8be000.png" xmltv_id="National Geographic (Sky)">National Geographic (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="233##http://programm-manager.telekom.de/media/825ae85bec16d0c4c593df6419d05971fa13017b.png" xmltv_id="National Geographic WILD (Sky)">National Geographic WILD (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="183##http://programm-manager.telekom.de/media/2f4af2b3cad1d01ef4d324cbe662c76f0d87469a.png" xmltv_id="Spiegel Geschichte (Sky)">Spiegel Geschichte (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="2860##http://programm-manager.telekom.de/media/c25af87c47f612643f7fea6496d8850b11c54a4e.png" xmltv_id="Spiegel TV Wissen (Sky)">Spiegel TV Wissen (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="467##http://programm-manager.telekom.de/media/82bd5e5df445626dd24fd8d12892b6936bfaf6be.png" xmltv_id="The HISTORY Channel (Sky)">The HISTORY Channel (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="107##http://programm-manager.telekom.de/media/6b2cb297d048f60a2f22c8b42a74daaa2c7fd3e2.png" xmltv_id="Beate-Uhse.TV (Sky)">Beate-Uhse.TV (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="134##http://programm-manager.telekom.de/media/bde2d6cf0a6444e7c5d69dda485e41a4c7c19d00.png" xmltv_id="Heimatkanal (Sky)">Heimatkanal (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="658##http://programm-manager.telekom.de/media/a7090918dd814d59d3aff662fd317b7dd2a176c7.png" xmltv_id="Romance TV (Sky)">Romance TV (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="118##http://programm-manager.telekom.de/media/74db5cb3bbc89f467d90b5037ded84385fba1e1c.png" xmltv_id="Classica (Sky)">Classica (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="132##http://programm-manager.telekom.de/media/5b2bf4b5995f479d962a0e5154a7976d752b3ec4.png" xmltv_id="Jukebox (Sky)">Jukebox (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3843##http://programm-manager.telekom.de/media/22b97e786ea3418439d704487dcb338f735c51ed.png" xmltv_id="Boomerang (Sky)">Boomerang (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="138##http://programm-manager.telekom.de/media/5c3e22c1a7686ddea14c5d54b55ff26a7c52b1b2.png" xmltv_id="Junior (Sky)">Junior (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4379##http://programm-manager.telekom.de/media/fd4fdfd9465ebbc2a23b6e484de08f530d6415a2.png" xmltv_id="Nick Jr. (Sky)">Nick Jr. (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4405##http://programm-manager.telekom.de/media/cfbcb5d88a89ecd5137071f97a5d25e7ab3a4d03.png" xmltv_id="Nicktoons (Sky)">Nicktoons (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4512##http://programm-manager.telekom.de/media/62db037b6484ffd2e0c2aa3642c19958eb292c80.png" xmltv_id="Cartoon Network (Sky)">Cartoon Network (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="195##http://programm-manager.telekom.de/media/c28c2033bbba5d0423a10e93a5fe985ac9645f29.png" xmltv_id="Sky Cinema Premieren">Sky Cinema Premieren</channel>
+    <channel update="i" site="web.magentatv.de" site_id="202##http://programm-manager.telekom.de/media/f2af068e6cfa5e574aa0a3e629d3a932c6ea74fb.png" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24</channel>
+    <channel update="i" site="web.magentatv.de" site_id="263##http://programm-manager.telekom.de/media/26bb3698acb3b165f3e84517662d1e0e3d3027d1.png" xmltv_id="Sky Cinema Best of">Sky Cinema Best of</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4356##http://programm-manager.telekom.de/media/4df156eaa910ee8c40d2a74cba5ed628d22f850a.png" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel update="i" site="web.magentatv.de" site_id="40##http://programm-manager.telekom.de/media/72b47f9ddfae42dea1fb594d4ce65282ac1887af.png" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel update="i" site="web.magentatv.de" site_id="572##http://programm-manager.telekom.de/media/97652da8fb13e92531ed3eacd719ab0952f494b1.png" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3844##http://programm-manager.telekom.de/media/4e63ea2f9687f109f6d353578e5727f3dc6b28d5.png" xmltv_id="Sky Cinema DC Helden">Sky Cinema DC Helden</channel>
+    <channel update="i" site="web.magentatv.de" site_id="235##http://programm-manager.telekom.de/media/f6a7bf52afe312c829e02a1471b7781129647220.png" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
+    <channel update="i" site="web.magentatv.de" site_id="200##http://programm-manager.telekom.de/media/611c7452027ed8309b22df4396bb359a6c7ac9d6.png" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
+    <channel update="i" site="web.magentatv.de" site_id="540##http://programm-manager.telekom.de/media/794ed22dcb9465290c2d3977ccef10f201e49122.png" xmltv_id="TNT Film (Sky)">TNT Film (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="539##http://programm-manager.telekom.de/media/ebdbf39814820b3b2fa697c7c5f18c2d2d42bfde.png" xmltv_id="Kinowelt TV (Sky)">Kinowelt TV (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="4889##http://programm-manager.telekom.de/media/5e262f2be1a0530c07327d65e867d74b524fac03.png" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="42##http://programm-manager.telekom.de/media/315f4e1d7ae0ed6a576cc85574c6e195f2820925.png" xmltv_id="Sky Sport Bundesliga 1">Sky Sport Bundesliga 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="206##http://programm-manager.telekom.de/media/54fdfb49171a1da7210ccf22d8f8af24934365e1.png" xmltv_id="Sky Sport Bundesliga 2">Sky Sport Bundesliga 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="211##http://programm-manager.telekom.de/media/b7604a3db1310d4a4fb83fffb15debe55d41dbf7.png" xmltv_id="Sky Sport Bundesliga 3">Sky Sport Bundesliga 3</channel>
+    <channel update="i" site="web.magentatv.de" site_id="199##http://programm-manager.telekom.de/media/ab1f8d87c8f74b510387c81c0a89aa004006ee60.png" xmltv_id="Sky Sport Bundesliga 4">Sky Sport Bundesliga 4</channel>
+    <channel update="i" site="web.magentatv.de" site_id="232##http://programm-manager.telekom.de/media/9fbf9f911b60bb7c0bbfceaf6b0506cadf63cc02.png" xmltv_id="Sky Sport Bundesliga 5">Sky Sport Bundesliga 5</channel>
+    <channel update="i" site="web.magentatv.de" site_id="234##http://programm-manager.telekom.de/media/1f8dc21b9fce64499d61956f407ab5a72cb78ed0.png" xmltv_id="Sky Sport Bundesliga 6">Sky Sport Bundesliga 6</channel>
+    <channel update="i" site="web.magentatv.de" site_id="231##http://programm-manager.telekom.de/media/ec53727b223a2c6b129c78e2b06c7f45cce4659a.png" xmltv_id="Sky Sport Bundesliga 7">Sky Sport Bundesliga 7</channel>
+    <channel update="i" site="web.magentatv.de" site_id="258##http://programm-manager.telekom.de/media/d997f9be46160f7c3db14cbdc3cf2b48fc6eb274.png" xmltv_id="Sky Sport Bundesliga 8">Sky Sport Bundesliga 8</channel>
+    <channel update="i" site="web.magentatv.de" site_id="219##http://programm-manager.telekom.de/media/e48399d331a672785f16f1011054a01cd52413df.png" xmltv_id="Sky Sport Bundesliga 9">Sky Sport Bundesliga 9</channel>
+    <channel update="i" site="web.magentatv.de" site_id="237##http://programm-manager.telekom.de/media/d00d089e311ba581066027cff70935778efaf201.png" xmltv_id="Sky Sport Bundesliga 10">Sky Sport Bundesliga 10</channel>
+    <channel update="i" site="web.magentatv.de" site_id="31##http://programm-manager.telekom.de/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="198##http://programm-manager.telekom.de/media/c330c871a2f15660efbf06c917fc6af8606874c7.png" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="192##http://programm-manager.telekom.de/media/f3093734389bd620327880348d7974ba38d4c4d3.png" xmltv_id="Sky Sport 3">Sky Sport 3</channel>
+    <channel update="i" site="web.magentatv.de" site_id="212##http://programm-manager.telekom.de/media/c6a8dbde2b6d4afa5961586d6317f0cc86ddc6e9.png" xmltv_id="Sky Sport 4">Sky Sport 4</channel>
+    <channel update="i" site="web.magentatv.de" site_id="189##http://programm-manager.telekom.de/media/cda082d3267802e1bd0721e6a64850b2920ac427.png" xmltv_id="Sky Sport 5">Sky Sport 5</channel>
+    <channel update="i" site="web.magentatv.de" site_id="111##http://programm-manager.telekom.de/media/acc2e098dc86b8c85a1bbfa5f6311b5978603e1c.png" xmltv_id="Sky Sport 6">Sky Sport 6</channel>
+    <channel update="i" site="web.magentatv.de" site_id="114##http://programm-manager.telekom.de/media/3957d066cf0f424aabd67e0d677737ff0c2b524c.png" xmltv_id="Sky Sport 7">Sky Sport 7</channel>
+    <channel update="i" site="web.magentatv.de" site_id="113##http://programm-manager.telekom.de/media/27bc8c5ac71da92955eb4952145b305d6d1813d5.png" xmltv_id="Sky Sport 8">Sky Sport 8</channel>
+    <channel update="i" site="web.magentatv.de" site_id="127##http://programm-manager.telekom.de/media/2b19683849d2f29ba98a944a4489a09625603b14.png" xmltv_id="Sky Sport 9">Sky Sport 9</channel>
+    <channel update="i" site="web.magentatv.de" site_id="261##http://programm-manager.telekom.de/media/25751836767f9282d88d99e61c38a1529b0616d3.png" xmltv_id="Sky Sport 10">Sky Sport 10</channel>
+    <channel update="i" site="web.magentatv.de" site_id="187##http://programm-manager.telekom.de/media/93c0f38bf5168bd6ef7bb9514c08efc12c2648c5.png" xmltv_id="Sky Sport 11">Sky Sport 11</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3682##http://programm-manager.telekom.de/media/9f201272d0036503d5871101eee560795c57b145.png" xmltv_id="Sky Sport 12">Sky Sport 12</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3689##http://programm-manager.telekom.de/media/93607d0989f65c3f464918ff09b7ae314db3bd89.png" xmltv_id="Sky Sport 13">Sky Sport 13</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3684##http://programm-manager.telekom.de/media/40e9305537960ac3924637e359720f6bccb16824.png" xmltv_id="Sky Sport 14">Sky Sport 14</channel>
+    <channel update="i" site="web.magentatv.de" site_id="208##http://programm-manager.telekom.de/media/0b0816ea455595eeaf0eb3567493cd4eca808227.png" xmltv_id="Sky Sport Austria 1">Sky Sport Austria 1</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3688##http://programm-manager.telekom.de/media/2f4200c80f641f132710f008270f8c47332d0e0a.png" xmltv_id="Sky Sport Austria 2">Sky Sport Austria 2</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3683##http://programm-manager.telekom.de/media/3390c323783d33317814dbc58635fbdcea739163.png" xmltv_id="Sky Sport Austria 3">Sky Sport Austria 3</channel>
+    <channel update="i" site="web.magentatv.de" site_id="3687##http://programm-manager.telekom.de/media/903db2decde2ca2e830420d64fa6432b93109ccd.png" xmltv_id="Sky Sport Austria 4">Sky Sport Austria 4</channel>
+    <channel update="i" site="web.magentatv.de" site_id="254##http://programm-manager.telekom.de/media/78c2b996afeb3ce1579cf2b322ee15216020b0b6.png" xmltv_id="Eurosport 1 (Sky)">Eurosport 1 (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="253##http://programm-manager.telekom.de/media/2e93193d3564e9ceba2faf1a89427e489b5d981a.png" xmltv_id="Eurosport 2 (Sky)">Eurosport 2 (Sky)</channel>
+    <channel update="i" site="web.magentatv.de" site_id="416##http://programm-manager.telekom.de/media/b4aa0e1b50ad48d6c1e1c9b4fecc69ec7874efc7.jpeg" xmltv_id="Testkanal L01">Testkanal L01</channel>
+    <channel update="i" site="web.magentatv.de" site_id="243##http://programm-manager.telekom.de/media/5eef67a8847013efd9f15fc08bcd32420485a36c.jpeg" xmltv_id="Testkanal L02">Testkanal L02</channel>
+    <channel update="i" site="web.magentatv.de" site_id="442##http://programm-manager.telekom.de/media/df42ebc24f36f2ec24b30e7c8a6464b5eafaae16.jpeg" xmltv_id="Testkanal L03">Testkanal L03</channel>
+    <channel update="i" site="web.magentatv.de" site_id="179##http://programm-manager.telekom.de/media/87a2778832e88ea05f7455680bf4dec3f86fc1a7.jpeg" xmltv_id="Testkanal L04">Testkanal L04</channel>
+    <channel update="i" site="web.magentatv.de" site_id="532##http://programm-manager.telekom.de/media/0a77e8a5b86160a8ad635592c1d4162a79177b21.jpeg" xmltv_id="Testkanal L05">Testkanal L05</channel>
+    <channel update="i" site="web.magentatv.de" site_id="477##http://programm-manager.telekom.de/media/6fa240b3ce016a627159c6486c1837b1ed84ad94.jpeg" xmltv_id="Testkanal L06">Testkanal L06</channel>
+    <channel update="i" site="web.magentatv.de" site_id="457##http://programm-manager.telekom.de/media/09b05cf210f4d54074a6b0763347e2a2299725c6.jpeg" xmltv_id="Testkanal L07">Testkanal L07</channel>
+    <channel update="i" site="web.magentatv.de" site_id="530##http://programm-manager.telekom.de/media/e6d0f61562cdd30d1e9a1b49d737e49a9ac50bb1.jpeg" xmltv_id="Testkanal I01">Testkanal I01</channel>
+    <channel update="i" site="web.magentatv.de" site_id="257##http://programm-manager.telekom.de/media/f220283f2417ab68f4771791dfd02ea551efe9ca.jpeg" xmltv_id="Testkanal I03">Testkanal I03</channel>
+    <channel update="i" site="web.magentatv.de" site_id="812##http://programm-manager.telekom.de/media/cf830b0720428bf727d793f4bb296d502c766fb7.jpeg" xmltv_id="Megathek">Megathek</channel>
+    <channel update="i" site="web.magentatv.de" site_id="443##http://programm-manager.telekom.de/media/09b05cf210f4d54074a6b0763347e2a2299725c6.jpeg" xmltv_id="Testkanal H01">Testkanal H01</channel>
+    <channel update="i" site="web.magentatv.de" site_id="413##https://api.prod.sngtv.magentatv.de:33227/EPG/jsp/images/universal/film/poster/fileEntity/20160118/000101/0001010010146226/98e3f083-672a-4ef3-9b98-836c8a961a39.png" xmltv_id="Meine Aufnahmen">Meine Aufnahmen</channel>
+  </channels>
+</site>

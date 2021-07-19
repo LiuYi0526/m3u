@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="tvmagazine.com.br">
+  <channels>
+    <channel update="i" site="tvmagazine.com.br" site_id="MDO" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MDH" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="AJZ" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="AMZ" xmltv_id="Amazon Sat">Amazon Sat</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MGM" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MGH" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="APL" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="APM" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ART" xmltv_id="ART Latino">ART Latino</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BQ5" xmltv_id="Arte 1">Arte 1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BQ1" xmltv_id="Arte 1 HD">Arte 1 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="AXH" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BAB" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BAN" xmltv_id="BAND">BAND</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NEW" xmltv_id="Band News">Band News</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NEH" xmltv_id="Band News HD">Band News HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="505" xmltv_id="Band SP HD">Band SP HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BSP" xmltv_id="Band Sports">Band Sports</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BSU" xmltv_id="Band Sports HD">Band Sports HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BBC" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BEM" xmltv_id="Bem Simples">Bem Simples</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BBB" xmltv_id="Big Brother Brasil 1">Big Brother Brasil 1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BB1" xmltv_id="Big Brother Brasil 1 HD">Big Brother Brasil 1 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BB2" xmltv_id="Big Brother Brasil 2">Big Brother Brasil 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BB3" xmltv_id="Big Brother Brasil 2 HD">Big Brother Brasil 2 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MBB" xmltv_id="Big Brother Brasil Mosaico">Big Brother Brasil Mosaico</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MSD" xmltv_id="BIS">BIS</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MSH" xmltv_id="BIS HD">BIS HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BIT" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="LBV" xmltv_id="Boa Vontade TV">Boa Vontade TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BOM" xmltv_id="Boom TV">Boom TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BMG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BMF" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BYU" xmltv_id="BYU TV International">BYU TV International</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CC1" xmltv_id="Campeonato Carioca 1">Campeonato Carioca 1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CC2" xmltv_id="Campeonato Carioca 2">Campeonato Carioca 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NCP" xmltv_id="Canal 2 NET">Canal 2 NET</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="C21" xmltv_id="Canal 21">Canal 21</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CAD" xmltv_id="Canal Adulto">Canal Adulto</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CBR" xmltv_id="Canal Brasil">Canal Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CBQ" xmltv_id="Canal Brasil HD">Canal Brasil HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="EST" xmltv_id="Canal de las Estrellas">Canal de las Estrellas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BOI" xmltv_id="Canal do Boi">Canal do Boi</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="LIK" xmltv_id="Canal Like">Canal Like</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RUR" xmltv_id="Canal Rural">Canal Rural</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="801" xmltv_id="Canal Sound! Anos 2000">Canal Sound! Anos 2000</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="819" xmltv_id="Canal Sound! Anos 60">Canal Sound! Anos 60</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="820" xmltv_id="Canal Sound! Anos 70">Canal Sound! Anos 70</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="812" xmltv_id="Canal Sound! Anos 80">Canal Sound! Anos 80</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="821" xmltv_id="Canal Sound! Anos 90">Canal Sound! Anos 90</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="830" xmltv_id="Canal Sound! Black">Canal Sound! Black</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="822" xmltv_id="Canal Sound! Blues">Canal Sound! Blues</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="813" xmltv_id="Canal Sound! Bossa Nova">Canal Sound! Bossa Nova</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="824" xmltv_id="Canal Sound! Disco">Canal Sound! Disco</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="805" xmltv_id="Canal Sound! Festa">Canal Sound! Festa</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="804" xmltv_id="Canal Sound! Forró">Canal Sound! Forró</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="815" xmltv_id="Canal Sound! Gospel">Canal Sound! Gospel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="810" xmltv_id="Canal Sound! Hip Hop">Canal Sound! Hip Hop</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="826" xmltv_id="Canal Sound! Jazz">Canal Sound! Jazz</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="800" xmltv_id="Canal Sound! Kids">Canal Sound! Kids</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="828" xmltv_id="Canal Sound! Lounge">Canal Sound! Lounge</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="825" xmltv_id="Canal Sound! Metal">Canal Sound! Metal</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="808" xmltv_id="Canal Sound! MPB">Canal Sound! MPB</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="823" xmltv_id="Canal Sound! Música Clássica">Canal Sound! Música Clássica</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="842" xmltv_id="Canal Sound! Música Eletrônica">Canal Sound! Música Eletrônica</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="816" xmltv_id="Canal Sound! New Rock">Canal Sound! New Rock</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="803" xmltv_id="Canal Sound! Pagode">Canal Sound! Pagode</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="807" xmltv_id="Canal Sound! Pop Hits">Canal Sound! Pop Hits</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="817" xmltv_id="Canal Sound! Reggae">Canal Sound! Reggae</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="829" xmltv_id="Canal Sound! Rock Brasil">Canal Sound! Rock Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="811" xmltv_id="Canal Sound! Rock Clássico">Canal Sound! Rock Clássico</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="809" xmltv_id="Canal Sound! Românticas">Canal Sound! Românticas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="806" xmltv_id="Canal Sound! Samba de Raiz">Canal Sound! Samba de Raiz</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="802" xmltv_id="Canal Sound! Sertanejo">Canal Sound! Sertanejo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="831" xmltv_id="Canal Sound! Sertanejo Universitário">Canal Sound! Sertanejo Universitário</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="814" xmltv_id="Canal Sound! Temático 1">Canal Sound! Temático 1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="827" xmltv_id="Canal Sound! Temático 2">Canal Sound! Temático 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CNV" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CAR" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CAH" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CCL" xmltv_id="Casa Club TV">Casa Club TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CCT" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CGT" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CGH" xmltv_id="CGTN HD">CGTN HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CHE" xmltv_id="Chef TV">Chef TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CNB" xmltv_id="CineBrasil TV">CineBrasil TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MNX" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MNH" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CN8" xmltv_id="CNN Brasil">CNN Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CN9" xmltv_id="CNN Brasil HD">CNN Brasil HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CNE" xmltv_id="CNN Español">CNN Español</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CNN" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CNT" xmltv_id="CNT">CNT</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CNU" xmltv_id="CNU São Paulo">CNU São Paulo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="133" xmltv_id="Combate">Combate</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="134" xmltv_id="Combate HD">Combate HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CCH" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="100" xmltv_id="Concert Channel">Concert Channel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="231" xmltv_id="Conmebol TV 1">Conmebol TV 1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="232" xmltv_id="Conmebol TV 2">Conmebol TV 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="233" xmltv_id="Conmebol TV 3">Conmebol TV 3</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="234" xmltv_id="Conmebol TV 4">Conmebol TV 4</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NO1" xmltv_id="Copa do Nordeste 1">Copa do Nordeste 1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NO2" xmltv_id="Copa do Nordeste 2">Copa do Nordeste 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NO3" xmltv_id="Copa do Nordeste 3">Copa do Nordeste 3</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NO4" xmltv_id="Copa do Nordeste 4">Copa do Nordeste 4</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BQ4" xmltv_id="Curta!">Curta!</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CRH" xmltv_id="Curta! HD">Curta! HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DWL" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DIS" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DIH" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DCH" xmltv_id="Discovery Civilization HD">Discovery Civilization HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DHD" xmltv_id="Discovery HD Theater">Discovery HD Theater</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DIW" xmltv_id="Discovery HD World">Discovery HD World</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DIK" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DKH" xmltv_id="Discovery Kids HD">Discovery Kids HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DSC" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DSH" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DTU" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DTS" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DNY" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DNH" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="PHD" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="PHE" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DXD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="DOG" xmltv_id="DOGTV">DOGTV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="EET" xmltv_id="E!">E!</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="EEH" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="EPH" xmltv_id="EPTV Campinas">EPTV Campinas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GCR" xmltv_id="EPTV Central">EPTV Central</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GRP" xmltv_id="EPTV Ribeirão Preto">EPTV Ribeirão Preto</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GVG" xmltv_id="EPTV Sul de Minas">EPTV Sul de Minas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ESP" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ESI" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ESH" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ESB" xmltv_id="ESPN Brasil">ESPN Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="EBH" xmltv_id="ESPN Brasil HD">ESPN Brasil HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ESR" xmltv_id="ESPN Extra HD">ESPN Extra HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ESQ" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="EUR" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ENW" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FTV" xmltv_id="FashionTV Brasil">FashionTV Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BRA" xmltv_id="Film &amp; Arts">Film &amp; Arts</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BRB" xmltv_id="Film &amp; Arts HD">Film &amp; Arts HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BQ6" xmltv_id="Fish TV">Fish TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BQ8" xmltv_id="Fish TV HD">Fish TV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FOS" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FOD" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FOX" xmltv_id="FOX Channel">FOX Channel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FOW" xmltv_id="FOX Channel HD">FOX Channel HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FLI" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FLH" xmltv_id="FOX Life HD">FOX Life HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FNE" xmltv_id="FOX News">FOX News</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FO1" xmltv_id="FOX Premium 1">FOX Premium 1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FOA" xmltv_id="FOX Premium 2">FOX Premium 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FSP" xmltv_id="FOX Sports">FOX Sports</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FS2" xmltv_id="FOX Sports 2">FOX Sports 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FS1" xmltv_id="FOX Sports 2 HD">FOX Sports 2 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FSH" xmltv_id="FOX Sports HD">FOX Sports HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="F24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FUT" xmltv_id="Futura">Futura</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="FUU" xmltv_id="Futura HD">Futura HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CFX" xmltv_id="FX">FX</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CFZ" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GRD" xmltv_id="Globo">Globo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GHB" xmltv_id="Globo Brasília">Globo Brasília</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GTH" xmltv_id="Globo ES">Globo ES</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GBH" xmltv_id="Globo Minas">Globo Minas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GLN" xmltv_id="Globo News">Globo News</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GLO" xmltv_id="Globo News HD">Globo News HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GPE" xmltv_id="Globo Nordeste">Globo Nordeste</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GRH" xmltv_id="Globo RJ">Globo RJ</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GSP" xmltv_id="Globo SP">Globo SP</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GLH" xmltv_id="Globo SP HD">Globo SP HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GOB" xmltv_id="Gloob">Gloob</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GOH" xmltv_id="Gloob HD">Gloob HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NHO" xmltv_id="Gloobinho">Gloobinho</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GNT" xmltv_id="GNT">GNT</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GNU" xmltv_id="GNT HD">GNT HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CH2" xmltv_id="H2">H2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CH1" xmltv_id="H2 HD">H2 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HBO" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HBS" xmltv_id="HBO (HD)">HBO (HD)</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HB2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="H2H" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HFA" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HFB" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MXE" xmltv_id="HBO Mundi">HBO Mundi</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MXH" xmltv_id="HBO Mundi HD">HBO Mundi HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HPL" xmltv_id="HBO Plus">HBO Plus</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HPM" xmltv_id="HBO Plus HD">HBO Plus HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MAX" xmltv_id="HBO Pop">HBO Pop</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MHD" xmltv_id="HBO Pop HD">HBO Pop HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HFE" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HFH" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MAP" xmltv_id="HBO Xtreme">HBO Xtreme</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MAH" xmltv_id="HBO Xtreme HD">HBO Xtreme HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HGT" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HGH" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HIS" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HIH" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HEA" xmltv_id="Home &amp; Health">Home &amp; Health</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HEH" xmltv_id="Home &amp; Health HD">Home &amp; Health HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="INF" xmltv_id="Infinito">Infinito</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GBN" xmltv_id="InterTV Cabugi">InterTV Cabugi</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="LIV" xmltv_id="Investigação Discovery">Investigação Discovery</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="IDH" xmltv_id="Investigação Discovery HD">Investigação Discovery HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SAT" xmltv_id="I-Sat">I-Sat</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="KBS" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ANX" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ANH" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MTA" xmltv_id="Loading">Loading</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MTD" xmltv_id="Loading HD">Loading HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="LOH" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GHS" xmltv_id="Mais na Tela">Mais na Tela</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GHD" xmltv_id="Mais na Tela HD">Mais na Tela HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MEG" xmltv_id="Mega TV">Mega TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MEH" xmltv_id="Mega TV HD">Mega TV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MPX" xmltv_id="Megapix">Megapix</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MPH" xmltv_id="Megapix HD">Megapix HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MIX" xmltv_id="Mix TV">Mix TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="509" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MTL" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MSW" xmltv_id="Multishow">Multishow</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MSF" xmltv_id="Multishow Fuso">Multishow Fuso</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MTS" xmltv_id="Multishow HD">Multishow HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MUB" xmltv_id="Music Box Brazil">Music Box Brazil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MUC" xmltv_id="Music Box Brazil HD">Music Box Brazil HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SUP" xmltv_id="NatGeo">NatGeo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SUQ" xmltv_id="NatGeo HD">NatGeo HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NGK" xmltv_id="NatGeo Kids">NatGeo Kids</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NGW" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NGH" xmltv_id="NatGeo Wild HD">NatGeo Wild HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NBR" xmltv_id="NBR - TV Nacional Brasil">NBR - TV Nacional Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="C37" xmltv_id="NET TV">NET TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="502" xmltv_id="NET TV HD">NET TV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NFI" xmltv_id="Netflix">Netflix</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NHK" xmltv_id="NHK">NHK</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NJR" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NJH" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NIC" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NID" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="AJ1" xmltv_id="NOW">NOW</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="OFS" xmltv_id="OFF">OFF</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="OFF" xmltv_id="OFF HD">OFF HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="312" xmltv_id="Oi TV Filmes HD 1">Oi TV Filmes HD 1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="321" xmltv_id="Oi TV Filmes HD 10">Oi TV Filmes HD 10</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="322" xmltv_id="Oi TV Filmes HD 11">Oi TV Filmes HD 11</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="323" xmltv_id="Oi TV Filmes HD 12">Oi TV Filmes HD 12</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="313" xmltv_id="Oi TV Filmes HD 2">Oi TV Filmes HD 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="314" xmltv_id="Oi TV Filmes HD 3">Oi TV Filmes HD 3</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="315" xmltv_id="Oi TV Filmes HD 4">Oi TV Filmes HD 4</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="316" xmltv_id="Oi TV Filmes HD 5">Oi TV Filmes HD 5</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="317" xmltv_id="Oi TV Filmes HD 6">Oi TV Filmes HD 6</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="318" xmltv_id="Oi TV Filmes HD 7">Oi TV Filmes HD 7</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="319" xmltv_id="Oi TV Filmes HD 8">Oi TV Filmes HD 8</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="320" xmltv_id="Oi TV Filmes HD 9">Oi TV Filmes HD 9</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="PAR" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="PAQ" xmltv_id="Paramount Channel HD">Paramount Channel HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="PLV" xmltv_id="Play TV">Play TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="PLA" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="PLH" xmltv_id="Playboy TV HD">Playboy TV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SHP" xmltv_id="Polishop TV">Polishop TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SHQ" xmltv_id="Polishop TV (Espelho)">Polishop TV (Espelho)</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="9A2" xmltv_id="Premiere 2">Premiere 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="959" xmltv_id="Premiere 2 HD">Premiere 2 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="9A3" xmltv_id="Premiere 3">Premiere 3</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="963" xmltv_id="Premiere 3 HD">Premiere 3 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="9A4" xmltv_id="Premiere 4">Premiere 4</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="964" xmltv_id="Premiere 4 HD">Premiere 4 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="9A5" xmltv_id="Premiere 5">Premiere 5</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="965" xmltv_id="Premiere 5 HD">Premiere 5 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="9A6" xmltv_id="Premiere 6">Premiere 6</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="966" xmltv_id="Premiere 6 HD">Premiere 6 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="9A7" xmltv_id="Premiere 7">Premiere 7</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="967" xmltv_id="Premiere 7 HD">Premiere 7 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="9A8" xmltv_id="Premiere 8">Premiere 8</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="968" xmltv_id="Premiere 8 HD">Premiere 8 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="781" xmltv_id="Premiere 9 HD">Premiere 9 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="121" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="960" xmltv_id="Premiere Clubes HD">Premiere Clubes HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BQ7" xmltv_id="Prime Box Brazil">Prime Box Brazil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="BQH" xmltv_id="Prime Box Brazil HD">Prime Box Brazil HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="846" xmltv_id="Rádio CBN SP">Rádio CBN SP</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="844" xmltv_id="Rádio Globo">Rádio Globo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="843" xmltv_id="Rádio Globo RJ">Rádio Globo RJ</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RAI" xmltv_id="RAI">RAI</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="POH" xmltv_id="RBS RS">RBS RS</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GSH" xmltv_id="RBS SC">RBS SC</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RCN" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RED" xmltv_id="Record TV">Record TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="REB" xmltv_id="Record TV DF">Record TV DF</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RMG" xmltv_id="Record TV MG">Record TV MG</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="REJ" xmltv_id="Record TV RJ">Record TV RJ</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RSC" xmltv_id="Record TV SC">Record TV SC</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="REC" xmltv_id="Record TV SP">Record TV SP</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RHD" xmltv_id="Record TV SP HD">Record TV SP HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GMN" xmltv_id="Rede Amazônica">Rede Amazônica</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RBR" xmltv_id="Rede Brasil">Rede Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RDB" xmltv_id="Rede do Bem">Rede do Bem</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="REF" xmltv_id="Rede Família">Rede Família</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TVG" xmltv_id="Rede Gênesis">Rede Gênesis</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GOS" xmltv_id="Rede Gospel">Rede Gospel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GOT" xmltv_id="Rede Gospel HD">Rede Gospel HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SBC" xmltv_id="Rede Massa">Rede Massa</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TNO" xmltv_id="Rede Meio Norte Maranhão">Rede Meio Norte Maranhão</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SRD" xmltv_id="Rede Super">Rede Super</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RTV" xmltv_id="Rede TV!">Rede TV!</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RTH" xmltv_id="Rede TV! HD">Rede TV! HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="VDA" xmltv_id="Rede Vida">Rede Vida</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="VDH" xmltv_id="Rede Vida HD">Rede Vida HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RIC" xmltv_id="RIC TV">RIC TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RIT" xmltv_id="RIT">RIT</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TPH" xmltv_id="RPC Curitiba">RPC Curitiba</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RTP" xmltv_id="RTPi">RTPi</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RSH" xmltv_id="Rush HD">Rush HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RUS" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SBN" xmltv_id="SBN TV">SBN TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SBT" xmltv_id="SBT">SBT</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SHJ" xmltv_id="SBT RJ">SBT RJ</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SBS" xmltv_id="SBT RS">SBT RS</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SCC" xmltv_id="SBT SC">SBT SC</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SBP" xmltv_id="SBT SP">SBT SP</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SHD" xmltv_id="SBT SP HD">SBT SP HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NAC" xmltv_id="SESC TV">SESC TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SEX" xmltv_id="Sex Privé Brasileirinhas">Sex Privé Brasileirinhas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HEC" xmltv_id="Sextreme">Sextreme</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HOT" xmltv_id="Sexy Hot">Sexy Hot</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SHO" xmltv_id="Shoptime">Shoptime</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SHN" xmltv_id="Shoptime (Espelho)">Shoptime (Espelho)</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SIC" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SMI" xmltv_id="Smithsonian HD">Smithsonian HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SET" xmltv_id="Sony">Sony</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SEH" xmltv_id="Sony HD">Sony HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SPA" xmltv_id="Space">Space</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SPH" xmltv_id="Space HD">Space HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SPO" xmltv_id="SPORTV">SPORTV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SP2" xmltv_id="SPORTV 2">SPORTV 2</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="S2H" xmltv_id="SPORTV 2 HD">SPORTV 2 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SP3" xmltv_id="SPORTV 3">SPORTV 3</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="S3H" xmltv_id="SPORTV 3 HD">SPORTV 3 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="S1H" xmltv_id="SPORTV HD">SPORTV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="429" xmltv_id="Stingray Anos 50">Stingray Anos 50</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="434" xmltv_id="Stingray Around the World">Stingray Around the World</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="400" xmltv_id="Stingray Baladas ESP">Stingray Baladas ESP</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="435" xmltv_id="Stingray Big Band">Stingray Big Band</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="436" xmltv_id="Stingray Brasil Pop e Rock">Stingray Brasil Pop e Rock</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="401" xmltv_id="Stingray Cantores">Stingray Cantores</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="402" xmltv_id="Stingray Caribenhos">Stingray Caribenhos</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="437" xmltv_id="Stingray Classic Masters">Stingray Classic Masters</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="403" xmltv_id="Stingray Clássicas">Stingray Clássicas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="404" xmltv_id="Stingray Contemporânea">Stingray Contemporânea</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="405" xmltv_id="Stingray Dance">Stingray Dance</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="438" xmltv_id="Stingray Dance Classics">Stingray Dance Classics</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="439" xmltv_id="Stingray Dance Hall">Stingray Dance Hall</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="440" xmltv_id="Stingray Euro Hits">Stingray Euro Hits</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="441" xmltv_id="Stingray Eventos">Stingray Eventos</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="406" xmltv_id="Stingray Feliches">Stingray Feliches</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="407" xmltv_id="Stingray Flashback">Stingray Flashback</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="442" xmltv_id="Stingray Hard Rock">Stingray Hard Rock</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="443" xmltv_id="Stingray Hits">Stingray Hits</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="408" xmltv_id="Stingray Hits Hollywood">Stingray Hits Hollywood</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="409" xmltv_id="Stingray Holiday Hits">Stingray Holiday Hits</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="410" xmltv_id="Stingray Hot Hits">Stingray Hot Hits</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="444" xmltv_id="Stingray Indie Classics">Stingray Indie Classics</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="411" xmltv_id="Stingray Infantil">Stingray Infantil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="412" xmltv_id="Stingray Instrumental">Stingray Instrumental</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="445" xmltv_id="Stingray Jazz">Stingray Jazz</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="446" xmltv_id="Stingray Jazz Latino">Stingray Jazz Latino</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="447" xmltv_id="Stingray Jukebox">Stingray Jukebox</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="413" xmltv_id="Stingray Lounge Latino">Stingray Lounge Latino</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="414" xmltv_id="Stingray Mariachi">Stingray Mariachi</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="415" xmltv_id="Stingray Mexicano">Stingray Mexicano</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="416" xmltv_id="Stingray Mundo">Stingray Mundo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="417" xmltv_id="Stingray Música Tropical">Stingray Música Tropical</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="418" xmltv_id="Stingray New Age">Stingray New Age</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="448" xmltv_id="Stingray Opera">Stingray Opera</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="419" xmltv_id="Stingray Orquestras">Stingray Orquestras</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="420" xmltv_id="Stingray Piano">Stingray Piano</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="449" xmltv_id="Stingray Pop Adult">Stingray Pop Adult</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="451" xmltv_id="Stingray Pop Classics">Stingray Pop Classics</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="421" xmltv_id="Stingray RB Clássico">Stingray RB Clássico</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="796" xmltv_id="Stingray Reggaeton">Stingray Reggaeton</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="422" xmltv_id="Stingray Ritmo Italiano">Stingray Ritmo Italiano</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="91C" xmltv_id="Stingray Rock Brasil">Stingray Rock Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="423" xmltv_id="Stingray Rock Latino">Stingray Rock Latino</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="458" xmltv_id="Stingray Rock Oldies">Stingray Rock Oldies</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="424" xmltv_id="Stingray Românticas">Stingray Românticas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="425" xmltv_id="Stingray RTC">Stingray RTC</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="426" xmltv_id="Stingray Salsa e Merengue">Stingray Salsa e Merengue</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="427" xmltv_id="Stingray Samba e Pagode">Stingray Samba e Pagode</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="428" xmltv_id="Stingray Sinfônica">Stingray Sinfônica</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="430" xmltv_id="Stingray Sucessos ESP">Stingray Sucessos ESP</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="431" xmltv_id="Stingray Sucessos Europeus">Stingray Sucessos Europeus</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="460" xmltv_id="Stingray Swinging">Stingray Swinging</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="432" xmltv_id="Stingray The Americas">Stingray The Americas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="433" xmltv_id="Stingray Top 40 Brasil">Stingray Top 40 Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HAL" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="HAM" xmltv_id="Studio Universal HD">Studio Universal HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SUN" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SCI" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SCJ" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TBS" xmltv_id="TBS">TBS</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TBH" xmltv_id="TBS HD">TBS HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TCM" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TC2" xmltv_id="Telecine Action">Telecine Action</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="T2H" xmltv_id="Telecine Action HD">Telecine Action HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TC5" xmltv_id="Telecine Cult">Telecine Cult</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="T5H" xmltv_id="Telecine Cult HD">Telecine Cult HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TC6" xmltv_id="Telecine Fun">Telecine Fun</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="T6H" xmltv_id="Telecine Fun HD">Telecine Fun HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TC4" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="T4H" xmltv_id="Telecine Pipoca HD">Telecine Pipoca HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TC1" xmltv_id="Telecine Premium">Telecine Premium</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TCH" xmltv_id="Telecine Premium HD">Telecine Premium HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TC3" xmltv_id="Telecine Touch">Telecine Touch</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="T3H" xmltv_id="Telecine Touch HD">Telecine Touch HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TLF" xmltv_id="Telefe Internacional">Telefe Internacional</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TVV" xmltv_id="Terraviva">Terraviva</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TGC" xmltv_id="The Golf Channel">The Golf Channel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TRV" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TLH" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TLN" xmltv_id="TLN">TLN</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TNT" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TNH" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TNS" xmltv_id="TNT Séries">TNT Séries</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TNR" xmltv_id="TNT Séries HD">TNT Séries HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TOC" xmltv_id="Tooncast">Tooncast</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TOP" xmltv_id="Top TV">Top TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TRA" xmltv_id="Trace Brazuca">Trace Brazuca</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TRB" xmltv_id="Travel Box Brazil">Travel Box Brazil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TRU" xmltv_id="truTV">truTV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TRH" xmltv_id="truTV HD">truTV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SBH" xmltv_id="TV Alterosa">TV Alterosa</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GGH" xmltv_id="TV Anhanguera">TV Anhanguera</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="APA" xmltv_id="TV Aparecida">TV Aparecida</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="APH" xmltv_id="TV Aparecida HD">TV Aparecida HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ASL" xmltv_id="TV Assembléia SP">TV Assembléia SP</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GBB" xmltv_id="TV Bahia">TV Bahia</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TED" xmltv_id="TV Brasil">TV Brasil</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TEE" xmltv_id="TV Brasil HD">TV Brasil HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GJH" xmltv_id="TV Cabo Branco">TV Cabo Branco</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CAM" xmltv_id="TV Câmara">TV Câmara</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GCB" xmltv_id="TV Centro América">TV Centro América</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CLI" xmltv_id="TV Climatempo">TV Climatempo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="COM" xmltv_id="TV COM">TV COM</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="COR" xmltv_id="TV Coréia">TV Coréia</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CUL" xmltv_id="TV Cultura">TV Cultura</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CHD" xmltv_id="TV Cultura HD">TV Cultura HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TDF" xmltv_id="TV Diário Fortaleza">TV Diário Fortaleza</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TVD" xmltv_id="TV Diário Mogi">TV Diário Mogi</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ESC" xmltv_id="TV Escola">TV Escola</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TVE" xmltv_id="TV España">TV España</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GAZ" xmltv_id="TV Gazeta">TV Gazeta</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GMH" xmltv_id="TV Gazeta Alagoas">TV Gazeta Alagoas</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GAW" xmltv_id="TV Gazeta HD">TV Gazeta HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GBA" xmltv_id="TV Integração Araxá">TV Integração Araxá</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GBI" xmltv_id="TV Integração Ituiutaba">TV Integração Ituiutaba</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GJF" xmltv_id="TV Integração Juiz de Fora">TV Integração Juiz de Fora</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GBR" xmltv_id="TV Integração Uberlândia">TV Integração Uberlândia</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TJH" xmltv_id="TV Jangadeiro">TV Jangadeiro</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="JUS" xmltv_id="TV Justiça">TV Justiça</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GPA" xmltv_id="TV Liberal Belém">TV Liberal Belém</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GCH" xmltv_id="TV Morena">TV Morena</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NVT" xmltv_id="TV Novo Tempo">TV Novo Tempo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="NVU" xmltv_id="TV Novo Tempo HD">TV Novo Tempo HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="PED" xmltv_id="TV Paraná Educativa">TV Paraná Educativa</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RTB" xmltv_id="TV Rá-Tim-Bum">TV Rá-Tim-Bum</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="RTA" xmltv_id="TV Rá-Tim-Bum HD">TV Rá-Tim-Bum HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SEN" xmltv_id="TV Senado">TV Senado</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GBU" xmltv_id="TV TEM Bauru">TV TEM Bauru</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TEN" xmltv_id="TV TEM Itapetininga">TV TEM Itapetininga</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GJR" xmltv_id="TV TEM Rio Preto">TV TEM Rio Preto</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TEH" xmltv_id="TV TEM Sorocaba">TV TEM Sorocaba</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TVH" xmltv_id="TV Tribuna Globo">TV Tribuna Globo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SBV" xmltv_id="TV Tribuna SBT">TV Tribuna SBT</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GVH" xmltv_id="TV Vanguarda São Jose dos Campos">TV Vanguarda São Jose dos Campos</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GTB" xmltv_id="TV Vanguarda Taubaté">TV Vanguarda Taubaté</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="GHF" xmltv_id="TV Verdes Mares">TV Verdes Mares</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="VIT" xmltv_id="TV Vitória">TV Vitória</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TV5" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="CCO" xmltv_id="TVAberta São Paulo">TVAberta São Paulo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="SCP" xmltv_id="TVB SBT">TVB SBT</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="TCC" xmltv_id="TVCi">TVCi</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ULB" xmltv_id="Ulbra TV">Ulbra TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="USA" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="USH" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="THF" xmltv_id="Venus">Venus</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="VH2" xmltv_id="VH1 (HD)">VH1 (HD)</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="VHD" xmltv_id="VH1 HD">VH1 HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="MTH" xmltv_id="VH1 Megahits">VH1 Megahits</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="VIV" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="VVH" xmltv_id="Viva HD">Viva HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="WBT" xmltv_id="Warner Channel">Warner Channel</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="WBH" xmltv_id="Warner Channel HD">Warner Channel HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="WOO" xmltv_id="Woohoo">Woohoo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="WOP" xmltv_id="Woohoo HD">Woohoo HD</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ZOO" xmltv_id="ZooMoo">ZooMoo</channel>
+    <channel update="i" site="tvmagazine.com.br" site_id="ZOH" xmltv_id="ZooMoo HD">ZooMoo HD</channel>
+  </channels>
+</site>

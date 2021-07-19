@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="tvstv.my">
+  <channels>
+    <channel update="i" site="tvstv.my" site_id="tvs" xmltv_id="TVS">TVS</channel>
+  </channels>
+</site>

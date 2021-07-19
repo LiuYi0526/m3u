@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="osn.com">
+  <channels>
+    <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First">OSN Movies First</channel>
+    <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First+2">OSN Movies First+2</channel>
+    <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Action">OSN Action</channel>
+    <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies">OSN Movies</channel>
+    <channel update="i" site="osn.com" site_id="POP" xmltv_id="OSN Popup">OSN Popup</channel>
+    <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Enigma">OSN Enigma</channel>
+    <channel update="i" site="osn.com" site_id="OMK" xmltv_id="OSN Kids">OSN Kids</channel>
+    <channel update="i" site="osn.com" site_id="OFM" xmltv_id="OSN Movies Disney">OSN Movies Disney</channel>
+    <channel update="i" site="osn.com" site_id="PAR" xmltv_id="Paramount">Paramount</channel>
+    <channel update="i" site="osn.com" site_id="STM" xmltv_id="Star Movies HD">Star Movies HD</channel>
+    <channel update="i" site="osn.com" site_id="B4P" xmltv_id="B4U Plus">B4U Plus</channel>
+    <channel update="i" site="osn.com" site_id="IMA" xmltv_id="Imagine Movies">Imagine Movies</channel>
+    <channel update="i" site="osn.com" site_id="OYH" xmltv_id="OSN Ya Hala Al Oula">OSN Ya Hala Al Oula</channel>
+    <channel update="i" site="osn.com" site_id="OYA" xmltv_id="OSN Ya Hala">OSN Ya Hala</channel>
+    <channel update="i" site="osn.com" site_id="OYC" xmltv_id="OSN Yahala Cinema">OSN Yahala Cinema</channel>
+    <channel update="i" site="osn.com" site_id="SER" xmltv_id="Series Channel">Series Channel</channel>
+    <channel update="i" site="osn.com" site_id="YAW" xmltv_id="Al Yawm">Al Yawm</channel>
+    <channel update="i" site="osn.com" site_id="SAF" xmltv_id="Al Safwa">Al Safwa</channel>
+    <channel update="i" site="osn.com" site_id="FAN" xmltv_id="Fann">Fann</channel>
+    <channel update="i" site="osn.com" site_id="CM1" xmltv_id="Cinema 1">Cinema 1</channel>
+    <channel update="i" site="osn.com" site_id="CM2" xmltv_id="Cinema 2">Cinema 2</channel>
+    <channel update="i" site="osn.com" site_id="NOW" xmltv_id="Music Now">Music Now</channel>
+    <channel update="i" site="osn.com" site_id="HK1" xmltv_id="Hekayat">Hekayat</channel>
+    <channel update="i" site="osn.com" site_id="HK2" xmltv_id="Hekayat 2">Hekayat 2</channel>
+    <channel update="i" site="osn.com" site_id="AF1" xmltv_id="ART Aflam 1">ART Aflam 1</channel>
+    <channel update="i" site="osn.com" site_id="AF2" xmltv_id="ART Aflam 2">ART Aflam 2</channel>
+    <channel update="i" site="osn.com" site_id="ACM" xmltv_id="ART Cinema">ART Cinema</channel>
+    <channel update="i" site="osn.com" site_id="ELL" xmltv_id="Ellay.com">Ellay.com</channel>
+    <channel update="i" site="osn.com" site_id="AAN" xmltv_id="Al Aan TV">Al Aan TV</channel>
+    <channel update="i" site="osn.com" site_id="BEI" xmltv_id="Beity TV">Beity TV</channel>
+    <channel update="i" site="osn.com" site_id="KT1" xmltv_id="KTV1 HD">KTV1 HD</channel>
+    <channel update="i" site="osn.com" site_id="KT2" xmltv_id="KTV2 HD">KTV2 HD</channel>
+    <channel update="i" site="osn.com" site_id="KTE" xmltv_id="KTV Ethraa HD">KTV Ethraa HD</channel>
+    <channel update="i" site="osn.com" site_id="KTA" xmltv_id="KTV Arabe HD">KTV Arabe HD</channel>
+    <channel update="i" site="osn.com" site_id="KTM" xmltv_id="KTV Majlis HD">KTV Majlis HD</channel>
+    <channel update="i" site="osn.com" site_id="KTQ" xmltv_id="Al Qurain HD">Al Qurain HD</channel>
+    <channel update="i" site="osn.com" site_id="SHJ" xmltv_id="Sharjah TV">Sharjah TV</channel>
+    <channel update="i" site="osn.com" site_id="SQK" xmltv_id="Sharqiya from Kalba">Sharqiya from Kalba</channel>
+    <channel update="i" site="osn.com" site_id="WAD" xmltv_id="Al Wosta from Al Dhaid">Al Wosta from Al Dhaid</channel>
+    <channel update="i" site="osn.com" site_id="DAF" xmltv_id="Al Dafrah TV">Al Dafrah TV</channel>
+    <channel update="i" site="osn.com" site_id="BAH" xmltv_id="Bahrain TV">Bahrain TV</channel>
+    <channel update="i" site="osn.com" site_id="AGH" xmltv_id="Aghani Aghani">Aghani Aghani</channel>
+    <channel update="i" site="osn.com" site_id="ROY" xmltv_id="Al Roya TV">Al Roya TV</channel>
+    <channel update="i" site="osn.com" site_id="OFH" xmltv_id="OSN Series First">OSN Series First</channel>
+    <channel update="i" site="osn.com" site_id="OBG" xmltv_id="OSN Binge">OSN Binge</channel>
+    <channel update="i" site="osn.com" site_id="OCO" xmltv_id="OSN Comedy">OSN Comedy</channel>
+    <channel update="i" site="osn.com" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="osn.com" site_id="STW" xmltv_id="Star World HD">Star World HD</channel>
+    <channel update="i" site="osn.com" site_id="TLC" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="osn.com" site_id="ETV" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel update="i" site="osn.com" site_id="OMZ" xmltv_id="OSN Mezze">OSN Mezze</channel>
+    <channel update="i" site="osn.com" site_id="OLH" xmltv_id="OSN Living">OSN Living</channel>
+    <channel update="i" site="osn.com" site_id="FTH" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="osn.com" site_id="B4A" xmltv_id="B4U Aflam">B4U Aflam</channel>
+    <channel update="i" site="osn.com" site_id="MTL" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="osn.com" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="osn.com" site_id="DIS" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="osn.com" site_id="DXD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="osn.com" site_id="DJR" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="osn.com" site_id="NIC" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="osn.com" site_id="NJR" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="osn.com" site_id="KDZ" xmltv_id="OSN Kid Zone TV">OSN Kid Zone TV</channel>
+    <channel update="i" site="osn.com" site_id="NKT" xmltv_id="NickToons HD">NickToons HD</channel>
+    <channel update="i" site="osn.com" site_id="BAB" xmltv_id="Baby TV Europe">Baby TV Europe</channel>
+    <channel update="i" site="osn.com" site_id="ONS" xmltv_id="OSN News">OSN News</channel>
+    <channel update="i" site="osn.com" site_id="SKH" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="osn.com" site_id="BBW" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="osn.com" site_id="CNB" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="osn.com" site_id="BTV" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="osn.com" site_id="CT9" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="osn.com" site_id="FRE" xmltv_id="France 24 English">France 24 English</channel>
+    <channel update="i" site="osn.com" site_id="NHK" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel update="i" site="osn.com" site_id="MDN" xmltv_id="Madani TV">Madani TV</channel>
+    <channel update="i" site="osn.com" site_id="SNH" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
+    <channel update="i" site="osn.com" site_id="SNA" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
+    <channel update="i" site="osn.com" site_id="MMK" xmltv_id="AlMamlaka TV">AlMamlaka TV</channel>
+    <channel update="i" site="osn.com" site_id="RUS" xmltv_id="Rusiya Al Yawm">Rusiya Al Yawm</channel>
+    <channel update="i" site="osn.com" site_id="ALH" xmltv_id="AL Hurra HD">AL Hurra HD</channel>
+    <channel update="i" site="osn.com" site_id="ALQ" xmltv_id="AL Hurra Iraq HD">AL Hurra Iraq HD</channel>
+    <channel update="i" site="osn.com" site_id="BBA" xmltv_id="BBC Arabic">BBC Arabic</channel>
+    <channel update="i" site="osn.com" site_id="FRA" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="osn.com" site_id="CTA" xmltv_id="CGTN Arabic">CGTN Arabic</channel>
+    <channel update="i" site="osn.com" site_id="CAR" xmltv_id="CNBC Arabia">CNBC Arabia</channel>
+    <channel update="i" site="osn.com" site_id="DSC" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="osn.com" site_id="SCI" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="osn.com" site_id="DCX" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel update="i" site="osn.com" site_id="CAI" xmltv_id="Crime \\u0026 Investigation Network">Crime \\u0026 Investigation Network</channel>
+    <channel update="i" site="osn.com" site_id="HIS" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="osn.com" site_id="HI2" xmltv_id="H2 HD">H2 HD</channel>
+    <channel update="i" site="osn.com" site_id="NGO" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="osn.com" site_id="NHD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="osn.com" site_id="NAH" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="osn.com" site_id="DUH" xmltv_id="Dubai Racing 1 HD">Dubai Racing 1 HD</channel>
+    <channel update="i" site="osn.com" site_id="DR3" xmltv_id="Dubai Racing 3">Dubai Racing 3</channel>
+    <channel update="i" site="osn.com" site_id="SHS" xmltv_id="Sharjah Sport HD">Sharjah Sport HD</channel>
+    <channel update="i" site="osn.com" site_id="KTS" xmltv_id="KTV Sport HD">KTV Sport HD</channel>
+    <channel update="i" site="osn.com" site_id="KTP" xmltv_id="KTV Sport Plus HD">KTV Sport Plus HD</channel>
+    <channel update="i" site="osn.com" site_id="TFC" xmltv_id="TFC">TFC</channel>
+    <channel update="i" site="osn.com" site_id="BRO" xmltv_id="ABS-CBN Sports+Action">ABS-CBN Sports+Action</channel>
+    <channel update="i" site="osn.com" site_id="COG" xmltv_id="Cinema One Global">Cinema One Global</channel>
+    <channel update="i" site="osn.com" site_id="ANC" xmltv_id="ANC">ANC</channel>
+    <channel update="i" site="osn.com" site_id="DZM" xmltv_id="DZMM Teleradyo">DZMM Teleradyo</channel>
+    <channel update="i" site="osn.com" site_id="DWR" xmltv_id="DWRR 101.9">DWRR 101.9</channel>
+    <channel update="i" site="osn.com" site_id="VIV" xmltv_id="Viva TV">Viva TV</channel>
+    <channel update="i" site="osn.com" site_id="MYX" xmltv_id="Myx">Myx</channel>
+    <channel update="i" site="osn.com" site_id="ARC" xmltv_id="ABS-CBN Regional Channel">ABS-CBN Regional Channel</channel>
+    <channel update="i" site="osn.com" site_id="AKS" xmltv_id="Aksyon TV">Aksyon TV</channel>
+    <channel update="i" site="osn.com" site_id="CIN" xmltv_id="Cine Mo">Cine Mo</channel>
+    <channel update="i" site="osn.com" site_id="LSN" xmltv_id="Lifestyle Network">Lifestyle Network</channel>
+    <channel update="i" site="osn.com" site_id="GMA" xmltv_id="GMA Pinoy TV">GMA Pinoy TV</channel>
+    <channel update="i" site="osn.com" site_id="GML" xmltv_id="GMA Life TV">GMA Life TV</channel>
+    <channel update="i" site="osn.com" site_id="GMN" xmltv_id="GMA News TV">GMA News TV</channel>
+    <channel update="i" site="osn.com" site_id="NET" xmltv_id="NET 25">NET 25</channel>
+  </channels>
+</site>

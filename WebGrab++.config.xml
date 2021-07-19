@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>0</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+
+    <channel update="i" site="epg.i-cable.com.chinese" site_id="001" xmltv_id="01 香港開電視 *">01 香港開電視 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="002" xmltv_id="02 香港國際財經台 *">02 香港國際財經台 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="003" xmltv_id="03 香港開電視">03 香港開電視</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="005" xmltv_id="05 香港國際財經台">05 香港國際財經台</channel>
+    <channel update="i" site="epg.i-cable.com.chinese" site_id="108" xmltv_id="108 財經資訊台 *">108 財經資訊台 *</channel>
+    <channel update="i" site="epg.i-cable.com.chinese" site_id="109" xmltv_id="109 新聞台 *">109 新聞台 *</channel>
+    <channel update="i" site="epg.i-cable.com.chinese" site_id="110" xmltv_id="110 直播新聞台 *">110 直播新聞台 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="151" xmltv_id="151 財經資訊台">151 財經資訊台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="152" xmltv_id="152 新聞台">152 新聞台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="153" xmltv_id="153 直播新聞台">153 直播新聞台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="201" xmltv_id="201 有線電影台 *">201 有線電影台 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="251" xmltv_id="251 有線電影台">251 有線電影台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="301" xmltv_id="301 綜合娛樂台 *">251 有線電影台 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="371" xmltv_id="371 綜合娛樂台">371 綜合娛樂台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="601" xmltv_id="601 高清體育台 *">601 高清體育台 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="602" xmltv_id="602 Sports Plus 1 *">602 Sports Plus 1 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="603" xmltv_id="603 高清603台 *">603 高清603台 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="604" xmltv_id="604 Sports Plus 2 *">604 Sports Plus 2 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="605" xmltv_id="605 Sports Plus 3 *">605 Sports Plus 3 *</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="618" xmltv_id="618 有線18台">618 有線18台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="661" xmltv_id="661 有線體育台">661 有線體育台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="662" xmltv_id="662 Sports Plus 1">662 Sports Plus 1</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="664" xmltv_id="664 Sports Plus 2">664 Sports Plus 2</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="665" xmltv_id="665 Sports Plus 3">665 Sports Plus 3</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="668" xmltv_id="668 賽馬1台">668 賽馬1台</channel>
+	<channel update="i" site="epg.i-cable.com.chinese" site_id="669" xmltv_id="669 賽馬2台">669 賽馬2台</channel>
+	
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#96" xmltv_id="中國 - ViuTVsix">中國 - ViuTVsix</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#99" xmltv_id="中國 - ViuTV">中國 - ViuTV</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#102" xmltv_id="中國 - Now劇集台">中國 - Now劇集台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#105" xmltv_id="中國 - Now華劇台">中國 - Now華劇台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#106" xmltv_id="中國 - Now 影視點播站">中國 - Now 影視點播站</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#108" xmltv_id="中國 - NowJelli">中國 - NowJelli</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#133" xmltv_id="中國 - Now 爆谷台">中國 - Now 爆谷台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#331" xmltv_id="中國 - Now直播台">中國 - Now直播台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#332" xmltv_id="中國 - Now新聞台">中國 - Now新聞台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#333" xmltv_id="中國 - Now財經台">中國 - Now財經台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#336" xmltv_id="中國 - Now報價台">中國 - Now報價台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#501" xmltv_id="中國 - Now Shop">中國 - Now Shop</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#600" xmltv_id="中國 - 體育節目精選">中國 - 體育節目精選</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#611" xmltv_id="中國 - Now Sports 4K">中國 - Now Sports 4K</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#618" xmltv_id="中國 - Now Sports 618">中國 - Now Sports 618</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#619" xmltv_id="中國 - Now Sports 619">中國 - Now Sports 619</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#620" xmltv_id="中國 - Now Sports Premier League TV">中國 - Now Sports Premier League TV</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#621" xmltv_id="中國 - Now Sports 英超1台">中國 - Now Sports 英超1台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#622" xmltv_id="中國 - Now Sports 英超2台">中國 - Now Sports 英超2台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#623" xmltv_id="中國 - Now Sports 英超3台">中國 - Now Sports 英超3台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#624" xmltv_id="中國 - Now Sports 英超4台">中國 - Now Sports 英超4台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#625" xmltv_id="中國 - Now Sports 英超5台">中國 - Now Sports 英超5台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#626" xmltv_id="中國 - Now Sports 英超6台">中國 - Now Sports 英超6台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#630" xmltv_id="中國 - Now Sports 精選">中國 - Now Sports 精選</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#631" xmltv_id="中國 - Now Sports 1">中國 - Now Sports 1</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#632" xmltv_id="中國 - beIN – Now Sports 2">中國 - beIN – Now Sports 2</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#633" xmltv_id="中國 - Now Sports 3">中國 - Now Sports 3</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#634" xmltv_id="中國 - Now Sports 4">中國 - Now Sports 4</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#635" xmltv_id="中國 - Now Sports 5">中國 - Now Sports 5</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#636" xmltv_id="中國 - Now Sports 6">中國 - Now Sports 6</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#637" xmltv_id="中國 - Now Sports 7">中國 - Now Sports 7</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#650" xmltv_id="中國 - Now Sports 650">中國 - Now Sports 650</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#651" xmltv_id="中國 - Now Sports 651">中國 - Now Sports 651</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#668" xmltv_id="中國 - Now668">中國 - Now668</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#680" xmltv_id="中國 - Now Sports Plus">中國 - Now Sports Plus</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#681" xmltv_id="中國 - Now Sports 681">中國 - Now Sports 681</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#682" xmltv_id="中國 - Now Golf 1">中國 - Now Golf 1</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#683" xmltv_id="中國 - Now Golf 2">中國 - Now Golf 2</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#684" xmltv_id="中國 - Now Golf 3">中國 - Now Golf 3</channel>
+
+
+</settings>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.2.2 -- Jan van Straaten" site="tv-sports.fr">
+  <channels>
+    <channel update="i" site="tv-sports.fr" site_id="tf1-c41" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="tv-sports.fr" site_id="france-2-c54" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="tv-sports.fr" site_id="france-3-c34" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="tv-sports.fr" site_id="canal-plus-c81" xmltv_id="Canal+">Canal+</channel>
+    <channel update="i" site="tv-sports.fr" site_id="canal-plus-sport-c83" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
+    <channel update="i" site="tv-sports.fr" site_id="l-equipe-c50" xmltv_id="L’Equipe">L’Equipe</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-c158" xmltv_id="Téléfoot">Téléfoot</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-1-c130" xmltv_id="RMC Sport 1">RMC Sport 1</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-2-c131" xmltv_id="RMC Sport 2">RMC Sport 2</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-3-c132" xmltv_id="RMC Sport 3">RMC Sport 3</channel>
+    <channel update="i" site="tv-sports.fr" site_id="eurosport-1-c92" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tv-sports.fr" site_id="eurosport-2-c49" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-1-c93" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-2-c15" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-3-c118" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-max-4-c134" xmltv_id="beIN SPORTS MAX 4">beIN SPORTS MAX 4</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-max-5-c135" xmltv_id="beIN SPORTS MAX 5">beIN SPORTS MAX 5</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-max-6-c136" xmltv_id="beIN SPORTS MAX 6">beIN SPORTS MAX 6</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-max-7-c137" xmltv_id="beIN SPORTS MAX 7">beIN SPORTS MAX 7</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-max-8-c138" xmltv_id="beIN SPORTS MAX 8">beIN SPORTS MAX 8</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-max-9-c139" xmltv_id="beIN SPORTS MAX 9">beIN SPORTS MAX 9</channel>
+    <channel update="i" site="tv-sports.fr" site_id="bein-sports-max-10-c140" xmltv_id="beIN SPORTS MAX 10">beIN SPORTS MAX 10</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-stadium-1-c159" xmltv_id="TELEFOOT STADIUM 1">TELEFOOT STADIUM 1</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-stadium-2-c160" xmltv_id="TELEFOOT STADIUM 2">TELEFOOT STADIUM 2</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-stadium-3-c161" xmltv_id="TELEFOOT STADIUM 3">TELEFOOT STADIUM 3</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-stadium-4-c162" xmltv_id="TELEFOOT STADIUM 4">TELEFOOT STADIUM 4</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-stadium-5-c163" xmltv_id="TELEFOOT STADIUM 5">TELEFOOT STADIUM 5</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-stadium-6-c164" xmltv_id="TELEFOOT STADIUM 6">TELEFOOT STADIUM 6</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-stadium-7-c165" xmltv_id="TELEFOOT STADIUM 7">TELEFOOT STADIUM 7</channel>
+    <channel update="i" site="tv-sports.fr" site_id="telefoot-stadium-8-c166" xmltv_id="TELEFOOT STADIUM 8">TELEFOOT STADIUM 8</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-4-c141" xmltv_id="RMC Sport 4">RMC Sport 4</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-5-c150" xmltv_id="RMC Sport Live 5">RMC Sport Live 5</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-6-c151" xmltv_id="RMC Sport Live 6">RMC Sport Live 6</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-7-c152" xmltv_id="RMC Sport Live 7">RMC Sport Live 7</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-8-c153" xmltv_id="RMC Sport Live 8">RMC Sport Live 8</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-9-c154" xmltv_id="RMC Sport Live 9">RMC Sport Live 9</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-10-c143" xmltv_id="RMC Sport Live 10">RMC Sport Live 10</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-11-c144" xmltv_id="RMC Sport Live 11">RMC Sport Live 11</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-12-c145" xmltv_id="RMC Sport Live 12">RMC Sport Live 12</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-13-c146" xmltv_id="RMC Sport Live 13">RMC Sport Live 13</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-14-c147" xmltv_id="RMC Sport Live 14">RMC Sport Live 14</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-15-c148" xmltv_id="RMC Sport Live 15">RMC Sport Live 15</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-sport-live-16-c149" xmltv_id="RMC Sport Live 16">RMC Sport Live 16</channel>
+    <channel update="i" site="tv-sports.fr" site_id="equidia-c13" xmltv_id="Equidia">Equidia</channel>
+    <channel update="i" site="tv-sports.fr" site_id="automoto-c77" xmltv_id="Automoto">Automoto</channel>
+    <channel update="i" site="tv-sports.fr" site_id="w9-c14" xmltv_id="W9">W9</channel>
+    <channel update="i" site="tv-sports.fr" site_id="tmc-c12" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-story-c94" xmltv_id="RMC Story">RMC Story</channel>
+    <channel update="i" site="tv-sports.fr" site_id="franceinfo-c119" xmltv_id="Franceinfo">Franceinfo</channel>
+    <channel update="i" site="tv-sports.fr" site_id="tv5monde-c6" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="tv-sports.fr" site_id="rmc-decouverte-c72" xmltv_id="RMC Découverte">RMC Découverte</channel>
+    <channel update="i" site="tv-sports.fr" site_id="canal-plus-decale-c89" xmltv_id="Canal+ Décalé">Canal+ Décalé</channel>
+  </channels>
+</site>

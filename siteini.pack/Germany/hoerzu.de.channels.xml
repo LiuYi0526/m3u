@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.0 -- Jan van Straaten" site="hoerzu.de">
+  <channels>
+    <channel update="i" site="hoerzu.de" site_id="13thstreet" xmltv_id="13TH STREET">13TH STREET</channel>
+    <channel update="i" site="hoerzu.de" site_id="3plus" xmltv_id="3plus">3plus</channel>
+    <channel update="i" site="hoerzu.de" site_id="3sat" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="hoerzu.de" site_id="5plus" xmltv_id="5plus">5plus</channel>
+    <channel update="i" site="hoerzu.de" site_id="animalplanet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="hoerzu.de" site_id="anixehdserie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
+    <channel update="i" site="hoerzu.de" site_id="anixeplus" xmltv_id="Anixe Plus">Anixe Plus</channel>
+    <channel update="i" site="hoerzu.de" site_id="ardalpha" xmltv_id="ARD alpha">ARD alpha</channel>
+    <channel update="i" site="hoerzu.de" site_id="arte" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="hoerzu.de" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="hoerzu.de" site_id="atv2" xmltv_id="ATV2">ATV2</channel>
+    <channel update="i" site="hoerzu.de" site_id="automotorundsportchannel" xmltv_id="auto motor und sport channel">auto motor und sport channel</channel>
+    <channel update="i" site="hoerzu.de" site_id="bbcentertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="hoerzu.de" site_id="bbcworldnews" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="hoerzu.de" site_id="beateuhsetv" xmltv_id="Beate-Uhse.TV">Beate-Uhse.TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="bibeltv" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="bluehustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="hoerzu.de" site_id="bongusto" xmltv_id="BonGusto">BonGusto</channel>
+    <channel update="i" site="hoerzu.de" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="hoerzu.de" site_id="br" xmltv_id="BR">BR</channel>
+    <channel update="i" site="hoerzu.de" site_id="cartoonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="hoerzu.de" site_id="channel21" xmltv_id="Channel 21">Channel 21</channel>
+    <channel update="i" site="hoerzu.de" site_id="cnbcpaneurope" xmltv_id="CNBC Paneurope">CNBC Paneurope</channel>
+    <channel update="i" site="hoerzu.de" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="hoerzu.de" site_id="comedycentral" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="hoerzu.de" site_id="crimeplusinvestigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="hoerzu.de" site_id="daserste" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="hoerzu.de" site_id="deluxemusic" xmltv_id="Deluxe Music">Deluxe Music</channel>
+    <channel update="i" site="hoerzu.de" site_id="deraktionaertv" xmltv_id="Der Aktionär TV">Der Aktionär TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="deutschesmusikfernsehen" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel update="i" site="hoerzu.de" site_id="dieneuezeit" xmltv_id="Die Neue Zeit">Die Neue Zeit</channel>
+    <channel update="i" site="hoerzu.de" site_id="discoverychannel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="hoerzu.de" site_id="disneychannel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="hoerzu.de" site_id="disneyjunior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="hoerzu.de" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="hoerzu.de" site_id="dr1" xmltv_id="DR 1">DR 1</channel>
+    <channel update="i" site="hoerzu.de" site_id="dwenglish" xmltv_id="DW English">DW English</channel>
+    <channel update="i" site="hoerzu.de" site_id="e!entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="hoerzu.de" site_id="esports1" xmltv_id="eSports1">eSports1</channel>
+    <channel update="i" site="hoerzu.de" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="hoerzu.de" site_id="eurosport1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="hoerzu.de" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="hoerzu.de" site_id="extremesportschannel" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="hoerzu.de" site_id="fixundfoxi" xmltv_id="Fix&amp;Foxi">Fix&amp;Foxi</channel>
+    <channel update="i" site="hoerzu.de" site_id="fox" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="hoerzu.de" site_id="france24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="hoerzu.de" site_id="frankenfernsehen" xmltv_id="Franken Fernsehen">Franken Fernsehen</channel>
+    <channel update="i" site="hoerzu.de" site_id="geotelevision" xmltv_id="Geo Television">Geo Television</channel>
+    <channel update="i" site="hoerzu.de" site_id="gutelaunetv" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="hamburg1" xmltv_id="Hamburg 1">Hamburg 1</channel>
+    <channel update="i" site="hoerzu.de" site_id="healthtv" xmltv_id="Health TV">Health TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="hoerzu.de" site_id="history" xmltv_id="History">History</channel>
+    <channel update="i" site="hoerzu.de" site_id="homeundgardentv" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="hr" xmltv_id="HR">HR</channel>
+    <channel update="i" site="hoerzu.de" site_id="hse24" xmltv_id="HSE24">HSE24</channel>
+    <channel update="i" site="hoerzu.de" site_id="jukebox" xmltv_id="Jukebox">Jukebox</channel>
+    <channel update="i" site="hoerzu.de" site_id="junior" xmltv_id="Junior">Junior</channel>
+    <channel update="i" site="hoerzu.de" site_id="kabel1doku" xmltv_id="Kabel 1 Doku">Kabel 1 Doku</channel>
+    <channel update="i" site="hoerzu.de" site_id="kabeleins" xmltv_id="kabel eins">kabel eins</channel>
+    <channel update="i" site="hoerzu.de" site_id="kabeleinsclassics" xmltv_id="kabel eins classics">kabel eins classics</channel>
+    <channel update="i" site="hoerzu.de" site_id="kika" xmltv_id="KiKA">KiKA</channel>
+    <channel update="i" site="hoerzu.de" site_id="kinowelttv" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="lustpur" xmltv_id="Lust Pur">Lust Pur</channel>
+    <channel update="i" site="hoerzu.de" site_id="mdr" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="hoerzu.de" site_id="motorvisiontv" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="hoerzu.de" site_id="mtvbrandnew" xmltv_id="MTV Brand New">MTV Brand New</channel>
+    <channel update="i" site="hoerzu.de" site_id="mtvhd" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="hoerzu.de" site_id="mtvlivehd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="hoerzu.de" site_id="muenchentv" xmltv_id="München TV">München TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="ntv" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="hoerzu.de" site_id="n24doku" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="hoerzu.de" site_id="nationalgeographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="hoerzu.de" site_id="nationalgeographicwild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="hoerzu.de" site_id="nauticalchannel" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="hoerzu.de" site_id="ndr" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="hoerzu.de" site_id="nick" xmltv_id="Nick">Nick</channel>
+    <channel update="i" site="hoerzu.de" site_id="nickjr" xmltv_id="NICK Jr.">NICK Jr.</channel>
+    <channel update="i" site="hoerzu.de" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="hoerzu.de" site_id="nitro" xmltv_id="NITRO">NITRO</channel>
+    <channel update="i" site="hoerzu.de" site_id="one" xmltv_id="One">One</channel>
+    <channel update="i" site="hoerzu.de" site_id="orf1" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="hoerzu.de" site_id="orf2" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="hoerzu.de" site_id="orf3" xmltv_id="ORF 3">ORF 3</channel>
+    <channel update="i" site="hoerzu.de" site_id="orfsportplus" xmltv_id="ORF Sport +">ORF Sport +</channel>
+    <channel update="i" site="hoerzu.de" site_id="penthousepassionhd" xmltv_id="Penthouse Passion HD">Penthouse Passion HD</channel>
+    <channel update="i" site="hoerzu.de" site_id="phoenix" xmltv_id="Phoenix">Phoenix</channel>
+    <channel update="i" site="hoerzu.de" site_id="planet" xmltv_id="Planet">Planet</channel>
+    <channel update="i" site="hoerzu.de" site_id="playboytv" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="prosieben" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="hoerzu.de" site_id="prosiebenfun" xmltv_id="ProSieben Fun">ProSieben Fun</channel>
+    <channel update="i" site="hoerzu.de" site_id="prosiebenmaxx" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel update="i" site="hoerzu.de" site_id="puls4" xmltv_id="Puls 4">Puls 4</channel>
+    <channel update="i" site="hoerzu.de" site_id="qvc" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="hoerzu.de" site_id="rbb" xmltv_id="RBB">RBB</channel>
+    <channel update="i" site="hoerzu.de" site_id="rcktv" xmltv_id="RCK TV">RCK TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="rheinneckarfernsehen" xmltv_id="Rhein-Neckar-Fernsehen">Rhein-Neckar-Fernsehen</channel>
+    <channel update="i" site="hoerzu.de" site_id="rheinmaintv" xmltv_id="rheinmainTV">rheinmainTV</channel>
+    <channel update="i" site="hoerzu.de" site_id="ric" xmltv_id="RiC">RiC</channel>
+    <channel update="i" site="hoerzu.de" site_id="romancetv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="rougetv" xmltv_id="Rouge TV">Rouge TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="hoerzu.de" site_id="rtlcrime" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="hoerzu.de" site_id="rtlliving" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="hoerzu.de" site_id="rtlpassion" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="hoerzu.de" site_id="rtlplus" xmltv_id="RTL Plus">RTL Plus</channel>
+    <channel update="i" site="hoerzu.de" site_id="rtlzwei" xmltv_id="RTL Zwei">RTL Zwei</channel>
+    <channel update="i" site="hoerzu.de" site_id="sat1" xmltv_id="Sat.1">Sat.1</channel>
+    <channel update="i" site="hoerzu.de" site_id="sat1emotions" xmltv_id="Sat.1 emotions">Sat.1 emotions</channel>
+    <channel update="i" site="hoerzu.de" site_id="sat1gold" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+    <channel update="i" site="hoerzu.de" site_id="schweiz5" xmltv_id="Schweiz 5">Schweiz 5</channel>
+    <channel update="i" site="hoerzu.de" site_id="servustv" xmltv_id="Servus TV">Servus TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="silverline" xmltv_id="Silverline">Silverline</channel>
+    <channel update="i" site="hoerzu.de" site_id="sixx" xmltv_id="Sixx">Sixx</channel>
+    <channel update="i" site="hoerzu.de" site_id="sixxaustria" xmltv_id="sixx Austria">sixx Austria</channel>
+    <channel update="i" site="hoerzu.de" site_id="skyatlantic" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemaaction" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemabestof" xmltv_id="Sky Cinema Best Of">Sky Cinema Best Of</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemaclassics" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemafamily" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemafun" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemapremieren" xmltv_id="Sky Cinema Premieren">Sky Cinema Premieren</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemapremierenplus24" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemaspecial" xmltv_id="Sky Cinema Special">Sky Cinema Special</channel>
+    <channel update="i" site="hoerzu.de" site_id="skycinemathriller" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel update="i" site="hoerzu.de" site_id="skykrimi" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel update="i" site="hoerzu.de" site_id="skyone" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="hoerzu.de" site_id="skysport1" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel update="i" site="hoerzu.de" site_id="skysport2" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel update="i" site="hoerzu.de" site_id="skysportaustria1" xmltv_id="Sky Sport Austria 1">Sky Sport Austria 1</channel>
+    <channel update="i" site="hoerzu.de" site_id="skysportbundesliga1" xmltv_id="Sky Sport Bundesliga 1">Sky Sport Bundesliga 1</channel>
+    <channel update="i" site="hoerzu.de" site_id="skysportnews" xmltv_id="Sky Sport News">Sky Sport News</channel>
+    <channel update="i" site="hoerzu.de" site_id="sonnenklartv" xmltv_id="sonnenklar.tv">sonnenklar.tv</channel>
+    <channel update="i" site="hoerzu.de" site_id="sonyaxn" xmltv_id="Sony AXN">Sony AXN</channel>
+    <channel update="i" site="hoerzu.de" site_id="sonychannel" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="hoerzu.de" site_id="spiegelgeschichte" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel update="i" site="hoerzu.de" site_id="spiegeltvwissen" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel update="i" site="hoerzu.de" site_id="sport1" xmltv_id="SPORT1">SPORT1</channel>
+    <channel update="i" site="hoerzu.de" site_id="sport1plus" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel update="i" site="hoerzu.de" site_id="sportdigitalfussball" xmltv_id="Sportdigital Fußball">Sportdigital Fußball</channel>
+    <channel update="i" site="hoerzu.de" site_id="spreekanal" xmltv_id="Spreekanal">Spreekanal</channel>
+    <channel update="i" site="hoerzu.de" site_id="srfernsehen" xmltv_id="SR Fernsehen">SR Fernsehen</channel>
+    <channel update="i" site="hoerzu.de" site_id="srf1" xmltv_id="SRF 1">SRF 1</channel>
+    <channel update="i" site="hoerzu.de" site_id="srf2" xmltv_id="SRF 2">SRF 2</channel>
+    <channel update="i" site="hoerzu.de" site_id="srfinfo" xmltv_id="SRF info">SRF info</channel>
+    <channel update="i" site="hoerzu.de" site_id="startv" xmltv_id="Star TV">Star TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="stingrayclassica" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel update="i" site="hoerzu.de" site_id="superrtl" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="hoerzu.de" site_id="swr" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="hoerzu.de" site_id="syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="hoerzu.de" site_id="tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel update="i" site="hoerzu.de" site_id="tele5" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="hoerzu.de" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="hoerzu.de" site_id="tntcomedy" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="hoerzu.de" site_id="tntfilm" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="hoerzu.de" site_id="tntserie" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel update="i" site="hoerzu.de" site_id="trttuerk" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel update="i" site="hoerzu.de" site_id="tv2" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="hoerzu.de" site_id="tvberlin" xmltv_id="TV.Berlin">TV.Berlin</channel>
+    <channel update="i" site="hoerzu.de" site_id="tv5monde" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="hoerzu.de" site_id="universaltv" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="vh1classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="hoerzu.de" site_id="vox" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="hoerzu.de" site_id="voxup" xmltv_id="VOXup">VOXup</channel>
+    <channel update="i" site="hoerzu.de" site_id="wdr" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="hoerzu.de" site_id="welt" xmltv_id="WELT">WELT</channel>
+    <channel update="i" site="hoerzu.de" site_id="weltderwunder" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+    <channel update="i" site="hoerzu.de" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="hoerzu.de" site_id="zdfinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="hoerzu.de" site_id="zdfneo" xmltv_id="ZDFneo">ZDFneo</channel>
+  </channels>
+</site>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="cgates.lt">
+  <channels>
+    <channel update="i" site="cgates.lt" site_id="lnk" xmltv_id="LNK">LNK</channel>
+    <channel update="i" site="cgates.lt" site_id="tv3" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="cgates.lt" site_id="2tv" xmltv_id="2TV">2TV</channel>
+    <channel update="i" site="cgates.lt" site_id="info-tv" xmltv_id="INFO TV">INFO TV</channel>
+    <channel update="i" site="cgates.lt" site_id="pervyj-baltijskij-kanal" xmltv_id="PERVYJ BALTIJSKIJ KANAL">PERVYJ BALTIJSKIJ KANAL</channel>
+    <channel update="i" site="cgates.lt" site_id="ren-tv-lietuva" xmltv_id="REN TV LIETUVA">REN TV LIETUVA</channel>
+    <channel update="i" site="cgates.lt" site_id="rtv-international" xmltv_id="RTV INTERNATIONAL">RTV INTERNATIONAL</channel>
+    <channel update="i" site="cgates.lt" site_id="discovery-channel" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel update="i" site="cgates.lt" site_id="national-geographic-channel" xmltv_id="NATIONAL GEOGRAPHIC CHANNEL">NATIONAL GEOGRAPHIC CHANNEL</channel>
+    <channel update="i" site="cgates.lt" site_id="discovery-science" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel update="i" site="cgates.lt" site_id="bbc-world-news" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
+    <channel update="i" site="cgates.lt" site_id="blue-hustler" xmltv_id="BLUE HUSTLER">BLUE HUSTLER</channel>
+    <channel update="i" site="cgates.lt" site_id="belarus-24" xmltv_id="BELARUS 24">BELARUS 24</channel>
+    <channel update="i" site="cgates.lt" site_id="bloomberg-television" xmltv_id="BLOOMBERG TELEVISION">BLOOMBERG TELEVISION</channel>
+    <channel update="i" site="cgates.lt" site_id="seimas-tiesiogiai" xmltv_id="SEIMAS TIESIOGIAI">SEIMAS TIESIOGIAI</channel>
+    <channel update="i" site="cgates.lt" site_id="balticum-tv" xmltv_id="BALTICUM TV">BALTICUM TV</channel>
+    <channel update="i" site="cgates.lt" site_id="marijampoles-tv" xmltv_id="MARIJAMPOLES TV">MARIJAMPOLES TV</channel>
+    <channel update="i" site="cgates.lt" site_id="playboy-tv" xmltv_id="PLAYBOY TV">PLAYBOY TV</channel>
+    <channel update="i" site="cgates.lt" site_id="france-24" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel update="i" site="cgates.lt" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="cgates.lt" site_id="tv-1000-action" xmltv_id="TV 1000 ACTION">TV 1000 ACTION</channel>
+    <channel update="i" site="cgates.lt" site_id="dzukijos-tv" xmltv_id="DZUKIJOS TV">DZUKIJOS TV</channel>
+    <channel update="i" site="cgates.lt" site_id="pingviniukas" xmltv_id="PINGVINIUKAS">PINGVINIUKAS</channel>
+    <channel update="i" site="cgates.lt" site_id="fashion-tv" xmltv_id="FASHION TV">FASHION TV</channel>
+    <channel update="i" site="cgates.lt" site_id="luxe-tv-hd" xmltv_id="LUXE TV HD">LUXE TV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="fuel-tv-hd" xmltv_id="FUEL TV HD">FUEL TV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="autoplus" xmltv_id="AUTOPLUS">AUTOPLUS</channel>
+    <channel update="i" site="cgates.lt" site_id="fastfun-box-hd" xmltv_id="FASTFUN BOX HD">FASTFUN BOX HD</channel>
+    <channel update="i" site="cgates.lt" site_id="extreme-sports" xmltv_id="EXTREME SPORTS">EXTREME SPORTS</channel>
+    <channel update="i" site="cgates.lt" site_id="viasat-explore" xmltv_id="VIASAT EXPLORE">VIASAT EXPLORE</channel>
+    <channel update="i" site="cgates.lt" site_id="viasat-nature" xmltv_id="VIASAT NATURE">VIASAT NATURE</channel>
+    <channel update="i" site="cgates.lt" site_id="cbs-reality" xmltv_id="CBS REALITY">CBS REALITY</channel>
+    <channel update="i" site="cgates.lt" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="cgates.lt" site_id="illusion" xmltv_id="ILLUSION">ILLUSION</channel>
+    <channel update="i" site="cgates.lt" site_id="nastojashcheje-vremya" xmltv_id="NASTOJASHCHEJE VREMYA">NASTOJASHCHEJE VREMYA</channel>
+    <channel update="i" site="cgates.lt" site_id="russkij-illusion" xmltv_id="RUSSKIJ ILLUSION">RUSSKIJ ILLUSION</channel>
+    <channel update="i" site="cgates.lt" site_id="disney-channel" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel update="i" site="cgates.lt" site_id="disney-xd" xmltv_id="DISNEY XD">DISNEY XD</channel>
+    <channel update="i" site="cgates.lt" site_id="disney-junior" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel update="i" site="cgates.lt" site_id="tv7" xmltv_id="TV7">TV7</channel>
+    <channel update="i" site="cgates.lt" site_id="sony-turbo-hd" xmltv_id="SONY TURBO HD">SONY TURBO HD</channel>
+    <channel update="i" site="cgates.lt" site_id="filmzone" xmltv_id="FILMZONE">FILMZONE</channel>
+    <channel update="i" site="cgates.lt" site_id="filmzone-hd" xmltv_id="FILMZONE HD">FILMZONE HD</channel>
+    <channel update="i" site="cgates.lt" site_id="zvaigzde-tv" xmltv_id="ZVAIGZDE TV">ZVAIGZDE TV</channel>
+    <channel update="i" site="cgates.lt" site_id="ukraine-24" xmltv_id="UKRAINE 24">UKRAINE 24</channel>
+    <channel update="i" site="cgates.lt" site_id="cnbc-europe" xmltv_id="CNBC EUROPE">CNBC EUROPE</channel>
+    <channel update="i" site="cgates.lt" site_id="arirang-tv" xmltv_id="ARIRANG TV">ARIRANG TV</channel>
+    <channel update="i" site="cgates.lt" site_id="dtx" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="cgates.lt" site_id="history-channel" xmltv_id="HISTORY CHANNEL">HISTORY CHANNEL</channel>
+    <channel update="i" site="cgates.lt" site_id="tv-1000" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="cgates.lt" site_id="tv-1000-russkoje-kino" xmltv_id="TV 1000 RUSSKOJE KINO">TV 1000 RUSSKOJE KINO</channel>
+    <channel update="i" site="cgates.lt" site_id="tv-xxi" xmltv_id="TV XXI">TV XXI</channel>
+    <channel update="i" site="cgates.lt" site_id="fox" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="cgates.lt" site_id="eurosport-1" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
+    <channel update="i" site="cgates.lt" site_id="eurosport-2" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel update="i" site="cgates.lt" site_id="sport-1" xmltv_id="SPORT 1">SPORT 1</channel>
+    <channel update="i" site="cgates.lt" site_id="vh1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="cgates.lt" site_id="mezzo" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="cgates.lt" site_id="nickelodeon" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="cgates.lt" site_id="cartoon-network" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="cgates.lt" site_id="boomerang" xmltv_id="BOOMERANG">BOOMERANG</channel>
+    <channel update="i" site="cgates.lt" site_id="tvp-polonia" xmltv_id="TVP POLONIA">TVP POLONIA</channel>
+    <channel update="i" site="cgates.lt" site_id="deutsche-welle" xmltv_id="DEUTSCHE WELLE">DEUTSCHE WELLE</channel>
+    <channel update="i" site="cgates.lt" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="cgates.lt" site_id="cnn-international" xmltv_id="CNN INTERNATIONAL">CNN INTERNATIONAL</channel>
+    <channel update="i" site="cgates.lt" site_id="euronews" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel update="i" site="cgates.lt" site_id="tvc-international" xmltv_id="TVC INTERNATIONAL">TVC INTERNATIONAL</channel>
+    <channel update="i" site="cgates.lt" site_id="nauka" xmltv_id="NAUKA">NAUKA</channel>
+    <channel update="i" site="cgates.lt" site_id="tdk" xmltv_id="TDK">TDK</channel>
+    <channel update="i" site="cgates.lt" site_id="mult" xmltv_id="MULT">MULT</channel>
+    <channel update="i" site="cgates.lt" site_id="futbol" xmltv_id="FUTBOL">FUTBOL</channel>
+    <channel update="i" site="cgates.lt" site_id="khl" xmltv_id="KHL">KHL</channel>
+    <channel update="i" site="cgates.lt" site_id="sarafan" xmltv_id="SARAFAN">SARAFAN</channel>
+    <channel update="i" site="cgates.lt" site_id="fight-sports-hd" xmltv_id="FIGHT SPORTS HD">FIGHT SPORTS HD</channel>
+    <channel update="i" site="cgates.lt" site_id="mir-tv" xmltv_id="MIR TV">MIR TV</channel>
+    <channel update="i" site="cgates.lt" site_id="peretz-international" xmltv_id="PERETZ INTERNATIONAL">PERETZ INTERNATIONAL</channel>
+    <channel update="i" site="cgates.lt" site_id="domashniy" xmltv_id="DOMASHNIY">DOMASHNIY</channel>
+    <channel update="i" site="cgates.lt" site_id="ntv-mir" xmltv_id="NTV MIR">NTV MIR</channel>
+    <channel update="i" site="cgates.lt" site_id="vremya" xmltv_id="VREMYA">VREMYA</channel>
+    <channel update="i" site="cgates.lt" site_id="dom-kino-premium-hd" xmltv_id="DOM KINO PREMIUM HD">DOM KINO PREMIUM HD</channel>
+    <channel update="i" site="cgates.lt" site_id="muzyka-pervogo" xmltv_id="MUZYKA PERVOGO">MUZYKA PERVOGO</channel>
+    <channel update="i" site="cgates.lt" site_id="karusel" xmltv_id="KARUSEL">KARUSEL</channel>
+    <channel update="i" site="cgates.lt" site_id="bobior" xmltv_id="BOBIOR">BOBIOR</channel>
+    <channel update="i" site="cgates.lt" site_id="iconcerts-hd" xmltv_id="ICONCERTS HD">ICONCERTS HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kuhnya-tv" xmltv_id="KUHNYA TV">KUHNYA TV</channel>
+    <channel update="i" site="cgates.lt" site_id="kidzone-tv" xmltv_id="KIDZONE TV">KIDZONE TV</channel>
+    <channel update="i" site="cgates.lt" site_id="baby-tv" xmltv_id="BABY TV">BABY TV</channel>
+    <channel update="i" site="cgates.lt" site_id="da-vinci-learning" xmltv_id="DA VINCI LEARNING">DA VINCI LEARNING</channel>
+    <channel update="i" site="cgates.lt" site_id="okhota-i-rybalka" xmltv_id="OKHOTA I RYBALKA">OKHOTA I RYBALKA</channel>
+    <channel update="i" site="cgates.lt" site_id="travel-channel" xmltv_id="TRAVEL CHANNEL">TRAVEL CHANNEL</channel>
+    <channel update="i" site="cgates.lt" site_id="rtr-planeta" xmltv_id="RTR PLANETA">RTR PLANETA</channel>
+    <channel update="i" site="cgates.lt" site_id="eurochannel" xmltv_id="EUROCHANNEL">EUROCHANNEL</channel>
+    <channel update="i" site="cgates.lt" site_id="setanta-sports-hd" xmltv_id="SETANTA SPORTS HD">SETANTA SPORTS HD</channel>
+    <channel update="i" site="cgates.lt" site_id="jim-jam" xmltv_id="JIM JAM">JIM JAM</channel>
+    <channel update="i" site="cgates.lt" site_id="history-channel-hd" xmltv_id="HISTORY CHANNEL HD">HISTORY CHANNEL HD</channel>
+    <channel update="i" site="cgates.lt" site_id="discovery-science-hd" xmltv_id="DISCOVERY SCIENCE HD">DISCOVERY SCIENCE HD</channel>
+    <channel update="i" site="cgates.lt" site_id="animal-planet-hd" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
+    <channel update="i" site="cgates.lt" site_id="ntv-pravo" xmltv_id="NTV PRAVO">NTV PRAVO</channel>
+    <channel update="i" site="cgates.lt" site_id="ntv-serial" xmltv_id="NTV SERIAL">NTV SERIAL</channel>
+    <channel update="i" site="cgates.lt" site_id="ntv-stil" xmltv_id="NTV STIL">NTV STIL</channel>
+    <channel update="i" site="cgates.lt" site_id="o" xmltv_id="O">O</channel>
+    <channel update="i" site="cgates.lt" site_id="sony-channel" xmltv_id="SONY CHANNEL">SONY CHANNEL</channel>
+    <channel update="i" site="cgates.lt" site_id="eurosport-1-hd" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel update="i" site="cgates.lt" site_id="eurosport-2-hd" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel update="i" site="cgates.lt" site_id="sport-1-hd" xmltv_id="SPORT 1 HD">SPORT 1 HD</channel>
+    <channel update="i" site="cgates.lt" site_id="moya-planeta" xmltv_id="MOYA PLANETA">MOYA PLANETA</channel>
+    <channel update="i" site="cgates.lt" site_id="id-xtra" xmltv_id="ID XTRA">ID XTRA</channel>
+    <channel update="i" site="cgates.lt" site_id="animal-planet" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel update="i" site="cgates.lt" site_id="id-xtra-hd" xmltv_id="ID XTRA HD">ID XTRA HD</channel>
+    <channel update="i" site="cgates.lt" site_id="mtv-live-hd" xmltv_id="MTV LIVE HD">MTV LIVE HD</channel>
+    <channel update="i" site="cgates.lt" site_id="national-geographic-hd" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel update="i" site="cgates.lt" site_id="balticum-auksinis" xmltv_id="BALTICUM AUKSINIS">BALTICUM AUKSINIS</channel>
+    <channel update="i" site="cgates.lt" site_id="sony-channel-hd" xmltv_id="SONY CHANNEL HD">SONY CHANNEL HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kidzone-plus-hd" xmltv_id="KIDZONE PLUS HD">KIDZONE PLUS HD</channel>
+    <channel update="i" site="cgates.lt" site_id="lrt-televizija-hd" xmltv_id="LRT TELEVIZIJA HD">LRT TELEVIZIJA HD</channel>
+    <channel update="i" site="cgates.lt" site_id="lrt-kultura-hd" xmltv_id="LRT KULTURA HD">LRT KULTURA HD</channel>
+    <channel update="i" site="cgates.lt" site_id="btv" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="cgates.lt" site_id="lietuvos-ryto-tv" xmltv_id="LIETUVOS RYTO TV">LIETUVOS RYTO TV</channel>
+    <channel update="i" site="cgates.lt" site_id="tv6" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="cgates.lt" site_id="tv8" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="cgates.lt" site_id="tv1" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="cgates.lt" site_id="siauliu-televizija" xmltv_id="SIAULIU TELEVIZIJA">SIAULIU TELEVIZIJA</channel>
+    <channel update="i" site="cgates.lt" site_id="pukas-tv-hd" xmltv_id="PUKAS TV HD">PUKAS TV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="geru-naujienu-televizija" xmltv_id="GERU NAUJIENU TELEVIZIJA">GERU NAUJIENU TELEVIZIJA</channel>
+    <channel update="i" site="cgates.lt" site_id="fine-living" xmltv_id="FINE LIVING">FINE LIVING</channel>
+    <channel update="i" site="cgates.lt" site_id="dtx-hd" xmltv_id="DTX HD">DTX HD</channel>
+    <channel update="i" site="cgates.lt" site_id="telekafe" xmltv_id="TELEKAFE">TELEKAFE</channel>
+    <channel update="i" site="cgates.lt" site_id="pojehali" xmltv_id="POJEHALI">POJEHALI</channel>
+    <channel update="i" site="cgates.lt" site_id="fox-hd" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="cgates.lt" site_id="nick-jr" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="cgates.lt" site_id="nick-toons" xmltv_id="NICK TOONS">NICK TOONS</channel>
+    <channel update="i" site="cgates.lt" site_id="fox-life" xmltv_id="FOX LIFE">FOX LIFE</channel>
+    <channel update="i" site="cgates.lt" site_id="nat-geo-wild" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+    <channel update="i" site="cgates.lt" site_id="balticum-platinum-hd" xmltv_id="BALTICUM PLATINUM HD">BALTICUM PLATINUM HD</channel>
+    <channel update="i" site="cgates.lt" site_id="mtv-hits" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="cgates.lt" site_id="food-network" xmltv_id="FOOD NETWORK">FOOD NETWORK</channel>
+    <channel update="i" site="cgates.lt" site_id="viasat-history" xmltv_id="VIASAT HISTORY">VIASAT HISTORY</channel>
+    <channel update="i" site="cgates.lt" site_id="travel-channel-hd" xmltv_id="TRAVEL CHANNEL HD">TRAVEL CHANNEL HD</channel>
+    <channel update="i" site="cgates.lt" site_id="lrt-lituanica" xmltv_id="LRT LITUANICA">LRT LITUANICA</channel>
+    <channel update="i" site="cgates.lt" site_id="viasat-sport-baltic-2" xmltv_id="VIASAT SPORT BALTIC 2">VIASAT SPORT BALTIC 2</channel>
+    <channel update="i" site="cgates.lt" site_id="vip-comedy" xmltv_id="VIP COMEDY">VIP COMEDY</channel>
+    <channel update="i" site="cgates.lt" site_id="lrt-kultura" xmltv_id="LRT KULTURA">LRT KULTURA</channel>
+    <channel update="i" site="cgates.lt" site_id="doktor" xmltv_id="DOKTOR">DOKTOR</channel>
+    <channel update="i" site="cgates.lt" site_id="balticum-platinum" xmltv_id="BALTICUM PLATINUM">BALTICUM PLATINUM</channel>
+    <channel update="i" site="cgates.lt" site_id="tv3-hd" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="cgates.lt" site_id="tv6-hd" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel update="i" site="cgates.lt" site_id="lietuvos-ryto-tv-hd" xmltv_id="LIETUVOS RYTO TV HD">LIETUVOS RYTO TV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="tvp-info" xmltv_id="TVP INFO">TVP INFO</channel>
+    <channel update="i" site="cgates.lt" site_id="sts" xmltv_id="STS">STS</channel>
+    <channel update="i" site="cgates.lt" site_id="smartzone-hd" xmltv_id="SMARTZONE HD">SMARTZONE HD</channel>
+    <channel update="i" site="cgates.lt" site_id="discovery-showcase-hd" xmltv_id="DISCOVERY SHOWCASE HD">DISCOVERY SHOWCASE HD</channel>
+    <channel update="i" site="cgates.lt" site_id="tv8-hd" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel update="i" site="cgates.lt" site_id="tnt-comedy" xmltv_id="TNT COMEDY">TNT COMEDY</channel>
+    <channel update="i" site="cgates.lt" site_id="viasat-sport-baltic-hd" xmltv_id="VIASAT SPORT BALTIC HD">VIASAT SPORT BALTIC HD</channel>
+    <channel update="i" site="cgates.lt" site_id="tv-1000-premium" xmltv_id="TV 1000 PREMIUM">TV 1000 PREMIUM</channel>
+    <channel update="i" site="cgates.lt" site_id="euronews-2" xmltv_id="EURONEWS 2">EURONEWS 2</channel>
+    <channel update="i" site="cgates.lt" site_id="tvplay-sports-plus-hd" xmltv_id="TVPLAY SPORTS PLUS HD">TVPLAY SPORTS PLUS HD</channel>
+    <channel update="i" site="cgates.lt" site_id="fastfun-box" xmltv_id="FASTFUN BOX">FASTFUN BOX</channel>
+    <channel update="i" site="cgates.lt" site_id="lnk-hd" xmltv_id="LNK HD">LNK HD</channel>
+    <channel update="i" site="cgates.lt" site_id="btv-hd" xmltv_id="BTV HD">BTV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="tv1-hd" xmltv_id="TV1 HD">TV1 HD</channel>
+    <channel update="i" site="cgates.lt" site_id="info-tv-hd" xmltv_id="INFO TV HD">INFO TV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="filmbox-arthouse" xmltv_id="FILMBOX ARTHOUSE">FILMBOX ARTHOUSE</channel>
+    <channel update="i" site="cgates.lt" site_id="filmbox" xmltv_id="FILMBOX">FILMBOX</channel>
+    <channel update="i" site="cgates.lt" site_id="tv-1000-premium-hd" xmltv_id="TV 1000 PREMIUM HD">TV 1000 PREMIUM HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kuhnya-tv-hd" xmltv_id="KUHNYA TV HD">KUHNYA TV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="boks-tv-plius" xmltv_id="BOKS TV PLIUS">BOKS TV PLIUS</channel>
+    <channel update="i" site="cgates.lt" site_id="m-1-global-hd" xmltv_id="M 1 GLOBAL HD">M 1 GLOBAL HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kvn-tv" xmltv_id="KVN TV">KVN TV</channel>
+    <channel update="i" site="cgates.lt" site_id="rodnoe-kino" xmltv_id="RODNOE KINO">RODNOE KINO</channel>
+    <channel update="i" site="cgates.lt" site_id="kinomiks-hd" xmltv_id="KINOMIKS HD">KINOMIKS HD</channel>
+    <channel update="i" site="cgates.lt" site_id="nashe-novoe-kino-hd" xmltv_id="NASHE NOVOE KINO HD">NASHE NOVOE KINO HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kinokomediya-hd" xmltv_id="KINOKOMEDIYA HD">KINOKOMEDIYA HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kinoseriya-hd" xmltv_id="KINOSERIYA HD">KINOSERIYA HD</channel>
+    <channel update="i" site="cgates.lt" site_id="indijskoe-kino" xmltv_id="INDIJSKOE KINO">INDIJSKOE KINO</channel>
+    <channel update="i" site="cgates.lt" site_id="dom-kino" xmltv_id="DOM KINO">DOM KINO</channel>
+    <channel update="i" site="cgates.lt" site_id="epic-drama-hd" xmltv_id="EPIC DRAMA HD">EPIC DRAMA HD</channel>
+    <channel update="i" site="cgates.lt" site_id="zee-tv" xmltv_id="ZEE TV">ZEE TV</channel>
+    <channel update="i" site="cgates.lt" site_id="game-toon-hd" xmltv_id="GAME TOON HD">GAME TOON HD</channel>
+    <channel update="i" site="cgates.lt" site_id="5-kanal" xmltv_id="5 KANAL">5 KANAL</channel>
+    <channel update="i" site="cgates.lt" site_id="perviy-kanal-europa-hd" xmltv_id="PERVIY KANAL EUROPA HD">PERVIY KANAL EUROPA HD</channel>
+    <channel update="i" site="cgates.lt" site_id="delfi-tv" xmltv_id="DELFI TV">DELFI TV</channel>
+    <channel update="i" site="cgates.lt" site_id="delfi-tv-hd" xmltv_id="DELFI TV HD">DELFI TV HD</channel>
+    <channel update="i" site="cgates.lt" site_id="kazakh-tv" xmltv_id="KAZAKH TV">KAZAKH TV</channel>
+    <channel update="i" site="cgates.lt" site_id="soyuz-tv" xmltv_id="SOYUZ TV">SOYUZ TV</channel>
+    <channel update="i" site="cgates.lt" site_id="cnl" xmltv_id="CNL">CNL</channel>
+    <channel update="i" site="cgates.lt" site_id="hdl" xmltv_id="HDL">HDL</channel>
+  </channels>
+</site>

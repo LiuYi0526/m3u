@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="altibox.no">
+  <channels>
+    <channel update="i" site="altibox.no" site_id="471" xmltv_id="NRK1">NRK1</channel>
+    <channel update="i" site="altibox.no" site_id="541" xmltv_id="NRK2 ">NRK2 </channel>
+    <channel update="i" site="altibox.no" site_id="611" xmltv_id="NRK3/Super">NRK3/Super</channel>
+    <channel update="i" site="altibox.no" site_id="551" xmltv_id="TV 2 Norge">TV 2 Norge</channel>
+    <channel update="i" site="altibox.no" site_id="461" xmltv_id="TV Norge">TV Norge</channel>
+    <channel update="i" site="altibox.no" site_id="573" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="altibox.no" site_id="467" xmltv_id="TV 2 Zebra">TV 2 Zebra</channel>
+    <channel update="i" site="altibox.no" site_id="578" xmltv_id="MAX">MAX</channel>
+    <channel update="i" site="altibox.no" site_id="568" xmltv_id="V4">V4</channel>
+    <channel update="i" site="altibox.no" site_id="619" xmltv_id="TV 2 Nyhetskanalen">TV 2 Nyhetskanalen</channel>
+    <channel update="i" site="altibox.no" site_id="601" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="altibox.no" site_id="596" xmltv_id="Eurosport Norge">Eurosport Norge</channel>
+    <channel update="i" site="altibox.no" site_id="592" xmltv_id="FEM">FEM</channel>
+    <channel update="i" site="altibox.no" site_id="546" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="altibox.no" site_id="618" xmltv_id="TV 2 Livsstil">TV 2 Livsstil</channel>
+    <channel update="i" site="altibox.no" site_id="636" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="altibox.no" site_id="617" xmltv_id="Matkanalen">Matkanalen</channel>
+    <channel update="i" site="altibox.no" site_id="598" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="altibox.no" site_id="734" xmltv_id="TV 2 Sport 1">TV 2 Sport 1</channel>
+    <channel update="i" site="altibox.no" site_id="460" xmltv_id="TV 2 Sport 2">TV 2 Sport 2</channel>
+    <channel update="i" site="altibox.no" site_id="599" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="altibox.no" site_id="569" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="altibox.no" site_id="533" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="altibox.no" site_id="466" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="altibox.no" site_id="717" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="altibox.no" site_id="718" xmltv_id="Nick Junior ">Nick Junior </channel>
+    <channel update="i" site="altibox.no" site_id="719" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="altibox.no" site_id="463" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="altibox.no" site_id="530" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="altibox.no" site_id="590" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="altibox.no" site_id="478" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="altibox.no" site_id="621" xmltv_id="BBC Brit HD">BBC Brit HD</channel>
+    <channel update="i" site="altibox.no" site_id="475" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="altibox.no" site_id="703" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="altibox.no" site_id="704" xmltv_id="History Channel 2">History Channel 2</channel>
+    <channel update="i" site="altibox.no" site_id="532" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="altibox.no" site_id="544" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="altibox.no" site_id="581" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="altibox.no" site_id="698" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="altibox.no" site_id="549" xmltv_id="DR 1">DR 1</channel>
+    <channel update="i" site="altibox.no" site_id="453" xmltv_id="DR 2">DR 2</channel>
+    <channel update="i" site="altibox.no" site_id="498" xmltv_id="TV2 DK">TV2 DK</channel>
+    <channel update="i" site="altibox.no" site_id="539" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="altibox.no" site_id="540" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="altibox.no" site_id="553" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="altibox.no" site_id="545" xmltv_id="C More Series">C More Series</channel>
+    <channel update="i" site="altibox.no" site_id="547" xmltv_id="C More First">C More First</channel>
+    <channel update="i" site="altibox.no" site_id="469" xmltv_id="C More Hits">C More Hits</channel>
+    <channel update="i" site="altibox.no" site_id="642" xmltv_id="C More Stars">C More Stars</channel>
+    <channel update="i" site="altibox.no" site_id="457" xmltv_id="SF Kanalen">SF Kanalen</channel>
+    <channel update="i" site="altibox.no" site_id="554" xmltv_id="V Sport+">V Sport+</channel>
+    <channel update="i" site="altibox.no" site_id="559" xmltv_id="V Sport 1">V Sport 1</channel>
+    <channel update="i" site="altibox.no" site_id="552" xmltv_id="V Sport 2">V Sport 2</channel>
+    <channel update="i" site="altibox.no" site_id="556" xmltv_id="V Sport 3">V Sport 3</channel>
+    <channel update="i" site="altibox.no" site_id="557" xmltv_id="V Golf">V Golf</channel>
+    <channel update="i" site="altibox.no" site_id="634" xmltv_id="TV 2 Sport Premium">TV 2 Sport Premium</channel>
+    <channel update="i" site="altibox.no" site_id="627" xmltv_id="TV 2 Sport Premium 2">TV 2 Sport Premium 2</channel>
+    <channel update="i" site="altibox.no" site_id="709" xmltv_id="Strive Sport TV">Strive Sport TV</channel>
+    <channel update="i" site="altibox.no" site_id="656" xmltv_id="Eurosport Pluss 1">Eurosport Pluss 1</channel>
+    <channel update="i" site="altibox.no" site_id="655" xmltv_id="Eurosport Pluss 2">Eurosport Pluss 2</channel>
+    <channel update="i" site="altibox.no" site_id="659" xmltv_id="Eurosport Pluss 3">Eurosport Pluss 3</channel>
+    <channel update="i" site="altibox.no" site_id="660" xmltv_id="Eurosport Pluss 4">Eurosport Pluss 4</channel>
+    <channel update="i" site="altibox.no" site_id="661" xmltv_id="Eurosport Pluss 5">Eurosport Pluss 5</channel>
+    <channel update="i" site="altibox.no" site_id="662" xmltv_id="Eurosport Pluss 6">Eurosport Pluss 6</channel>
+    <channel update="i" site="altibox.no" site_id="663" xmltv_id="Eurosport Pluss 7">Eurosport Pluss 7</channel>
+    <channel update="i" site="altibox.no" site_id="664" xmltv_id="Eurosport Pluss 8">Eurosport Pluss 8</channel>
+    <channel update="i" site="altibox.no" site_id="665" xmltv_id="Eurosport Pluss 9">Eurosport Pluss 9</channel>
+    <channel update="i" site="altibox.no" site_id="666" xmltv_id="Eurosport Pluss 10">Eurosport Pluss 10</channel>
+    <channel update="i" site="altibox.no" site_id="667" xmltv_id="Eurosport Pluss 11">Eurosport Pluss 11</channel>
+    <channel update="i" site="altibox.no" site_id="668" xmltv_id="Eurosport Pluss 12">Eurosport Pluss 12</channel>
+    <channel update="i" site="altibox.no" site_id="586" xmltv_id="VGTV">VGTV</channel>
+    <channel update="i" site="altibox.no" site_id="710" xmltv_id="Bilkanalen Auto Motor og Sport TV">Bilkanalen Auto Motor og Sport TV</channel>
+    <channel update="i" site="altibox.no" site_id="638" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="altibox.no" site_id="558" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="altibox.no" site_id="555" xmltv_id="Viasat Nature/Crime">Viasat Nature/Crime</channel>
+    <channel update="i" site="altibox.no" site_id="720" xmltv_id="MTV Nordic HD">MTV Nordic HD</channel>
+    <channel update="i" site="altibox.no" site_id="721" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="altibox.no" site_id="722" xmltv_id="club MTV">club MTV</channel>
+    <channel update="i" site="altibox.no" site_id="726" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="altibox.no" site_id="723" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="altibox.no" site_id="724" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="altibox.no" site_id="725" xmltv_id="VH1 Europe">VH1 Europe</channel>
+    <channel update="i" site="altibox.no" site_id="472" xmltv_id="ARD Das Erste">ARD Das Erste</channel>
+    <channel update="i" site="altibox.no" site_id="462" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="altibox.no" site_id="523" xmltv_id="Sat.1">Sat.1</channel>
+    <channel update="i" site="altibox.no" site_id="465" xmltv_id="3Sat">3Sat</channel>
+    <channel update="i" site="altibox.no" site_id="595" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="altibox.no" site_id="538" xmltv_id="TVE International">TVE International</channel>
+    <channel update="i" site="altibox.no" site_id="583" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="altibox.no" site_id="587" xmltv_id="RTR">RTR</channel>
+    <channel update="i" site="altibox.no" site_id="565" xmltv_id="TVE 24 Horas">TVE 24 Horas</channel>
+    <channel update="i" site="altibox.no" site_id="589" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="altibox.no" site_id="575" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="altibox.no" site_id="567" xmltv_id="ID">ID</channel>
+    <channel update="i" site="altibox.no" site_id="464" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="altibox.no" site_id="572" xmltv_id="Norway Live">Norway Live</channel>
+    <channel update="i" site="altibox.no" site_id="745" xmltv_id="Kanal 10">Kanal 10</channel>
+    <channel update="i" site="altibox.no" site_id="613" xmltv_id="Rikstoto Direkte">Rikstoto Direkte</channel>
+    <channel update="i" site="altibox.no" site_id="615" xmltv_id="TV Vest Rogaland">TV Vest Rogaland</channel>
+    <channel update="i" site="altibox.no" site_id="701" xmltv_id="TV Vest Hordaland">TV Vest Hordaland</channel>
+    <channel update="i" site="altibox.no" site_id="612" xmltv_id="TV Haugaland">TV Haugaland</channel>
+    <channel update="i" site="altibox.no" site_id="622" xmltv_id="Trønder TV">Trønder TV</channel>
+    <channel update="i" site="altibox.no" site_id="600" xmltv_id="TV Agder">TV Agder</channel>
+    <channel update="i" site="altibox.no" site_id="697" xmltv_id="TV Øst">TV Øst</channel>
+    <channel update="i" site="altibox.no" site_id="746" xmltv_id="TV Østfold">TV Østfold</channel>
+    <channel update="i" site="altibox.no" site_id="733" xmltv_id="Sunnmøre Live">Sunnmøre Live</channel>
+    <channel update="i" site="altibox.no" site_id="574" xmltv_id="NRK Rogaland 24">NRK Rogaland 24</channel>
+    <channel update="i" site="altibox.no" site_id="623" xmltv_id="NRK1 Tegnspråk">NRK1 Tegnspråk</channel>
+    <channel update="i" site="altibox.no" site_id="625" xmltv_id="NRK1 Innlandet">NRK1 Innlandet</channel>
+    <channel update="i" site="altibox.no" site_id="630" xmltv_id="NRK1 Oslo og Viken">NRK1 Oslo og Viken</channel>
+    <channel update="i" site="altibox.no" site_id="631" xmltv_id="NRK1 Vestfold og Telemark">NRK1 Vestfold og Telemark</channel>
+    <channel update="i" site="altibox.no" site_id="624" xmltv_id="NRK1 Sørlandet">NRK1 Sørlandet</channel>
+    <channel update="i" site="altibox.no" site_id="637" xmltv_id="NRK1 Rogaland">NRK1 Rogaland</channel>
+    <channel update="i" site="altibox.no" site_id="632" xmltv_id="NRK1 Nordnytt">NRK1 Nordnytt</channel>
+    <channel update="i" site="altibox.no" site_id="635" xmltv_id="NRK1 Nordland">NRK1 Nordland</channel>
+    <channel update="i" site="altibox.no" site_id="629" xmltv_id="NRK1 Møre og Romsdal">NRK1 Møre og Romsdal</channel>
+    <channel update="i" site="altibox.no" site_id="633" xmltv_id="NRK1 Midtnytt">NRK1 Midtnytt</channel>
+    <channel update="i" site="altibox.no" site_id="626" xmltv_id="NRK1 Vestlandet">NRK1 Vestlandet</channel>
+    <channel update="i" site="altibox.no" site_id="325551555" xmltv_id="Scene Vest">Scene Vest</channel>
+    <channel update="i" site="altibox.no" site_id="603" xmltv_id="Infokanal">Infokanal</channel>
+  </channels>
+</site>

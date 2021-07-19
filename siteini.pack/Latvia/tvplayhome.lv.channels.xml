@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.1 -- Jan van Straaten" site="www.tvplayhome.lv">
+  <channels>
+    <channel update="i" site="tvplayhome.lv" site_id="201##2018/05/LTV1_Color.svg" xmltv_id="LTV 1">LTV 1</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="202##2018/05/LTV7_Color.svg" xmltv_id="LTV 7">LTV 7</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="203##2018/05/TV3_logo_color.png" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="204##2018/05/3Life_logo_color.png" xmltv_id="TV3 Life">TV3 Life</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="209##2018/05/TV6_Color.svg" xmltv_id="TV 6">TV 6</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="210##2018/05/TV3Mini_logo_color.png" xmltv_id="TV3 Mini">TV3 Mini</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="207##2018/05/3plus_color.png" xmltv_id="3+ Latvija">3+ Latvija</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="36##2020/10/tv24-logo.png" xmltv_id="Rīga TV24">Rīga TV24</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="908##2019/07/Fox_color.png" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="957##2019/12/SONY_LOGO_COLOR.png" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="663##2019/12/SonyTurbo_logo_color.png" xmltv_id="Sony Turbo">Sony Turbo</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="936##2018/05/NationalGeographic_Color.svg" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="69##2018/04/mtv.svg" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="980##2018/05/BrazzersTV_Color.svg" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="695##2020/09/TV3Sport3_logo_color.png" xmltv_id="TV3 Sport3">TV3 Sport3</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="68##2018/05/VH1_Color.svg" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="960##2018/05/Nickeldeon_Color.svg" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="560##2018/05/NickJr_Color.svg" xmltv_id="Nick JR">Nick JR</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="896##2018/05/KidZone_colour.png" xmltv_id="Kidzone+">Kidzone+</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="906##2018/05/Disney_junior_new_Color_logo_kontura.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="907##2018/05/DisneyXD_Color.svg" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="905##2018/05/DisneyChannel_Color.svg" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="338##2019/10/NBA_TV_color.png" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="919##2018/05/3Sport_logo_color.png" xmltv_id="TV3 Sport">TV3 Sport</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="1101##2018/10/TV3Sport2_Logo_color.png" xmltv_id="TV3 Sport2">TV3 Sport2</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="933##2018/10/SetantaSports1_color.png" xmltv_id="Setanta Sports">Setanta Sports</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="80##2018/05/BBC_Color.svg" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="78##2018/05/CNN_Color.svg" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="820##2018/05/TV1000Action_krasains_kontura.png" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="978##2018/05/TV1000RuskoeKino_Color.svg" xmltv_id="TV1000 Russkoje kino">TV1000 Russkoje kino</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="954##2018/05/TV1000_Colore.svg" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="975##2018/05/3Film_logo_color.png" xmltv_id="TV3 Film">TV3 Film</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="242##2018/09/EpicDrama_Color-1.svg" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="145##2018/05/OhotaiRebalka_Color.svg" xmltv_id="Ohota i ribalka">Ohota i ribalka</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="972##2018/05/ViasatExplore_Color.svg" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="973##2018/05/ViasatHistory_Color-1.svg" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="958##2018/05/ViasatNature_Color.svg" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="546##2018/05/CTC_Color-01.svg" xmltv_id="CTC Baltic">CTC Baltic</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="208##2018/05/PBK_Color.svg" xmltv_id="PBK">PBK</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="199##2018/05/RenTV_Color.svg" xmltv_id="REN TV Baltics">REN TV Baltics</channel>
+    <channel update="i" site="tvplayhome.lv" site_id="809##2018/05/NTVMir_Color.svg" xmltv_id="NTV Mir">NTV Mir</channel>
+  </channels>
+</site>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="directvsports.com">
+  <channels>
+    <channel update="i" site="directvsports.com" site_id="ar_13" xmltv_id="AR DIRECTV Sports Argentina">AR DIRECTV Sports Argentina</channel>
+    <channel update="i" site="directvsports.com" site_id="ar_3" xmltv_id="AR DIRECTV Sports 2">AR DIRECTV Sports 2</channel>
+    <channel update="i" site="directvsports.com" site_id="ar_9" xmltv_id="AR DIRECTV Sports Plus">AR DIRECTV Sports Plus</channel>
+    <channel update="i" site="directvsports.com" site_id="cl_20" xmltv_id="CL DIRECTV Sports Chile">CL DIRECTV Sports Chile</channel>
+    <channel update="i" site="directvsports.com" site_id="cl_3" xmltv_id="CL DIRECTV Sports 2">CL DIRECTV Sports 2</channel>
+    <channel update="i" site="directvsports.com" site_id="cl_9" xmltv_id="CL DIRECTV Sports Plus">CL DIRECTV Sports Plus</channel>
+    <channel update="i" site="directvsports.com" site_id="co_18" xmltv_id="CO DIRECTV Sports Colombia">CO DIRECTV Sports Colombia</channel>
+    <channel update="i" site="directvsports.com" site_id="co_3" xmltv_id="CO DIRECTV Sports 2">CO DIRECTV Sports 2</channel>
+    <channel update="i" site="directvsports.com" site_id="co_9" xmltv_id="CO DIRECTV Sports Plus">CO DIRECTV Sports Plus</channel>
+    <channel update="i" site="directvsports.com" site_id="pe_19" xmltv_id="PE DIRECTV Sports Peru">PE DIRECTV Sports Peru</channel>
+    <channel update="i" site="directvsports.com" site_id="pe_3" xmltv_id="PE DIRECTV Sports 2">PE DIRECTV Sports 2</channel>
+    <channel update="i" site="directvsports.com" site_id="pe_9" xmltv_id="PE DIRECTV Sports Plus">PE DIRECTV Sports Plus</channel>
+    <channel update="i" site="directvsports.com" site_id="uy_22" xmltv_id="UY DIRECTV Sports Uruguay">UY DIRECTV Sports Uruguay</channel>
+    <channel update="i" site="directvsports.com" site_id="uy_3" xmltv_id="UY DIRECTV Sports 2">UY DIRECTV Sports 2</channel>
+    <channel update="i" site="directvsports.com" site_id="uy_9" xmltv_id="UY DIRECTV Sports Plus">UY DIRECTV Sports Plus</channel>
+  </channels>
+</site>

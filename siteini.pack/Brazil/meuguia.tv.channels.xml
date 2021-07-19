@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="meuguia.tv">
+  <channels>
+    <channel update="i" site="meuguia.tv" site_id="MGM" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="meuguia.tv" site_id="CBR" xmltv_id="Canal Brasil">Canal Brasil</channel>
+    <channel update="i" site="meuguia.tv" site_id="MNX" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="meuguia.tv" site_id="HBO" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="meuguia.tv" site_id="HB2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="meuguia.tv" site_id="HFA" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="meuguia.tv" site_id="MXE" xmltv_id="HBO Mundi">HBO Mundi</channel>
+    <channel update="i" site="meuguia.tv" site_id="MHD" xmltv_id="HBO Pop">HBO Pop</channel>
+    <channel update="i" site="meuguia.tv" site_id="HFE" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="meuguia.tv" site_id="MAP" xmltv_id="HBO Xtreme">HBO Xtreme</channel>
+    <channel update="i" site="meuguia.tv" site_id="HPL" xmltv_id="HBO+">HBO+</channel>
+    <channel update="i" site="meuguia.tv" site_id="MPX" xmltv_id="Megapix">Megapix</channel>
+    <channel update="i" site="meuguia.tv" site_id="MPH" xmltv_id="Megapix HD">Megapix HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="PAR" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="SPA" xmltv_id="SPACE">SPACE</channel>
+    <channel update="i" site="meuguia.tv" site_id="SPH" xmltv_id="Space HD">Space HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="TCM" xmltv_id="TCM - Turner Classic Movies">TCM - Turner Classic Movies</channel>
+    <channel update="i" site="meuguia.tv" site_id="TC2" xmltv_id="Telecine Action">Telecine Action</channel>
+    <channel update="i" site="meuguia.tv" site_id="TC5" xmltv_id="Telecine Cult">Telecine Cult</channel>
+    <channel update="i" site="meuguia.tv" site_id="TC6" xmltv_id="Telecine Fun">Telecine Fun</channel>
+    <channel update="i" site="meuguia.tv" site_id="TC4" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+    <channel update="i" site="meuguia.tv" site_id="TC1" xmltv_id="Telecine Premium">Telecine Premium</channel>
+    <channel update="i" site="meuguia.tv" site_id="TC3" xmltv_id="Telecine Touch">Telecine Touch</channel>
+    <channel update="i" site="meuguia.tv" site_id="TNT" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="meuguia.tv" site_id="TNH" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="TRU" xmltv_id="TruTV">TruTV</channel>
+    <channel update="i" site="meuguia.tv" site_id="TRH" xmltv_id="TruTV HD">TruTV HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="MDO" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel update="i" site="meuguia.tv" site_id="APL" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="meuguia.tv" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="meuguia.tv" site_id="AXH" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="DHD" xmltv_id="Discovery HD Theater">Discovery HD Theater</channel>
+    <channel update="i" site="meuguia.tv" site_id="EUR" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="meuguia.tv" site_id="BRA" xmltv_id="Film &amp; Arts">Film &amp; Arts</channel>
+    <channel update="i" site="meuguia.tv" site_id="FOX" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="meuguia.tv" site_id="FLI" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="meuguia.tv" site_id="CFX" xmltv_id="FX">FX</channel>
+    <channel update="i" site="meuguia.tv" site_id="SAT" xmltv_id="i-Sat">i-Sat</channel>
+    <channel update="i" site="meuguia.tv" site_id="LIV" xmltv_id="Investigação Discovery">Investigação Discovery</channel>
+    <channel update="i" site="meuguia.tv" site_id="ANX" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="meuguia.tv" site_id="SET" xmltv_id="Sony">Sony</channel>
+    <channel update="i" site="meuguia.tv" site_id="HAL" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="meuguia.tv" site_id="SCI" xmltv_id="SyFy">SyFy</channel>
+    <channel update="i" site="meuguia.tv" site_id="TBS" xmltv_id="TBS">TBS</channel>
+    <channel update="i" site="meuguia.tv" site_id="TNS" xmltv_id="TNT Séries">TNT Séries</channel>
+    <channel update="i" site="meuguia.tv" site_id="USA" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="WBT" xmltv_id="Warner Channel">Warner Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="BSP" xmltv_id="Band Sports">Band Sports</channel>
+    <channel update="i" site="meuguia.tv" site_id="135" xmltv_id="Combate">Combate</channel>
+    <channel update="i" site="meuguia.tv" site_id="ESP" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="meuguia.tv" site_id="ESB" xmltv_id="ESPN Brasil">ESPN Brasil</channel>
+    <channel update="i" site="meuguia.tv" site_id="ESH" xmltv_id="ESPN  HD">ESPN  HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="FSP" xmltv_id="Fox Sports">Fox Sports</channel>
+    <channel update="i" site="meuguia.tv" site_id="FS2" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="meuguia.tv" site_id="OFF" xmltv_id="OFF HD">OFF HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="121" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+    <channel update="i" site="meuguia.tv" site_id="RSH" xmltv_id="Rush HD">Rush HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="SPE" xmltv_id="Speed Channel">Speed Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="SPO" xmltv_id="SporTV">SporTV</channel>
+    <channel update="i" site="meuguia.tv" site_id="SP2" xmltv_id="SporTV 2">SporTV 2</channel>
+    <channel update="i" site="meuguia.tv" site_id="SP3" xmltv_id="SporTV 3">SporTV 3</channel>
+    <channel update="i" site="meuguia.tv" site_id="TGC" xmltv_id="The Golf Channel">The Golf Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="TCO" xmltv_id="TV Corinthians">TV Corinthians</channel>
+    <channel update="i" site="meuguia.tv" site_id="BAB" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="meuguia.tv" site_id="BMG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="meuguia.tv" site_id="CAR" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="meuguia.tv" site_id="DIK" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="meuguia.tv" site_id="DNY" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="DNH" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="PHD" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="meuguia.tv" site_id="DXD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="meuguia.tv" site_id="GOB" xmltv_id="Gloob">Gloob</channel>
+    <channel update="i" site="meuguia.tv" site_id="NJR" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="meuguia.tv" site_id="NIC" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="meuguia.tv" site_id="TOC" xmltv_id="Tooncast">Tooncast</channel>
+    <channel update="i" site="meuguia.tv" site_id="RTB" xmltv_id="TV Rá-tim-bum">TV Rá-tim-bum</channel>
+    <channel update="i" site="meuguia.tv" site_id="AMZ" xmltv_id="Amazon Sat">Amazon Sat</channel>
+    <channel update="i" site="meuguia.tv" site_id="BQ5" xmltv_id="Arte 1">Arte 1</channel>
+    <channel update="i" site="meuguia.tv" site_id="BHD" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="meuguia.tv" site_id="MSH" xmltv_id="Bis HD">Bis HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="BOI" xmltv_id="Canal do Boi">Canal do Boi</channel>
+    <channel update="i" site="meuguia.tv" site_id="RUR" xmltv_id="Canal Rural">Canal Rural</channel>
+    <channel update="i" site="meuguia.tv" site_id="CNV" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel update="i" site="meuguia.tv" site_id="CCL" xmltv_id="Casa Club TV">Casa Club TV</channel>
+    <channel update="i" site="meuguia.tv" site_id="CLI" xmltv_id="Climatempo">Climatempo</channel>
+    <channel update="i" site="meuguia.tv" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="meuguia.tv" site_id="100" xmltv_id="Concert Channel">Concert Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="EET" xmltv_id="E! Entertainment Television">E! Entertainment Television</channel>
+    <channel update="i" site="meuguia.tv" site_id="FUT" xmltv_id="Futura">Futura</channel>
+    <channel update="i" site="meuguia.tv" site_id="FAS" xmltv_id="Glitz*">Glitz*</channel>
+    <channel update="i" site="meuguia.tv" site_id="GNT" xmltv_id="GNT">GNT</channel>
+    <channel update="i" site="meuguia.tv" site_id="HTV" xmltv_id="Hiper TV">Hiper TV</channel>
+    <channel update="i" site="meuguia.tv" site_id="MSW" xmltv_id="Multishow">Multishow</channel>
+    <channel update="i" site="meuguia.tv" site_id="NBR" xmltv_id="NBR">NBR</channel>
+    <channel update="i" site="meuguia.tv" site_id="NHK" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="meuguia.tv" site_id="RAI" xmltv_id="RAI International">RAI International</channel>
+    <channel update="i" site="meuguia.tv" site_id="MIX" xmltv_id="RBI">RBI</channel>
+    <channel update="i" site="meuguia.tv" site_id="LBV" xmltv_id="Rede Boa Vontade">Rede Boa Vontade</channel>
+    <channel update="i" site="meuguia.tv" site_id="REF" xmltv_id="Rede Famí­lia">Rede Famí­lia</channel>
+    <channel update="i" site="meuguia.tv" site_id="TVG" xmltv_id="Rede Gênesis">Rede Gênesis</channel>
+    <channel update="i" site="meuguia.tv" site_id="RIT" xmltv_id="Rede Internacional de TV">Rede Internacional de TV</channel>
+    <channel update="i" site="meuguia.tv" site_id="SRD" xmltv_id="Rede Super de Televisão">Rede Super de Televisão</channel>
+    <channel update="i" site="meuguia.tv" site_id="RTP" xmltv_id="RTP Internacional">RTP Internacional</channel>
+    <channel update="i" site="meuguia.tv" site_id="STC" xmltv_id="Santa Cecília TV">Santa Cecília TV</channel>
+    <channel update="i" site="meuguia.tv" site_id="NAC" xmltv_id="SESC TV">SESC TV</channel>
+    <channel update="i" site="meuguia.tv" site_id="SHO" xmltv_id="Shoptime">Shoptime</channel>
+    <channel update="i" site="meuguia.tv" site_id="SIC" xmltv_id="SIC International">SIC International</channel>
+    <channel update="i" site="meuguia.tv" site_id="SMI" xmltv_id="Smithsonian HD">Smithsonian HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="TVV" xmltv_id="Terra Viva">Terra Viva</channel>
+    <channel update="i" site="meuguia.tv" site_id="CAM" xmltv_id="TV Câmara">TV Câmara</channel>
+    <channel update="i" site="meuguia.tv" site_id="ESC" xmltv_id="TV Escola">TV Escola</channel>
+    <channel update="i" site="meuguia.tv" site_id="TVE" xmltv_id="TV Espanha">TV Espanha</channel>
+    <channel update="i" site="meuguia.tv" site_id="JUS" xmltv_id="TV Justiça">TV Justiça</channel>
+    <channel update="i" site="meuguia.tv" site_id="SEN" xmltv_id="TV Senado">TV Senado</channel>
+    <channel update="i" site="meuguia.tv" site_id="TVU" xmltv_id="TV União">TV União</channel>
+    <channel update="i" site="meuguia.tv" site_id="TV5" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="meuguia.tv" site_id="VH1" xmltv_id="Vh1">Vh1</channel>
+    <channel update="i" site="meuguia.tv" site_id="VHD" xmltv_id="Vh1 HD">Vh1 HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="MTH" xmltv_id="VH1 Mega Hits">VH1 Mega Hits</channel>
+    <channel update="i" site="meuguia.tv" site_id="VIV" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="meuguia.tv" site_id="WOO" xmltv_id="Woohoo">Woohoo</channel>
+    <channel update="i" site="meuguia.tv" site_id="DIS" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="DCI" xmltv_id="Discovery Civilization">Discovery Civilization</channel>
+    <channel update="i" site="meuguia.tv" site_id="HEA" xmltv_id="Discovery Home &amp; Health">Discovery Home &amp; Health</channel>
+    <channel update="i" site="meuguia.tv" site_id="DSC" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="meuguia.tv" site_id="DTU" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="meuguia.tv" site_id="CH2" xmltv_id="H2">H2</channel>
+    <channel update="i" site="meuguia.tv" site_id="CH1" xmltv_id="H2 HD">H2 HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="HIS" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="meuguia.tv" site_id="HIH" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="NGH" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="SUP" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="meuguia.tv" site_id="TRV" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="meuguia.tv" site_id="NEW" xmltv_id="Band News">Band News</channel>
+    <channel update="i" site="meuguia.tv" site_id="BBC" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="meuguia.tv" site_id="BIT" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="meuguia.tv" site_id="CN9" xmltv_id="CNN Brasil">CNN Brasil</channel>
+    <channel update="i" site="meuguia.tv" site_id="CNE" xmltv_id="CNN Espanhol">CNN Espanhol</channel>
+    <channel update="i" site="meuguia.tv" site_id="CNN" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="meuguia.tv" site_id="DWL" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="meuguia.tv" site_id="FNE" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="meuguia.tv" site_id="GLN" xmltv_id="Globo News">Globo News</channel>
+    <channel update="i" site="meuguia.tv" site_id="TLS" xmltv_id="Tele Sur">Tele Sur</channel>
+    <channel update="i" site="meuguia.tv" site_id="BAN" xmltv_id="Band Rede">Band Rede</channel>
+    <channel update="i" site="meuguia.tv" site_id="C21" xmltv_id="Canal 21">Canal 21</channel>
+    <channel update="i" site="meuguia.tv" site_id="CNT" xmltv_id="CNT">CNT</channel>
+    <channel update="i" site="meuguia.tv" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="meuguia.tv" site_id="REC" xmltv_id="Record">Record</channel>
+    <channel update="i" site="meuguia.tv" site_id="RCN" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="meuguia.tv" site_id="RTV" xmltv_id="Rede TV">Rede TV</channel>
+    <channel update="i" site="meuguia.tv" site_id="VDA" xmltv_id="Rede Vida">Rede Vida</channel>
+    <channel update="i" site="meuguia.tv" site_id="SBT" xmltv_id="SBT">SBT</channel>
+    <channel update="i" site="meuguia.tv" site_id="TED" xmltv_id="TV Brasil">TV Brasil</channel>
+    <channel update="i" site="meuguia.tv" site_id="TBC" xmltv_id="TV Brasil Central">TV Brasil Central</channel>
+    <channel update="i" site="meuguia.tv" site_id="CUL" xmltv_id="TV Cultura">TV Cultura</channel>
+    <channel update="i" site="meuguia.tv" site_id="GAZ" xmltv_id="TV Gazeta">TV Gazeta</channel>
+    <channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="TV Globo">TV Globo</channel>
+  </channels>
+</site>

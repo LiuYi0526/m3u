@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" site="puntacable.com.uy">
+  <channels>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_76" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_174" xmltv_id="BOOMERANG CARTOON">BOOMERANG CARTOON</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_475" xmltv_id="TV NACIONAL">TV NACIONAL</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2860" xmltv_id="MONTECARLO HD">MONTECARLO HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2847" xmltv_id="CANAL 10 HD">CANAL 10 HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3372" xmltv_id="CANAL 11 HD">CANAL 11 HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2320" xmltv_id="CANAL 11 HD">CANAL 11 HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2862" xmltv_id="CANAL 12 HD">CANAL 12 HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_5650" xmltv_id="+TELEVISIÓN HD">+TELEVISIÓN HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4625" xmltv_id="RAI HD">RAI HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_328" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_33" xmltv_id="SPACE">SPACE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_265" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2999" xmltv_id="TNT SERIES">TNT SERIES</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_97" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_22" xmltv_id="I-SAT">I-SAT</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_100" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_426" xmltv_id="FX">FX</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_21" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2292" xmltv_id="CINEMAX">CINEMAX</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_15" xmltv_id="CINECANAL">CINECANAL</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_695" xmltv_id="BABY TV">BABY TV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_46" xmltv_id="WARNER">WARNER</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_465" xmltv_id="UNIVERSAL">UNIVERSAL</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_32" xmltv_id="SONY">SONY</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_451" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3932" xmltv_id="NAT GEO KIDS">NAT GEO KIDS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_337" xmltv_id="EUROCHANNEL">EUROCHANNEL</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_184" xmltv_id="EUROPA EUROPA">EUROPA EUROPA</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1120" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_63" xmltv_id="FILM &amp; ARTS">FILM &amp; ARTS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4094" xmltv_id="FX MOVIES">FX MOVIES</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_401" xmltv_id="GOLDEN LAT">GOLDEN LAT</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_83" xmltv_id="STAR SERIES">STAR SERIES</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2880" xmltv_id="STAR COMEDY">STAR COMEDY</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_136" xmltv_id="DISNEY">DISNEY</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_589" xmltv_id="STAR HITS">STAR HITS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1017" xmltv_id="STAR FUN OESTE">STAR FUN OESTE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_324" xmltv_id="STAR CLASSICS">STAR CLASSICS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_583" xmltv_id="STAR ACTION">STAR ACTION</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_700" xmltv_id="STAR ACTION OESTE">STAR ACTION OESTE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1690" xmltv_id="STAR CINEMA">STAR CINEMA</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1016" xmltv_id="STAR FUN">STAR FUN</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_325" xmltv_id="DISNEY XD">DISNEY XD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_816" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3401" xmltv_id="+ TELEVISION">+ TELEVISION</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_178" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_167" xmltv_id="A&amp;E MUNDO">A&amp;E MUNDO</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1184" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_17" xmltv_id="DISCOVERY">DISCOVERY</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_463" xmltv_id="NATGEO">NATGEO</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1623" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_493" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_492" xmltv_id="DISCOVERY TURBO">DISCOVERY TURBO</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_340" xmltv_id="DISCOVERY HOME AND HEALTH">DISCOVERY HOME AND HEALTH</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3" xmltv_id="26 TV">26 TV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_13" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_343" xmltv_id="AMERICA 24">AMERICA 24</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_62" xmltv_id="CNN EN ESPAÑOL">CNN EN ESPAÑOL</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_192" xmltv_id="CRONICA">CRONICA</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3644" xmltv_id="LA NACION">LA NACION</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_709" xmltv_id="C5N">C5N</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_281" xmltv_id="CANAL 24 HS">CANAL 24 HS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1020" xmltv_id="FOX NEWS">FOX NEWS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_80" xmltv_id="BBC WORLD">BBC WORLD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_730" xmltv_id="BLOOMBERG">BLOOMBERG</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1890" xmltv_id="REDE TV">REDE TV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_685" xmltv_id="REDE RECORD">REDE RECORD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_273" xmltv_id="CANAL VASCO">CANAL VASCO</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_65" xmltv_id="GALICIA TV">GALICIA TV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_39" xmltv_id="TVN CHILE">TVN CHILE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_16" xmltv_id="DW LATINOAMÉRICA">DW LATINOAMÉRICA</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2067" xmltv_id="DW AMERIKA">DW AMERIKA</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_29" xmltv_id="RAI">RAI</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_38" xmltv_id="TV 5">TV 5</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_59" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_943" xmltv_id="AMERICA TV">AMERICA TV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_135" xmltv_id="TV PUBLICA">TV PUBLICA</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_170" xmltv_id="TLNOVELAS">TLNOVELAS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_9" xmltv_id="LAS ESTRELLAS">LAS ESTRELLAS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1624" xmltv_id="DISCOVERY TLC">DISCOVERY TLC</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_111" xmltv_id="DISCOVERY ID">DISCOVERY ID</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_912" xmltv_id="TRU TV">TRU TV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_477" xmltv_id="ENCUENTRO #ARGENTINA">ENCUENTRO #ARGENTINA</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_11" xmltv_id="#CANAL RURAL">#CANAL RURAL</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_64" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_349" xmltv_id="CANAL LUZ">CANAL LUZ</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_226" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_366" xmltv_id="STAR LIFE">STAR LIFE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_125" xmltv_id="EL GOURMET">EL GOURMET</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1830" xmltv_id="GLITZ">GLITZ</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_108" xmltv_id="MAS CHIC">MAS CHIC</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_50" xmltv_id="ENTERTAINMENT TELEVISION">ENTERTAINMENT TELEVISION</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_348" xmltv_id="FOX SPORTS">FOX SPORTS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2729" xmltv_id="FOX SPORTS 2">FOX SPORTS 2</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3898" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_84" xmltv_id="AMERICA SPORTS">AMERICA SPORTS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_18" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_5253" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4971" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2271" xmltv_id="TYC SPORTS">TYC SPORTS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1519" xmltv_id="GOL TV">GOL TV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2412" xmltv_id="MAROÑAS ">MAROÑAS </channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_373" xmltv_id="VTV">VTV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2368" xmltv_id="VTV +">VTV +</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3264" xmltv_id="WOOHOO">WOOHOO</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_368" xmltv_id="LA RED">LA RED</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1383" xmltv_id="MONTECARLO">MONTECARLO</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_115" xmltv_id="HTV">HTV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_28" xmltv_id="MUCHMUSIC">MUCHMUSIC</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_25" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_483" xmltv_id="TELEDOCE">TELEDOCE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_725" xmltv_id="VH1 MEGA HITS">VH1 MEGA HITS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_727" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_726" xmltv_id="MTV DANCE">MTV DANCE</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2453" xmltv_id="VH1 CLASSIC">VH1 CLASSIC</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1387" xmltv_id="CANAL 10">CANAL 10</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_60" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3238" xmltv_id="CANAL 11">CANAL 11</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2693" xmltv_id="FOX SPORTS HD">FOX SPORTS HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3601" xmltv_id="FOX SPORTS 2 HD">FOX SPORTS 2 HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3899" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3429" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1132" xmltv_id="ESPN + HD">ESPN + HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_5254" xmltv_id="ESPN 2 URU HD">ESPN 2 URU HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4972" xmltv_id="ESPN 3 SOUTH HD">ESPN 3 SOUTH HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1666" xmltv_id="TYC SPORTS HD">TYC SPORTS HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2927" xmltv_id="GOL TV HD">GOL TV HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_5651" xmltv_id="MAROÑAS HD">MAROÑAS HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2925" xmltv_id="VTV HD">VTV HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1811" xmltv_id="NICK 2 HD">NICK 2 HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2845" xmltv_id="CARTOON NETWORK HD">CARTOON NETWORK HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3531" xmltv_id="DISCOVERY KIDS HD">DISCOVERY KIDS HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1244" xmltv_id="MTV LIVE HD">MTV LIVE HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1351" xmltv_id="CONCERT CHANNEL HD">CONCERT CHANNEL HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3154" xmltv_id="ALLEGRO HD">ALLEGRO HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1499" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1584" xmltv_id="A&amp;E MUNDO HD">A&amp;E MUNDO HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4605" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1403" xmltv_id="NAT GEO WILD HD">NAT GEO WILD HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2711" xmltv_id="NATGEO HD">NATGEO HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3066" xmltv_id="DISCOVERY HD">DISCOVERY HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1181" xmltv_id="DISCOVERY THEATER HD">DISCOVERY THEATER HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2266" xmltv_id="DISCOVERY ID HD">DISCOVERY ID HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2218" xmltv_id="DISCOVERY H&amp;H HD">DISCOVERY H&amp;H HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3390" xmltv_id="MAS CHIC HD">MAS CHIC HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4909" xmltv_id="DISCOVERY TLC HD">DISCOVERY TLC HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1260" xmltv_id="TRU TV HD">TRU TV HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1389" xmltv_id="DISCOVERY WORLD HD">DISCOVERY WORLD HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3244" xmltv_id="EL GOURMET HD">EL GOURMET HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3064" xmltv_id="STAR CHANNEL HD">STAR CHANNEL HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2858" xmltv_id="CANAL 7">CANAL 7</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1862" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3787" xmltv_id="WARNER HD">WARNER HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4535" xmltv_id="SPACE HD">SPACE HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4054" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3421" xmltv_id="TNT SERIES HD">TNT SERIES HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1511" xmltv_id="UNIVERSAL HD">UNIVERSAL HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1579" xmltv_id="SONY HD">SONY HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1250" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4098" xmltv_id="FX MOVIES HD">FX MOVIES HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3445" xmltv_id="CINECANAL HD">CINECANAL HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3391" xmltv_id="FILM &amp; ARTS HD">FILM &amp; ARTS HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_4929" xmltv_id="EUROCHANNEL HD">EUROCHANNEL HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3478" xmltv_id="EUROPA EUROPA HD">EUROPA EUROPA HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1500" xmltv_id="GOLDEN HD">GOLDEN HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1000" xmltv_id="STAR SERIES HD">STAR SERIES HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2036" xmltv_id="STAR ACTION HD">STAR ACTION HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3124" xmltv_id="STAR COMEDY HD">STAR COMEDY HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1964" xmltv_id="STAR HITS HD">STAR HITS HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_335" xmltv_id="HBO FAMILY HD">HBO FAMILY HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_875" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2127" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2165" xmltv_id="HBO PLUS HD">HBO PLUS HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1448" xmltv_id="HBO MUNDI HD">HBO MUNDI HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_1378" xmltv_id="HBO POP HD">HBO POP HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2688" xmltv_id="HBO XTREME HD">HBO XTREME HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_2065" xmltv_id="HBO SIGNATURE HD">HBO SIGNATURE HD</channel>
+    <channel update="i" site="puntacable.com.uy" site_id="3226_3142" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
+  </channels>
+</site>

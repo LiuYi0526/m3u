@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="homegardentv.it">
+  <channels>
+    <channel update="i" site="homegardentv.it" site_id="hgvt" xmltv_id="Home &amp; garden TV">Home &amp; garden TV</channel>
+  </channels>
+</site>

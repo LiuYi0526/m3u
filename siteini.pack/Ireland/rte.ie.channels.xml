@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="rte.ie">
+  <channels>
+    <channel update="i" site="rte.ie" site_id="hn64" xmltv_id="RTÉ One HD">RTÉ One HD</channel>
+    <channel update="i" site="rte.ie" site_id="hm74" xmltv_id="RTÉ2 HD">RTÉ2 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpdv" xmltv_id="Virgin Media One HD">Virgin Media One HD</channel>
+    <channel update="i" site="rte.ie" site_id="hnzm" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpzb" xmltv_id="Virgin Media Two HD">Virgin Media Two HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7x" xmltv_id="Sky One HD">Sky One HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkyp" xmltv_id="Sky Witness HD">Sky Witness HD</channel>
+    <channel update="i" site="rte.ie" site_id="hmbs" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="rte.ie" site_id="hm77" xmltv_id="W HD">W HD</channel>
+    <channel update="i" site="rte.ie" site_id="hky6" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="rte.ie" site_id="hm4r" xmltv_id="Dave HD">Dave HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkzv" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="rte.ie" site_id="hrs7" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="rte.ie" site_id="hrtq" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpbj" xmltv_id="Virgin Media Three">Virgin Media Three</channel>
+    <channel update="i" site="rte.ie" site_id="hrr9" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7y" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7w" xmltv_id="Sky History HD">Sky History HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk8t" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkzf" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="rte.ie" site_id="hpd9" xmltv_id="MTV Ireland">MTV Ireland</channel>
+    <channel update="i" site="rte.ie" site_id="hk5s" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="rte.ie" site_id="hk6m" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="rte.ie" site_id="hrts" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn2c" xmltv_id="Alibi HD">Alibi HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn4f" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkvb" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="rte.ie" site_id="hkvf" xmltv_id="E4">E4</channel>
+    <channel update="i" site="rte.ie" site_id="hkvc" xmltv_id="More4">More4</channel>
+    <channel update="i" site="rte.ie" site_id="hk95" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="rte.ie" site_id="hkrj" xmltv_id="BBC Two Northern Ireland">BBC Two Northern Ireland</channel>
+    <channel update="i" site="rte.ie" site_id="hn6t" xmltv_id="BBC Four HD">BBC Four HD</channel>
+    <channel update="i" site="rte.ie" site_id="hqsn" xmltv_id="Quest HD">Quest HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpjy" xmltv_id="Sky Sports Mix HD">Sky Sports Mix HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk9x" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="rte.ie" site_id="hk9z" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="rte.ie" site_id="hk92" xmltv_id="CBS Justice">CBS Justice</channel>
+    <channel update="i" site="rte.ie" site_id="hpk9" xmltv_id="Quest Red">Quest Red</channel>
+    <channel update="i" site="rte.ie" site_id="hk4t" xmltv_id="E!">E!</channel>
+    <channel update="i" site="rte.ie" site_id="hkzt" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk9d" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="rte.ie" site_id="hk5q" xmltv_id="Really">Really</channel>
+    <channel update="i" site="rte.ie" site_id="hk9k" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
+    <channel update="i" site="rte.ie" site_id="hmbc" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="rte.ie" site_id="hn4m" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="rte.ie" site_id="hk56" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="rte.ie" site_id="hkxz" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="rte.ie" site_id="hk4k" xmltv_id="Yesterday">Yesterday</channel>
+    <channel update="i" site="rte.ie" site_id="hkx4" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="rte.ie" site_id="hpkc" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="rte.ie" site_id="hk9m" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk48" xmltv_id="Eden">Eden</channel>
+    <channel update="i" site="rte.ie" site_id="hkyv" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="rte.ie" site_id="hk4s" xmltv_id="Sky Two">Sky Two</channel>
+    <channel update="i" site="rte.ie" site_id="hk4r" xmltv_id="Together TV">Together TV</channel>
+    <channel update="i" site="rte.ie" site_id="hkys" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="rte.ie" site_id="hk8k" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="rte.ie" site_id="hq4k" xmltv_id="Smithsonian HD">Smithsonian HD</channel>
+    <channel update="i" site="rte.ie" site_id="hmck" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="rte.ie" site_id="hn97" xmltv_id="BEN">BEN</channel>
+    <channel update="i" site="rte.ie" site_id="hk2g" xmltv_id="Discovery Home &amp; Health">Discovery Home &amp; Health</channel>
+    <channel update="i" site="rte.ie" site_id="hn8g" xmltv_id="Forces TV">Forces TV</channel>
+    <channel update="i" site="rte.ie" site_id="hpj9" xmltv_id="Vice">Vice</channel>
+    <channel update="i" site="rte.ie" site_id="hqck" xmltv_id="Travelxp">Travelxp</channel>
+    <channel update="i" site="rte.ie" site_id="hn6g" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="rte.ie" site_id="hkzj" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="rte.ie" site_id="hpcj" xmltv_id="Fascination TV">Fascination TV</channel>
+    <channel update="i" site="rte.ie" site_id="hm6y" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpff" xmltv_id="Showcase">Showcase</channel>
+    <channel update="i" site="rte.ie" site_id="hmcj" xmltv_id="BET">BET</channel>
+    <channel update="i" site="rte.ie" site_id="hk54" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="rte.ie" site_id="hn9c" xmltv_id="Cruise Channel">Cruise Channel</channel>
+    <channel update="i" site="rte.ie" site_id="hnxc" xmltv_id="RTÉ One +1">RTÉ One +1</channel>
+    <channel update="i" site="rte.ie" site_id="hpbw" xmltv_id="Virgin Media One +1">Virgin Media One +1</channel>
+    <channel update="i" site="rte.ie" site_id="hnz2" xmltv_id="Sky One +1">Sky One +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkyn" xmltv_id="Sky Witness +1">Sky Witness +1</channel>
+    <channel update="i" site="rte.ie" site_id="hnyj" xmltv_id="Sky Atlantic +1">Sky Atlantic +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk87" xmltv_id="W +1">W +1</channel>
+    <channel update="i" site="rte.ie" site_id="hky7" xmltv_id="GOLD +1">GOLD +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk45" xmltv_id="Dave ja vu">Dave ja vu</channel>
+    <channel update="i" site="rte.ie" site_id="hkzw" xmltv_id="Comedy Central +1">Comedy Central +1</channel>
+    <channel update="i" site="rte.ie" site_id="hn9t" xmltv_id="Vox Africa">Vox Africa</channel>
+    <channel update="i" site="rte.ie" site_id="hk5n" xmltv_id="Sky Crime+1">Sky Crime+1</channel>
+    <channel update="i" site="rte.ie" site_id="hky2" xmltv_id="Sky History +1">Sky History +1</channel>
+    <channel update="i" site="rte.ie" site_id="hmb2" xmltv_id="FOX +1">FOX +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkzg" xmltv_id="Discovery Channel +1">Discovery Channel +1</channel>
+    <channel update="i" site="rte.ie" site_id="hky5" xmltv_id="National Geographic Channel +1">National Geographic Channel +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkzm" xmltv_id="Alibi +1">Alibi +1</channel>
+    <channel update="i" site="rte.ie" site_id="hn29" xmltv_id="TLC+1">TLC+1</channel>
+    <channel update="i" site="rte.ie" site_id="hkwx" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkxb" xmltv_id="E4 +1">E4 +1</channel>
+    <channel update="i" site="rte.ie" site_id="hn9x" xmltv_id="Property Show">Property Show</channel>
+    <channel update="i" site="rte.ie" site_id="hk96" xmltv_id="Food Network +1">Food Network +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk9p" xmltv_id="Quest +1">Quest +1</channel>
+    <channel update="i" site="rte.ie" site_id="hm6w" xmltv_id="CBS Reality +1">CBS Reality +1</channel>
+    <channel update="i" site="rte.ie" site_id="hpmc" xmltv_id="Quest Red +1">Quest Red +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkzs" xmltv_id="Syfy +1">Syfy +1</channel>
+    <channel update="i" site="rte.ie" site_id="hn4h" xmltv_id="Investigation Discovery +1">Investigation Discovery +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk6w" xmltv_id="Crime + Investigation +1">Crime + Investigation +1</channel>
+    <channel update="i" site="rte.ie" site_id="hn22" xmltv_id="Sony Channel +1">Sony Channel +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk57" xmltv_id="Pick +1">Pick +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk4m" xmltv_id="Yesterday +1">Yesterday +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkx5" xmltv_id="HGTV +1">HGTV +1</channel>
+    <channel update="i" site="rte.ie" site_id="hn9y" xmltv_id="Information TV +1">Information TV +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk49" xmltv_id="Eden +1">Eden +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkyt" xmltv_id="Discovery History +1">Discovery History +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk8m" xmltv_id="DMAX +1">DMAX +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk2h" xmltv_id="Discovery Home &amp; Health +1">Discovery Home &amp; Health +1</channel>
+    <channel update="i" site="rte.ie" site_id="hqb6" xmltv_id="Discovery Turbo +1">Discovery Turbo +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkyg" xmltv_id="Animal Planet +1">Animal Planet +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk68" xmltv_id="Sky Cinema Premiere HD">Sky Cinema Premiere HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7t" xmltv_id="Sky Cinema Harry Potter HD">Sky Cinema Harry Potter HD</channel>
+    <channel update="i" site="rte.ie" site_id="hmbv" xmltv_id="Sky Cinema Hits HD">Sky Cinema Hits HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7r" xmltv_id="Sky Cinema Greats HD">Sky Cinema Greats HD</channel>
+    <channel update="i" site="rte.ie" site_id="hrvs" xmltv_id="Sky Cinema Animation HD">Sky Cinema Animation HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7g" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn2y" xmltv_id="Sky Cinema Disney HD">Sky Cinema Disney HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7d" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7b" xmltv_id="Sky Cinema Comedy HD">Sky Cinema Comedy HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk65" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7j" xmltv_id="Sky Cinema Drama HD">Sky Cinema Drama HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk7m" xmltv_id="Sky Cinema Sci-fi/Horror HD">Sky Cinema Sci-fi/Horror HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk2c" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk2d" xmltv_id="Film4 +1">Film4 +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkzy" xmltv_id="TCM Movies">TCM Movies</channel>
+    <channel update="i" site="rte.ie" site_id="hn5q" xmltv_id="TCM Movies +1">TCM Movies +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk5d" xmltv_id="Horror Channel">Horror Channel</channel>
+    <channel update="i" site="rte.ie" site_id="hk5f" xmltv_id="Horror Channel +1">Horror Channel +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk55" xmltv_id="Sony Movies Classic">Sony Movies Classic</channel>
+    <channel update="i" site="rte.ie" site_id="hk8y" xmltv_id="Sony Movies Classic +1">Sony Movies Classic +1</channel>
+    <channel update="i" site="rte.ie" site_id="hm7h" xmltv_id="Sony Movies">Sony Movies</channel>
+    <channel update="i" site="rte.ie" site_id="hm22" xmltv_id="Sony Movies +1">Sony Movies +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk8w" xmltv_id="Sony Movies Action">Sony Movies Action</channel>
+    <channel update="i" site="rte.ie" site_id="hk8x" xmltv_id="Sony Movies Action +1">Sony Movies Action +1</channel>
+    <channel update="i" site="rte.ie" site_id="hmcf" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="rte.ie" site_id="hmcg" xmltv_id="Movies 24+">Movies 24+</channel>
+    <channel update="i" site="rte.ie" site_id="hpb8" xmltv_id="Talking Pictures TV">Talking Pictures TV</channel>
+    <channel update="i" site="rte.ie" site_id="hp9c" xmltv_id="GOLD HD">GOLD HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk5v" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk6k" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkxc" xmltv_id="E4 HD">E4 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hnzn" xmltv_id="More4 HD">More4 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn2v" xmltv_id="BBC Two HD">BBC Two HD</channel>
+    <channel update="i" site="rte.ie" site_id="hmb8" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="rte.ie" site_id="hkxq" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="rte.ie" site_id="hkxp" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="rte.ie" site_id="hkzd" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="rte.ie" site_id="hk4j" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="rte.ie" site_id="hn87" xmltv_id="Trace Vault">Trace Vault</channel>
+    <channel update="i" site="rte.ie" site_id="hm6h" xmltv_id="Vintage TV">Vintage TV</channel>
+    <channel update="i" site="rte.ie" site_id="hpdw" xmltv_id="NOW 90s">NOW 90s</channel>
+    <channel update="i" site="rte.ie" site_id="hn9w" xmltv_id="Starz">Starz</channel>
+    <channel update="i" site="rte.ie" site_id="hn96" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel update="i" site="rte.ie" site_id="hn95" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="rte.ie" site_id="hn94" xmltv_id="NOW 70s">NOW 70s</channel>
+    <channel update="i" site="rte.ie" site_id="hn92" xmltv_id="Heart TV">Heart TV</channel>
+    <channel update="i" site="rte.ie" site_id="hn9z" xmltv_id="Capital TV">Capital TV</channel>
+    <channel update="i" site="rte.ie" site_id="hn9p" xmltv_id="Spotlight TV">Spotlight TV</channel>
+    <channel update="i" site="rte.ie" site_id="hk6q" xmltv_id="Sky Sports Main Event HD">Sky Sports Main Event HD</channel>
+    <channel update="i" site="rte.ie" site_id="hphb" xmltv_id="Sky Sports Premier League ROI HD">Sky Sports Premier League ROI HD</channel>
+    <channel update="i" site="rte.ie" site_id="hp8m" xmltv_id="Sky Sports Football HD">Sky Sports Football HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk6r" xmltv_id="Sky Sports Cricket HD">Sky Sports Cricket HD</channel>
+    <channel update="i" site="rte.ie" site_id="hmbq" xmltv_id="Sky Sports Golf HD">Sky Sports Golf HD</channel>
+    <channel update="i" site="rte.ie" site_id="hnxp" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk8r" xmltv_id="Sky Sports Action HD">Sky Sports Action HD</channel>
+    <channel update="i" site="rte.ie" site_id="hp8j" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel update="i" site="rte.ie" site_id="hm4h" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk2n" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hnz8" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hrrr" xmltv_id="Premier Sports 1 HD ROI">Premier Sports 1 HD ROI</channel>
+    <channel update="i" site="rte.ie" site_id="hn4y" xmltv_id="BT Sport 1HD">BT Sport 1HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn4v" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hqtb" xmltv_id="Sky Sports Racing HD">Sky Sports Racing HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpck" xmltv_id="BT Sport 3 HD">BT Sport 3 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn8y" xmltv_id="MUTV HD">MUTV HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpb5" xmltv_id="Chelsea TV HD">Chelsea TV HD</channel>
+    <channel update="i" site="rte.ie" site_id="hqsw" xmltv_id="eir Sport 1 HD">eir Sport 1 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hqs4" xmltv_id="Virgin Media Sport HD">Virgin Media Sport HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk9s" xmltv_id="BT Sport//ESPN HD">BT Sport//ESPN HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpbc" xmltv_id="LFC TV HD">LFC TV HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpfm" xmltv_id="Racing TV HD">Racing TV HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn85" xmltv_id="BoxNation">BoxNation</channel>
+    <channel update="i" site="rte.ie" site_id="hrrq" xmltv_id="Premier Sports 2 HD ROI">Premier Sports 2 HD ROI</channel>
+    <channel update="i" site="rte.ie" site_id="hpgw" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
+    <channel update="i" site="rte.ie" site_id="hrs4" xmltv_id="La Liga TV HD">La Liga TV HD</channel>
+    <channel update="i" site="rte.ie" site_id="hnxn" xmltv_id="TRACE Sport Stars">TRACE Sport Stars</channel>
+    <channel update="i" site="rte.ie" site_id="hmbf" xmltv_id="The Active Channel">The Active Channel</channel>
+    <channel update="i" site="rte.ie" site_id="hpfy" xmltv_id="Insight HD">Insight HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk9f" xmltv_id="AIT International">AIT International</channel>
+    <channel update="i" site="rte.ie" site_id="hqst" xmltv_id="CLTV">CLTV</channel>
+    <channel update="i" site="rte.ie" site_id="hn9g" xmltv_id="ABN TV">ABN TV</channel>
+    <channel update="i" site="rte.ie" site_id="hqbt" xmltv_id="BT Sport Box Office">BT Sport Box Office</channel>
+    <channel update="i" site="rte.ie" site_id="hpby" xmltv_id="Sky Sports Box Office HD">Sky Sports Box Office HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpbz" xmltv_id="Sky Sports Box Office">Sky Sports Box Office</channel>
+    <channel update="i" site="rte.ie" site_id="hpkv" xmltv_id="ITV Box Office HD">ITV Box Office HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn84" xmltv_id="BoxNation Live HD">BoxNation Live HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkyj" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpk7" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel update="i" site="rte.ie" site_id="hq4n" xmltv_id="CNBC HD">CNBC HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpgy" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="rte.ie" site_id="hnxb" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn7q" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="rte.ie" site_id="hq7y" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="rte.ie" site_id="hpgr" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel update="i" site="rte.ie" site_id="hnzd" xmltv_id="RT HD">RT HD</channel>
+    <channel update="i" site="rte.ie" site_id="hqch" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn62" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn98" xmltv_id="TVC News">TVC News</channel>
+    <channel update="i" site="rte.ie" site_id="hp72" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpb6" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
+    <channel update="i" site="rte.ie" site_id="hpgg" xmltv_id="Channels 24">Channels 24</channel>
+    <channel update="i" site="rte.ie" site_id="hnws" xmltv_id="RTÉ News Now">RTÉ News Now</channel>
+    <channel update="i" site="rte.ie" site_id="hpj7" xmltv_id="Arirang HD">Arirang HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn9n" xmltv_id="BON TV">BON TV</channel>
+    <channel update="i" site="rte.ie" site_id="hm7c" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn7k" xmltv_id="Cartoon Network +1">Cartoon Network +1</channel>
+    <channel update="i" site="rte.ie" site_id="hkzz" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="rte.ie" site_id="hkz2" xmltv_id="Nickelodeon +1">Nickelodeon +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk4g" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="rte.ie" site_id="hn4d" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel update="i" site="rte.ie" site_id="hk2r" xmltv_id="Disney Junior +">Disney Junior +</channel>
+    <channel update="i" site="rte.ie" site_id="hm54" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="rte.ie" site_id="hky9" xmltv_id="Disney Channel +1">Disney Channel +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk9w" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="rte.ie" site_id="hnyz" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="rte.ie" site_id="hn6v" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn6r" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkz5" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="rte.ie" site_id="hk8j" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel update="i" site="rte.ie" site_id="hkz7" xmltv_id="Boomerang +1">Boomerang +1</channel>
+    <channel update="i" site="rte.ie" site_id="hk7z" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="rte.ie" site_id="hk99" xmltv_id="Nick Jr Too">Nick Jr Too</channel>
+    <channel update="i" site="rte.ie" site_id="hnw9" xmltv_id="RTÉ Jr">RTÉ Jr</channel>
+    <channel update="i" site="rte.ie" site_id="hm5c" xmltv_id="Tiny Pop +1">Tiny Pop +1</channel>
+    <channel update="i" site="rte.ie" site_id="hn8z" xmltv_id="Pop +1">Pop +1</channel>
+    <channel update="i" site="rte.ie" site_id="hn7c" xmltv_id="Pop Max">Pop Max</channel>
+    <channel update="i" site="rte.ie" site_id="hn7g" xmltv_id="Pop Max +1">Pop Max +1</channel>
+    <channel update="i" site="rte.ie" site_id="hny4" xmltv_id="Nick Jr. +1">Nick Jr. +1</channel>
+    <channel update="i" site="rte.ie" site_id="hnx4" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpg7" xmltv_id="Nick Jr HD">Nick Jr HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkyb" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="rte.ie" site_id="hkz6" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="rte.ie" site_id="hk2q" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="rte.ie" site_id="hky8" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="rte.ie" site_id="hk9t" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="rte.ie" site_id="hkrx" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="rte.ie" site_id="hkry" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="rte.ie" site_id="hk72" xmltv_id="Best Direct">Best Direct</channel>
+    <channel update="i" site="rte.ie" site_id="hkz8" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="rte.ie" site_id="hnx7" xmltv_id="Ideal World">Ideal World</channel>
+    <channel update="i" site="rte.ie" site_id="hk24" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="rte.ie" site_id="hn5f" xmltv_id="B4U Music">B4U Music</channel>
+    <channel update="i" site="rte.ie" site_id="hp8b" xmltv_id="Sony Entertainment TV Asia HD">Sony Entertainment TV Asia HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn4z" xmltv_id="Star Bharat">Star Bharat</channel>
+    <channel update="i" site="rte.ie" site_id="hnz7" xmltv_id="Star Plus HD">Star Plus HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpk8" xmltv_id="Colors HD">Colors HD</channel>
+    <channel update="i" site="rte.ie" site_id="hm55" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="rte.ie" site_id="hrq9" xmltv_id="Republic Bharat">Republic Bharat</channel>
+    <channel update="i" site="rte.ie" site_id="hkxx" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="rte.ie" site_id="hn24" xmltv_id="Zing">Zing</channel>
+    <channel update="i" site="rte.ie" site_id="hrrb" xmltv_id="Foodxp">Foodxp</channel>
+    <channel update="i" site="rte.ie" site_id="hp8x" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
+    <channel update="i" site="rte.ie" site_id="hp8v" xmltv_id="Sony MAX HD">Sony MAX HD</channel>
+    <channel update="i" site="rte.ie" site_id="hpb2" xmltv_id="&amp;TV">&amp;TV</channel>
+    <channel update="i" site="rte.ie" site_id="hp9p" xmltv_id="Star Gold HD">Star Gold HD</channel>
+    <channel update="i" site="rte.ie" site_id="hn45" xmltv_id="Sony SAB">Sony SAB</channel>
+    <channel update="i" site="rte.ie" site_id="hn5d" xmltv_id="Sony MAX 2">Sony MAX 2</channel>
+    <channel update="i" site="rte.ie" site_id="hpkw" xmltv_id="B4U Plus">B4U Plus</channel>
+    <channel update="i" site="rte.ie" site_id="hn4b" xmltv_id="Colors Rishtey">Colors Rishtey</channel>
+    <channel update="i" site="rte.ie" site_id="hp9r" xmltv_id="Sanskar">Sanskar</channel>
+    <channel update="i" site="rte.ie" site_id="hqbp" xmltv_id="GEO News">GEO News</channel>
+    <channel update="i" site="rte.ie" site_id="hpy8" xmltv_id="New Vision">New Vision</channel>
+    <channel update="i" site="rte.ie" site_id="hqbn" xmltv_id="GEO TV">GEO TV</channel>
+    <channel update="i" site="rte.ie" site_id="hqbm" xmltv_id="GEO Kahani">GEO Kahani</channel>
+    <channel update="i" site="rte.ie" site_id="hn25" xmltv_id="Living Foodz">Living Foodz</channel>
+    <channel update="i" site="rte.ie" site_id="hpmt" xmltv_id="Urdu1 Europe">Urdu1 Europe</channel>
+    <channel update="i" site="rte.ie" site_id="hkxy" xmltv_id="Phoenix CNE Channel">Phoenix CNE Channel</channel>
+    <channel update="i" site="rte.ie" site_id="hp9s" xmltv_id="Iran International">Iran International</channel>
+    <channel update="i" site="rte.ie" site_id="hkw4" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel update="i" site="rte.ie" site_id="hkw5" xmltv_id="RTÉ2">RTÉ2</channel>
+    <channel update="i" site="rte.ie" site_id="hkw7" xmltv_id="Virgin Media One">Virgin Media One</channel>
+    <channel update="i" site="rte.ie" site_id="hkw6" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="rte.ie" site_id="hk6d" xmltv_id="Virgin Media Two">Virgin Media Two</channel>
+    <channel update="i" site="rte.ie" site_id="hk2f" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="rte.ie" site_id="hmbx" xmltv_id="Sky Witness">Sky Witness</channel>
+    <channel update="i" site="rte.ie" site_id="hmbr" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="rte.ie" site_id="hk86" xmltv_id="W">W</channel>
+    <channel update="i" site="rte.ie" site_id="hk44" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="rte.ie" site_id="hrs8" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="rte.ie" site_id="hrtr" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel update="i" site="rte.ie" site_id="hmb5" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel update="i" site="rte.ie" site_id="hk2z" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="rte.ie" site_id="hk47" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="rte.ie" site_id="hky4" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel update="i" site="rte.ie" site_id="hkyz" xmltv_id="Sky History">Sky History</channel>
+    <channel update="i" site="rte.ie" site_id="hkzk" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="rte.ie" site_id="hn28" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="rte.ie" site_id="hk9n" xmltv_id="Quest">Quest</channel>
+    <channel update="i" site="rte.ie" site_id="hkqt" xmltv_id="BBC One Northern Ireland">BBC One Northern Ireland</channel>
+    <channel update="i" site="rte.ie" site_id="hkrr" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="rte.ie" site_id="hk6v" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="rte.ie" site_id="hpjz" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel update="i" site="rte.ie" site_id="hk6t" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
+    <channel update="i" site="rte.ie" site_id="hk66" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
+    <channel update="i" site="rte.ie" site_id="hk7q" xmltv_id="Sky Cinema Greats">Sky Cinema Greats</channel>
+    <channel update="i" site="rte.ie" site_id="hk7f" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel update="i" site="rte.ie" site_id="hn2x" xmltv_id="Sky Cinema Disney">Sky Cinema Disney</channel>
+    <channel update="i" site="rte.ie" site_id="hk7c" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel update="i" site="rte.ie" site_id="hk69" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel update="i" site="rte.ie" site_id="hk64" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel update="i" site="rte.ie" site_id="hk7h" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
+    <channel update="i" site="rte.ie" site_id="hkvd" xmltv_id="Film4">Film4</channel>
+    <channel update="i" site="rte.ie" site_id="hk2s" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel update="i" site="rte.ie" site_id="hn8p" xmltv_id="Sky Sports Premier League">Sky Sports Premier League</channel>
+    <channel update="i" site="rte.ie" site_id="hp8h" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel update="i" site="rte.ie" site_id="hk2t" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel update="i" site="rte.ie" site_id="hk2w" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel update="i" site="rte.ie" site_id="hkqk" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="rte.ie" site_id="hk2v" xmltv_id="Sky Sports Action">Sky Sports Action</channel>
+    <channel update="i" site="rte.ie" site_id="hp8k" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
+    <channel update="i" site="rte.ie" site_id="hk2k" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="rte.ie" site_id="hk2m" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="rte.ie" site_id="hk5p" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="rte.ie" site_id="hn4x" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="rte.ie" site_id="hn4w" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="rte.ie" site_id="hpcm" xmltv_id="BT Sport 3">BT Sport 3</channel>
+    <channel update="i" site="rte.ie" site_id="hk2j" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="rte.ie" site_id="hk5g" xmltv_id="Racing TV">Racing TV</channel>
+    <channel update="i" site="rte.ie" site_id="hkyh" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="rte.ie" site_id="hq7q" xmltv_id="BBC Scotland">BBC Scotland</channel>
+    <channel update="i" site="rte.ie" site_id="hkx9" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="rte.ie" site_id="hnw5" xmltv_id="RT">RT</channel>
+    <channel update="i" site="rte.ie" site_id="hk7v" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="rte.ie" site_id="hp74" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="rte.ie" site_id="hkzx" xmltv_id="Sony Entertainment TV Asia">Sony Entertainment TV Asia</channel>
+    <channel update="i" site="rte.ie" site_id="hk28" xmltv_id="Star Plus">Star Plus</channel>
+    <channel update="i" site="rte.ie" site_id="hn5c" xmltv_id="Sony MAX">Sony MAX</channel>
+    <channel update="i" site="rte.ie" site_id="hnw4" xmltv_id="Star GOLD">Star GOLD</channel>
+    <channel update="i" site="rte.ie" site_id="hk4f" xmltv_id="Sky Sports Racing">Sky Sports Racing</channel>
+    <channel update="i" site="rte.ie" site_id="hq4q" xmltv_id="Smithsonian">Smithsonian</channel>
+    <channel update="i" site="rte.ie" site_id="hn2d" xmltv_id="CNBC UK">CNBC UK</channel>
+    <channel update="i" site="rte.ie" site_id="hq7x" xmltv_id="CGTN HD">CGTN HD</channel>
+    <channel update="i" site="rte.ie" site_id="hkzr" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="rte.ie" site_id="hrtt" xmltv_id="Sky Nature">Sky Nature</channel>
+    <channel update="i" site="rte.ie" site_id="hk84" xmltv_id="Sky History 2">Sky History 2</channel>
+    <channel update="i" site="rte.ie" site_id="hnzc" xmltv_id="BBC One Scotland HD">BBC One Scotland HD</channel>
+    <channel update="i" site="rte.ie" site_id="hny9" xmltv_id="BBC One Wales HD">BBC One Wales HD</channel>
+    <channel update="i" site="rte.ie" site_id="hnzf" xmltv_id="BBC One Northern Ireland HD">BBC One Northern Ireland HD</channel>
+    <channel update="i" site="rte.ie" site_id="hp8s" xmltv_id="Sky Atlantic VIP">Sky Atlantic VIP</channel>
+    <channel update="i" site="rte.ie" site_id="hp8r" xmltv_id="Sky Atlantic VIP HD">Sky Atlantic VIP HD</channel>
+  </channels>
+</site>

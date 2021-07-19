@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.2.2 -- Jan van Straaten" site="kablowebtv.com">
+  <channels>
+    <channel update="i" site="kablowebtv.com" site_id="10546" xmltv_id="KABLO INFO HD">KABLO INFO HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14585" xmltv_id="SINEMA TV HD">SINEMA TV HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14579" xmltv_id="SINEMA AKSIYON HD">SINEMA AKSIYON HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="19839" xmltv_id="SINEMA YERLI HD">SINEMA YERLI HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10073" xmltv_id="SINEMA TV AILE HD">SINEMA TV AILE HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14582" xmltv_id="SINEMA 1001 HD">SINEMA 1001 HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14581" xmltv_id="SINEMA KOMEDI HD">SINEMA KOMEDI HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10002" xmltv_id="TRT 1 HD">TRT 1 HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14390" xmltv_id="ATV HD">ATV HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14393" xmltv_id="SHOW TV HD">SHOW TV HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14448" xmltv_id="KANAL D HD">KANAL D HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14411" xmltv_id="STAR TV HD">STAR TV HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10077" xmltv_id="KANAL 7 HD">KANAL 7 HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14413" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10554" xmltv_id="TV 8 HD">TV 8 HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10515" xmltv_id="TRT 2 HD">TRT 2 HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14392" xmltv_id="TRT HABER HD">TRT HABER HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="3" xmltv_id="A HABER HD">A HABER HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14430" xmltv_id="NTV HD">NTV HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14434" xmltv_id="CNN TURK HD">CNN TURK HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10076" xmltv_id="TGRT HABER HD">TGRT HABER HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10557" xmltv_id="ULKE TV HD">ULKE TV HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10556" xmltv_id="TVNET HD">TVNET HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14385" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14386" xmltv_id="NATIONAL GEOGRAPHIC WILD HD">NATIONAL GEOGRAPHIC WILD HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14589" xmltv_id="DISCOVERY CHANNEL HD">DISCOVERY CHANNEL HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14594" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14591" xmltv_id="DISCOVERY SCIENCE HD">DISCOVERY SCIENCE HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10759" xmltv_id="VIASAT HISTORY HD">VIASAT HISTORY HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10005" xmltv_id="SCIENCE&amp;VIE HD">SCIENCE&amp;VIE HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10760" xmltv_id="VIASAT EXPLORE">VIASAT EXPLORE</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10548" xmltv_id="ANIMAUX">ANIMAUX</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10550" xmltv_id="CHASSE &amp; PECHE ">CHASSE &amp; PECHE </channel>
+    <channel update="i" site="kablowebtv.com" site_id="14483" xmltv_id="TRT SPOR HD">TRT SPOR HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10010" xmltv_id="A SPOR HD">A SPOR HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10553" xmltv_id="TRACE SPORTS STARS HD">TRACE SPORTS STARS HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10287" xmltv_id="AUTOMOTO HD">AUTOMOTO HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10289" xmltv_id="FAST &amp; FUNBOX HD">FAST &amp; FUNBOX HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14394" xmltv_id="FOXLIFE HD">FOXLIFE HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14395" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14398" xmltv_id="FOXCRIME HD">FOXCRIME HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="14612" xmltv_id="TRT COCUK HD">TRT COCUK HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10288" xmltv_id="DUCK TV">DUCK TV</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10080" xmltv_id="ENGLISH CLUB TV HD">ENGLISH CLUB TV HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10075" xmltv_id="DA VINCI HD">DA VINCI HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="28398" xmltv_id="TRT EBA TV ILKOKUL HD">TRT EBA TV ILKOKUL HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="28399" xmltv_id="TRT EBA TV ORTAOKUL HD">TRT EBA TV ORTAOKUL HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="28400" xmltv_id="TRT EBA TV LISE HD">TRT EBA TV LISE HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="10281" xmltv_id="TRT MUZIK HD">TRT MUZIK HD</channel>
+    <channel update="i" site="kablowebtv.com" site_id="4" xmltv_id="TRACE URBAN HD">TRACE URBAN HD</channel>
+  </channels>
+</site>

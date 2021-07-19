@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="telekom.ro">
+  <channels>
+    <channel update="i" site="telekom.ro" site_id="600163##attachments/Tinfo_ott_144_65.png" xmltv_id="Telekom Info">Telekom Info</channel>
+    <channel update="i" site="telekom.ro" site_id="600187##data/logos/channels_144x65/TS1HD_IPTV.png" xmltv_id="Telekom Sport 1 HD">Telekom Sport 1 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="15327283##data/logos/channels_144x65/TS2HD_IPTV.png" xmltv_id="Telekom Sport 2 HD">Telekom Sport 2 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600175##data/logos/channels_144x65/TS3HD_IPTV.png" xmltv_id="Telekom Sport 3 HD">Telekom Sport 3 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600181##data/logos/channels_144x65/TS4HD_IPTV.png" xmltv_id="Telekom Sport 4 HD">Telekom Sport 4 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600343##data/logos/channels_144x65/mooz_hd.png" xmltv_id="Mooz HD">Mooz HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600355##data/logos/channels_144x65/mooz_hits.png" xmltv_id="Mooz Hits">Mooz Hits</channel>
+    <channel update="i" site="telekom.ro" site_id="600361##data/logos/channels_144x65/mooz_ro.png" xmltv_id="Mooz Ro">Mooz Ro</channel>
+    <channel update="i" site="telekom.ro" site_id="600349##data/logos/channels_144x65/mooz_dance.png" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600451##data/logos/channels_144x65/PROTVHD.png" xmltv_id="PRO TV HD">PRO TV HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600313##data/logos/channels_144x65/kanal-d.png" xmltv_id="Kanal D">Kanal D</channel>
+    <channel update="i" site="telekom.ro" site_id="600777##data/logos/channels_144x65/national24plus.png" xmltv_id="National 24 Plus">National 24 Plus</channel>
+    <channel update="i" site="telekom.ro" site_id="600523##data/logos/channels_144x65/tv5monde.png" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="telekom.ro" site_id="600019##data/logos/channels_144x65/PROGOLD.png" xmltv_id="PRO GOLD">PRO GOLD</channel>
+    <channel update="i" site="telekom.ro" site_id="599923##data/logos/channels_144x65/PRO2HD.png" xmltv_id="PRO 2 HD">PRO 2 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="73173262##data/logos/channels_144x65/Telestar1.png" xmltv_id="TELESTAR">TELESTAR</channel>
+    <channel update="i" site="telekom.ro" site_id="600103##data/logos/channels_144x65/credo.png" xmltv_id="Credo TV">Credo TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600517##data/logos/channels_144x65/Trinitastv.png" xmltv_id="Trinitas">Trinitas</channel>
+    <channel update="i" site="telekom.ro" site_id="600037##data/logos/channels_144x65/alfa_omega.png" xmltv_id="Alfa Omega TV">Alfa Omega TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600469##data/logos/channels_144x65/speranta.png" xmltv_id="Speranta TV">Speranta TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600771##data/logos/channels_144x65/lookplus_.png" xmltv_id="LookPlusHD">LookPlusHD</channel>
+    <channel update="i" site="telekom.ro" site_id="600325##data/logos/channels_144x65/looksport-hd.png" xmltv_id="LookSportHD">LookSportHD</channel>
+    <channel update="i" site="telekom.ro" site_id="600031##data/logos/channels_144x65/agrotv.png" xmltv_id="Agro TV">Agro TV</channel>
+    <channel update="i" site="telekom.ro" site_id="253204474##data/logos/channels_144x65/profitro_gray.png" xmltv_id="Profit.ro">Profit.ro</channel>
+    <channel update="i" site="telekom.ro" site_id="36015933##data/logos/channels_144x65/NickHD.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600097##data/logos/channels_144x65/cartoon-network_g.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="telekom.ro" site_id="600085##data/logos/channels_144x65/Boomerang1.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="telekom.ro" site_id="24529409##data/logos/channels_144x65/Nick_JR.png" xmltv_id="Nick JR">Nick JR</channel>
+    <channel update="i" site="telekom.ro" site_id="600157##data/logos/channels_144x65/disney_junior.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="telekom.ro" site_id="181669342##data/logos/channels_144x65/Duck14465.png" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600115##data/logos/channels_144x65/DaVinci_144x65_STB.png" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="telekom.ro" site_id="600151##data/logos/channels_144x65/disney.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="telekom.ro" site_id="600415##data/logos/channels_144x65/Nickelodeon.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="telekom.ro" site_id="272051025##attachments/Nikon_TV.PNG" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="telekom.ro" site_id="278070367##attachments/minimax3Dcolor_144x84px.png" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="telekom.ro" site_id="297510371##attachments/Dizi.png" xmltv_id="TDC HD">TDC HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600711##data/logos/channels_144x65/comedycentral.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="telekom.ro" site_id="600723##data/logos/channels_144x65/DIVA_WHITE.png" xmltv_id="Diva Universal">Diva Universal</channel>
+    <channel update="i" site="telekom.ro" site_id="600825##data/logos/channels_144x65/TNTnew.png" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="telekom.ro" site_id="88660975##data/logos/channels_144x65/TNT_HD_metal.png" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600645##data/logos/channels_144x65/AXN-HD.PNG" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600651##data/logos/channels_144x65/AXN-SPIN.PNG" xmltv_id="AXN SPIN">AXN SPIN</channel>
+    <channel update="i" site="telekom.ro" site_id="600633##data/logos/channels_144x65/AXN.PNG" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="telekom.ro" site_id="600639##data/logos/channels_144x65/AXN-BLACK.PNG" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="telekom.ro" site_id="600657##data/logos/channels_144x65/AXN-WHITE.PNG" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="telekom.ro" site_id="600789##data/logos/channels_144x65/PROCINEMA.png" xmltv_id="PRO CINEMA">PRO CINEMA</channel>
+    <channel update="i" site="telekom.ro" site_id="24543717##data/logos/channels_144x65/Paramount.png" xmltv_id="Paramount">Paramount</channel>
+    <channel update="i" site="telekom.ro" site_id="600831##data/logos/channels_144x65/tv1000.png" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="telekom.ro" site_id="600765##attachments/LOGOS-HBO_gri_2.png" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="telekom.ro" site_id="77219810##data/logos/channels_144x65/LOGO_HBO_2_1.png" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="77243893##data/logos/channels_144x65/LOGO_HBO_3_1.png" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="13781428##data/logos/channels_144x65/CNMXHD.png" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="telekom.ro" site_id="194807826##data/logos/channels_144x65/rsz_cmax2_hd_r_mark.png" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="243642359##data/logos/channels_144x65/epic_logo.png" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="telekom.ro" site_id="304890683##attachments/FilmboxPremiumW.png" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="telekom.ro" site_id="304890737##attachments/FilmboxBlack.png" xmltv_id="FilmBox Basic">FilmBox Basic</channel>
+    <channel update="i" site="telekom.ro" site_id="600681##data/logos/channels_144x65/BOTV.png" xmltv_id="Bollywood TV">Bollywood TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600675##data/logos/channels_144x65/BOCL.png" xmltv_id="Bollywood Classic">Bollywood Classic</channel>
+    <channel update="i" site="telekom.ro" site_id="36039815##data/logos/channels_144x65/Bollywood-HD.png" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="telekom.ro" site_id="323700203##attachments/Logo-Aleph-News_Telekom.png" xmltv_id="Aleph News">Aleph News</channel>
+    <channel update="i" site="telekom.ro" site_id="293861338##attachments/logo_Realitatea_PLUS_WIDE.png" xmltv_id="RealitateaPlus">RealitateaPlus</channel>
+    <channel update="i" site="telekom.ro" site_id="297509808##attachments/1-10.png" xmltv_id="Euronews HD">Euronews HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600801##data/logos/channels_144x65/romania_tv.png" xmltv_id="Romania TV">Romania TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600705##data/logos/channels_144x65/CNN-red.png" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="telekom.ro" site_id="88667753##data/logos/channels_144x65/CNNHD-red.png" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600783##data/logos/channels_144x65/nasul_tv.png" xmltv_id="Nasul TV">Nasul TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600837##data/logos/channels_144x65/tv-city.png" xmltv_id="TV CITY">TV CITY</channel>
+    <channel update="i" site="telekom.ro" site_id="600687##data/logos/channels_144x65/cgtn1.png" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="telekom.ro" site_id="600741##data/logos/channels_144x65/france-24.png" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="telekom.ro" site_id="600717##data/logos/channels_144x65/Deutsche_Welle_logo_2012.png" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="telekom.ro" site_id="297508986##attachments/looksport2hd.png" xmltv_id="Look Sport 2 HD">Look Sport 2 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="297509359##attachments/looksport3hd.png" xmltv_id="Look Sport 3 HD">Look Sport 3 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600475##data/logos/channels_144x65/PROX.png" xmltv_id="PRO X">PRO X</channel>
+    <channel update="i" site="telekom.ro" site_id="304890142##attachments/selkj.png" xmltv_id="Sport Extra HD">Sport Extra HD</channel>
+    <channel update="i" site="telekom.ro" site_id="297509935##attachments/1-04.png" xmltv_id="Fightbox HD">Fightbox HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600493##data/logos/channels_144x65/history_logo.png" xmltv_id="History">History</channel>
+    <channel update="i" site="telekom.ro" site_id="297510277##attachments/ng-hd.png" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="telekom.ro" site_id="297509971##attachments/Nat-Geo-Wild-HD.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="telekom.ro" site_id="303514863##attachments/NGP.png" xmltv_id="Nat Geo People">Nat Geo People</channel>
+    <channel update="i" site="telekom.ro" site_id="600595##attachments/viasat_hist.png" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600601##data/logos/channels_144x65/viasat_hist.png" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="telekom.ro" site_id="600589##data/logos/channels_144x65/viasat_expl.png" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="telekom.ro" site_id="600607##data/logos/channels_144x65/viasat_nat.png" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="telekom.ro" site_id="600109##data/logos/channels_144x65/ci_new.png" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="telekom.ro" site_id="297510552##attachments/viasat_expl.png" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="telekom.ro" site_id="297511744##attachments/viasat_nat.png" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel update="i" site="telekom.ro" site_id="297508455##attachments/1-02.png" xmltv_id="DocuboxHD">DocuboxHD</channel>
+    <channel update="i" site="telekom.ro" site_id="297511056##attachments/1-12.png" xmltv_id="Travel XP HD">Travel XP HD</channel>
+    <channel update="i" site="telekom.ro" site_id="271879541##attachments/TRAVELMIXHD.png" xmltv_id="TRAVEL MIX HD">TRAVEL MIX HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600253##data/logos/channels_144x65/fgold.png" xmltv_id="Fashion HD">Fashion HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600529##data/logos/channels_144x65/tv_paprika.png" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="telekom.ro" site_id="600259##attachments/fashion.png" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="telekom.ro" site_id="36043008##data/logos/channels_144x65/E!-HD.png" xmltv_id="E!Entertainment HD">E!Entertainment HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600373##data/logos/channels_144x65/mtv.png" xmltv_id="MTV Romania">MTV Romania</channel>
+    <channel update="i" site="telekom.ro" site_id="600301##data/logos/channels_144x65/IConcerts.png" xmltv_id="iConcerts HD">iConcerts HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600577##data/logos/channels_144x65/VH1_new.png" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="telekom.ro" site_id="600367##attachments/MTV90s.png" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="telekom.ro" site_id="600583##attachments/MTV80s.png" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="telekom.ro" site_id="600319##data/logos/channels_144x65/kiss_tv.png" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600565##data/logos/channels_144x65/utv.png" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="telekom.ro" site_id="243365364##data/logos/channels_144x65/LogoRock-TV-It-Rocks-pentru-fundal-ALB.png" xmltv_id="Rock TV HD">Rock TV HD</channel>
+    <channel update="i" site="telekom.ro" site_id="600217##data/logos/channels_144x65/etno.png" xmltv_id="Etno">Etno</channel>
+    <channel update="i" site="telekom.ro" site_id="600487##data/logos/channels_144x65/taraf.png" xmltv_id="Taraf TV">Taraf TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600307##data/logos/channels_144x65/inedit_tv.png" xmltv_id="Inedit TV">Inedit TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600073##data/logos/channels_144x65/balkanika.png" xmltv_id="Balkanika TV">Balkanika TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600289##data/logos/channels_144x65/hit_m_c.png" xmltv_id="Hit Music Channel">Hit Music Channel</channel>
+    <channel update="i" site="telekom.ro" site_id="36037957##data/logos/channels_144x65/MTVLiveHD.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="telekom.ro" site_id="243366234##data/logos/channels_144x65/LOGO-MAGIC-tv-turquoise.png" xmltv_id="Magic TV HD">Magic TV HD</channel>
+    <channel update="i" site="telekom.ro" site_id="243370513##data/logos/channels_144x65/Logo_classic.png" xmltv_id="Classica TV HD">Classica TV HD</channel>
+    <channel update="i" site="telekom.ro" site_id="35684832##data/logos/channels_144x65/M1.png" xmltv_id="M1">M1</channel>
+    <channel update="i" site="telekom.ro" site_id="600199##data/logos/channels_144x65/duna.png" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="telekom.ro" site_id="600211##data/logos/channels_144x65/ederlytv.png" xmltv_id="Erdely TV">Erdely TV</channel>
+    <channel update="i" site="telekom.ro" site_id="49573169##data/logos/channels_144x65/FotbalOnline.png" xmltv_id="Telekom Sport 7 HD">Telekom Sport 7 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="50355174##data/logos/channels_144x65/FotbalOnline.png" xmltv_id="Telekom Sport 8 HD">Telekom Sport 8 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="50361297##data/logos/channels_144x65/FotbalOnline.png" xmltv_id="Telekom Sport 9 HD">Telekom Sport 9 HD</channel>
+    <channel update="i" site="telekom.ro" site_id="50355600##data/logos/channels_144x65/FotbalOnline.png" xmltv_id="Telekom Sport 10 HD">Telekom Sport 10 HD</channel>
+  </channels>
+</site>

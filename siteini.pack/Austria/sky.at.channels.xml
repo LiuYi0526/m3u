@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="sky.at">
+  <channels>
+    <channel update="i" site="sky.at" site_id="116##13thstreethd_b" xmltv_id="13th Street HD">13th Street HD</channel>
+    <channel update="i" site="sky.at" site_id="690##beateuhse-hd_tvguide" xmltv_id="Beate Uhse HD">Beate Uhse HD</channel>
+    <channel update="i" site="sky.at" site_id="761##boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="sky.at" site_id="95##cartoonnetwork_b" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="sky.at" site_id="99##classica" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="sky.at" site_id="451##crime-investigation_tvguide" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="sky.at" site_id="83##discoverychannelhd_b" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="sky.at" site_id="117##entertainment_b" xmltv_id="E! Entertainm. HD">E! Entertainm. HD</channel>
+    <channel update="i" site="sky.at" site_id="596##eurosporthd_w" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="sky.at" site_id="161##eurosport2hd" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="sky.at" site_id="163##eurosport360hd_b" xmltv_id="Eurosport360HD 1">Eurosport360HD 1</channel>
+    <channel update="i" site="sky.at" site_id="164##eurosport360hd_b" xmltv_id="Eurosport360HD 2">Eurosport360HD 2</channel>
+    <channel update="i" site="sky.at" site_id="165##eurosport360hd_b" xmltv_id="Eurosport360HD 3">Eurosport360HD 3</channel>
+    <channel update="i" site="sky.at" site_id="166##eurosport360hd_b" xmltv_id="Eurosport360HD 4">Eurosport360HD 4</channel>
+    <channel update="i" site="sky.at" site_id="167##eurosport360hd_b" xmltv_id="Eurosport360HD 5">Eurosport360HD 5</channel>
+    <channel update="i" site="sky.at" site_id="168##eurosport360hd_b" xmltv_id="Eurosport360HD 6">Eurosport360HD 6</channel>
+    <channel update="i" site="sky.at" site_id="169##eurosport360hd_b" xmltv_id="Eurosport360HD 7">Eurosport360HD 7</channel>
+    <channel update="i" site="sky.at" site_id="170##eurosport360hd_b" xmltv_id="Eurosport360HD 8">Eurosport360HD 8</channel>
+    <channel update="i" site="sky.at" site_id="171##eurosport360hd_b" xmltv_id="Eurosport360HD 9">Eurosport360HD 9</channel>
+    <channel update="i" site="sky.at" site_id="4##foxhd" xmltv_id="Fox HD">Fox HD</channel>
+    <channel update="i" site="sky.at" site_id="72##heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="sky.at" site_id="86##historyhd_b" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="sky.at" site_id="452##jukebox" xmltv_id="Jukebox">Jukebox</channel>
+    <channel update="i" site="sky.at" site_id="96##junior" xmltv_id="Junior">Junior</channel>
+    <channel update="i" site="sky.at" site_id="70##kinowelt" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel update="i" site="sky.at" site_id="52##motorvision_b" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel update="i" site="sky.at" site_id="81##natgeochannelhd_b" xmltv_id="NatGeo HD">NatGeo HD</channel>
+    <channel update="i" site="sky.at" site_id="88##natgeowildhd_b" xmltv_id="NatGeo Wild HD">NatGeo Wild HD</channel>
+    <channel update="i" site="sky.at" site_id="783##nickjr_b" xmltv_id="Nick.Jr.">Nick.Jr.</channel>
+    <channel update="i" site="sky.at" site_id="798##nicktoons_b" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="sky.at" site_id="16##romancetv_b" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="sky.at" site_id="2##skyatlantichd_tvguide" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="sky.at" site_id="59##skyaction_tvguide" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel update="i" site="sky.at" site_id="60##skyactionhd_tvguide" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel update="i" site="sky.at" site_id="874##sky-cinema_animation_tvguide" xmltv_id="Sky Cinema Animation">Sky Cinema Animation</channel>
+    <channel update="i" site="sky.at" site_id="873##sky-cinema_animation_tvguide" xmltv_id="Sky Cinema Animation HD">Sky Cinema Animation HD</channel>
+    <channel update="i" site="sky.at" site_id="790##cinema-best-of_tvguide" xmltv_id="Sky Cinema Best Of">Sky Cinema Best Of</channel>
+    <channel update="i" site="sky.at" site_id="792##cinema-best-of-hd_tvguide" xmltv_id="Sky Cinema Best Of HD">Sky Cinema Best Of HD</channel>
+    <channel update="i" site="sky.at" site_id="794##cinema-classics_tvguide" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
+    <channel update="i" site="sky.at" site_id="532##skyfamily" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel update="i" site="sky.at" site_id="533##skyfamilyhd" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel update="i" site="sky.at" site_id="793##cinema-fun_tvguide" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
+    <channel update="i" site="sky.at" site_id="787##cinema-premieren_tvguide" xmltv_id="Sky Cinema Premieren">Sky Cinema Premieren</channel>
+    <channel update="i" site="sky.at" site_id="789##cinema-premieren-24_tvguide" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24</channel>
+    <channel update="i" site="sky.at" site_id="791##cinema-premieren-24-hd_tvguide" xmltv_id="Sky Cinema Premieren +24 HD">Sky Cinema Premieren +24 HD</channel>
+    <channel update="i" site="sky.at" site_id="788##cinema-premieren-hd_tvguide" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
+    <channel update="i" site="sky.at" site_id="756##cinema_special_hd_tvguide" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
+    <channel update="i" site="sky.at" site_id="784##cinema-thriller-hd_tvguide" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel update="i" site="sky.at" site_id="854##comedy-hd_tvguide" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="sky.at" site_id="855##crime-hd_tvguide" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel update="i" site="sky.at" site_id="753##skykrimi_hd_tvguide" xmltv_id="Sky Krimi HD">Sky Krimi HD</channel>
+    <channel update="i" site="sky.at" site_id="535##sky1-hd_tvguide" xmltv_id="Sky One HD">Sky One HD</channel>
+    <channel update="i" site="sky.at" site_id="742##serien-shows-hd_tvguide" xmltv_id="Sky Serien &amp; Shows HD">Sky Serien &amp; Shows HD</channel>
+    <channel update="i" site="sky.at" site_id="149##skysport1_tvguide" xmltv_id="Sky Sport  1">Sky Sport  1</channel>
+    <channel update="i" site="sky.at" site_id="150##skysport2_tvguide" xmltv_id="Sky Sport  2">Sky Sport  2</channel>
+    <channel update="i" site="sky.at" site_id="151##skysport3_tvguide" xmltv_id="Sky Sport  3">Sky Sport  3</channel>
+    <channel update="i" site="sky.at" site_id="152##skysport4_tvguide" xmltv_id="Sky Sport  4">Sky Sport  4</channel>
+    <channel update="i" site="sky.at" site_id="153##skysport5_tvguide" xmltv_id="Sky Sport  5">Sky Sport  5</channel>
+    <channel update="i" site="sky.at" site_id="154##skysport6_tvguide" xmltv_id="Sky Sport  6">Sky Sport  6</channel>
+    <channel update="i" site="sky.at" site_id="155##skysport7_tvguide" xmltv_id="Sky Sport  7">Sky Sport  7</channel>
+    <channel update="i" site="sky.at" site_id="156##skysport8_tvguide" xmltv_id="Sky Sport  8">Sky Sport  8</channel>
+    <channel update="i" site="sky.at" site_id="157##skysport9_tvguide" xmltv_id="Sky Sport  9">Sky Sport  9</channel>
+    <channel update="i" site="sky.at" site_id="158##skysport10_tvguide" xmltv_id="Sky Sport  10">Sky Sport  10</channel>
+    <channel update="i" site="sky.at" site_id="159##skysport11_tvguide" xmltv_id="Sky Sport  11">Sky Sport  11</channel>
+    <channel update="i" site="sky.at" site_id="47##skysportaustria_tvguide" xmltv_id="Sky Sport Austria 1">Sky Sport Austria 1</channel>
+    <channel update="i" site="sky.at" site_id="492##skysportaustria-hd_tvguide" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
+    <channel update="i" site="sky.at" site_id="732##skysportaustria_2_tvguide" xmltv_id="Sky Sport Austria 2">Sky Sport Austria 2</channel>
+    <channel update="i" site="sky.at" site_id="729##skysportaustria_2-hd_tvguide" xmltv_id="Sky Sport Austria 2 HD">Sky Sport Austria 2 HD</channel>
+    <channel update="i" site="sky.at" site_id="733##skysportaustria_3_tvguide" xmltv_id="Sky Sport Austria 3">Sky Sport Austria 3</channel>
+    <channel update="i" site="sky.at" site_id="730##skysportaustria_3-hd_tvguide" xmltv_id="Sky Sport Austria 3 HD">Sky Sport Austria 3 HD</channel>
+    <channel update="i" site="sky.at" site_id="734##skysportaustria_4_tvguide" xmltv_id="Sky Sport Austria 4">Sky Sport Austria 4</channel>
+    <channel update="i" site="sky.at" site_id="731##skysportaustria_4-hd_tvguide" xmltv_id="Sky Sport Austria 4 HD">Sky Sport Austria 4 HD</channel>
+    <channel update="i" site="sky.at" site_id="531##sky-sport-buli-uhd_tvguide" xmltv_id="Sky Sport Bundesliga UHD">Sky Sport Bundesliga UHD</channel>
+    <channel update="i" site="sky.at" site_id="139##skybundesliga1_tvguide" xmltv_id="Sky Sport Bundesliga 1">Sky Sport Bundesliga 1</channel>
+    <channel update="i" site="sky.at" site_id="118##skybundesligahd1_tvguide" xmltv_id="Sky Sport Bundesliga 1 HD">Sky Sport Bundesliga 1 HD</channel>
+    <channel update="i" site="sky.at" site_id="140##skybundesliga2_tvguide" xmltv_id="Sky Sport Bundesliga 2">Sky Sport Bundesliga 2</channel>
+    <channel update="i" site="sky.at" site_id="119##skybundesligahd2_tvguide" xmltv_id="Sky Sport Bundesliga 2 HD">Sky Sport Bundesliga 2 HD</channel>
+    <channel update="i" site="sky.at" site_id="141##skybundesliga3_tvguide" xmltv_id="Sky Sport Bundesliga 3">Sky Sport Bundesliga 3</channel>
+    <channel update="i" site="sky.at" site_id="120##skybundesligahd3_tvguide" xmltv_id="Sky Sport Bundesliga 3 HD">Sky Sport Bundesliga 3 HD</channel>
+    <channel update="i" site="sky.at" site_id="142##skybundesliga4_tvguide" xmltv_id="Sky Sport Bundesliga 4">Sky Sport Bundesliga 4</channel>
+    <channel update="i" site="sky.at" site_id="121##skybundesligahd4_tvguide" xmltv_id="Sky Sport Bundesliga 4 HD">Sky Sport Bundesliga 4 HD</channel>
+    <channel update="i" site="sky.at" site_id="143##skybundesliga5_tvguide" xmltv_id="Sky Sport Bundesliga 5">Sky Sport Bundesliga 5</channel>
+    <channel update="i" site="sky.at" site_id="122##skybundesligahd5_tvguide" xmltv_id="Sky Sport Bundesliga 5 HD">Sky Sport Bundesliga 5 HD</channel>
+    <channel update="i" site="sky.at" site_id="144##skybundesliga6_tvguide" xmltv_id="Sky Sport Bundesliga 6">Sky Sport Bundesliga 6</channel>
+    <channel update="i" site="sky.at" site_id="123##skybundesligahd6_tvguide" xmltv_id="Sky Sport Bundesliga 6 HD">Sky Sport Bundesliga 6 HD</channel>
+    <channel update="i" site="sky.at" site_id="145##skybundesliga7_tvguide" xmltv_id="Sky Sport Bundesliga 7">Sky Sport Bundesliga 7</channel>
+    <channel update="i" site="sky.at" site_id="124##skybundesligahd7_tvguide" xmltv_id="Sky Sport Bundesliga 7 HD">Sky Sport Bundesliga 7 HD</channel>
+    <channel update="i" site="sky.at" site_id="146##skybundesliga8_tvguide" xmltv_id="Sky Sport Bundesliga 8">Sky Sport Bundesliga 8</channel>
+    <channel update="i" site="sky.at" site_id="125##skybundesligahd8_tvguide" xmltv_id="Sky Sport Bundesliga 8 HD">Sky Sport Bundesliga 8 HD</channel>
+    <channel update="i" site="sky.at" site_id="147##skybundesliga9_tvguide" xmltv_id="Sky Sport Bundesliga 9">Sky Sport Bundesliga 9</channel>
+    <channel update="i" site="sky.at" site_id="126##skybundesligahd9_tvguide" xmltv_id="Sky Sport Bundesliga 9 HD">Sky Sport Bundesliga 9 HD</channel>
+    <channel update="i" site="sky.at" site_id="148##skybundesliga10_tvguide" xmltv_id="Sky Sport Bundesliga 10">Sky Sport Bundesliga 10</channel>
+    <channel update="i" site="sky.at" site_id="127##skybundesligahd10_tvguide" xmltv_id="Sky Sport Bundesliga 10 HD">Sky Sport Bundesliga 10 HD</channel>
+    <channel update="i" site="sky.at" site_id="853##sport-f1-hd_tvguide" xmltv_id="Sky Sport F1 HD">Sky Sport F1 HD</channel>
+    <channel update="i" site="sky.at" site_id="21##skysportnews_tvguide" xmltv_id="Sky Sport News">Sky Sport News</channel>
+    <channel update="i" site="sky.at" site_id="17##skysportnewshd_tvguide" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
+    <channel update="i" site="sky.at" site_id="526##sky-sport-uhd_tvguide" xmltv_id="Sky Sport UHD">Sky Sport UHD</channel>
+    <channel update="i" site="sky.at" site_id="128##skysporthd1_tvguide" xmltv_id="Sky Sport 1 HD">Sky Sport 1 HD</channel>
+    <channel update="i" site="sky.at" site_id="129##skysporthd2_tvguide" xmltv_id="Sky Sport 2 HD">Sky Sport 2 HD</channel>
+    <channel update="i" site="sky.at" site_id="130##skysporthd3_tvguide" xmltv_id="Sky Sport 3 HD">Sky Sport 3 HD</channel>
+    <channel update="i" site="sky.at" site_id="131##skysporthd4_tvguide" xmltv_id="Sky Sport 4 HD">Sky Sport 4 HD</channel>
+    <channel update="i" site="sky.at" site_id="132##skysporthd5_tvguide" xmltv_id="Sky Sport 5 HD">Sky Sport 5 HD</channel>
+    <channel update="i" site="sky.at" site_id="133##skysporthd6_tvguide" xmltv_id="Sky Sport 6 HD">Sky Sport 6 HD</channel>
+    <channel update="i" site="sky.at" site_id="134##skysporthd7_tvguide" xmltv_id="Sky Sport 7 HD">Sky Sport 7 HD</channel>
+    <channel update="i" site="sky.at" site_id="135##skysporthd8_tvguide" xmltv_id="Sky Sport 8 HD">Sky Sport 8 HD</channel>
+    <channel update="i" site="sky.at" site_id="136##skysporthd9_tvguide" xmltv_id="Sky Sport 9 HD">Sky Sport 9 HD</channel>
+    <channel update="i" site="sky.at" site_id="137##skysporthd10_tvguide" xmltv_id="Sky Sport 10 HD">Sky Sport 10 HD</channel>
+    <channel update="i" site="sky.at" site_id="138##skysporthd11_tvguide" xmltv_id="Sky Sport 11 HD">Sky Sport 11 HD</channel>
+    <channel update="i" site="sky.at" site_id="567##sky-sport12-hd_tvguide" xmltv_id="Sky Sport 12 HD">Sky Sport 12 HD</channel>
+    <channel update="i" site="sky.at" site_id="568##sky-sport13-hd_tvguide" xmltv_id="Sky Sport 13 HD">Sky Sport 13 HD</channel>
+    <channel update="i" site="sky.at" site_id="569##sky-sport14-hd_tvguide" xmltv_id="Sky Sport 14 HD">Sky Sport 14 HD</channel>
+    <channel update="i" site="sky.at" site_id="84##spiegelgeschichte_b" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel update="i" site="sky.at" site_id="388##spiegelgeschichtehd_b" xmltv_id="Spiegel Geschichte HD">Spiegel Geschichte HD</channel>
+    <channel update="i" site="sky.at" site_id="658##spiegel-wissen" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel update="i" site="sky.at" site_id="114##sportdigital_b" xmltv_id="SPORTDIGITAL FUSSBALL HD">SPORTDIGITAL FUSSBALL HD</channel>
+    <channel update="i" site="sky.at" site_id="115##syfyhd_b" xmltv_id="SYFY HD">SYFY HD</channel>
+    <channel update="i" site="sky.at" site_id="674##tntcomedy_tvguide" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="sky.at" site_id="522##tntcomedy-hd_b" xmltv_id="TNT Comedy HD">TNT Comedy HD</channel>
+    <channel update="i" site="sky.at" site_id="762##tntfilm" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="sky.at" site_id="689##tntfilm_tvguide" xmltv_id="TNT Film HD">TNT Film HD</channel>
+    <channel update="i" site="sky.at" site_id="6##tntseriehd" xmltv_id="TNT Serie HD">TNT Serie HD</channel>
+    <channel update="i" site="sky.at" site_id="172##universalchannelhd_b" xmltv_id="Universal TV HD">Universal TV HD</channel>
+  </channels>
+</site>

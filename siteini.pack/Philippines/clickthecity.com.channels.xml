@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="clickthecity.com">
+  <channels>
+    <channel update="i" site="clickthecity.com" site_id="ptv" xmltv_id="PTV">PTV</channel>
+    <channel update="i" site="clickthecity.com" site_id="tv5" xmltv_id="TV 5">TV 5</channel>
+    <channel update="i" site="clickthecity.com" site_id="gma" xmltv_id="GMA 7">GMA 7</channel>
+    <channel update="i" site="clickthecity.com" site_id="gma-news-tv" xmltv_id="GMA News TV">GMA News TV</channel>
+    <channel update="i" site="clickthecity.com" site_id="ibc-tv-13" xmltv_id="IBC 13">IBC 13</channel>
+    <channel update="i" site="clickthecity.com" site_id="etc" xmltv_id="ETC">ETC</channel>
+    <channel update="i" site="clickthecity.com" site_id="a2z-channel-11" xmltv_id="A2Z Channel 11">A2Z Channel 11</channel>
+    <channel update="i" site="clickthecity.com" site_id="anc" xmltv_id="ANC">ANC</channel>
+    <channel update="i" site="clickthecity.com" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="clickthecity.com" site_id="animax" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="clickthecity.com" site_id="blue-ant-extreme" xmltv_id="Blue Ant Extreme">Blue Ant Extreme</channel>
+    <channel update="i" site="clickthecity.com" site_id="cnn-philippines" xmltv_id="CNN Philippines">CNN Philippines</channel>
+    <channel update="i" site="clickthecity.com" site_id="celestial-movies-pinoy" xmltv_id="Celestial Movies Pinoy">Celestial Movies Pinoy</channel>
+    <channel update="i" site="clickthecity.com" site_id="cinema-one" xmltv_id="Cinema One">Cinema One</channel>
+    <channel update="i" site="clickthecity.com" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="clickthecity.com" site_id="crime-investigation" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="clickthecity.com" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="clickthecity.com" site_id="fox" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="clickthecity.com" site_id="fox-life" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="clickthecity.com" site_id="fox-movies" xmltv_id="Fox Movies">Fox Movies</channel>
+    <channel update="i" site="clickthecity.com" site_id="fox-crime" xmltv_id="FoxCrime">FoxCrime</channel>
+    <channel update="i" site="clickthecity.com" site_id="gem" xmltv_id="GEM TV">GEM TV</channel>
+    <channel update="i" site="clickthecity.com" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="clickthecity.com" site_id="history" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="jeepney-tv" xmltv_id="Jeepney TV">Jeepney TV</channel>
+    <channel update="i" site="clickthecity.com" site_id="kapamily-channel" xmltv_id="Kapamilya Channel">Kapamilya Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="myx" xmltv_id="MYX">MYX</channel>
+    <channel update="i" site="clickthecity.com" site_id="metro-channel" xmltv_id="Metro Channel">Metro Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="clickthecity.com" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="clickthecity.com" site_id="pbo" xmltv_id="PBO">PBO</channel>
+    <channel update="i" site="clickthecity.com" site_id="tagalized-movie-channel" xmltv_id="Tagalized Movie Channel">Tagalized Movie Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="telenovela-channel" xmltv_id="Telenovela Channel">Telenovela Channel</channel>
+    <channel update="i" site="clickthecity.com" site_id="viva-tv" xmltv_id="Viva Channel">Viva Channel</channel>
+  </channels>
+</site>

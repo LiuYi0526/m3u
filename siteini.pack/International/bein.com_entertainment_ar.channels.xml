@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="bein.com">
+  <channels>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="MOVIES1_PREMIERE_DIGITAL_Mono" xmltv_id="MOVIES1_PREMIERE_DIGITAL_Mono">MOVIES1_PREMIERE_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="MOVIES2_ACTION_DIGITAL_Mono" xmltv_id="MOVIES2_ACTION_DIGITAL_Mono">MOVIES2_ACTION_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="MOVIES3_DRAMA_DIGITAL_Mono" xmltv_id="MOVIES3_DRAMA_DIGITAL_Mono">MOVIES3_DRAMA_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="MOVIES4_FAMILY_DIGITAL_Mono" xmltv_id="MOVIES4_FAMILY_DIGITAL_Mono">MOVIES4_FAMILY_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="BoxOffice1_DIGITAL_Mono" xmltv_id="BoxOffice1_DIGITAL_Mono">BoxOffice1_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="BoxOffice2_DIGITAL_Mono" xmltv_id="BoxOffice2_DIGITAL_Mono">BoxOffice2_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="SERIES1_DIGITAL_Mono" xmltv_id="SERIES1_DIGITAL_Mono">SERIES1_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="SERIES2_DIGITAL_Mono" xmltv_id="SERIES2_DIGITAL_Mono">SERIES2_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="DRAMA_DIGITAL_Mono" xmltv_id="DRAMA_DIGITAL_Mono">DRAMA_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="GOURMET_DIGITAL_Mono" xmltv_id="GOURMET_DIGITAL_Mono">GOURMET_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="beJUNIOR" xmltv_id="beJUNIOR">beJUNIOR</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Jeem-HD-1-01" xmltv_id="Jeem-HD-1-01">Jeem-HD-1-01</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Bara3em-1" xmltv_id="Bara3em-1">Bara3em-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Cartoon-Network-HD-1" xmltv_id="Cartoon-Network-HD-1">Cartoon-Network-HD-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Cartoon-Network-Hindi-1" xmltv_id="Cartoon-Network-Hindi-1">Cartoon-Network-Hindi-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Cartoon-Network-Arabic-1" xmltv_id="Cartoon-Network-Arabic-1">Cartoon-Network-Arabic-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Baby-TV-1" xmltv_id="Baby-TV-1">Baby-TV-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="CBeebies-1" xmltv_id="CBeebies-1">CBeebies-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="DW_B-1" xmltv_id="DW_B-1">DW_B-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="JimJam" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Fox-Family-Movies-1" xmltv_id="Fox-Family-Movies-1">Fox-Family-Movies-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Fox-Action-Movies-1" xmltv_id="Fox-Action-Movies-1">Fox-Action-Movies-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="StarWorldHD" xmltv_id="StarWorldHD">StarWorldHD</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="TCM-on-White-1" xmltv_id="TCM-on-White-1">TCM-on-White-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="AMC-1" xmltv_id="AMC-1">AMC-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Star-Movies-HD" xmltv_id="Star-Movies-HD">Star-Movies-HD</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="SUNDANCE-TV-1" xmltv_id="SUNDANCE-TV-1">SUNDANCE-TV-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="FOX-HD-1" xmltv_id="FOX-HD-1">FOX-HD-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Outdoor-Channel-1" xmltv_id="Outdoor-Channel-1">Outdoor-Channel-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="VHD" xmltv_id="VHD">VHD</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Travel-Channel-HD-1" xmltv_id="Travel-Channel-HD-1">Travel-Channel-HD-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="extreme-sports-channel-1" xmltv_id="extreme-sports-channel-1">extreme-sports-channel-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="FATAFEAT-1" xmltv_id="FATAFEAT-1">FATAFEAT-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="food-network-logo-2018-1" xmltv_id="food-network-logo-2018-1">food-network-logo-2018-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="CBS-Reality-1" xmltv_id="CBS-Reality-1">CBS-Reality-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="FX-HD-Black-1" xmltv_id="FX-HD-Black-1">FX-HD-Black-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="UPDATEz-NGW_Full_Logo_20182" xmltv_id="UPDATEz-NGW_Full_Logo_20182">UPDATEz-NGW_Full_Logo_20182</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Nat_geo_people" xmltv_id="Nat_geo_people">Nat_geo_people</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Nat_geo_hd" xmltv_id="Nat_geo_hd">Nat_geo_hd</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="BBC_earth" xmltv_id="BBC_earth">BBC_earth</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Aljazeera-Documentary-1" xmltv_id="Aljazeera-Documentary-1">Aljazeera-Documentary-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Trt_worls_blk" xmltv_id="Trt_worls_blk">Trt_worls_blk</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Euro-News" xmltv_id="Euro-News">Euro-News</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="CNN-HD-2" xmltv_id="CNN-HD-2">CNN-HD-2</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Bloomberg-1" xmltv_id="Bloomberg-1">Bloomberg-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="HLN-1" xmltv_id="HLN-1">HLN-1</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Mtv-80s" xmltv_id="Mtv-80s">Mtv-80s</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Mtv-90s" xmltv_id="Mtv-90s">Mtv-90s</channel>
+    <channel update="i" site="bein.com_entertainment_ar" site_id="Mtv-club" xmltv_id="Mtv-club">Mtv-club</channel>
+  </channels>
+</site>

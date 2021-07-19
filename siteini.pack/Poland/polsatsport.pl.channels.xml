@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="polsatsport.pl">
+  <channels>
+    <channel update="i" site="polsatsport.pl" site_id="320##polsatsport.svg" xmltv_id="POLSAT Sport">POLSAT Sport</channel>
+    <channel update="i" site="polsatsport.pl" site_id="324##polsatsportnews.svg" xmltv_id="POLSAT Sport News">POLSAT Sport News</channel>
+    <channel update="i" site="polsatsport.pl" site_id="321##polsatsportextra.svg" xmltv_id="POLSAT Sport Extra">POLSAT Sport Extra</channel>
+    <channel update="i" site="polsatsport.pl" site_id="396##polsatsportfighthd.svg" xmltv_id="POLSAT Sport Fight HD">POLSAT Sport Fight HD</channel>
+    <channel update="i" site="polsatsport.pl" site_id="599##polsatsportpremium1.svg" xmltv_id="POLSAT Sport Premium 1">POLSAT Sport Premium 1</channel>
+    <channel update="i" site="polsatsport.pl" site_id="600##polsatsportpremium2.svg" xmltv_id="POLSAT Sport Premium 2">POLSAT Sport Premium 2</channel>
+    <channel update="i" site="polsatsport.pl" site_id="601##polsatsportpremium3.svg" xmltv_id="POLSAT Sport Premium 3">POLSAT Sport Premium 3</channel>
+    <channel update="i" site="polsatsport.pl" site_id="621##polsatsportpremium4.svg" xmltv_id="POLSAT Sport Premium 4">POLSAT Sport Premium 4</channel>
+    <channel update="i" site="polsatsport.pl" site_id="622##polsatsportpremium5.svg" xmltv_id="POLSAT Sport Premium 5">POLSAT Sport Premium 5</channel>
+    <channel update="i" site="polsatsport.pl" site_id="623##polsatsportpremium6.svg" xmltv_id="POLSAT Sport Premium 6">POLSAT Sport Premium 6</channel>
+    <channel update="i" site="polsatsport.pl" site_id="536##tennispremium1.svg" xmltv_id="Tenis Premium 1 HD">Tenis Premium 1 HD</channel>
+    <channel update="i" site="polsatsport.pl" site_id="537##tennispremium2.svg" xmltv_id="Tenis Premium 2 HD">Tenis Premium 2 HD</channel>
+    <channel update="i" site="polsatsport.pl" site_id="335##ipla.svg" xmltv_id="ipla">ipla</channel>
+    <channel update="i" site="polsatsport.pl" site_id="856##polsatgames.svg" xmltv_id="Polsat Games">Polsat Games</channel>
+    <channel update="i" site="polsatsport.pl" site_id="596##elevensports1hd.svg" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1 HD</channel>
+    <channel update="i" site="polsatsport.pl" site_id="597##elevensports2hd.svg" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2 HD</channel>
+    <channel update="i" site="polsatsport.pl" site_id="598##elevensports3hd.svg" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3 HD</channel>
+    <channel update="i" site="polsatsport.pl" site_id="827##elevensports4hd.svg" xmltv_id="Eleven Sports 4 HD">Eleven Sports 4 HD</channel>
+    <channel update="i" site="polsatsport.pl" site_id="315##eurosport1.svg" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="polsatsport.pl" site_id="316##eurosport2.svg" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="polsatsport.pl" site_id="318##fightbox.svg" xmltv_id="FightBox">FightBox</channel>
+    <channel update="i" site="polsatsport.pl" site_id="317##extremesportschannel.svg" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="polsatsport.pl" site_id="325##tvpsport.svg" xmltv_id="TVP Sport">TVP Sport</channel>
+  </channels>
+</site>

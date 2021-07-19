@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="play.telefootlachaine.fr">
+  <channels>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="1" xmltv_id="TELEFOOT">TELEFOOT</channel>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="2" xmltv_id="TELEFOOT STADIUM 1">TELEFOOT STADIUM 1</channel>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="3" xmltv_id="TELEFOOT STADIUM 2">TELEFOOT STADIUM 2</channel>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="4" xmltv_id="TELEFOOT STADIUM 3">TELEFOOT STADIUM 3</channel>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="5" xmltv_id="TELEFOOT STADIUM 4">TELEFOOT STADIUM 4</channel>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="6" xmltv_id="TELEFOOT STADIUM 5">TELEFOOT STADIUM 5</channel>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="7" xmltv_id="TELEFOOT STADIUM 6">TELEFOOT STADIUM 6</channel>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="8" xmltv_id="TELEFOOT STADIUM 7">TELEFOOT STADIUM 7</channel>
+    <channel update="i" site="play.telefootlachaine.fr" site_id="9" xmltv_id="TELEFOOT STADIUM 8">TELEFOOT STADIUM 8</channel>
+  </channels>
+</site>

@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="vivacom.bg">
+  <channels>
+    <channel update="i" site="vivacom.bg" site_id="БНТ 1 HD" xmltv_id="БНТ 1 HD">БНТ 1 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV HD" xmltv_id="bTV HD">bTV HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nova TV" xmltv_id="Nova TV">Nova TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nova HD" xmltv_id="Nova HD">Nova HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="VIVACOM Arena HD" xmltv_id="VIVACOM Arena HD">VIVACOM Arena HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nova News HD" xmltv_id="Nova News HD">Nova News HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV Comedy HD" xmltv_id="bTV Comedy HD">bTV Comedy HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV Cinema HD" xmltv_id="bTV Cinema HD">bTV Cinema HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV Action HD" xmltv_id="bTV Action HD">bTV Action HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Diema" xmltv_id="Diema">Diema</channel>
+    <channel update="i" site="vivacom.bg" site_id="Кино Нова" xmltv_id="Кино Нова">Кино Нова</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fox HD" xmltv_id="Fox HD">Fox HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="BG On Air" xmltv_id="BG On Air">BG On Air</channel>
+    <channel update="i" site="vivacom.bg" site_id="WNESS TV" xmltv_id="WNESS TV">WNESS TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="СКАТ" xmltv_id="СКАТ">СКАТ</channel>
+    <channel update="i" site="vivacom.bg" site_id="ТВ Европа" xmltv_id="ТВ Европа">ТВ Европа</channel>
+    <channel update="i" site="vivacom.bg" site_id="БНТ 2" xmltv_id="БНТ 2">БНТ 2</channel>
+    <channel update="i" site="vivacom.bg" site_id="БНТ 4" xmltv_id="БНТ 4">БНТ 4</channel>
+    <channel update="i" site="vivacom.bg" site_id="Evrokom NCTV" xmltv_id="Evrokom NCTV">Evrokom NCTV</channel>
+    <channel update="i" site="vivacom.bg" site_id="България 24" xmltv_id="България 24">България 24</channel>
+    <channel update="i" site="vivacom.bg" site_id="Eurosport HD" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Eurosport 2 HD" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="MAX Sport 1 HD" xmltv_id="MAX Sport 1 HD">MAX Sport 1 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="MAX Sport 2 HD" xmltv_id="MAX Sport 2 HD">MAX Sport 2 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="MAX Sport 3 HD" xmltv_id="MAX Sport 3 HD">MAX Sport 3 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="RING HD" xmltv_id="RING HD">RING HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nova Sport HD" xmltv_id="Nova Sport HD">Nova Sport HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Extreme Sports/Free X-TV" xmltv_id="Extreme Sports/Free X-TV">Extreme Sports/Free X-TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="БНТ 3 HD" xmltv_id="БНТ 3 HD">БНТ 3 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fight Box" xmltv_id="Fight Box">Fight Box</channel>
+    <channel update="i" site="vivacom.bg" site_id="Diema Sport HD" xmltv_id="Diema Sport HD">Diema Sport HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Diema Sport 2 HD" xmltv_id="Diema Sport 2 HD">Diema Sport 2 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Trace Sport Stars" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
+    <channel update="i" site="vivacom.bg" site_id="Auto Motor Sport" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fast and Fun" xmltv_id="Fast and Fun">Fast and Fun</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fuel TV" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Motorvision" xmltv_id="Motorvision">Motorvision</channel>
+    <channel update="i" site="vivacom.bg" site_id="Gametoon HD" xmltv_id="Gametoon HD">Gametoon HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Ribalka i ohota" xmltv_id="Ribalka i ohota">Ribalka i ohota</channel>
+    <channel update="i" site="vivacom.bg" site_id="Chasse&amp;Peche" xmltv_id="Chasse&amp;Peche">Chasse&amp;Peche</channel>
+    <channel update="i" site="vivacom.bg" site_id="Wild TV" xmltv_id="Wild TV">Wild TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fishing &amp; Hunting HD" xmltv_id="Fishing &amp; Hunting HD">Fishing &amp; Hunting HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Outdoor Channel HD" xmltv_id="Outdoor Channel HD">Outdoor Channel HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV Lady HD" xmltv_id="bTV Lady HD">bTV Lady HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Diema Family" xmltv_id="Diema Family">Diema Family</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fox Life" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fox Crime" xmltv_id="Fox Crime">Fox Crime</channel>
+    <channel update="i" site="vivacom.bg" site_id="24 Kitchen" xmltv_id="24 Kitchen">24 Kitchen</channel>
+    <channel update="i" site="vivacom.bg" site_id="Food Network HD" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="TLC" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="vivacom.bg" site_id="HBO HD" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="HBO 2 HD" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="HBO 3 HD" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Cinemax HD" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Cinemax 2 HD" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="TV 1000" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="vivacom.bg" site_id="FilmBox Stars" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel update="i" site="vivacom.bg" site_id="Filmbox Basic SD" xmltv_id="Filmbox Basic SD">Filmbox Basic SD</channel>
+    <channel update="i" site="vivacom.bg" site_id="FilmBox Extra HD" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="FilmBox ArtHouse HD" xmltv_id="FilmBox ArtHouse HD">FilmBox ArtHouse HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="AMC" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="vivacom.bg" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="vivacom.bg" site_id="AXN Black" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="vivacom.bg" site_id="AXN White" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="vivacom.bg" site_id="Moviestart HD" xmltv_id="Moviestart HD">Moviestart HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Kanal 4" xmltv_id="Kanal 4">Kanal 4</channel>
+    <channel update="i" site="vivacom.bg" site_id="Eurochannel" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="vivacom.bg" site_id="Disney" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="vivacom.bg" site_id="Cartoon Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="vivacom.bg" site_id="E Kids" xmltv_id="E Kids">E Kids</channel>
+    <channel update="i" site="vivacom.bg" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="vivacom.bg" site_id="Da Vinci Learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="vivacom.bg" site_id="Disney Junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="vivacom.bg" site_id="Baby TV" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Jim Jam" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nick Junior" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="vivacom.bg" site_id="Duck TV" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Detskii Mir" xmltv_id="Detskii Mir">Detskii Mir</channel>
+    <channel update="i" site="vivacom.bg" site_id="English Club TV" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Bloomberg BG" xmltv_id="Bloomberg BG">Bloomberg BG</channel>
+    <channel update="i" site="vivacom.bg" site_id="ВТК" xmltv_id="ВТК">ВТК</channel>
+    <channel update="i" site="vivacom.bg" site_id="БСТВ" xmltv_id="БСТВ">БСТВ</channel>
+    <channel update="i" site="vivacom.bg" site_id="Алфа ТВ" xmltv_id="Алфа ТВ">Алфа ТВ</channel>
+    <channel update="i" site="vivacom.bg" site_id="Агро ТВ" xmltv_id="Агро ТВ">Агро ТВ</channel>
+    <channel update="i" site="vivacom.bg" site_id="TV1" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="vivacom.bg" site_id="БХТВ" xmltv_id="БХТВ">БХТВ</channel>
+    <channel update="i" site="vivacom.bg" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="vivacom.bg" site_id="Euronews HD" xmltv_id="Euronews HD">Euronews HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="CNBC" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="vivacom.bg" site_id="Bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="vivacom.bg" site_id="Russia Today HD" xmltv_id="Russia Today HD">Russia Today HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="RT Documentary" xmltv_id="RT Documentary">RT Documentary</channel>
+    <channel update="i" site="vivacom.bg" site_id="Russia Today Arabic" xmltv_id="Russia Today Arabic">Russia Today Arabic</channel>
+    <channel update="i" site="vivacom.bg" site_id="RTVi" xmltv_id="RTVi">RTVi</channel>
+    <channel update="i" site="vivacom.bg" site_id="Наше Кино" xmltv_id="Наше Кино">Наше Кино</channel>
+    <channel update="i" site="vivacom.bg" site_id="Planeta RTR" xmltv_id="Planeta RTR">Planeta RTR</channel>
+    <channel update="i" site="vivacom.bg" site_id="Russia24" xmltv_id="Russia24">Russia24</channel>
+    <channel update="i" site="vivacom.bg" site_id="France 24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="vivacom.bg" site_id="TV 5 Monde" xmltv_id="TV 5 Monde">TV 5 Monde</channel>
+    <channel update="i" site="vivacom.bg" site_id="VOX" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="vivacom.bg" site_id="RTL" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="vivacom.bg" site_id="Mediaset" xmltv_id="Mediaset">Mediaset</channel>
+    <channel update="i" site="vivacom.bg" site_id="TG Com 24" xmltv_id="TG Com 24">TG Com 24</channel>
+    <channel update="i" site="vivacom.bg" site_id="TRT World" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="vivacom.bg" site_id="Show Turk" xmltv_id="Show Turk">Show Turk</channel>
+    <channel update="i" site="vivacom.bg" site_id="NHK World HD" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Antena 3" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="vivacom.bg" site_id="Public Television of Armenia" xmltv_id="Public Television of Armenia">Public Television of Armenia</channel>
+    <channel update="i" site="vivacom.bg" site_id="TVR International" xmltv_id="TVR International">TVR International</channel>
+    <channel update="i" site="vivacom.bg" site_id="Планета ТВ HD" xmltv_id="Планета ТВ HD">Планета ТВ HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Планета ТВ" xmltv_id="Планета ТВ">Планета ТВ</channel>
+    <channel update="i" site="vivacom.bg" site_id="FEN HD" xmltv_id="FEN HD">FEN HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Балканика" xmltv_id="Балканика">Балканика</channel>
+    <channel update="i" site="vivacom.bg" site_id="DM Sat" xmltv_id="DM Sat">DM Sat</channel>
+    <channel update="i" site="vivacom.bg" site_id="Hit Mix" xmltv_id="Hit Mix">Hit Mix</channel>
+    <channel update="i" site="vivacom.bg" site_id="Планета Фолк" xmltv_id="Планета Фолк">Планета Фолк</channel>
+    <channel update="i" site="vivacom.bg" site_id="Фолклор ТВ" xmltv_id="Фолклор ТВ">Фолклор ТВ</channel>
+    <channel update="i" site="vivacom.bg" site_id="Родина" xmltv_id="Родина">Родина</channel>
+    <channel update="i" site="vivacom.bg" site_id="Tiankov Folk" xmltv_id="Tiankov Folk">Tiankov Folk</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fen Folk TV" xmltv_id="Fen Folk TV">Fen Folk TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="City TV" xmltv_id="City TV">City TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="The Voice" xmltv_id="The Voice">The Voice</channel>
+    <channel update="i" site="vivacom.bg" site_id="Magic TV" xmltv_id="Magic TV">Magic TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Box TV" xmltv_id="Box TV">Box TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="BG Music Channel" xmltv_id="BG Music Channel">BG Music Channel</channel>
+    <channel update="i" site="vivacom.bg" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="vivacom.bg" site_id="MTV 80s" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="vivacom.bg" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="vivacom.bg" site_id="MTV Hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="vivacom.bg" site_id="MTV 90s" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="vivacom.bg" site_id="club MTV" xmltv_id="club MTV">club MTV</channel>
+    <channel update="i" site="vivacom.bg" site_id="MTV HD" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Jukebox" xmltv_id="Jukebox">Jukebox</channel>
+    <channel update="i" site="vivacom.bg" site_id="Mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="vivacom.bg" site_id="C Music" xmltv_id="C Music">C Music</channel>
+    <channel update="i" site="vivacom.bg" site_id="Deluxe Music HD" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Deluxe Lounge HD" xmltv_id="Deluxe Lounge HD">Deluxe Lounge HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="360 TuneBox HD" xmltv_id="360 TuneBox HD">360 TuneBox HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="iConcerts" xmltv_id="iConcerts">iConcerts</channel>
+    <channel update="i" site="vivacom.bg" site_id="Discovery Channel HD" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="National Geographic HD" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nat Geo Wild HD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Animal Planet HD" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Viasat Explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="vivacom.bg" site_id="Viasat History" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="vivacom.bg" site_id="Viasat Nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="vivacom.bg" site_id="Discovery Science HD" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Investigation Discovery HD" xmltv_id="Investigation Discovery HD">Investigation Discovery HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="History HD" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="CI Network" xmltv_id="CI Network">CI Network</channel>
+    <channel update="i" site="vivacom.bg" site_id="CBS Reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="vivacom.bg" site_id="DocuBox HD" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fashion TV HD" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="БЪЛГАРЕ" xmltv_id="БЪЛГАРЕ">БЪЛГАРЕ</channel>
+    <channel update="i" site="vivacom.bg" site_id="Luxe TV HD" xmltv_id="Luxe TV HD">Luxe TV HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="FashionBox HD" xmltv_id="FashionBox HD">FashionBox HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="MyZen TV" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Travel Channel HD" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Travel TV" xmltv_id="Travel TV">Travel TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="TVT Телевизия туризъм" xmltv_id="TVT Телевизия туризъм">TVT Телевизия туризъм</channel>
+    <channel update="i" site="vivacom.bg" site_id="The World" xmltv_id="The World">The World</channel>
+    <channel update="i" site="vivacom.bg" site_id="БНТ 1" xmltv_id="БНТ 1">БНТ 1</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV" xmltv_id="bTV">bTV</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV Action" xmltv_id="bTV Action">bTV Action</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV Comedy" xmltv_id="bTV Comedy">bTV Comedy</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV Cinema" xmltv_id="bTV Cinema">bTV Cinema</channel>
+    <channel update="i" site="vivacom.bg" site_id="Eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="vivacom.bg" site_id="Eurosport 2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="vivacom.bg" site_id="RING" xmltv_id="RING">RING</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nova Sport" xmltv_id="Nova Sport">Nova Sport</channel>
+    <channel update="i" site="vivacom.bg" site_id="bTV Lady" xmltv_id="bTV Lady">bTV Lady</channel>
+    <channel update="i" site="vivacom.bg" site_id="FOX" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="vivacom.bg" site_id="Movie Star" xmltv_id="Movie Star">Movie Star</channel>
+    <channel update="i" site="vivacom.bg" site_id="HBO" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="vivacom.bg" site_id="HBO 2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="vivacom.bg" site_id="HBO 3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="vivacom.bg" site_id="Cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="vivacom.bg" site_id="Cinemax 2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="vivacom.bg" site_id="FilmBox Extra" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel update="i" site="vivacom.bg" site_id="FilmBox Arthouse" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
+    <channel update="i" site="vivacom.bg" site_id="Food Network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="vivacom.bg" site_id="English Club TV HD" xmltv_id="English Club TV HD">English Club TV HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fen TV" xmltv_id="Fen TV">Fen TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="360 Tunebox" xmltv_id="360 Tunebox">360 Tunebox</channel>
+    <channel update="i" site="vivacom.bg" site_id="Discovery Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="vivacom.bg" site_id="Animal Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="vivacom.bg" site_id="Investigation Discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="vivacom.bg" site_id="History" xmltv_id="History">History</channel>
+    <channel update="i" site="vivacom.bg" site_id="Travel Channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="vivacom.bg" site_id="Fashion TV" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="WNESS HD" xmltv_id="WNESS HD">WNESS HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Пловдивска Православна Телевизия" xmltv_id="Пловдивска Православна Телевизия">Пловдивска Православна Телевизия</channel>
+    <channel update="i" site="vivacom.bg" site_id="Первий канал России" xmltv_id="Первий канал России">Первий канал России</channel>
+    <channel update="i" site="vivacom.bg" site_id="AMS HD" xmltv_id="AMS HD">AMS HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Deutsche Welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="vivacom.bg" site_id="NHК World HD" xmltv_id="NHК World HD">NHК World HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Epic Drama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="vivacom.bg" site_id="Dorcel HD" xmltv_id="Dorcel HD">Dorcel HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="REDLIGHT" xmltv_id="REDLIGHT">REDLIGHT</channel>
+    <channel update="i" site="vivacom.bg" site_id="Playboy HD" xmltv_id="Playboy HD">Playboy HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="EROXXX" xmltv_id="EROXXX">EROXXX</channel>
+    <channel update="i" site="vivacom.bg" site_id="Penthouse HD" xmltv_id="Penthouse HD">Penthouse HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="EroX HD" xmltv_id="EroX HD">EroX HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Hustler" xmltv_id="Hustler">Hustler</channel>
+    <channel update="i" site="vivacom.bg" site_id="XXL" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="vivacom.bg" site_id="Barely Legal" xmltv_id="Barely Legal">Barely Legal</channel>
+    <channel update="i" site="vivacom.bg" site_id="FOX Life HD" xmltv_id="FOX Life HD">FOX Life HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="FOX Crime HD" xmltv_id="FOX Crime HD">FOX Crime HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="24 Kitchen HD" xmltv_id="24 Kitchen HD">24 Kitchen HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="Kitchen TV" xmltv_id="Kitchen TV">Kitchen TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="vivacom.bg" site_id="7/8 TV" xmltv_id="7/8 TV">7/8 TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="TV 999 HD" xmltv_id="TV 999 HD">TV 999 HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="7/8 TV HD" xmltv_id="7/8 TV HD">7/8 TV HD</channel>
+    <channel update="i" site="vivacom.bg" site_id="THT" xmltv_id="THT">THT</channel>
+    <channel update="i" site="vivacom.bg" site_id="TV 3" xmltv_id="TV 3">TV 3</channel>
+    <channel update="i" site="vivacom.bg" site_id="TNT 4" xmltv_id="TNT 4">TNT 4</channel>
+    <channel update="i" site="vivacom.bg" site_id="Pyatnitsa TV" xmltv_id="Pyatnitsa TV">Pyatnitsa TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Russian Travel Guide Int." xmltv_id="Russian Travel Guide Int.">Russian Travel Guide Int.</channel>
+    <channel update="i" site="vivacom.bg" site_id="TV 1000 Русское Кино" xmltv_id="TV 1000 Русское Кино">TV 1000 Русское Кино</channel>
+    <channel update="i" site="vivacom.bg" site_id="TV Center Int." xmltv_id="TV Center Int.">TV Center Int.</channel>
+    <channel update="i" site="vivacom.bg" site_id="Current Time" xmltv_id="Current Time">Current Time</channel>
+    <channel update="i" site="vivacom.bg" site_id="TV 8" xmltv_id="TV 8">TV 8</channel>
+    <channel update="i" site="vivacom.bg" site_id="Kanal 7 Avrupa" xmltv_id="Kanal 7 Avrupa">Kanal 7 Avrupa</channel>
+    <channel update="i" site="vivacom.bg" site_id="Yaban TV" xmltv_id="Yaban TV">Yaban TV</channel>
+    <channel update="i" site="vivacom.bg" site_id="Haberturk" xmltv_id="Haberturk">Haberturk</channel>
+    <channel update="i" site="vivacom.bg" site_id="Bein Movies" xmltv_id="Bein Movies">Bein Movies</channel>
+  </channels>
+</site>

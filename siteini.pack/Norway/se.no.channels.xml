@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="se.no">
+  <channels>
+    <channel update="i" site="se.no" site_id="1000" xmltv_id="NRK 1">NRK 1</channel>
+    <channel update="i" site="se.no" site_id="1001" xmltv_id="NRK 2">NRK 2</channel>
+    <channel update="i" site="se.no" site_id="1005" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="se.no" site_id="1152" xmltv_id="TV2 Zebra">TV2 Zebra</channel>
+    <channel update="i" site="se.no" site_id="1041" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="se.no" site_id="1169" xmltv_id="Viasat 4">Viasat 4</channel>
+    <channel update="i" site="se.no" site_id="1008" xmltv_id="TVNorge">TVNorge</channel>
+    <channel update="i" site="se.no" site_id="1132" xmltv_id="SVT 1">SVT 1</channel>
+    <channel update="i" site="se.no" site_id="1134" xmltv_id="SVT 2">SVT 2</channel>
+    <channel update="i" site="se.no" site_id="1103" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="se.no" site_id="1176" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="se.no" site_id="1170" xmltv_id="Viasat Fotball">Viasat Fotball</channel>
+    <channel update="i" site="se.no" site_id="1088" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="se.no" site_id="1089" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="se.no" site_id="1073" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="se.no" site_id="1044" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="se.no" site_id="1105" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="se.no" site_id="1136" xmltv_id="TCM \u0026 Cartoon Network">TCM \u0026 Cartoon Network</channel>
+    <channel update="i" site="se.no" site_id="1067" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="se.no" site_id="1163" xmltv_id="VH-1">VH-1</channel>
+    <channel update="i" site="se.no" site_id="1156" xmltv_id="TV 4">TV 4</channel>
+    <channel update="i" site="se.no" site_id="1046" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="se.no" site_id="1050" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="se.no" site_id="1129" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="se.no" site_id="1051" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="se.no" site_id="1045" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="se.no" site_id="1069" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="se.no" site_id="1138" xmltv_id="Travel">Travel</channel>
+    <channel update="i" site="se.no" site_id="1082" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="se.no" site_id="1080" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="se.no" site_id="1085" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="se.no" site_id="1135" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="se.no" site_id="1110" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="se.no" site_id="1074" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="se.no" site_id="1153" xmltv_id="TV3 Danmark">TV3 Danmark</channel>
+    <channel update="i" site="se.no" site_id="1155" xmltv_id="TV3 Sverige">TV3 Sverige</channel>
+    <channel update="i" site="se.no" site_id="1168" xmltv_id="Viasat Nature \u0026 Crime">Viasat Nature \u0026 Crime</channel>
+    <channel update="i" site="se.no" site_id="1161" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="se.no" site_id="1042" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="se.no" site_id="1078" xmltv_id="DR1">DR1</channel>
+    <channel update="i" site="se.no" site_id="1083" xmltv_id="TV2 Danmark">TV2 Danmark</channel>
+    <channel update="i" site="se.no" site_id="1079" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="se.no" site_id="1154" xmltv_id="TV3+ Danmark">TV3+ Danmark</channel>
+    <channel update="i" site="se.no" site_id="1084" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="se.no" site_id="1124" xmltv_id="RTL 1">RTL 1</channel>
+    <channel update="i" site="se.no" site_id="1125" xmltv_id="SAT1">SAT1</channel>
+    <channel update="i" site="se.no" site_id="1081" xmltv_id="DSF">DSF</channel>
+    <channel update="i" site="se.no" site_id="1158" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="se.no" site_id="1091" xmltv_id="Extreme Sport">Extreme Sport</channel>
+    <channel update="i" site="se.no" site_id="1184" xmltv_id="Viasat TV6">Viasat TV6</channel>
+    <channel update="i" site="se.no" site_id="1123" xmltv_id="Reality">Reality</channel>
+    <channel update="i" site="se.no" site_id="1068" xmltv_id="Club">Club</channel>
+    <channel update="i" site="se.no" site_id="1055" xmltv_id="CMORE Emotion">CMORE Emotion</channel>
+    <channel update="i" site="se.no" site_id="1057" xmltv_id="CMORE First">CMORE First</channel>
+    <channel update="i" site="se.no" site_id="1059" xmltv_id="CMORE Series">CMORE Series</channel>
+    <channel update="i" site="se.no" site_id="1061" xmltv_id="CMORE Fotball">CMORE Fotball</channel>
+    <channel update="i" site="se.no" site_id="1140" xmltv_id="Viasat Film">Viasat Film</channel>
+    <channel update="i" site="se.no" site_id="1181" xmltv_id="Viasat Action">Viasat Action</channel>
+    <channel update="i" site="se.no" site_id="1141" xmltv_id="Viasat Classic">Viasat Classic</channel>
+    <channel update="i" site="se.no" site_id="1143" xmltv_id="Viasat Family">Viasat Family</channel>
+    <channel update="i" site="se.no" site_id="1144" xmltv_id="Viasat Nordic">Viasat Nordic</channel>
+    <channel update="i" site="se.no" site_id="1071" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="se.no" site_id="1165" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="se.no" site_id="1174" xmltv_id="Viasat Sport">Viasat Sport</channel>
+    <channel update="i" site="se.no" site_id="1173" xmltv_id="Viasat Motor">Viasat Motor</channel>
+    <channel update="i" site="se.no" site_id="1054" xmltv_id="CMORE Action">CMORE Action</channel>
+    <channel update="i" site="se.no" site_id="1146" xmltv_id="TV 2 Humor">TV 2 Humor</channel>
+    <channel update="i" site="se.no" site_id="1056" xmltv_id="CMORE First HD">CMORE First HD</channel>
+    <channel update="i" site="se.no" site_id="1112" xmltv_id="NRK 3">NRK 3</channel>
+    <channel update="i" site="se.no" site_id="1092" xmltv_id="FEM">FEM</channel>
+    <channel update="i" site="se.no" site_id="1094" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="se.no" site_id="1151" xmltv_id="TV2 Sport">TV2 Sport</channel>
+    <channel update="i" site="se.no" site_id="1113" xmltv_id="NRK Super">NRK Super</channel>
+    <channel update="i" site="se.no" site_id="1058" xmltv_id="CMORE Hits">CMORE Hits</channel>
+    <channel update="i" site="se.no" site_id="1064" xmltv_id="CMORE Sport HD">CMORE Sport HD</channel>
+    <channel update="i" site="se.no" site_id="1166" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel update="i" site="se.no" site_id="1043" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel update="i" site="se.no" site_id="1049" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="se.no" site_id="1048" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="se.no" site_id="1047" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="se.no" site_id="1062" xmltv_id="CMORE Tennis">CMORE Tennis</channel>
+    <channel update="i" site="se.no" site_id="1075" xmltv_id="Disney Playhouse">Disney Playhouse</channel>
+    <channel update="i" site="se.no" site_id="1147" xmltv_id="TV2 Nyhetskanalen">TV2 Nyhetskanalen</channel>
+    <channel update="i" site="se.no" site_id="1072" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="se.no" site_id="1077" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="se.no" site_id="1086" xmltv_id="E">E</channel>
+    <channel update="i" site="se.no" site_id="1090" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="se.no" site_id="1095" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="se.no" site_id="1106" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="se.no" site_id="1162" xmltv_id="TV Norge HD">TV Norge HD</channel>
+    <channel update="i" site="se.no" site_id="1167" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="se.no" site_id="1060" xmltv_id="SF-kanalen">SF-kanalen</channel>
+    <channel update="i" site="se.no" site_id="1142" xmltv_id="TV2 Sport Premium">TV2 Sport Premium</channel>
+    <channel update="i" site="se.no" site_id="1149" xmltv_id="TV2 Sport Premier 2">TV2 Sport Premier 2</channel>
+    <channel update="i" site="se.no" site_id="1150" xmltv_id="TV2 Sport Premier 3">TV2 Sport Premier 3</channel>
+    <channel update="i" site="se.no" site_id="1133" xmltv_id="SVT HD">SVT HD</channel>
+    <channel update="i" site="se.no" site_id="1063" xmltv_id="CMORE Live">CMORE Live</channel>
+    <channel update="i" site="se.no" site_id="1065" xmltv_id="CMORE Hockey">CMORE Hockey</channel>
+    <channel update="i" site="se.no" site_id="1101" xmltv_id="MAX">MAX</channel>
+    <channel update="i" site="se.no" site_id="1145" xmltv_id="TV 2 Livsstil">TV 2 Livsstil</channel>
+    <channel update="i" site="se.no" site_id="1172" xmltv_id="Viasat Hockey">Viasat Hockey</channel>
+    <channel update="i" site="se.no" site_id="1160" xmltv_id="TNT7">TNT7</channel>
+    <channel update="i" site="se.no" site_id="1093" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="se.no" site_id="1108" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="se.no" site_id="1201" xmltv_id="Eurosport Norge">Eurosport Norge</channel>
+  </channels>
+</site>

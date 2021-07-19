@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.1 -- Jan van Straaten" site="vodafone.es">
+  <channels>
+    <channel update="i" site="vodafone.es" site_id="464##a588d60d78624ffc938e0d26da69df95" xmltv_id="La 1 HD">La 1 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="616##3c11a578cf774b03b483e01714064c31" xmltv_id="La 2 HD">La 2 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="463##5e063f0915974b0d9c876a15dcb9d953" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="511##5a7a8b597a8b429ea6e75231ff666f2a" xmltv_id="Cuatro HD">Cuatro HD</channel>
+    <channel update="i" site="vodafone.es" site_id="598##7cb000bdaa934f47998995e6034f1665" xmltv_id="Telecinco HD">Telecinco HD</channel>
+    <channel update="i" site="vodafone.es" site_id="427##50901f8324df4ad88a09ee8817265eb6" xmltv_id="La Sexta HD">La Sexta HD</channel>
+    <channel update="i" site="vodafone.es" site_id="587##0d210726c722405286aad19dac4f36ae" xmltv_id="Vodafone Tv te recomienda HD">Vodafone Tv te recomienda HD</channel>
+    <channel update="i" site="vodafone.es" site_id="534##8d88df0797744337b4316b939206aa0e" xmltv_id="Canal Invitado">Canal Invitado</channel>
+    <channel update="i" site="vodafone.es" site_id="971##6e09faeae34248d8a84a91352c6cb353" xmltv_id="Canal Invitado 2">Canal Invitado 2</channel>
+    <channel update="i" site="vodafone.es" site_id="1015##0be602088d9f400b9e8b69f88bfc9e78" xmltv_id="Selekt">Selekt</channel>
+    <channel update="i" site="vodafone.es" site_id="426##0a5c8b31036e415fae2bb476e277f1af" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="vodafone.es" site_id="456##9f350910c0374dae80b266d3c518eaeb" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="vodafone.es" site_id="466##54be6adbe3144d599d2137b051349a63" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="vodafone.es" site_id="459##c5ef92d1b70e495c921433c1a30f9ef0" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="vodafone.es" site_id="458##0050d522ab114b8aa80a976a8e74932e" xmltv_id="Cosmo">Cosmo</channel>
+    <channel update="i" site="vodafone.es" site_id="457##9539ab8cc83147b6b064d08d98131f84" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="vodafone.es" site_id="460##5e8c58115fe94a79870471f15f31b03a" xmltv_id="Calle 13">Calle 13</channel>
+    <channel update="i" site="vodafone.es" site_id="445##0324c4d058da41c9a1370795d581f4f8" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="vodafone.es" site_id="444##884635e0f234471fb543a6f2e4bdfc92" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="vodafone.es" site_id="893##30e5b88b5aa14d4c85fac7ff6cfd560b" xmltv_id="M. Series">M. Series</channel>
+    <channel update="i" site="vodafone.es" site_id="461##030db4aa86f242b5848eeca1a3a4f077" xmltv_id="Canal Hollywood">Canal Hollywood</channel>
+    <channel update="i" site="vodafone.es" site_id="448##01ecd663080945a28ad35b32265b615d" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="vodafone.es" site_id="449##9a73af08d64f4f46878a5e8aa56ea4b8" xmltv_id="XTRM">XTRM</channel>
+    <channel update="i" site="vodafone.es" site_id="970##d2484e0e3c3e440fa86b9d35efe58cc2" xmltv_id="DARK">DARK</channel>
+    <channel update="i" site="vodafone.es" site_id="447##8d3fa24347a4422d9d8c6571a76d2a89" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="vodafone.es" site_id="446##c45d9b1548d843c59d27c1a3961bee03" xmltv_id="Sundance Channel">Sundance Channel</channel>
+    <channel update="i" site="vodafone.es" site_id="636##3b83be86010e420c9b609b3100b5863f" xmltv_id="Somos">Somos</channel>
+    <channel update="i" site="vodafone.es" site_id="563##12668b8df7504ddf83a069f4772f524f" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="vodafone.es" site_id="892##33f687e816a846f28e6280a358297e35" xmltv_id="M. Estrenos">M. Estrenos</channel>
+    <channel update="i" site="vodafone.es" site_id="453##0c1be8165e974983ac24f0569fb5ec46" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="vodafone.es" site_id="441##b1952ce066524fc28e3c6e5a3eb63283" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="vodafone.es" site_id="515##a19de72f5f8446bd9b2a7444485cf987" xmltv_id="Clan HD">Clan HD</channel>
+    <channel update="i" site="vodafone.es" site_id="952##5d13a7c90efc4538a06de276dd800779" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="vodafone.es" site_id="443##4c0e8b96c459407d8c7e86d2742d9b26" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="vodafone.es" site_id="442##c3ec389b7e954c1685689c8c9934c58f" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="vodafone.es" site_id="552##d2823e999c634966b0f83d7a9583070b" xmltv_id="Panda">Panda</channel>
+    <channel update="i" site="vodafone.es" site_id="533##782d00967acc4c5c913e9d4d8f288560" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="vodafone.es" site_id="436##cad8b28e0dad43009eb901b76b8f2a5a" xmltv_id="Odisea">Odisea</channel>
+    <channel update="i" site="vodafone.es" site_id="451##4245e8a3523c4db18a486600d7072d7d" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="vodafone.es" site_id="438##3b2e65f499c540c7a7c13c894f404e41" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="vodafone.es" site_id="433##647ed05801154d849a5b531bfdc6031c" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="vodafone.es" site_id="434##026959a6a9e34fa4816c1456ac897e6b" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="vodafone.es" site_id="435##24229659d2644800b9caac0a3efb534c" xmltv_id="Viajar">Viajar</channel>
+    <channel update="i" site="vodafone.es" site_id="499##f41db8ff38e448c7916014e53c9e6e24" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="vodafone.es" site_id="432##ec7ae167bcd24a6c80d44de7bbcb18fd" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="vodafone.es" site_id="437##21d9fe655f9f429f823d257b83206a7b" xmltv_id="Crímen + Investigación">Crímen + Investigación</channel>
+    <channel update="i" site="vodafone.es" site_id="431##cfbc5225c0e148aca75078b85fd2094d" xmltv_id="Canal Decasa">Canal Decasa</channel>
+    <channel update="i" site="vodafone.es" site_id="581##f88864db11fa4b7a809f5e59aaa5f1d2" xmltv_id="Myzen TV">Myzen TV</channel>
+    <channel update="i" site="vodafone.es" site_id="495##7ea363a84103448a8a78c611dcf1b480" xmltv_id="Canal Galería">Canal Galería</channel>
+    <channel update="i" site="vodafone.es" site_id="620##b28b8799dc82464e9bdaf9451c0f4319" xmltv_id="MTV España">MTV España</channel>
+    <channel update="i" site="vodafone.es" site_id="604##ba5a7995aba04bbba7baf14286a793a0" xmltv_id="FDF">FDF</channel>
+    <channel update="i" site="vodafone.es" site_id="455##1a2b2e6c96ed4ba99031edcc01bf9e39" xmltv_id="Neox">Neox</channel>
+    <channel update="i" site="vodafone.es" site_id="454##bfc90b7e661d45db9e86fbd90ebf004e" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="vodafone.es" site_id="477##3bdcd4591aee4bd8bd4319fc838e8ea9" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="vodafone.es" site_id="469##1463123f36be464d8719326f02f71df4" xmltv_id="Mega">Mega</channel>
+    <channel update="i" site="vodafone.es" site_id="550##9666f9c0d0f64d03885b52e51c406571" xmltv_id="13 TV">13 TV</channel>
+    <channel update="i" site="vodafone.es" site_id="480##833daa84a91c4be4916dc802d126cce6" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="vodafone.es" site_id="641##2f50e703183546b2b878ba4cfeea0449" xmltv_id="ATRESERIES">ATRESERIES</channel>
+    <channel update="i" site="vodafone.es" site_id="649##a990533e4c944d888a5c0907757e0085" xmltv_id="BE MAD HD">BE MAD HD</channel>
+    <channel update="i" site="vodafone.es" site_id="483##635525c5e67b4c539fc6494d5bf5d342" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="vodafone.es" site_id="646##705b136ece8c4e52af5cea8f05342765" xmltv_id="DKISS">DKISS</channel>
+    <channel update="i" site="vodafone.es" site_id="645##e738576dc7064f41a741f794353c22de" xmltv_id="TEN">TEN</channel>
+    <channel update="i" site="vodafone.es" site_id="619##acf4fd55478e49b585811218a0cd9c76" xmltv_id="Sol Música">Sol Música</channel>
+    <channel update="i" site="vodafone.es" site_id="556##27b74e0b23b041de9aa462f71407ff4d" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="vodafone.es" site_id="624##c5492959749940718f948d6793d1c4b4" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="vodafone.es" site_id="623##b5b5446d58e64673bc3cec700f84f47f" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="vodafone.es" site_id="430##3023afe0ff2b49d09c59bca0cecba68d" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="vodafone.es" site_id="622##36f8257a879d409ba0552a5ba7553c76" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="vodafone.es" site_id="429##6be4ca01eef443c3a3e7628f6bd19e0f" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="vodafone.es" site_id="609##f5df4151c849498baf2377a09e3c3ffa" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="vodafone.es" site_id="428##11a625d8184048de9194ebed633a0bfa" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="vodafone.es" site_id="565##44131de0745144a9a6d9a819ae9e9aa5" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="vodafone.es" site_id="986##50ca04535dea4ade8ad07225d2fb2afa" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel update="i" site="vodafone.es" site_id="605##20e03c41a10d4eb1969d3875ed89b56f" xmltv_id="El Toro TV">El Toro TV</channel>
+    <channel update="i" site="vodafone.es" site_id="450##26e662dc39154821996ab7b3fdaf6e05" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="vodafone.es" site_id="536##69c8a68b489b45a396e5c08ae89a4544" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="vodafone.es" site_id="524##ca14f6bf7c684db88c686fb86058830b" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="vodafone.es" site_id="521##c40afb028e3a492bba71f4e1ead717c5" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="vodafone.es" site_id="523##77c69c7dee3744b29771c7a24c6d5bb9" xmltv_id="BBC World HD">BBC World HD</channel>
+    <channel update="i" site="vodafone.es" site_id="539##d830f890cdfb4d8494b9b26691b3252f" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="vodafone.es" site_id="484##b3afa4ccd4214e44920d91faa3325d21" xmltv_id="CGTN Español">CGTN Español</channel>
+    <channel update="i" site="vodafone.es" site_id="547##9cd409e66bbb42b38eb0c1532f351f50" xmltv_id="RT Español">RT Español</channel>
+    <channel update="i" site="vodafone.es" site_id="548##377c6119b3494107be79f67ec6e4c572" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="540##e87a1de258404ff38e341afbbca91505" xmltv_id="Canal Parlamento">Canal Parlamento</channel>
+    <channel update="i" site="vodafone.es" site_id="612##23e85ed6f85947b3bc13f2c7b068ea47" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="vodafone.es" site_id="635##5b070e7886b24c928fdd054770240a97" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="vodafone.es" site_id="542##2bc75366bdeb41509b2a8990aab9f5ed" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="vodafone.es" site_id="577##ee9b6ecc60534b4fa34ad5b075dbc604" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="vodafone.es" site_id="440##26e305b9a1fa43c48247f4a730549ab8" xmltv_id="Fight Sports HD">Fight Sports HD</channel>
+    <channel update="i" site="vodafone.es" site_id="621##e367d380746548758eb40a99628b8663" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="vodafone.es" site_id="535##97ac5b864ff54703848007cdb62c994f" xmltv_id="Cazavisión HD">Cazavisión HD</channel>
+    <channel update="i" site="vodafone.es" site_id="728##992d64a5b8fa4590aaae1e5b518ed28b" xmltv_id="Iberalia">Iberalia</channel>
+    <channel update="i" site="vodafone.es" site_id="692##cf7edc7a15df4875b726cfa10d8548ef" xmltv_id="GOL">GOL</channel>
+    <channel update="i" site="vodafone.es" site_id="644##5e30ec9275474065b9866e553be7f917" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="vodafone.es" site_id="715##bac4fc7fa40e4ba881b5c16fe7772971" xmltv_id="Betis TV">Betis TV</channel>
+    <channel update="i" site="vodafone.es" site_id="890##4ddd83f94c9447d9b78ae0a849fddc69" xmltv_id="Sevilla FC TV">Sevilla FC TV</channel>
+    <channel update="i" site="vodafone.es" site_id="982##2d884061bf6d4a44b7dfd778b500f3fd" xmltv_id="Barça TV">Barça TV</channel>
+    <channel update="i" site="vodafone.es" site_id="954##0c95e620901545dcada684d9078aaba9" xmltv_id="Surf Channel">Surf Channel</channel>
+    <channel update="i" site="vodafone.es" site_id="439##ff1f7d6b842f4caab9c6404d33ebab12" xmltv_id="Garage TV">Garage TV</channel>
+    <channel update="i" site="vodafone.es" site_id="493##610cb0737e9b4116b4910e5c3f906c68" xmltv_id="El Trece Internacional">El Trece Internacional</channel>
+    <channel update="i" site="vodafone.es" site_id="626##2bdb0163755a469eb25eac9930b304c8" xmltv_id="Ve Plus TV">Ve Plus TV</channel>
+    <channel update="i" site="vodafone.es" site_id="492##2180071f51574b32b5f916b8099aed43" xmltv_id="AZ Corazón">AZ Corazón</channel>
+    <channel update="i" site="vodafone.es" site_id="526##747f26bc76274823adf1081091e8a702" xmltv_id="Caracol TV Internacional">Caracol TV Internacional</channel>
+    <channel update="i" site="vodafone.es" site_id="614##22b6e01f5f7a400d80d870116a528120" xmltv_id="TV Chile Internacional">TV Chile Internacional</channel>
+    <channel update="i" site="vodafone.es" site_id="537##a9d183ecc3a84bdfb4f78f12994c0abd" xmltv_id="Cubavisión Internacional">Cubavisión Internacional</channel>
+    <channel update="i" site="vodafone.es" site_id="525##fbe17885eed24ba582bead1c725db9ed" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="vodafone.es" site_id="613##e1cd876791ff42a59d874774ae066418" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="vodafone.es" site_id="630##2b6e39735ecd4aedb84ffd531a8fc76c" xmltv_id="RTM">RTM</channel>
+    <channel update="i" site="vodafone.es" site_id="631##4b49d07ff6014b32bedc8a9a63030ba7" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="vodafone.es" site_id="628##f3cb4e9b3fcf45f2a11ad609d62e3924" xmltv_id="Pro TV International">Pro TV International</channel>
+    <channel update="i" site="vodafone.es" site_id="611##84003c810d0745889d70ee88c81349ea" xmltv_id="TVG Sat">TVG Sat</channel>
+    <channel update="i" site="vodafone.es" site_id="520##9031334c0d4e4dcdaf92983f3a29177f" xmltv_id="ETB SAT">ETB SAT</channel>
+    <channel update="i" site="vodafone.es" site_id="610##e84ab70e7b3046328ae693008b5e4aaa" xmltv_id="TV3 Cat">TV3 Cat</channel>
+    <channel update="i" site="vodafone.es" site_id="519##cac79211cb4a4a16b4eaced6a843de16" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
+    <channel update="i" site="vodafone.es" site_id="588##a4bc2128eddf4b4881c6e4e9316c3fec" xmltv_id="Extremadura SAT">Extremadura SAT</channel>
+    <channel update="i" site="vodafone.es" site_id="866##6b0c9a48f75d4384bcbc2008e8ba44ac" xmltv_id="ETB1 HD">ETB1 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="858##6fa7aab1c382444cb39830fc57bfd001" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="864##8470b1d5eb9f4c02b1965e9b204c0a63" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel update="i" site="vodafone.es" site_id="860##c68773b8765b4c03a18f21bea2efb107" xmltv_id="Telemadrid HD">Telemadrid HD</channel>
+    <channel update="i" site="vodafone.es" site_id="880##00b17b12c64347fca88d117a4508c9b0" xmltv_id="Aragón TV HD">Aragón TV HD</channel>
+    <channel update="i" site="vodafone.es" site_id="870##524fded427bd42548477e944c3ac6682" xmltv_id="TVG HD">TVG HD</channel>
+    <channel update="i" site="vodafone.es" site_id="876##ce2c21c4d20e4d3b820f1840ccd30ca9" xmltv_id="CyL 7 HD">CyL 7 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="878##2f4aea86cdf44a4f9c5ae79e19800030" xmltv_id="IB3 HD">IB3 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="868##6c0d45aaa5ec4338bf5162344b24b31e" xmltv_id="ETB2 HD">ETB2 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="874##bde75dd5509b4dc38bf7b05271cd6a50" xmltv_id="Castilla-La Mancha Media HD">Castilla-La Mancha Media HD</channel>
+    <channel update="i" site="vodafone.es" site_id="862##f0d7b5e730fd48b4a3a31f288b7f32af" xmltv_id="Canal 3/24">Canal 3/24</channel>
+    <channel update="i" site="vodafone.es" site_id="882##f425a97781cb4ca4a5f677dfec34bfcf" xmltv_id="Canal Sur 2 Andalucía">Canal Sur 2 Andalucía</channel>
+    <channel update="i" site="vodafone.es" site_id="872##e71528e586e543ff913cd9b9d02ed846" xmltv_id="7 Región de Murcia HD">7 Región de Murcia HD</channel>
+    <channel update="i" site="vodafone.es" site_id="595##503e040d74974c879f9e1aff11c45b3d" xmltv_id="Canal Extremadura">Canal Extremadura</channel>
+    <channel update="i" site="vodafone.es" site_id="593##3b533d14205149b0a143bf6108887106" xmltv_id="TPA7">TPA7</channel>
+    <channel update="i" site="vodafone.es" site_id="568##8205f463f6ae4e8ca2699be8af653664" xmltv_id="Navarra Televisión">Navarra Televisión</channel>
+    <channel update="i" site="vodafone.es" site_id="888##6819929b6ffa45be889e613d702496ca" xmltv_id="Información TV">Información TV</channel>
+    <channel update="i" site="vodafone.es" site_id="578##ee18ae899fb741778fae13d485071686" xmltv_id="TeleRibera">TeleRibera</channel>
+    <channel update="i" site="vodafone.es" site_id="557##4b94e41a8c99484e847bb22e2a921f28" xmltv_id="Las Provincias">Las Provincias</channel>
+    <channel update="i" site="vodafone.es" site_id="594##0cb812be38734188bb892c0473411d30" xmltv_id="TPA8">TPA8</channel>
+    <channel update="i" site="vodafone.es" site_id="597##ee24b29d11dd4dbe8f31cca9e1de00c9" xmltv_id="G2 HD">G2 HD</channel>
+    <channel update="i" site="vodafone.es" site_id="617##0f1b7391ee9644d6893d724147952485" xmltv_id="La 8 Soria HD">La 8 Soria HD</channel>
+    <channel update="i" site="vodafone.es" site_id="546##113999a7462d4161a6c8b29083fca170" xmltv_id="8TV">8TV</channel>
+    <channel update="i" site="vodafone.es" site_id="600##bc66364555984db8ac52f825b075ae5d" xmltv_id="La Otra">La Otra</channel>
+    <channel update="i" site="vodafone.es" site_id="915##1c8bc7890c6c4801bf224fa54a1b05da" xmltv_id="À Punt HD">À Punt HD</channel>
+    <channel update="i" site="vodafone.es" site_id="827##48992a71b56e4942b8c54a2910d601ec" xmltv_id="Onda Algeciras">Onda Algeciras</channel>
+    <channel update="i" site="vodafone.es" site_id="824##81ae8aad2cb9414899a47bf54d8b15bb" xmltv_id="Riberavisión">Riberavisión</channel>
+    <channel update="i" site="vodafone.es" site_id="634##e0b3729b1d554c65a7d05faa717428ea" xmltv_id="Onda Luz">Onda Luz</channel>
+    <channel update="i" site="vodafone.es" site_id="567##ba9775e948aa4c22b02d41f325bbc469" xmltv_id="TV Canaria">TV Canaria</channel>
+    <channel update="i" site="vodafone.es" site_id="826##15e06e9a30364b8abca44e2fb2d0874d" xmltv_id="30TV">30TV</channel>
+    <channel update="i" site="vodafone.es" site_id="532##ea5e96a00d2d4877b679350b05d6807b" xmltv_id="Tele Sanlúcar">Tele Sanlúcar</channel>
+    <channel update="i" site="vodafone.es" site_id="549##a16de73a9b754a379ab9cbd7aeaab454" xmltv_id="TV Murcia">TV Murcia</channel>
+    <channel update="i" site="vodafone.es" site_id="561##4b56509d69ce48559b47e6c57f272a38" xmltv_id="Navarramundovisión">Navarramundovisión</channel>
+    <channel update="i" site="vodafone.es" site_id="558##d817ce3081304447940b474cde6b84e4" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="vodafone.es" site_id="543##5ccdbffa9bd940c5821dba6dcb358f66" xmltv_id="Huelva TV">Huelva TV</channel>
+    <channel update="i" site="vodafone.es" site_id="529##7c5457fa29794b6e87185378e7985db5" xmltv_id="La 8 Bierzo">La 8 Bierzo</channel>
+    <channel update="i" site="vodafone.es" site_id="527##de96a4bb750a4196bd46eda95dd3603e" xmltv_id="La 8 Zamora HD">La 8 Zamora HD</channel>
+    <channel update="i" site="vodafone.es" site_id="560##4bec8994f3d04ee3940f31464f6c441b" xmltv_id="La 8 Burgos HD">La 8 Burgos HD</channel>
+    <channel update="i" site="vodafone.es" site_id="585##7dd2c8cf596048ceb120572e9db025f0" xmltv_id="TV del Mediterráneo">TV del Mediterráneo</channel>
+    <channel update="i" site="vodafone.es" site_id="531##b7e55b586a004726bbde27e1fc6c2bf1" xmltv_id="La 8 Segovia HD">La 8 Segovia HD</channel>
+    <channel update="i" site="vodafone.es" site_id="530##e33a016f27494669ac0aca42877ac7d0" xmltv_id="La 8 Avila HD">La 8 Avila HD</channel>
+    <channel update="i" site="vodafone.es" site_id="517##bd8b6351cd534317b3f28f8e77458692" xmltv_id="La 8 Salamanca HD">La 8 Salamanca HD</channel>
+    <channel update="i" site="vodafone.es" site_id="602##a352d379eb404376aeef2a3dadc24010" xmltv_id="La 8 Palencia HD">La 8 Palencia HD</channel>
+    <channel update="i" site="vodafone.es" site_id="627##13e5e6f6d4464ffea88c5cafb841046c" xmltv_id="La 8 Valladolid HD">La 8 Valladolid HD</channel>
+    <channel update="i" site="vodafone.es" site_id="528##c138e88267874d52bcc0401525ad5ee8" xmltv_id="La 8 León HD">La 8 León HD</channel>
+  </channels>
+</site>

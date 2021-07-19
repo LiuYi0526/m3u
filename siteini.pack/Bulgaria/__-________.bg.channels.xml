@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" site="тв-програма.bg">
+  <channels>
+    <channel update="i" site="тв-програма.bg" site_id="btv" xmltv_id="bTV">bTV</channel>
+    <channel update="i" site="тв-програма.bg" site_id="nova-tv" xmltv_id="Nova TV">Nova TV</channel>
+    <channel update="i" site="тв-програма.bg" site_id="bnt" xmltv_id="BNT">BNT</channel>
+    <channel update="i" site="тв-програма.bg" site_id="btv-action" xmltv_id="bTV Action">bTV Action</channel>
+    <channel update="i" site="тв-програма.bg" site_id="btv-comedy" xmltv_id="bTV Comedy">bTV Comedy</channel>
+    <channel update="i" site="тв-програма.bg" site_id="btv-cinema" xmltv_id="bTV Cinema">bTV Cinema</channel>
+    <channel update="i" site="тв-програма.bg" site_id="fox-life" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="тв-програма.bg" site_id="diema" xmltv_id="Diema">Diema</channel>
+    <channel update="i" site="тв-програма.bg" site_id="kinonova" xmltv_id="KinoNova">KinoNova</channel>
+    <channel update="i" site="тв-програма.bg" site_id="disney" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="тв-програма.bg" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="тв-програма.bg" site_id="discovery" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="тв-програма.bg" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="тв-програма.bg" site_id="planeta" xmltv_id="Planeta">Planeta</channel>
+    <channel update="i" site="тв-програма.bg" site_id="ring-bg" xmltv_id="Ring.BG">Ring.BG</channel>
+    <channel update="i" site="тв-програма.bg" site_id="nova-sport" xmltv_id="Nova Sport">Nova Sport</channel>
+    <channel update="i" site="тв-програма.bg" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="тв-програма.bg" site_id="diema-family" xmltv_id="Diema Family">Diema Family</channel>
+    <channel update="i" site="тв-програма.bg" site_id="diema-sport" xmltv_id="Diema Sport">Diema Sport</channel>
+    <channel update="i" site="тв-програма.bg" site_id="7-8-tv" xmltv_id="7/8 TV">7/8 TV</channel>
+    <channel update="i" site="тв-програма.bg" site_id="fox-channel" xmltv_id="FOX Channel">FOX Channel</channel>
+    <channel update="i" site="тв-програма.bg" site_id="fox-crime" xmltv_id="FOX Crime">FOX Crime</channel>
+    <channel update="i" site="тв-програма.bg" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="тв-програма.bg" site_id="tv1000" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="тв-програма.bg" site_id="bnt-hd" xmltv_id="BNT 3">BNT 3</channel>
+    <channel update="i" site="тв-програма.bg" site_id="bnt2" xmltv_id="BNT 2">BNT 2</channel>
+    <channel update="i" site="тв-програма.bg" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="тв-програма.bg" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="тв-програма.bg" site_id="btv-lady" xmltv_id="BTV Lady">BTV Lady</channel>
+    <channel update="i" site="тв-програма.bg" site_id="bnt-world" xmltv_id="BNT 4">BNT 4</channel>
+    <channel update="i" site="тв-програма.bg" site_id="moviestar" xmltv_id="MovieStar">MovieStar</channel>
+    <channel update="i" site="тв-програма.bg" site_id="bulgaria-on-air" xmltv_id="Bulgaria On Air">Bulgaria On Air</channel>
+    <channel update="i" site="тв-програма.bg" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="тв-програма.bg" site_id="kanal3" xmltv_id="Kanal 3">Kanal 3</channel>
+    <channel update="i" site="тв-програма.bg" site_id="film-plus" xmltv_id="Film Plus">Film Plus</channel>
+    <channel update="i" site="тв-програма.bg" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="тв-програма.bg" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="тв-програма.bg" site_id="history" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="тв-програма.bg" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="тв-програма.bg" site_id="bloomberg" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="тв-програма.bg" site_id="hbo-comedy" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="тв-програма.bg" site_id="viasat-explorer" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="тв-програма.bg" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="тв-програма.bg" site_id="eurocom" xmltv_id="Eurocom">Eurocom</channel>
+    <channel update="i" site="тв-програма.bg" site_id="axn-black" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="тв-програма.bg" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="тв-програма.bg" site_id="tv-plus" xmltv_id="TV+">TV+</channel>
+    <channel update="i" site="тв-програма.bg" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="тв-програма.bg" site_id="diema-sport-2" xmltv_id="Diema Sport 2">Diema Sport 2</channel>
+    <channel update="i" site="тв-програма.bg" site_id="max-sport-1" xmltv_id="Max Sport 1">Max Sport 1</channel>
+    <channel update="i" site="тв-програма.bg" site_id="max-sport-2" xmltv_id="Max Sport 2">Max Sport 2</channel>
+    <channel update="i" site="тв-програма.bg" site_id="max-sport-3" xmltv_id="Max Sport 3">Max Sport 3</channel>
+    <channel update="i" site="тв-програма.bg" site_id="ort" xmltv_id="ORT">ORT</channel>
+    <channel update="i" site="тв-програма.bg" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="тв-програма.bg" site_id="hobi" xmltv_id="Hobby TV">Hobby TV</channel>
+    <channel update="i" site="тв-програма.bg" site_id="fln" xmltv_id="FLN">FLN</channel>
+    <channel update="i" site="тв-програма.bg" site_id="skat" xmltv_id="SKAT">SKAT</channel>
+    <channel update="i" site="тв-програма.bg" site_id="24kitchen" xmltv_id="24 Kitchen">24 Kitchen</channel>
+    <channel update="i" site="тв-програма.bg" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="тв-програма.bg" site_id="tv1" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="тв-програма.bg" site_id="da-vinci-learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="тв-програма.bg" site_id="vivacom-arena" xmltv_id="Vivacom Arena">Vivacom Arena</channel>
+    <channel update="i" site="тв-програма.bg" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="тв-програма.bg" site_id="filmbox" xmltv_id="Film Box">Film Box</channel>
+    <channel update="i" site="тв-програма.bg" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+  </channels>
+</site>

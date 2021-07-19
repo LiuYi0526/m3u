@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="telemagazyn.pl">
+  <channels>
+    <channel update="i" site="telemagazyn.pl" site_id="13_ulica" xmltv_id="13 Ulica">13 Ulica</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="13th_street_niem" xmltv_id="13th Street (NIEM)">13th Street (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="2x2" xmltv_id="2x2">2x2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="3sat_niem" xmltv_id="3sat (NIEM)">3sat (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="4fun_dance" xmltv_id="4Fun Dance">4Fun Dance</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="4fun_gold_hits" xmltv_id="4Fun Gold Hits">4Fun Gold Hits</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="4fun_tv" xmltv_id="4FUN TV">4FUN TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ative_family" xmltv_id="Active Family">Active Family</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="adventure_tv" xmltv_id="Adventure TV">Adventure TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="al_jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ale_kino" xmltv_id="ale kino+">ale kino+</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="alpha_niem" xmltv_id="Alpha (NIEM)">Alpha (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="animal_planete_hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ard_einsfestival_niem" xmltv_id="ARD EinsFestival (NIEM)">ARD EinsFestival (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ard_niem" xmltv_id="ARD (NIEM)">ARD (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="arte_fr" xmltv_id="Arte (FR)">Arte (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="arte_niem" xmltv_id="Arte (NIEM)">Arte (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="atm_rozrywka" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="atv_niem" xmltv_id="ATV (NIEM)">ATV (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="axn_black" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="axn_spin" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="axn_white" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="baby_tv" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bayern_3_niem" xmltv_id="Bayern 3 (NIEM)">Bayern 3 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bbc_brit" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bbc_cbeebies" xmltv_id="BBC Cbeebies">BBC Cbeebies</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bbc_earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bbc_hd" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bbc_lifestyle" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bbc_world_news" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bbc" xmltv_id="BBC">BBC</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="belsat_tv" xmltv_id="Belsat TV">Belsat TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bloomberg_europe" xmltv_id="Bloomberg Europe">Bloomberg Europe</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="bollywood_hd" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_cinema_fr" xmltv_id="Canal + Cinema (FR)">Canal + Cinema (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_sport_fr" xmltv_id="Canal + Sport (FR)">Canal + Sport (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_4k" xmltv_id="CANAL+ 4K ULTRA HD">CANAL+ 4K ULTRA HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_dokument" xmltv_id="CANAL+ Dokument">CANAL+ Dokument</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_family" xmltv_id="CANAL+ Family">CANAL+ Family</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_film" xmltv_id="CANAL+ Film">CANAL+ Film</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_j_fr" xmltv_id="Canal J (FR)">Canal J (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_now" xmltv_id="CANAL+ NOW HD">CANAL+ NOW HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_seriale" xmltv_id="CANAL+ Seriale">CANAL+ Seriale</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_sport_2" xmltv_id="CANAL+ Sport 2">CANAL+ Sport 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_sport_3_hd" xmltv_id="CANAL+ SPORT 3 HD">CANAL+ SPORT 3 HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_sport_4_hd" xmltv_id="CANAL+ SPORT 4 HD">CANAL+ SPORT 4 HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_sport" xmltv_id="CANAL+ Sport">CANAL+ Sport</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal_1" xmltv_id="CANAL+1">CANAL+1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canal" xmltv_id="CANAL+">CANAL+</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="canale_5_wl" xmltv_id="Canale 5 (WŁ)">Canale 5 (WŁ)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cartoon_network_ang" xmltv_id="Cartoon Network (ANG)">Cartoon Network (ANG)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cartoon_network_fr" xmltv_id="Cartoon Network (FR)">Cartoon Network (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cartoon_network_pl" xmltv_id="Cartoon Network (PL)">Cartoon Network (PL)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cartoon_networks_niem" xmltv_id="Cartoon Networks (NIEM)">Cartoon Networks (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cbs_action" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cbs_europa" xmltv_id="CBS Europa">CBS Europa</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cbs_reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="crime_investigation_network_polsat" xmltv_id="CI POLSAT">CI POLSAT</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cine_cinema_classic_fr" xmltv_id="Cine Cinema Classic (FR)">Cine Cinema Classic (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cine_cinema_emotion_fr" xmltv_id="Cine Cinema Emotion (FR)">Cine Cinema Emotion (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cine_cinema_frisson_fr" xmltv_id="Cine Cinema Frisson (FR)">Cine Cinema Frisson (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cinemax_2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="classica_niem" xmltv_id="Classica (NIEM)">Classica (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cnbc_europe_ang" xmltv_id="CNBC Europe (ANG)">CNBC Europe (ANG)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="comedy_central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ct_1_pl" xmltv_id="CT 1 (PL)">CT 1 (PL)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ct_1" xmltv_id="CT 1">CT 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ct_2" xmltv_id="CT 2">CT 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ct24" xmltv_id="CT24">CT24</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="davinci_learning" xmltv_id="DaVinci Learning">DaVinci Learning</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="deutsche_welle_tv_niem" xmltv_id="Deutsche Welle TV (NIEM)">Deutsche Welle TV (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="disco_polo_music" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="discovery_channel_niem" xmltv_id="Discovery Channel (NIEM)">Discovery Channel (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="discovery_hd_showcase" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="discovery_historia" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="discovery_life" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="discovery_science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="discovery_turbo_xtra" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="discovery" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="disney_channel_fr" xmltv_id="Disney Channel (FR)">Disney Channel (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="disney_channel_niem" xmltv_id="Disney Channel (NIEM)">Disney Channel (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="disney_channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="disney_junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="disney_xd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="dmaxx_niem" xmltv_id="DMAX (NIEM)">DMAX (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="domo_tv" xmltv_id="DOMO+">DOMO+</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="duck_tv_hd" xmltv_id="Duck TV HD">Duck TV HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="duck_tv" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvee_en" xmltv_id="E! (ANG)">E! (ANG)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="e" xmltv_id="E!">E!</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eleven" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eleven_sports" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eleven_extra" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eleven_sports_4" xmltv_id="Eleven Sports 4">Eleven Sports 4</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="epic_drama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eska_tv_extra" xmltv_id="Eska TV Extra">Eska TV Extra</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eskarock_tv" xmltv_id="EskaRock TV">EskaRock TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eskatv" xmltv_id="EskaTV">EskaTV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="espp" xmltv_id="ESPN Classic">ESPN Classic</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="e-sport" xmltv_id="E-Sport">E-Sport</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="etv" xmltv_id="ETV (dawniej Edusat)">ETV (dawniej Edusat)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eurochannel_hd" xmltv_id="Eurochannel HD">Eurochannel HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="euronews_ang" xmltv_id="Euronews (ANG)">Euronews (ANG)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="euronews_niem" xmltv_id="Euronews (NIEM)">Euronews (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eurosport" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eurosport_2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eurosport_fr" xmltv_id="Eurosport (FR)">Eurosport (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eurosport_italia_wl" xmltv_id="Eurosport Italia (WŁ)">Eurosport Italia (WŁ)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="eurosport_niem" xmltv_id="Eurosport (NIEM)">Eurosport (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="extreme_sports_channel_fr" xmltv_id="Extreme Sports Channel (FR)">Extreme Sports Channel (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="extreme_sports" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="fashion_tv_ang" xmltv_id="Fashion TV (ANG)">Fashion TV (ANG)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="fashion_tv_pl" xmltv_id="Fashion TV (PL)">Fashion TV (PL)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="fightbox" xmltv_id="FightBox">FightBox</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="fight_klub" xmltv_id="FightKlub">FightKlub</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="filmbox_action" xmltv_id="FilmBox Action">FilmBox Action</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="filmbox_arthouse" xmltv_id="FilmBox ArtHouse">FilmBox ArtHouse</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="filmbox_extra" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="filmbox_family" xmltv_id="Filmbox Family">Filmbox Family</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="filmbox_premium" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="fokus_tv" xmltv_id="FOKUS TV">FOKUS TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="food_network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="fox_comedy" xmltv_id="FOX Comedy">FOX Comedy</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="fox_hd" xmltv_id="Fox HD">Fox HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="france_2" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="france_24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="france_3_fr" xmltv_id="France 3 (FR)">France 3 (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="goldstar_tv_niem" xmltv_id="Goldstar TV (NIEM)">Goldstar TV (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="golf_channel" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="h2" xmltv_id="H2">H2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="hallmark_cz" xmltv_id="Hallmark">Hallmark</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="hbo2" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="hbo3" xmltv_id="HBO3">HBO3</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="heimatkanal_niem" xmltv_id="Heimatkanal (NIEM)">Heimatkanal (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="hessen_3_niem" xmltv_id="Hessen 3 (NIEM)">Hessen 3 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="hgtv" xmltv_id="HGTV Home &amp; Garden">HGTV Home &amp; Garden</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="history" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="hse_24_niem" xmltv_id="HSE 24 (NIEM)">HSE 24 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="investigation_discovery" xmltv_id="Investigation Discovery (ID)">Investigation Discovery (ID)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="italia_1" xmltv_id="Italia 1">Italia 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="itvn" xmltv_id="iTVN">iTVN</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="jim_jam" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="junior_niem" xmltv_id="Junior (NIEM)">Junior (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="kabel_1_niem" xmltv_id="Kabel 1 (NIEM)">Kabel 1 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="kablowka_toya_lodz" xmltv_id="Kablówka TOYA Łódź">Kablówka TOYA Łódź</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="kablowka_wtk_poznan" xmltv_id="Kablówka WTK Poznań">Kablówka WTK Poznań</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="kinderkanal_niem" xmltv_id="Kinderkanal (NIEM)">Kinderkanal (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="kino_polska_muzyka" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="kino_polska" xmltv_id="Kino Polska">Kino Polska</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="kino_tv" xmltv_id="Kino TV">Kino TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="kuchniatv" xmltv_id="kuchnia+">kuchnia+</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="la_7_wl" xmltv_id="LA 7 (WŁ)">LA 7 (WŁ)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="lifetime" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="love" xmltv_id="LOVE">LOVE</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="m_6_fr" xmltv_id="M 6 (FR)">M 6 (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mango_24" xmltv_id="Mango 24">Mango 24</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mcm_pop" xmltv_id="MCM POP">MCM POP</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mcm_top" xmltv_id="MCM TOP">MCM TOP</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mdr_1" xmltv_id="MDR 1">MDR 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="metro" xmltv_id="Metro">Metro</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mezo_ang" xmltv_id="Mezzo (FR)">Mezzo (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mezzo_fr" xmltv_id="Mezzo (FR2)">Mezzo (FR2)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="minimini" xmltv_id="MiniMini+">MiniMini+</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="motowizja" xmltv_id="Motowizja">Motowizja</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="movies_24" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mtv_base" xmltv_id="MTV base">MTV base</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mtv_classic_ang" xmltv_id="MTV Classic (ANG)">MTV Classic (ANG)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mtv_fr" xmltv_id="MTV (FR)">MTV (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mtv_music" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mtv_niem" xmltv_id="MTV (NIEM)">MTV (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mtv_polska" xmltv_id="MTV Polska">MTV Polska</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="mtv_rocks_ang" xmltv_id="MTV Rocks (ANG)">MTV Rocks (ANG)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="n_24_niem" xmltv_id="N 24 (NIEM)">N 24 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nat_geo_people" xmltv_id="Nat Geo People">Nat Geo People</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nat_geo_wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="national_geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ndr_niem" xmltv_id="NDR (NIEM)">NDR (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nickelodeon_hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nickelodeon_junior" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nicktoons" xmltv_id="Nicktoons (dawniej Nickelodeon HD)">Nicktoons (dawniej Nickelodeon HD)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nobox_tv" xmltv_id="Nobox TV">Nobox TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nova" xmltv_id="NOVA">NOVA</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="novela_tv" xmltv_id="Novela TV">Novela TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nowa_tv" xmltv_id="Nowa TV">Nowa TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nsport" xmltv_id="nSPORT+">nSPORT+</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ntl_radomsko" xmltv_id="NTL Radomsko">NTL Radomsko</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="n_tv_niem" xmltv_id="n-tv (NIEM)">n-tv (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="nuta_tv" xmltv_id="Nuta TV">Nuta TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ontv" xmltv_id="ONTV">ONTV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="opoka_tv" xmltv_id="OPOKA.TV">OPOKA.TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="orf_1_niem" xmltv_id="ORF 1 (NIEM)">ORF 1 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="orf_2_niem" xmltv_id="ORF 2 (NIEM)">ORF 2 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="paramount_channel" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="phoenix_niem" xmltv_id="Phoenix (NIEM)">Phoenix (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="planete" xmltv_id="PLANETE+">PLANETE+</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polo_tv" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polonia_1" xmltv_id="Polonia 1">Polonia 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_2" xmltv_id="Polsat 2">Polsat 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_cafe" xmltv_id="Polsat Cafe">Polsat Cafe</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="comedy_central_family" xmltv_id="Polsat Comedy Central Extra">Polsat Comedy Central Extra</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_doku" xmltv_id="Polsat Doku">Polsat Doku</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_film" xmltv_id="Polsat Film">Polsat Film</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_music_hd" xmltv_id="Polsat Music HD">Polsat Music HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_news_2" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_news" xmltv_id="Polsat News">Polsat News</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_play" xmltv_id="Polsat Play">Polsat Play</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_seriale" xmltv_id="Polsat Seriale">Polsat Seriale</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_2" xmltv_id="Polsat Sport 2">Polsat Sport 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_3" xmltv_id="Polsat Sport 3">Polsat Sport 3</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_extra" xmltv_id="Polsat Sport Extra">Polsat Sport Extra</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_fight" xmltv_id="Polsat Sport Fight">Polsat Sport Fight</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_news" xmltv_id="Polsat Sport News">Polsat Sport News</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_premium_1" xmltv_id="Polsat Sport Premium 1">Polsat Sport Premium 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_premium_2" xmltv_id="Polsat Sport Premium 2">Polsat Sport Premium 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_premium_3" xmltv_id="Polsat Sport Premium 3 PPV">Polsat Sport Premium 3 PPV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_premium_4" xmltv_id="Polsat Sport Premium 4 PPV">Polsat Sport Premium 4 PPV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_premium_5" xmltv_id="Polsat Sport Premium 5 PPV">Polsat Sport Premium 5 PPV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport_premium_6" xmltv_id="Polsat Sport Premium 6 PPV">Polsat Sport Premium 6 PPV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_sport" xmltv_id="Polsat Sport">Polsat Sport</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_viasat_explorer" xmltv_id="Polsat Viasat Explorer">Polsat Viasat Explorer</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_viasat_history" xmltv_id="Polsat Viasat History">Polsat Viasat History</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat_viasat_nature" xmltv_id="Polsat Viasat Nature">Polsat Viasat Nature</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polsat" xmltv_id="Polsat">Polsat</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polskie_radio_program_1" xmltv_id="Polskie Radio Program 1">Polskie Radio Program 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polskie_radio_program_2" xmltv_id="Polskie Radio Program 2">Polskie Radio Program 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="polskie_radio_program_3" xmltv_id="Polskie Radio Program 3">Polskie Radio Program 3</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="power_tv" xmltv_id="Power TV">Power TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="pro_7" xmltv_id="PRO 7">PRO 7</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="radio_polskie_przeboje" xmltv_id="Radio Polskie Przeboje">Radio Polskie Przeboje</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="radio_zet" xmltv_id="Radio Zet">Radio Zet</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rai_1" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rai_2" xmltv_id="Rai 2">Rai 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rai_3" xmltv_id="Rai 3">Rai 3</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rbb_berlin" xmltv_id="RBB Berlin">RBB Berlin</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rete_4_wl" xmltv_id="RETE 4 (WŁ)">RETE 4 (WŁ)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rmf_classic" xmltv_id="RMF Classic">RMF Classic</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rmf_fm" xmltv_id="RMF FM">RMF FM</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rmf_maxxx" xmltv_id="RMF Maxxx">RMF Maxxx</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="romance_tv_niem" xmltv_id="Romance TV (NIEM)">Romance TV (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="romance_tv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rsi_la_1_wl" xmltv_id="RSI LA 1 (WŁ)">RSI LA 1 (WŁ)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rsi_la_2_wl" xmltv_id="RSI LA 2 (WŁ)">RSI LA 2 (WŁ)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rtl_2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rtl_9_fr" xmltv_id="RTL 9 (FR)">RTL 9 (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="rtp" xmltv_id="RTP International">RTP International</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="beate_uhse_tv" xmltv_id="S: Beate Uhse TV">S: Beate Uhse TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="s_blue_movie_1" xmltv_id="S: Blue Movie 1">S: Blue Movie 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="s_blue_movie_2" xmltv_id="S: Blue Movie 2">S: Blue Movie 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="s_blue_movie_3" xmltv_id="S: Blue Movie 3">S: Blue Movie 3</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sat_1_niem" xmltv_id="SAT.1 (NIEM)">SAT.1 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="schweiz_5_niem" xmltv_id="Schweiz 5 (NIEM)">Schweiz 5 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sci_fi_niem" xmltv_id="Sci-Fi (NIEM)">Sci-Fi (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="scifi_channel" xmltv_id="Sci-Fi Universal">Sci-Fi Universal</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sf_1_niem" xmltv_id="SF 1 (NIEM)">SF 1 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sf_zwei_niem" xmltv_id="SF zwei (NIEM)">SF zwei (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sky_action_niem" xmltv_id="Sky Action (NIEM)">Sky Action (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sky_comedy_niem" xmltv_id="Sky Comedy (NIEM)">Sky Comedy (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sport1" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sport_klub" xmltv_id="SportKlub">SportKlub</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="stars_tv" xmltv_id="Stars TV">Stars TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="stopklatka" xmltv_id="Stopklatka">Stopklatka</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sudwest_3_niem" xmltv_id="Südwest 3 (NIEM)">Südwest 3 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="sundance_channel_hd" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="super_polsat" xmltv_id="Super Polsat">Super Polsat</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="super_rtl_niem" xmltv_id="Super RTL (NIEM)">Super RTL (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="superstacja" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tbn_polska" xmltv_id="TBN Polska">TBN Polska</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tcm_france_fr" xmltv_id="TCM France (FR)">TCM France (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tele_1_niem" xmltv_id="Tele 1 (NIEM)">Tele 1 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tele_5_niem" xmltv_id="Tele 5 (NIEM)">Tele 5 (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tele_5" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="teletoon_fr" xmltv_id="Teletoon (FR)">Teletoon (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="teletoon" xmltv_id="teleTOON+">teleTOON+</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tf_1_fr" xmltv_id="TF 1 (FR)">TF 1 (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tmc_fr" xmltv_id="TMC (FR)">TMC (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tnt" xmltv_id="TNT (dawniej TCM)">TNT (dawniej TCM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tnt_film" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tok_fm" xmltv_id="TOK FM">TOK FM</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="top_kids" xmltv_id="Top Kids">Top Kids</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="to_tv" xmltv_id="TO!TV">TO!TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="trace_urban" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="travel_channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tsr_2_fr" xmltv_id="TSR 2 (FR)">TSR 2 (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="ttv" xmltv_id="TTV">TTV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv_1000" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv_4" xmltv_id="TV 4">TV 4</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv_5_monde" xmltv_id="TV 5 monde">TV 5 monde</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv_berlin_niem" xmltv_id="TV Berlin (NIEM)">TV Berlin (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv_puls_2" xmltv_id="TV Puls 2">TV Puls 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv_puls" xmltv_id="TV Puls">TV Puls</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv_republika" xmltv_id="TV Republika">TV Republika</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv_silesia" xmltv_id="TV Silesia">TV Silesia</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv-trwam" xmltv_id="TV Trwam">TV Trwam</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv5_monde_fds_fr" xmltv_id="TV5 Monde FDS (FR)">TV5 Monde FDS (FR)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tv6" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tve" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvn_24_biznes_i_swiat" xmltv_id="TVN 24 Biznes i Świat">TVN 24 Biznes i Świat</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvn_24" xmltv_id="TVN 24">TVN 24</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvn_7" xmltv_id="TVN 7">TVN 7</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvn_fabula" xmltv_id="TVN Fabuła">TVN Fabuła</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvn_style" xmltv_id="TVN Style">TVN Style</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvn_turbo" xmltv_id="TVN Turbo">TVN Turbo</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvn" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_1" xmltv_id="TVP 1">TVP 1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_2" xmltv_id="TVP 2">TVP 2</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_abc" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_hd" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_historia" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_info" xmltv_id="TVP INFO">TVP INFO</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_kultura" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_polonia" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_rozrywka" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_seriale" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp_sport" xmltv_id="TVP Sport">TVP Sport</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_bialystok" xmltv_id="TVP3 Białystok">TVP3 Białystok</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_bydgoszcz" xmltv_id="TVP3 Bydgoszcz">TVP3 Bydgoszcz</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_gdansk" xmltv_id="TVP3 Gdańsk">TVP3 Gdańsk</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_gorzow_wielkopolski" xmltv_id="TVP3 Gorzów Wielkopolski">TVP3 Gorzów Wielkopolski</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_katowice" xmltv_id="TVP3 Katowice">TVP3 Katowice</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_kielce" xmltv_id="TVP3 Kielce">TVP3 Kielce</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_krakow" xmltv_id="TVP3 Kraków">TVP3 Kraków</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_lublin" xmltv_id="TVP3 Lublin">TVP3 Lublin</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_lodz" xmltv_id="TVP3 Łódź">TVP3 Łódź</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_olsztyn" xmltv_id="TVP3 Olsztyn">TVP3 Olsztyn</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_opole" xmltv_id="TVP3 Opole">TVP3 Opole</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_poznan" xmltv_id="TVP3 Poznań">TVP3 Poznań</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_rzeszow" xmltv_id="TVP3 Rzeszów">TVP3 Rzeszów</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_szczecin" xmltv_id="TVP3 Szczecin">TVP3 Szczecin</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_warszawa" xmltv_id="TVP3 Warszawa">TVP3 Warszawa</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3_wroclaw" xmltv_id="TVP3 Wrocław">TVP3 Wrocław</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvp3" xmltv_id="TVP3">TVP3</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvr" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="tvregionalna_pl" xmltv_id="TVREGIONALNA.PL">TVREGIONALNA.PL</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="universal_channel" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="vh1_classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="vh1_polska" xmltv_id="VH1 Polska">VH1 Polska</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="viasat_history_viasat_nature" xmltv_id="Viasat History HD/Viasat Nature HD">Viasat History HD/Viasat Nature HD</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="viva_niem" xmltv_id="VIVA (NIEM)">VIVA (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="viva_schweiz" xmltv_id="VIVA Schweiz (NIEM)">VIVA Schweiz (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="viva" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="vox_musix_tv" xmltv_id="VOX Music TV">VOX Music TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="vox_niem" xmltv_id="VOX (NIEM)">VOX (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="water_planet" xmltv_id="Water Planet">Water Planet</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="wdr_niem" xmltv_id="WDR (NIEM)">WDR (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="wellbeing_network" xmltv_id="Wellbeing Network">Wellbeing Network</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="wp1" xmltv_id="WP1">WP1</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="xxl" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="zdf_niem" xmltv_id="ZDF (NIEM)">ZDF (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="zdf_theaterkanal_niem" xmltv_id="ZDF Theaterkanal (NIEM)">ZDF Theaterkanal (NIEM)</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="zest_tv" xmltv_id="Zest TV">Zest TV</channel>
+    <channel update="i" site="telemagazyn.pl" site_id="zoom_tv" xmltv_id="Zoom TV">Zoom TV</channel>
+  </channels>
+</site>

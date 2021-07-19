@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.2.2 -- Jan van Straaten" site="tv.mail.ru">
+  <channels>
+    <channel update="i" site="tv.mail.ru" site_id="850" xmltv_id="Первый канал">Первый канал</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1271" xmltv_id="Россия 1">Россия 1</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1395" xmltv_id="НТВ">НТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="948" xmltv_id="ТВ Центр">ТВ Центр</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1169" xmltv_id="Культура">Культура</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1112" xmltv_id="СТС">СТС</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1148" xmltv_id="РЕН ТВ">РЕН ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2287" xmltv_id="ТНТ">ТНТ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1051" xmltv_id="Dомашний">Dомашний</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2519" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2068" xmltv_id="Че">Че</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1091" xmltv_id="ТВ-3">ТВ-3</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1671" xmltv_id="Пятница!">Пятница!</channel>
+    <channel update="i" site="tv.mail.ru" site_id="963" xmltv_id="5 канал">5 канал</channel>
+    <channel update="i" site="tv.mail.ru" site_id="968" xmltv_id="Ю">Ю</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2338" xmltv_id="Супер">Супер</channel>
+    <channel update="i" site="tv.mail.ru" site_id="986" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1162" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1049" xmltv_id="2x2">2x2</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2121" xmltv_id="МАТЧ! Планета">МАТЧ! Планета</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1259" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="tv.mail.ru" site_id="717" xmltv_id="МИР">МИР</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2097" xmltv_id="ТНТ4">ТНТ4</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1670" xmltv_id="ОТР">ОТР</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1193" xmltv_id="Спас ТВ">Спас ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1973" xmltv_id="МИР PREMIUM">МИР PREMIUM</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1201" xmltv_id="Дом Кино">Дом Кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="796" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1027" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1653" xmltv_id="Кино ТВ">Кино ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1144" xmltv_id="TV1000 Русское кино">TV1000 Русское кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1800" xmltv_id="СТС Love">СТС Love</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1397" xmltv_id="Русский роман">Русский роман</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1566" xmltv_id="А2">А2</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2154" xmltv_id="History 2">History 2</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1926" xmltv_id="Amedia Hit">Amedia Hit</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1718" xmltv_id="А1 HD">А1 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2777" xmltv_id="А1">А1</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2150" xmltv_id="TV1000 World kino">TV1000 World kino</channel>
+    <channel update="i" site="tv.mail.ru" site_id="787" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="tv.mail.ru" site_id="769" xmltv_id="Телеканал 360°">Телеканал 360°</channel>
+    <channel update="i" site="tv.mail.ru" site_id="833" xmltv_id="Индийское кино">Индийское кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1651" xmltv_id="Киносемья">Киносемья</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1269" xmltv_id="TV XXI">TV XXI</channel>
+    <channel update="i" site="tv.mail.ru" site_id="808" xmltv_id="Paramount Comedy Russia">Paramount Comedy Russia</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2090" xmltv_id="Комедия">Комедия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="814" xmltv_id="Наше новое кино">Наше новое кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1083" xmltv_id="Кинокомедия">Кинокомедия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2875" xmltv_id="Кинопоказ">Кинопоказ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1085" xmltv_id="SONY ТВ">SONY ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="838" xmltv_id="Киносерия">Киносерия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1097" xmltv_id="Zee-TV">Zee-TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1103" xmltv_id="Родное кино">Родное кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1134" xmltv_id="Киномикс">Киномикс</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1669" xmltv_id="Еврокино">Еврокино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1159" xmltv_id="Киносвидание">Киносвидание</channel>
+    <channel update="i" site="tv.mail.ru" site_id="907" xmltv_id="Hollywood">Hollywood</channel>
+    <channel update="i" site="tv.mail.ru" site_id="929" xmltv_id="Настоящее Страшное Телевидение">Настоящее Страшное Телевидение</channel>
+    <channel update="i" site="tv.mail.ru" site_id="945" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2737" xmltv_id="RTVi Архив">RTVi Архив</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2739" xmltv_id="Кинозал 1">Кинозал 1</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1991" xmltv_id="Дом Кино Премиум">Дом Кино Премиум</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1241" xmltv_id="Кинохит">Кинохит</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1503" xmltv_id="Sony Turbo">Sony Turbo</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1249" xmltv_id="SONY Sci-Fi">SONY Sci-Fi</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2277" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1258" xmltv_id="Кинопремьера">Кинопремьера</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1004" xmltv_id="Русский Иллюзион">Русский Иллюзион</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2797" xmltv_id="Наш Киномир">Наш Киномир</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1007" xmltv_id="Иллюзион +">Иллюзион +</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1780" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2740" xmltv_id="Кинозал 2">Кинозал 2</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2111" xmltv_id="Калейдоскоп ТВ">Калейдоскоп ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2166" xmltv_id="Открытый мир">Открытый мир</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2741" xmltv_id="Кинозал 3">Кинозал 3</channel>
+    <channel update="i" site="tv.mail.ru" site_id="974" xmltv_id="Мир сериалов">Мир сериалов</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2276" xmltv_id="Пес и Ко">Пес и Ко</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2742" xmltv_id="Кинозал 4">Кинозал 4</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1010" xmltv_id="Феникс+Кино">Феникс+Кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2743" xmltv_id="Кинозал 5">Кинозал 5</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1367" xmltv_id="Русский бестселлер">Русский бестселлер</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2404" xmltv_id="360° Новости">360° Новости</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2717" xmltv_id="Amedia Premium">Amedia Premium</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2744" xmltv_id="Кинозал 6">Кинозал 6</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2246" xmltv_id="Поехали!">Поехали!</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1262" xmltv_id="РТВ - Любимое кино">РТВ - Любимое кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2745" xmltv_id="Кинозал 7">Кинозал 7</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2746" xmltv_id="Кинозал 8">Кинозал 8</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2747" xmltv_id="Кинозал 9">Кинозал 9</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2748" xmltv_id="Кинозал 10">Кинозал 10</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2876" xmltv_id="KINO24">KINO24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2749" xmltv_id="Кинозал 11">Кинозал 11</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2750" xmltv_id="Кинозал 12">Кинозал 12</channel>
+    <channel update="i" site="tv.mail.ru" site_id="921" xmltv_id="Кинопоказ HD">Кинопоказ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2269" xmltv_id="China TV">China TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2305" xmltv_id="Любимое.ТВ">Любимое.ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2306" xmltv_id="ТВТУР">ТВТУР</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2353" xmltv_id="НТВ Хит">НТВ Хит</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2214" xmltv_id="НТВ Право">НТВ Право</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2215" xmltv_id="НТВ Сериал">НТВ Сериал</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2288" xmltv_id="Классика Кино">Классика Кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2291" xmltv_id="Неизвестная Планета">Неизвестная Планета</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2295" xmltv_id="Ратник">Ратник</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2303" xmltv_id="Большая Азия">Большая Азия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2181" xmltv_id="Радио Страна ФМ">Радио Страна ФМ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2259" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2463" xmltv_id="О!Кино">О!Кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2339" xmltv_id="Тномер">Тномер</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2341" xmltv_id="Точка отрыва">Точка отрыва</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3153" xmltv_id="Trash">Trash</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2401" xmltv_id="BOLT">BOLT</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2161" xmltv_id="Центральное телевидение">Центральное телевидение</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2423" xmltv_id="Советское кино">Советское кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2701" xmltv_id="Star Family">Star Family</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2702" xmltv_id="Star Cinema">Star Cinema</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2202" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2979" xmltv_id="Остросюжетное SD">Остросюжетное SD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2237" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2296" xmltv_id="Дикий">Дикий</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2427" xmltv_id="Романтичное HD">Романтичное HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1794" xmltv_id="Русский Детектив">Русский Детектив</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2406" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2407" xmltv_id="Тайна">Тайна</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2669" xmltv_id="Любимое SD">Любимое SD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2977" xmltv_id="Премиальное SD">Премиальное SD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2726" xmltv_id="Дорама">Дорама</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2983" xmltv_id="Наш Кинороман SD">Наш Кинороман SD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2487" xmltv_id="Победа">Победа</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2507" xmltv_id="КиноСат">КиноСат</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2258" xmltv_id="HOME 4K">HOME 4K</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2437" xmltv_id="Мир вокруг HD">Мир вокруг HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2445" xmltv_id="FAN">FAN</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2447" xmltv_id="JOY COOK">JOY COOK</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2448" xmltv_id="Терра Инкогнита">Терра Инкогнита</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2450" xmltv_id="Наша Тема">Наша Тема</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2199" xmltv_id="Наше Крутое">Наше Крутое</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2981" xmltv_id="Наше Крутое">Наше Крутое</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3108" xmltv_id="Киноужас">Киноужас</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3140" xmltv_id="Про любовь">Про любовь</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3142" xmltv_id="Камеди">Камеди</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3161" xmltv_id="Мосфильм. Золотая коллекция">Мосфильм. Золотая коллекция</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2706" xmltv_id="Сериал">Сериал</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2451" xmltv_id="The World Live">The World Live</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2234" xmltv_id="TVRUS">TVRUS</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2810" xmltv_id="Bollywood">Bollywood</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3155" xmltv_id="Наш Кинопоказ">Наш Кинопоказ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3156" xmltv_id="Наше мужское">Наше мужское</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3157" xmltv_id="Блокбастер">Блокбастер</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3158" xmltv_id="Хит">Хит</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3118" xmltv_id="КиноСезон">КиноСезон</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2198" xmltv_id="Noise">Noise</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2252" xmltv_id="7 TV">7 TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2044" xmltv_id="Мужское кино">Мужское кино</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2060" xmltv_id="МАТЧ!">МАТЧ!</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2811" xmltv_id="Сила ТВ">Сила ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="713" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1234" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tv.mail.ru" site_id="864" xmltv_id="МАТЧ! Футбол 1">МАТЧ! Футбол 1</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1810" xmltv_id="МАТЧ! Футбол 3">МАТЧ! Футбол 3</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2470" xmltv_id="МАТЧ! Страна">МАТЧ! Страна</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2560" xmltv_id="МАТЧ! Наш Спорт">МАТЧ! Наш Спорт</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1552" xmltv_id="МАТЧ! Футбол 2">МАТЧ! Футбол 2</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1066" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2122" xmltv_id="МАТЧ! Игра">МАТЧ! Игра</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2123" xmltv_id="МАТЧ! Арена">МАТЧ! Арена</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2384" xmltv_id="МАТЧ! Премьер">МАТЧ! Премьер</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1143" xmltv_id="МАТЧ! Боец">МАТЧ! Боец</channel>
+    <channel update="i" site="tv.mail.ru" site_id="905" xmltv_id="Телеканал КХЛ">Телеканал КХЛ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="980" xmltv_id="Футбол">Футбол</channel>
+    <channel update="i" site="tv.mail.ru" site_id="742" xmltv_id="Русский Экстрим">Русский Экстрим</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1300" xmltv_id="Viasat Sport">Viasat Sport</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1721" xmltv_id="Морской">Морской</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2682" xmltv_id="МАТЧ! HD">МАТЧ! HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2672" xmltv_id="МАТЧ! Премьер HD">МАТЧ! Премьер HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1436" xmltv_id="МАТЧ! Футбол 1 HD">МАТЧ! Футбол 1 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2681" xmltv_id="МАТЧ! Футбол 3 HD">МАТЧ! Футбол 3 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1405" xmltv_id="МАТЧ! Футбол 2 HD">МАТЧ! Футбол 2 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2458" xmltv_id="Мир Баскетбола">Мир Баскетбола</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2736" xmltv_id="Viasat Explore Nordic">Viasat Explore Nordic</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2301" xmltv_id="Старт">Старт</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2124" xmltv_id="МАТЧ! Арена HD">МАТЧ! Арена HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2399" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2680" xmltv_id="Матч! Игра HD">Матч! Игра HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2294" xmltv_id="Eurosport Gold">Eurosport Gold</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2351" xmltv_id="M1 GLOBAL">M1 GLOBAL</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2263" xmltv_id="FightBox">FightBox</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1851" xmltv_id="Бокс ТВ">Бокс ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1827" xmltv_id="МИР 24">МИР 24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1126" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1136" xmltv_id="Дождь">Дождь</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1197" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1075" xmltv_id="Евроновости">Евроновости</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1115" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1528" xmltv_id="CGTN Русский">CGTN Русский</channel>
+    <channel update="i" site="tv.mail.ru" site_id="781" xmltv_id="PRO Business">PRO Business</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1141" xmltv_id="Время">Время</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1384" xmltv_id="БелРос">БелРос</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1684" xmltv_id="Эхо TV">Эхо TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1813" xmltv_id="Вместе-РФ">Вместе-РФ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2290" xmltv_id="Известия">Известия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="739" xmltv_id="Первый метео">Первый метео</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1352" xmltv_id="BBC">BBC</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1622" xmltv_id="CNN (eng)">CNN (eng)</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1380" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1610" xmltv_id="NHK WORLD">NHK WORLD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="726" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tv.mail.ru" site_id="835" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2693" xmltv_id="Al JaZeera">Al JaZeera</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2386" xmltv_id="Хабар 24">Хабар 24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2420" xmltv_id="Deutsche Welle (Rus)">Deutsche Welle (Rus)</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1204" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3123" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1420" xmltv_id="France 24 Francais">France 24 Francais</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1658" xmltv_id="Russia Today Documentary">Russia Today Documentary</channel>
+    <channel update="i" site="tv.mail.ru" site_id="843" xmltv_id="Москва-24">Москва-24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1454" xmltv_id="ACB TV">ACB TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="732" xmltv_id="Москва. Доверие">Москва. Доверие</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2806" xmltv_id="Наша сибирь HD">Наша сибирь HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1319" xmltv_id="Санкт-Петербург">Санкт-Петербург</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2235" xmltv_id="Продвижение">Продвижение</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1804" xmltv_id="Brio-TV">Brio-TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1811" xmltv_id="Крик ТВ">Крик ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1882" xmltv_id="Кубань 24 Орбита">Кубань 24 Орбита</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2994" xmltv_id="H1">H1</channel>
+    <channel update="i" site="tv.mail.ru" site_id="743" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tv.mail.ru" site_id="734" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tv.mail.ru" site_id="933" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2273" xmltv_id="Доктор">Доктор</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1334" xmltv_id="Моя Планета">Моя Планета</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1799" xmltv_id="History">History</channel>
+    <channel update="i" site="tv.mail.ru" site_id="736" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1362" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tv.mail.ru" site_id="800" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1063" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1266" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1092" xmltv_id="Психология 21">Психология 21</channel>
+    <channel update="i" site="tv.mail.ru" site_id="868" xmltv_id="Кто есть кто">Кто есть кто</channel>
+    <channel update="i" site="tv.mail.ru" site_id="975" xmltv_id="365 дней ТВ">365 дней ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1008" xmltv_id="Совершенно секретно">Совершенно секретно</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2186" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1309" xmltv_id="Ocean TV">Ocean TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1064" xmltv_id="Вопросы и ответы">Вопросы и ответы</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1340" xmltv_id="Zooпарк">Zooпарк</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1612" xmltv_id="Нано">Нано</channel>
+    <channel update="i" site="tv.mail.ru" site_id="888" xmltv_id="Наука">Наука</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1229" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="tv.mail.ru" site_id="994" xmltv_id="Зоо ТВ">Зоо ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1968" xmltv_id="Живая планета">Живая планета</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1433" xmltv_id="Просвещение">Просвещение</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2007" xmltv_id="Тайны галактики">Тайны галактики</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1956" xmltv_id="ЕГЭ ТВ">ЕГЭ ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1727" xmltv_id="История">История</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2355" xmltv_id="Московский образовательный">Московский образовательный</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2266" xmltv_id="Синергия ТВ">Синергия ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2396" xmltv_id="NANO HD">NANO HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2411" xmltv_id="TV BRICS">TV BRICS</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2721" xmltv_id="Animaux">Animaux</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1835" xmltv_id="В мире животных">В мире животных</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2727" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2728" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2729" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1038" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2677" xmltv_id="MTV European">MTV European</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1716" xmltv_id="BRIDGE TV HITS">BRIDGE TV HITS</channel>
+    <channel update="i" site="tv.mail.ru" site_id="715" xmltv_id="VH1 European">VH1 European</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1739" xmltv_id="MTV Россия">MTV Россия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2135" xmltv_id="Наше ТВ">Наше ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1057" xmltv_id="MusicBox TV">MusicBox TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1570" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
+    <channel update="i" site="tv.mail.ru" site_id="810" xmltv_id="MCM TOP">MCM TOP</channel>
+    <channel update="i" site="tv.mail.ru" site_id="822" xmltv_id="BRIDGE TV Русский Хит">BRIDGE TV Русский Хит</channel>
+    <channel update="i" site="tv.mail.ru" site_id="834" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1346" xmltv_id="Ru.TV">Ru.TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1104" xmltv_id="Музыка Первого">Музыка Первого</channel>
+    <channel update="i" site="tv.mail.ru" site_id="853" xmltv_id="BRIDGE TV">BRIDGE TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1111" xmltv_id="МУЗ ТВ">МУЗ ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1127" xmltv_id="RUSSIAN MUSICBOX">RUSSIAN MUSICBOX</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1129" xmltv_id="Шансон-TB">Шансон-TB</channel>
+    <channel update="i" site="tv.mail.ru" site_id="901" xmltv_id="Ля-минор. Мой музыкальный">Ля-минор. Мой музыкальный</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1182" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1185" xmltv_id="ТНТ MUSIC">ТНТ MUSIC</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1449" xmltv_id="RE:Music">RE:Music</channel>
+    <channel update="i" site="tv.mail.ru" site_id="942" xmltv_id="О2ТВ">О2ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="953" xmltv_id="RAP.RU">RAP.RU</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2304" xmltv_id="FRESHTV">FRESHTV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2317" xmltv_id="Festival 4K">Festival 4K</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2367" xmltv_id="Жар Птица">Жар Птица</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1660" xmltv_id="Europa Plus TV HD">Europa Plus TV HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2325" xmltv_id="Мультимузыка">Мультимузыка</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2893" xmltv_id="Stingray iConcerts HD">Stingray iConcerts HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2293" xmltv_id="Восток ТВ">Восток ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2457" xmltv_id="Europa Plus TV">Europa Plus TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2465" xmltv_id="AIVA">AIVA</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1831" xmltv_id="BRIDGE TV CLASSIC">BRIDGE TV CLASSIC</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2486" xmltv_id="SONGTV Russia">SONGTV Russia</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2280" xmltv_id="Clubbing TV">Clubbing TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2264" xmltv_id="360 TuneBox">360 TuneBox</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2217" xmltv_id="HITV">HITV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2024" xmltv_id="JuCe TV">JuCe TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="775" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1894" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1219" xmltv_id="Ностальгия">Ностальгия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2274" xmltv_id="Диалоги о рыбалке">Диалоги о рыбалке</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1243" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="tv.mail.ru" site_id="889" xmltv_id="Ретро">Ретро</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1944" xmltv_id="Техно 24">Техно 24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1282" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1296" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1307" xmltv_id="Оружие">Оружие</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1567" xmltv_id="Театр">Театр</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1574" xmltv_id="Shop24">Shop24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1353" xmltv_id="Охота и рыбалка">Охота и рыбалка</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1356" xmltv_id="Russian Travel Guide">Russian Travel Guide</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1628" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1396" xmltv_id="Драйв">Драйв</channel>
+    <channel update="i" site="tv.mail.ru" site_id="919" xmltv_id="ЕДА">ЕДА</channel>
+    <channel update="i" site="tv.mail.ru" site_id="924" xmltv_id="Усадьба">Усадьба</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1195" xmltv_id="Загородная жизнь">Загородная жизнь</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1477" xmltv_id="Fashion One">Fashion One</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1244" xmltv_id="Здоровое ТВ">Здоровое ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="801" xmltv_id="Жара">Жара</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1094" xmltv_id="Кухня ТВ">Кухня ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2136" xmltv_id="E TV">E TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1122" xmltv_id="Авто Плюс">Авто Плюс</channel>
+    <channel update="i" site="tv.mail.ru" site_id="911" xmltv_id="ЖИВИ!">ЖИВИ!</channel>
+    <channel update="i" site="tv.mail.ru" site_id="729" xmltv_id="Охотник и Рыболов">Охотник и Рыболов</channel>
+    <channel update="i" site="tv.mail.ru" site_id="744" xmltv_id="Shopping Live">Shopping Live</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1002" xmltv_id="Загородный">Загородный</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1003" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2808" xmltv_id="World Fashion">World Fashion</channel>
+    <channel update="i" site="tv.mail.ru" site_id="761" xmltv_id="Здоровье">Здоровье</channel>
+    <channel update="i" site="tv.mail.ru" site_id="763" xmltv_id="Телепутешествия">Телепутешествия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1019" xmltv_id="Мужской">Мужской</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2137" xmltv_id="Конный мир">Конный мир</channel>
+    <channel update="i" site="tv.mail.ru" site_id="896" xmltv_id="Союз">Союз</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2048" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1050" xmltv_id="Телекафе">Телекафе</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1343" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2281" xmltv_id="C4K360">C4K360</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2615" xmltv_id="Дикая рыбалка">Дикая рыбалка</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2368" xmltv_id="Motorsport.tv">Motorsport.tv</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1707" xmltv_id="Travel+Adventure">Travel+Adventure</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1993" xmltv_id="Мир Увлечений">Мир Увлечений</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2854" xmltv_id="Авто 24">Авто 24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2616" xmltv_id="Дикая охота">Дикая охота</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1700" xmltv_id="Охотник и Рыболов HD">Охотник и Рыболов HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2324" xmltv_id="Дайвинг.TV">Дайвинг.TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2356" xmltv_id="Foodman.club">Foodman.club</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2425" xmltv_id="Вкусное TV">Вкусное TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1333" xmltv_id="Домашние животные">Домашние животные</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2922" xmltv_id="Fast &amp; FunBox">Fast &amp; FunBox</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2419" xmltv_id="Asia Amazing">Asia Amazing</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2167" xmltv_id="Твой Дом">Твой Дом</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2195" xmltv_id="Анекдот ТВ">Анекдот ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2285" xmltv_id="Первый вегетарианский">Первый вегетарианский</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2035" xmltv_id="Бобер">Бобер</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2173" xmltv_id="Fashion One 4K">Fashion One 4K</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2468" xmltv_id="Бьюти.TV">Бьюти.TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2216" xmltv_id="НТВ Стиль">НТВ Стиль</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2153" xmltv_id="КВН ТВ">КВН ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3117" xmltv_id="Love Nature">Love Nature</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3154" xmltv_id="HGTV Home &amp; Garden">HGTV Home &amp; Garden</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2243" xmltv_id="World Business Channel">World Business Channel</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2383" xmltv_id="СТС Kids HD">СТС Kids HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2311" xmltv_id="Детский мир">Детский мир</channel>
+    <channel update="i" site="tv.mail.ru" site_id="806" xmltv_id="Радость Моя">Радость Моя</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1576" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1324" xmltv_id="Детский">Детский</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1326" xmltv_id="Gulli Girl">Gulli Girl</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1603" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1354" xmltv_id="TiJi">TiJi</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1381" xmltv_id="Мультиландия">Мультиландия</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1252" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="tv.mail.ru" site_id="745" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1516" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tv.mail.ru" site_id="766" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1825" xmltv_id="Мульт">Мульт</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2006" xmltv_id="Рыжий">Рыжий</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2424" xmltv_id="Советские мультфильмы">Советские мультфильмы</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2416" xmltv_id="Смайлик ТВ">Смайлик ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2426" xmltv_id="Сказки Зайки">Сказки Зайки</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2197" xmltv_id="Малыш ТВ">Малыш ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2224" xmltv_id="О!">О!</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2446" xmltv_id="NickToons">NickToons</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2212" xmltv_id="В гостях у сказки">В гостях у сказки</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2724" xmltv_id="Карапуз ТВ">Карапуз ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2042" xmltv_id="Ani">Ani</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1666" xmltv_id="Россия 1 HD">Россия 1 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1693" xmltv_id="Первый канал HD">Первый канал HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2622" xmltv_id="НТВ HD">НТВ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2580" xmltv_id="РЕН ТВ HD">РЕН ТВ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2180" xmltv_id="Кино ТВ HD">Кино ТВ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2349" xmltv_id="Кино Ultra HD">Кино Ultra HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2869" xmltv_id="Кинопремьера HD">Кинопремьера HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2711" xmltv_id="TV1000 Русское кино HD">TV1000 Русское кино HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2716" xmltv_id="Amedia Hit HD">Amedia Hit HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2227" xmltv_id="ТНТ HD">ТНТ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1741" xmltv_id="Остросюжетное HD">Остросюжетное HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2771" xmltv_id="EuroSport 2 HD">EuroSport 2 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2873" xmltv_id="Дом кино Премиум HD">Дом кино Премиум HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2874" xmltv_id="Дом кино HD">Дом кино HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2698" xmltv_id="МИР 24 HD">МИР 24 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1798" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2168" xmltv_id="ТЛУМ HD">ТЛУМ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1524" xmltv_id="ViP Premiere">ViP Premiere</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1832" xmltv_id="Телеканал 360° HD">Телеканал 360° HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1579" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1070" xmltv_id="Комедийное HD">Комедийное HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1598" xmltv_id="ViP Comedy">ViP Comedy</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2174" xmltv_id="Русский роман HD">Русский роман HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1470" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1479" xmltv_id="ViP Megahit">ViP Megahit</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1830" xmltv_id="Candy 3D HD">Candy 3D HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2179" xmltv_id="BRIDGE HD">BRIDGE HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2194" xmltv_id="RUSSIAN MUSICBOX HD">RUSSIAN MUSICBOX HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1702" xmltv_id="Candy TV HD">Candy TV HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1781" xmltv_id="Paramount Channel HD">Paramount Channel HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1784" xmltv_id="Paramount Comedy Russia HD">Paramount Comedy Russia HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="773" xmltv_id="Шокирующее HD">Шокирующее HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2309" xmltv_id="Дикая рыбалка HD">Дикая рыбалка HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1542" xmltv_id="MTV Live International HD">MTV Live International HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2310" xmltv_id="Дикая охота HD">Дикая охота HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1806" xmltv_id="Планета HD">Планета HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2321" xmltv_id="Eurosport Gold HD">Eurosport Gold HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1557" xmltv_id="Fox Life HD">Fox Life HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1559" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1818" xmltv_id="Viasat Sport HD">Viasat Sport HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1829" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2348" xmltv_id="Сериал Ultra HD">Сериал Ultra HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1590" xmltv_id="Телеканал КХЛ HD">Телеканал КХЛ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1618" xmltv_id="Дождь HD">Дождь HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1619" xmltv_id="SONY ТВ HD">SONY ТВ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1116" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2674" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2675" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2676" xmltv_id="MTV Россия HD">MTV Россия HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2678" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1401" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1683" xmltv_id="Amedia Premium HD">Amedia Premium HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2452" xmltv_id="ViP Serial">ViP Serial</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2735" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1744" xmltv_id="Премиальное HD">Премиальное HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1817" xmltv_id="Russian Travel Guide HD">Russian Travel Guide HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1422" xmltv_id="Hollywood HD">Hollywood HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1809" xmltv_id="ID Investigation Discovery HD">ID Investigation Discovery HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1617" xmltv_id="Outdoor HD">Outdoor HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2244" xmltv_id="History 2 HD">History 2 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1257" xmltv_id="HD Медиа">HD Медиа</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2794" xmltv_id="KBS World HD">KBS World HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2300" xmltv_id="Дорама HD">Дорама HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1572" xmltv_id="Trace Sports HD">Trace Sports HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2868" xmltv_id="Fine Living HD">Fine Living HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1101" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2894" xmltv_id="FAN HD">FAN HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1404" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2987" xmltv_id="English Club HD">English Club HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2751" xmltv_id="Еврокино HD">Еврокино HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3011" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="981" xmltv_id="Еда Премиум">Еда Премиум</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2261" xmltv_id="Fast &amp; FunBox HD">Fast &amp; FunBox HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1250" xmltv_id="Приключения HD">Приключения HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2279" xmltv_id="Наша Сибирь 4К">Наша Сибирь 4К</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1521" xmltv_id="Travel+Adventure HD">Travel+Adventure HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1408" xmltv_id="Fashion One HD">Fashion One HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2116" xmltv_id="Insight Ultra HD">Insight Ultra HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="873" xmltv_id="HDL">HDL</channel>
+    <channel update="i" site="tv.mail.ru" site_id="904" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="832" xmltv_id="Luxe HD">Luxe HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2113" xmltv_id="Museum HD">Museum HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2115" xmltv_id="Fuel TV HD">Fuel TV HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2456" xmltv_id="NGC HD">NGC HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2802" xmltv_id="Футбол HD">Футбол HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1836" xmltv_id="Эврика HD">Эврика HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="786" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1834" xmltv_id="Russia Today Doc HD">Russia Today Doc HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1884" xmltv_id="Russia Today Documentary HD">Russia Today Documentary HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2731" xmltv_id="Russia Today HD">Russia Today HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1821" xmltv_id="1 HD Music Television">1 HD Music Television</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2613" xmltv_id="РЖД HD">РЖД HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2976" xmltv_id="Любимое">Любимое</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2753" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2772" xmltv_id="World Business Channel HD">World Business Channel HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2200" xmltv_id="Наш Кинороман">Наш Кинороман</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2011" xmltv_id="Капитан Фантастика">Капитан Фантастика</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1786" xmltv_id="Авто 24 HD">Авто 24 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2175" xmltv_id="Живая природа HD">Живая природа HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1871" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2820" xmltv_id="Мужское кино HD">Мужское кино HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2823" xmltv_id="Живи! HD">Живи! HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3111" xmltv_id="Арсенал">Арсенал</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2856" xmltv_id="Конный мир HD">Конный мир HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2859" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3137" xmltv_id="Наш Кинопоказ HD">Наш Кинопоказ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2882" xmltv_id="Motorsport.tv HD">Motorsport.tv HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3138" xmltv_id="Блокбастер HD">Блокбастер HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3139" xmltv_id="Наше мужское HD">Наше мужское HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3141" xmltv_id="Хит HD">Хит HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2919" xmltv_id="Теледом HD">Теледом HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2932" xmltv_id="Здоровье HD">Здоровье HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2704" xmltv_id="Точка отрыва HD">Точка отрыва HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2204" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2775" xmltv_id="FashionBox HD">FashionBox HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2776" xmltv_id="Открытый HD">Открытый HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2798" xmltv_id="Русский Экстрим HD">Русский Экстрим HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2805" xmltv_id="LifeNews HD">LifeNews HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2807" xmltv_id="Морской HD">Морской HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1854" xmltv_id="Страшное HD">Страшное HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2865" xmltv_id="Travel XP HD">Travel XP HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2226" xmltv_id="Мультик HD">Мультик HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1723" xmltv_id="HD Media 3D">HD Media 3D</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2844" xmltv_id="M6 Suisse HD">M6 Suisse HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2863" xmltv_id="Киномикс HD">Киномикс HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2871" xmltv_id="365 дней ТВ HD">365 дней ТВ HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2369" xmltv_id="Russian Extreme TV ULTRA HD CINEMA">Russian Extreme TV ULTRA HD CINEMA</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2881" xmltv_id="M1 Global HD">M1 Global HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2232" xmltv_id="Russian Extreme ULTRA HD">Russian Extreme ULTRA HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="3032" xmltv_id="Под елкой HD">Под елкой HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2860" xmltv_id="Luxury HD">Luxury HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2705" xmltv_id="Русская ночь HD">Русская ночь HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1511" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2207" xmltv_id="Шалун HD">Шалун HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1128" xmltv_id="Русская ночь">Русская ночь</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2206" xmltv_id="Шалун">Шалун</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1561" xmltv_id="Эгоист ТВ">Эгоист ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1759" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1787" xmltv_id="O-la-la">O-la-la</channel>
+    <channel update="i" site="tv.mail.ru" site_id="782" xmltv_id="Hustler TV Europe">Hustler TV Europe</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2326" xmltv_id="Blue Hustler 24">Blue Hustler 24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1378" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2795" xmltv_id="Penthouse">Penthouse</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2755" xmltv_id="Redlight">Redlight</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2756" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2832" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1302" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2916" xmltv_id="Private Spice">Private Spice</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1474" xmltv_id="French Lover">French Lover</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2262" xmltv_id="Erox">Erox</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1652" xmltv_id="Candy TV">Candy TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2298" xmltv_id="Barely legal">Barely legal</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2320" xmltv_id="Babes TV">Babes TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1778" xmltv_id="Candy Man">Candy Man</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1263" xmltv_id="Cinema">Cinema</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1385" xmltv_id="Беларусь 24">Беларусь 24</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1717" xmltv_id="8 канал">8 канал</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1840" xmltv_id="Живая природа">Живая природа</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2885" xmltv_id="Angel TV">Angel TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1096" xmltv_id="Top Shop TV">Top Shop TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1872" xmltv_id="Точка ТВ">Точка ТВ</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1624" xmltv_id="Global Star">Global Star</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1633" xmltv_id="РЖД">РЖД</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1637" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel update="i" site="tv.mail.ru" site_id="1638" xmltv_id="ТБН">ТБН</channel>
+    <channel update="i" site="tv.mail.ru" site_id="2673" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
+  </channels>
+</site>

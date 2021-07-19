@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.1 -- Jan van Straaten" site="tet.plus">
+  <channels>
+    <channel update="i" site="tet.plus" site_id="2610605" xmltv_id="LTV1">LTV1</channel>
+    <channel update="i" site="tet.plus" site_id="2610612" xmltv_id="LTV7">LTV7</channel>
+    <channel update="i" site="tet.plus" site_id="2610620" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tet.plus" site_id="2610629" xmltv_id="TV3 Life">TV3 Life</channel>
+    <channel update="i" site="tet.plus" site_id="2610638" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="tet.plus" site_id="2610647" xmltv_id="3+">3+</channel>
+    <channel update="i" site="tet.plus" site_id="2610656" xmltv_id="Pirmais Baltijas Kanāls Latvija">Pirmais Baltijas Kanāls Latvija</channel>
+    <channel update="i" site="tet.plus" site_id="2610684" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tet.plus" site_id="2610691" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="tet.plus" site_id="2610706" xmltv_id="Duo 3">Duo 3</channel>
+    <channel update="i" site="tet.plus" site_id="2610713" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tet.plus" site_id="2610720" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="tet.plus" site_id="2610796" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="tet.plus" site_id="2610812" xmltv_id="KHL">KHL</channel>
+    <channel update="i" site="tet.plus" site_id="2610835" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tet.plus" site_id="2610849" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tet.plus" site_id="2610856" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tet.plus" site_id="2610865" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tet.plus" site_id="2610872" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="tet.plus" site_id="2610879" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="tet.plus" site_id="2610888" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tet.plus" site_id="2610921" xmltv_id="Наука">Наука</channel>
+    <channel update="i" site="tet.plus" site_id="2610932" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tet.plus" site_id="2610939" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="tet.plus" site_id="2610946" xmltv_id="VH1 Europe">VH1 Europe</channel>
+    <channel update="i" site="tet.plus" site_id="2610953" xmltv_id="Latvijas Šlāgerkanāls">Latvijas Šlāgerkanāls</channel>
+    <channel update="i" site="tet.plus" site_id="2610960" xmltv_id="Mūzikas video">Mūzikas video</channel>
+    <channel update="i" site="tet.plus" site_id="2610974" xmltv_id="TV3 Mini">TV3 Mini</channel>
+    <channel update="i" site="tet.plus" site_id="2610983" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="tet.plus" site_id="2610994" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tet.plus" site_id="2611027" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="tet.plus" site_id="2611092" xmltv_id="Русский Иллюзион">Русский Иллюзион</channel>
+    <channel update="i" site="tet.plus" site_id="2611114" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="tet.plus" site_id="2611125" xmltv_id="Euronews ENG">Euronews ENG</channel>
+    <channel update="i" site="tet.plus" site_id="2611132" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tet.plus" site_id="2611139" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tet.plus" site_id="2611146" xmltv_id="PRO 7">PRO 7</channel>
+    <channel update="i" site="tet.plus" site_id="2611157" xmltv_id="SAT1">SAT1</channel>
+    <channel update="i" site="tet.plus" site_id="2611168" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tet.plus" site_id="2611179" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel update="i" site="tet.plus" site_id="2611258" xmltv_id="sportacentrs.com">sportacentrs.com</channel>
+    <channel update="i" site="tet.plus" site_id="2611267" xmltv_id="Охота и рыбалка">Охота и рыбалка</channel>
+    <channel update="i" site="tet.plus" site_id="2611289" xmltv_id="ReTV">ReTV</channel>
+    <channel update="i" site="tet.plus" site_id="2611296" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="tet.plus" site_id="2611307" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tet.plus" site_id="2611318" xmltv_id="Моя планета">Моя планета</channel>
+    <channel update="i" site="tet.plus" site_id="2611329" xmltv_id="Duo 6">Duo 6</channel>
+    <channel update="i" site="tet.plus" site_id="2611347" xmltv_id="Иллюзион +">Иллюзион +</channel>
+    <channel update="i" site="tet.plus" site_id="2611354" xmltv_id="Kidzone">Kidzone</channel>
+    <channel update="i" site="tet.plus" site_id="2611375" xmltv_id="RīgaTV 24">RīgaTV 24</channel>
+    <channel update="i" site="tet.plus" site_id="2611390" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tet.plus" site_id="2611397" xmltv_id="Дождь">Дождь</channel>
+    <channel update="i" site="tet.plus" site_id="2611426" xmltv_id="Best4Sport TV">Best4Sport TV</channel>
+    <channel update="i" site="tet.plus" site_id="2611435" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="tet.plus" site_id="2611442" xmltv_id="360TV">360TV</channel>
+    <channel update="i" site="tet.plus" site_id="2611478" xmltv_id="Filmzone">Filmzone</channel>
+    <channel update="i" site="tet.plus" site_id="2611485" xmltv_id="STV Pirmā!">STV Pirmā!</channel>
+    <channel update="i" site="tet.plus" site_id="2611515" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="tet.plus" site_id="2611531" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="tet.plus" site_id="2611616" xmltv_id="Setanta Sports HD">Setanta Sports HD</channel>
+    <channel update="i" site="tet.plus" site_id="2611627" xmltv_id="Ohotnik i Ribolov">Ohotnik i Ribolov</channel>
+    <channel update="i" site="tet.plus" site_id="2611636" xmltv_id="VIP Comedy">VIP Comedy</channel>
+    <channel update="i" site="tet.plus" site_id="2611653" xmltv_id="THT">THT</channel>
+    <channel update="i" site="tet.plus" site_id="2611682" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tet.plus" site_id="2611698" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel update="i" site="tet.plus" site_id="2611714" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="tet.plus" site_id="2611721" xmltv_id="Filmzone+">Filmzone+</channel>
+    <channel update="i" site="tet.plus" site_id="2611730" xmltv_id="Euronews RUS">Euronews RUS</channel>
+    <channel update="i" site="tet.plus" site_id="2611747" xmltv_id="Пятница International">Пятница International</channel>
+    <channel update="i" site="tet.plus" site_id="2611754" xmltv_id="THT4 International">THT4 International</channel>
+    <channel update="i" site="tet.plus" site_id="2611791" xmltv_id="Epic Drama HD (skatītāju izvēle)">Epic Drama HD (skatītāju izvēle)</channel>
+    <channel update="i" site="tet.plus" site_id="2611848" xmltv_id="Smartzone">Smartzone</channel>
+    <channel update="i" site="tet.plus" site_id="2611857" xmltv_id="THT Music (skatītāju izvēle)">THT Music (skatītāju izvēle)</channel>
+    <channel update="i" site="tet.plus" site_id="2611864" xmltv_id="Best4sport TV-2">Best4sport TV-2</channel>
+    <channel update="i" site="tet.plus" site_id="2611872" xmltv_id="Best4sport TV extra">Best4sport TV extra</channel>
+    <channel update="i" site="tet.plus" site_id="6476773" xmltv_id="Star Family">Star Family</channel>
+    <channel update="i" site="tet.plus" site_id="6476855" xmltv_id="Star Cinema HD">Star Cinema HD</channel>
+    <channel update="i" site="tet.plus" site_id="31718701" xmltv_id="A Wealth of Entertainment (Skatītāju izvēle)">A Wealth of Entertainment (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.plus" site_id="31718708" xmltv_id="France 24 (Skatītāju izvēle)">France 24 (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.plus" site_id="52195133" xmltv_id="TV21">TV21</channel>
+    <channel update="i" site="tet.plus" site_id="59088205" xmltv_id="Nick Toons">Nick Toons</channel>
+    <channel update="i" site="tet.plus" site_id="68374465" xmltv_id="Bolt (Skatītāju izvēle)">Bolt (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.plus" site_id="69827329" xmltv_id="1+2  (Skatītāju izvēle)">1+2  (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.plus" site_id="76431034" xmltv_id="Kidzone plus (HD)">Kidzone plus (HD)</channel>
+    <channel update="i" site="tet.plus" site_id="78393247" xmltv_id="TVCI">TVCI</channel>
+    <channel update="i" site="tet.plus" site_id="79009739" xmltv_id="Deutsche Welle English HD">Deutsche Welle English HD</channel>
+    <channel update="i" site="tet.plus" site_id="79097475" xmltv_id="Zdorovoe TV">Zdorovoe TV</channel>
+    <channel update="i" site="tet.plus" site_id="80775617" xmltv_id="FilmUADrama">FilmUADrama</channel>
+    <channel update="i" site="tet.plus" site_id="83767041" xmltv_id="TV4">TV4</channel>
+  </channels>
+</site>

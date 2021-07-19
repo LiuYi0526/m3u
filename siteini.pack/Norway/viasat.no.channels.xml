@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" site="viasat.no">
+  <channels>
+    <channel update="i" site="viasat.no" site_id="0091" xmltv_id="NRK1 HD">NRK1 HD</channel>
+    <channel update="i" site="viasat.no" site_id="0187" xmltv_id="TV2 HD (NO)">TV2 HD (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="0298" xmltv_id="TV3 HD (NO)">TV3 HD (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="0361" xmltv_id="V4 HD (NO)">V4 HD (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="0206" xmltv_id="TV6 (NO)">TV6 (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="0288" xmltv_id="NRK2 HD">NRK2 HD</channel>
+    <channel update="i" site="viasat.no" site_id="0289" xmltv_id="NRK3 HD">NRK3 HD</channel>
+    <channel update="i" site="viasat.no" site_id="0405" xmltv_id="TV2 Zebra HD">TV2 Zebra HD</channel>
+    <channel update="i" site="viasat.no" site_id="0277" xmltv_id="TV2 Livsstil">TV2 Livsstil</channel>
+    <channel update="i" site="viasat.no" site_id="533" xmltv_id="MAX HD">MAX HD</channel>
+    <channel update="i" site="viasat.no" site_id="534" xmltv_id="TV Norge HD">TV Norge HD</channel>
+    <channel update="i" site="viasat.no" site_id="0056" xmltv_id="FEM">FEM</channel>
+    <channel update="i" site="viasat.no" site_id="535" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="viasat.no" site_id="532" xmltv_id="Discovery Channel (NO)">Discovery Channel (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="457" xmltv_id="TV2 Nyhetskanalen HD">TV2 Nyhetskanalen HD</channel>
+    <channel update="i" site="viasat.no" site_id="0406" xmltv_id="TV2 Sport 2 HD (NO)">TV2 Sport 2 HD (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="0357" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="viasat.no" site_id="0358" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="viasat.no" site_id="0250" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="viasat.no" site_id="0316" xmltv_id="National Geographic (NO)">National Geographic (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="0083" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="viasat.no" site_id="558" xmltv_id="OTT Nat Geo Wild HD">OTT Nat Geo Wild HD</channel>
+    <channel update="i" site="viasat.no" site_id="0271" xmltv_id="V Sport+">V Sport+</channel>
+    <channel update="i" site="viasat.no" site_id="0365" xmltv_id="V Sport 1">V Sport 1</channel>
+    <channel update="i" site="viasat.no" site_id="608" xmltv_id="V Sport 2">V Sport 2</channel>
+    <channel update="i" site="viasat.no" site_id="0364" xmltv_id="V Sport Golf HD">V Sport Golf HD</channel>
+    <channel update="i" site="viasat.no" site_id="609" xmltv_id="V Sport 3">V Sport 3</channel>
+    <channel update="i" site="viasat.no" site_id="418" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel>
+    <channel update="i" site="viasat.no" site_id="0321" xmltv_id="V Film Premiere HD">V Film Premiere HD</channel>
+    <channel update="i" site="viasat.no" site_id="0299" xmltv_id="V Film Action HD">V Film Action HD</channel>
+    <channel update="i" site="viasat.no" site_id="0320" xmltv_id="V Series HD">V Series HD</channel>
+    <channel update="i" site="viasat.no" site_id="0308" xmltv_id="V Film Family">V Film Family</channel>
+    <channel update="i" site="viasat.no" site_id="0322" xmltv_id="V Film Hits HD">V Film Hits HD</channel>
+    <channel update="i" site="viasat.no" site_id="531" xmltv_id="Eurosport 1 (NO)">Eurosport 1 (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="530" xmltv_id="Eurosport Norge HD">Eurosport Norge HD</channel>
+    <channel update="i" site="viasat.no" site_id="0197" xmltv_id="TV2 Sport Premium 1 HD">TV2 Sport Premium 1 HD</channel>
+    <channel update="i" site="viasat.no" site_id="0198" xmltv_id="TV2 Sport Premium 2 HD">TV2 Sport Premium 2 HD</channel>
+    <channel update="i" site="viasat.no" site_id="0199" xmltv_id="TV2 Sport 1 HD (NO)">TV2 Sport 1 HD (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="556" xmltv_id="OTT NFL Network HD">OTT NFL Network HD</channel>
+    <channel update="i" site="viasat.no" site_id="0281" xmltv_id="IP-Euronews">IP-Euronews</channel>
+    <channel update="i" site="viasat.no" site_id="0033" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="viasat.no" site_id="0016" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="viasat.no" site_id="0032" xmltv_id="OTT CNBC">OTT CNBC</channel>
+    <channel update="i" site="viasat.no" site_id="0031" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel update="i" site="viasat.no" site_id="0008" xmltv_id="IP-Sky News">IP-Sky News</channel>
+    <channel update="i" site="viasat.no" site_id="0344" xmltv_id="OTT AlJazeera">OTT AlJazeera</channel>
+    <channel update="i" site="viasat.no" site_id="565" xmltv_id="OTT Matkanalen">OTT Matkanalen</channel>
+    <channel update="i" site="viasat.no" site_id="0052" xmltv_id="IP-E!">IP-E!</channel>
+    <channel update="i" site="viasat.no" site_id="0080" xmltv_id="MTV Nordic">MTV Nordic</channel>
+    <channel update="i" site="viasat.no" site_id="0222" xmltv_id="TV3 HD (SE)">TV3 HD (SE)</channel>
+    <channel update="i" site="viasat.no" site_id="0360" xmltv_id="TV6 HD (SE)">TV6 HD (SE)</channel>
+    <channel update="i" site="viasat.no" site_id="0359" xmltv_id="TV3 HD (DK)">TV3 HD (DK)</channel>
+    <channel update="i" site="viasat.no" site_id="0037" xmltv_id="Disney Channel (NO)">Disney Channel (NO)</channel>
+    <channel update="i" site="viasat.no" site_id="0307" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="viasat.no" site_id="0028" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="viasat.no" site_id="0077" xmltv_id="MTV Hits uppehåll">MTV Hits uppehåll</channel>
+    <channel update="i" site="viasat.no" site_id="0088" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="viasat.no" site_id="0087" xmltv_id="Nickelodeon DK">Nickelodeon DK</channel>
+    <channel update="i" site="viasat.no" site_id="570" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="viasat.no" site_id="0121" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="viasat.no" site_id="0141" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="viasat.no" site_id="0147" xmltv_id="SVT Barn">SVT Barn</channel>
+    <channel update="i" site="viasat.no" site_id="0149" xmltv_id="SVT Kunskapskanalen">SVT Kunskapskanalen</channel>
+    <channel update="i" site="viasat.no" site_id="0051" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="viasat.no" site_id="0188" xmltv_id="TV 2 Lorry HD (DK)">TV 2 Lorry HD (DK)</channel>
+    <channel update="i" site="viasat.no" site_id="598" xmltv_id="SVT24">SVT24</channel>
+    <channel update="i" site="viasat.no" site_id="0246" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="viasat.no" site_id="604" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="viasat.no" site_id="0255" xmltv_id="V Sport Live 1">V Sport Live 1</channel>
+    <channel update="i" site="viasat.no" site_id="0256" xmltv_id="V Sport Live 2">V Sport Live 2</channel>
+    <channel update="i" site="viasat.no" site_id="0257" xmltv_id="V Sport Live 3">V Sport Live 3</channel>
+    <channel update="i" site="viasat.no" site_id="0258" xmltv_id="V Sport Live 4">V Sport Live 4</channel>
+    <channel update="i" site="viasat.no" site_id="0259" xmltv_id="V Sport Live 5">V Sport Live 5</channel>
+  </channels>
+</site>

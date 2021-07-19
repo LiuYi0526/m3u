@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.0 -- Jan van Straaten" site="espn.com">
+  <channels>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/218-11" xmltv_id="1+1">1+1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5897-100-news" xmltv_id="100% News">100% News</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/20-112-ukraina" xmltv_id="112 Украина">112 Украина</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/21-112-ukraina-hd" xmltv_id="112 Украина HD">112 Украина HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2979-12-kanal-omsk" xmltv_id="12 Канал (Омск)">12 Канал (Омск)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/6679-1hd" xmltv_id="1HD">1HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/219-22" xmltv_id="2+2">2+2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/6724-26-argentina" xmltv_id="26 Argentina">26 Argentina</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/35-2x2" xmltv_id="2x2">2x2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/265-2x2-2" xmltv_id="2x2 (+2)">2x2 (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6267-43-kanal-hd" xmltv_id="43 Канал HD">43 Канал HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2983-47-kanal" xmltv_id="47 канал">47 канал</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6760-5-kanal" xmltv_id="5 канал">5 канал</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/22-5-kanal-ukraina" xmltv_id="5 канал (Украина)">5 канал (Украина)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/2-8-kanal" xmltv_id="8 канал">8 канал</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2967-8-kanal-krasnoyarsk" xmltv_id="8 канал (Красноярск)">8 канал (Красноярск)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6083-a1" xmltv_id="A1">A1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6761-a2" xmltv_id="A2">A2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/8251-adult-iptv-pornstar-18" xmltv_id="Adult IPTV Pornstar (18+)">Adult IPTV Pornstar (18+)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/314-amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/315-amedia-1" xmltv_id="Amedia 1">Amedia 1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/316-amedia-2" xmltv_id="Amedia 2">Amedia 2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2497-amedia-hit" xmltv_id="Amedia Hit">Amedia Hit</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/811-amedia-hit-hd" xmltv_id="Amedia Hit HD">Amedia Hit HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2498-amedia-premium" xmltv_id="Amedia Premium">Amedia Premium</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/317-amedia-premium-hd" xmltv_id="Amedia Premium HD">Amedia Premium HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/49-ani" xmltv_id="Ani">Ani</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2717-animal-family-hd" xmltv_id="Animal Family HD">Animal Family HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2555-animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/3135-animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6037-ant3" xmltv_id="ant3">ant3</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5907-antena-3" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/8250-ast-tv-2-18" xmltv_id="AST TV 2 (18+)">AST TV 2 (18+)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/660-atr" xmltv_id="ATR">ATR</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6217-atv" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/170-az-tv" xmltv_id="Az TV">Az TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/23-bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/6725-bg-on-air" xmltv_id="BG on AIR">BG on AIR</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/24-bloomberg" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6278-bollywood-classic" xmltv_id="Bollywood Classic">Bollywood Classic</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2721-bollywood-hd" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/50-boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/2634-brazzers-tv" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/664-brazzers-tv-europe-" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/2723-bridge-hd" xmltv_id="Bridge HD">Bridge HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/442-bridge-tv" xmltv_id="Bridge TV">Bridge TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/2724-bridge-tv-classic" xmltv_id="Bridge TV Classic">Bridge TV Classic</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/2725-bridge-tv-dance" xmltv_id="Bridge TV Dance">Bridge TV Dance</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5919-bt-sport-1-uk" xmltv_id="BT SPORT 1 UK">BT SPORT 1 UK</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/3070-bt-sport-2" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/3108-c-music-tv-hd" xmltv_id="C Music TV HD">C Music TV HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/2922-candy-hd" xmltv_id="Candy HD">Candy HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/51-cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6219-cbc-sport-hd" xmltv_id="CBC Sport HD">CBC Sport HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/461-cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6279-cctv-4" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/2925-cgtn" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2727-cgtn-documentary" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2926-cgtn-russkiy" xmltv_id="CGTN Русский">CGTN Русский</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/3066-cinema" xmltv_id="Cinema">Cinema</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/25-cnn-international" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6281-ctpk-hd" xmltv_id="CTPK HD">CTPK HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6762-da-vinci" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/397-da-vinci-learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/252-deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2556-discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2730-discovery-channel-hd" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6226-discovery-hd" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6227-discovery-hd-showcase" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2731-discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6228-discovery-science-hd" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2732-discovery-showcase-hd" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/52-disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2734-dtx" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/3136-dtx-hd" xmltv_id="DTX HD">DTX HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6512-elgoles-1" xmltv_id="Elgoles-1">Elgoles-1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6513-elgoles-2" xmltv_id="Elgoles-2">Elgoles-2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6504-elgoles-3" xmltv_id="ELGOLES-3">ELGOLES-3</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6505-elgoles-4" xmltv_id="ELGOLES-4">ELGOLES-4</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/398-english-club-tv" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/26-euronews" xmltv_id="EuroNews">EuroNews</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/143-europa-plus-tv" xmltv_id="Europa Plus TV">Europa Plus TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/647-eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/648-eurosport-1-hd" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2521-eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2665-eurosport-2-hd" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/87-extreme-sports" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/267-fashion-one-hd" xmltv_id="Fashion One HD">Fashion One HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/268-fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2999-fashion-tv-hd" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/399-fine-living" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/126-food-network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2743-fox" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6292-fox-hd" xmltv_id="Fox HD">Fox HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2744-fox-life" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/3067-fox-life-hd" xmltv_id="Fox Life HD">Fox Life HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/253-france-24" xmltv_id="France 24 (ENG)">France 24 (ENG)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6294-galaxy" xmltv_id="Galaxy">Galaxy</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/400-galaxy-tv" xmltv_id="Galaxy TV">Galaxy TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/809-ginger-hd" xmltv_id="Ginger HD">Ginger HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5966-glas" xmltv_id="GLAS">GLAS</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/462-globalstar-tv" xmltv_id="GlobalStar TV">GlobalStar TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6098-gulli" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/3068-gulli-girl" xmltv_id="Gulli Girl">Gulli Girl</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/401-hd-life" xmltv_id="HD Life">HD Life</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/270-hd-media" xmltv_id="HD Media">HD Media</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/402-history-channel" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6230-history-hd" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/2749-hit-music-channel" xmltv_id="HiT Music Channel">HiT Music Channel</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/825-hit-tv" xmltv_id="Hit TV">Hit TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/670-hustler-tv" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2751-ictimai-tv" xmltv_id="Ictimai TV">Ictimai TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/221-ictv" xmltv_id="ICTV">ICTV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/404-id-xtra" xmltv_id="ID Xtra">ID Xtra</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2523-idman-tv" xmltv_id="Idman TV">Idman TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/478-interaz" xmltv_id="InterAz">InterAz</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/2653-jasmin-tv" xmltv_id="Jasmin TV">Jasmin TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/300-jimjam" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/6733-la-sexta" xmltv_id="La Sexta">La Sexta</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/53-lale" xmltv_id="Lale">Lale</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2558-luxury-world" xmltv_id="Luxury World">Luxury World</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/36-maxxi-tv" xmltv_id="Maxxi-TV">Maxxi-TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/2579-mcm-top" xmltv_id="MCM Top">MCM Top</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/444-mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/445-mezzo-live-hd" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/323-mgm-hd" xmltv_id="MGM HD">MGM HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/6694-mooz-hd" xmltv_id="Mooz HD">Mooz HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/6695-mooz-ro" xmltv_id="Mooz RO">Mooz RO</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/446-mtv-dance" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/144-mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/447-mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/145-mtv-rocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/448-mtv-rossiya" xmltv_id="MTV Россия">MTV Россия</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/2764-mtv-rossiya-hd" xmltv_id="MTV Россия HD">MTV Россия HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6746-multimedios" xmltv_id="Multimedios">Multimedios</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/146-music-box-ru" xmltv_id="Music Box RU">Music Box RU</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/449-music-box-ua" xmltv_id="Music Box UA">Music Box UA</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2768-nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2769-nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2770-national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2771-national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6050-nationaltv" xmltv_id="nationaltv">nationaltv</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/256-news-one" xmltv_id="News One">News One</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/257-nhk-world-tv" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/301-nick-jr." xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/302-nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/303-nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5975-nike" xmltv_id="Nike">Nike</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/671-nuart-tv-" xmltv_id="Nuart TV">Nuart TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/672-o-la-la" xmltv_id="O-la-la">O-la-la</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/450-o-tv" xmltv_id="O-TV">O-TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/406-ocean-tv" xmltv_id="Ocean-TV">Ocean-TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/464-outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2774-outdoor-channel-hd" xmltv_id="Outdoor Channel HD">Outdoor Channel HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6110-outdoor-hd" xmltv_id="Outdoor HD">Outdoor HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/324-paramount-channel" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/37-paramount-comedy" xmltv_id="Paramount Comedy">Paramount Comedy</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/674-playboy-tv-" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5980-pro-tv-news" xmltv_id="PRO TV NEWS">PRO TV NEWS</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6459-protv-chisinau" xmltv_id="ProTV Chisinau">ProTV Chisinau</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/272-qtv" xmltv_id="QTV">QTV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/3097-rai-1" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/3098-rai-2" xmltv_id="Rai 2">Rai 2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/3074-rai-3" xmltv_id="Rai 3">Rai 3</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5981-rbc" xmltv_id="RBC">RBC</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2525-real-madrid-tv" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/2909-redlight-hd" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/8236-redtraffic-fetish-18" xmltv_id="RedTraffic Fetish (18+)">RedTraffic Fetish (18+)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/8248-redtraffic-lesbian-18" xmltv_id="RedTraffic Lesbian (18+)">RedTraffic Lesbian (18+)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/149-retro-music-tv" xmltv_id="Retro Music TV">Retro Music TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2626-revelation-tv" xmltv_id="Revelation TV">Revelation TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2910-rtg-hd" xmltv_id="RTG HD">RTG HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2560-rtg-tv" xmltv_id="RTG TV">RTG TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6313-rti" xmltv_id="RTI">RTI</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5986-rtv" xmltv_id="RTV">RTV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/452-ru-tv" xmltv_id="RU TV">RU TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/6705-ru-tv-hd" xmltv_id="RU TV HD">RU TV HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6639-rufootballtv.org" xmltv_id="rufootballtv.org">rufootballtv.org</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/258-russia-today" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/261-russia-today-hd" xmltv_id="Russia Today HD">Russia Today HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6238-russian-travel-guide" xmltv_id="Russian Travel Guide">Russian Travel Guide</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/325-set" xmltv_id="SET">SET</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2946-shop24" xmltv_id="Shop24">Shop24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/798-shopping-live" xmltv_id="Shopping Live">Shopping Live</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/327-sony-sci-fi" xmltv_id="Sony Sci-Fi">Sony Sci-Fi</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/3125-spike" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2782-telesur" xmltv_id="Telesur">Telesur</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6626-thairat" xmltv_id="THAiRAT">THAiRAT</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/304-tiji" xmltv_id="TiJi">TiJi</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2783-tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2784-tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/4-tonis" xmltv_id="Tonis">Tonis</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/275-top-shop" xmltv_id="Top Shop">Top Shop</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/3099-trace-urban-hd" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/411-travel-adventure-hd" xmltv_id="Travel + adventure HD">Travel + adventure HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/653-travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/412-travel-channel-hd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6765-traveladventure" xmltv_id="Travel+Adventure">Travel+Adventure</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6129-traveladventure-hd" xmltv_id="Travel+Adventure HD">Travel+Adventure HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6460-travelmix" xmltv_id="TravelMix">TravelMix</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/2582-trt-muzik" xmltv_id="TRT Muzik">TRT Muzik</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/328-tv-1000" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/6739-tv-city" xmltv_id="TV CITY">TV CITY</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6763-tv-xxi" xmltv_id="TV XXI">TV XXI</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2789-tv3-catalunya" xmltv_id="TV3 Catalunya">TV3 Catalunya</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6333-tvm-channel" xmltv_id="TVM Channel">TVM Channel</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6054-tvr1" xmltv_id="tvr1">tvr1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/454-vh1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/455-vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/6710-vh1-europe" xmltv_id="Vh1 Europe">Vh1 Europe</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/7660-viasat-explorer" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/414-viasat-history" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6244-viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6246-viasat-nature-history-hd" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/371-viasat-sport" xmltv_id="Viasat Sport">Viasat Sport</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/373-viasat-sport-hd" xmltv_id="Viasat Sport HD">Viasat Sport HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/279-world-fashion" xmltv_id="World Fashion">World Fashion</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/3128-zee-tv" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/280-zoom" xmltv_id="Zoom">Zoom</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/3081-abaza-tv" xmltv_id="Абаза ТВ">Абаза ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2585-avto-24" xmltv_id="Авто 24">Авто 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/162-avto-plyus" xmltv_id="Авто плюс">Авто плюс</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6355-astrahan-24" xmltv_id="Астрахань 24">Астрахань 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6057-belarus-24" xmltv_id="Беларусь 24">Беларусь 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/417-bober" xmltv_id="Бобер">Бобер</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6359-bober-tv" xmltv_id="Бобер ТВ">Бобер ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6766-bober" xmltv_id="Бобёр">Бобёр</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/659-boks-tv" xmltv_id="Бокс ТВ">Бокс ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/3020-bst" xmltv_id="БСТ">БСТ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6153-v-gostyah-u-skazki" xmltv_id="В гостях у сказки">В гостях у сказки</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6362-vmeste-rf" xmltv_id="Вместе РФ">Вместе РФ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2481-voprosy-i-otvety" xmltv_id="Вопросы и ответы">Вопросы и ответы</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/226-vremya" xmltv_id="Время">Время</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/6713-vtv" xmltv_id="ВТВ">ВТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/3002-galichina" xmltv_id="Галичина">Галичина</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2629-glas" xmltv_id="Глас">Глас</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/55-detskiy" xmltv_id="Детский">Детский</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/56-detskiy-mir" xmltv_id="Детский мир">Детский мир</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/262-dozhd" xmltv_id="Дождь">Дождь</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/60-dom-kino" xmltv_id="Дом кино">Дом кино</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/642-dom-kino-premium-hd" xmltv_id="Дом кино Премиум HD">Дом кино Премиум HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2814-domashnie-zhivotnye" xmltv_id="Домашние животные">Домашние животные</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/227-domashniy" xmltv_id="Домашний">Домашний</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2607-don-24" xmltv_id="Дон 24">Дон 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6158-drayv" xmltv_id="Драйв">Драйв</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2586-drayv-tv" xmltv_id="Драйв ТВ">Драйв ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/61-evrokino" xmltv_id="Еврокино">Еврокино</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/2470-evronovosti" xmltv_id="Евроновости">Евроновости</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6159-zhara" xmltv_id="Жара">Жара</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/131-zhivaya-planeta" xmltv_id="Живая Планета">Живая Планета</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/3001-zhivaya-priroda-hd" xmltv_id="Живая природа HD">Живая природа HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/419-zagorodnaya-zhizn" xmltv_id="Загородная жизнь">Загородная жизнь</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/3106-zagorodnyy" xmltv_id="Загородный">Загородный</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/228-zvezda" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2821-zvezda-2" xmltv_id="Звезда (+2)">Звезда (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2564-zdorovoe-tv" xmltv_id="Здоровое ТВ">Здоровое ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/420-zoo-tv" xmltv_id="Зоо ТВ">Зоо ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/62-illyuzion" xmltv_id="Иллюзион+">Иллюзион+</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2504-indiyskoe-kino" xmltv_id="ИНДИЙСКОЕ КИНО">ИНДИЙСКОЕ КИНО</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/229-inter" xmltv_id="Интер">Интер</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/422-istoriya" xmltv_id="История">История</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/283-k1" xmltv_id="К1">К1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/284-k2" xmltv_id="К2">К2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2565-kaleydoskop-tv" xmltv_id="Калейдоскоп ТВ">Калейдоскоп ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6769-kanal-disney" xmltv_id="Канал Disney">Канал Disney</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/305-karusel" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2826-kvn-tv" xmltv_id="КВН ТВ">КВН ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6061-kiev-tv" xmltv_id="Киев ТВ">Киев ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/5-kievskaya-rus" xmltv_id="Киевская Русь">Киевская Русь</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6770-kino-tv" xmltv_id="Кино ТВ">Кино ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/3021-kino-tv-hd" xmltv_id="Кино ТВ HD">Кино ТВ HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2505-kinokomediya" xmltv_id="КИНОКОМЕДИЯ">КИНОКОМЕДИЯ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2506-kinomiks" xmltv_id="КИНОМИКС">КИНОМИКС</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/337-kinopokaz" xmltv_id="Кинопоказ">Кинопоказ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6386-kinopokaz-hd1" xmltv_id="Кинопоказ Hd1">Кинопоказ Hd1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6387-kinopokaz-hd2" xmltv_id="Кинопоказ Hd2">Кинопоказ Hd2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2685-kinopremium-hd" xmltv_id="КиноПремиум HD">КиноПремиум HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2686-kinopremera-hd" xmltv_id="КИНОПРЕМЬЕРА HD">КИНОПРЕМЬЕРА HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2511-kinosvidanie" xmltv_id="КИНОСВИДАНИЕ">КИНОСВИДАНИЕ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2512-kinosemya" xmltv_id="КИНОСЕМЬЯ">КИНОСЕМЬЯ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2833-kinoseriya" xmltv_id="Киносерия">Киносерия</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2513-kinohit" xmltv_id="КИНОХИТ">КИНОХИТ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2534-konnyy-mir" xmltv_id="Конный Мир">Конный Мир</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/231-krasnaya-liniya" xmltv_id="Красная линия">Красная линия</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6756-krik-tv" xmltv_id="КРИК-ТВ">КРИК-ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6392-krym-24" xmltv_id="Крым 24">Крым 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2612-ktk" xmltv_id="КТК">КТК</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2992-kuray-tv" xmltv_id="Курай ТВ">Курай ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/132-kuhnya-tv" xmltv_id="Кухня ТВ">Кухня ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6768-khl" xmltv_id="КХЛ">КХЛ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/376-khl-hd" xmltv_id="КХЛ HD">КХЛ HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/377-khl-tv" xmltv_id="КХЛ ТВ">КХЛ ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/2836-ldpr-tv" xmltv_id="ЛДПР ТВ">ЛДПР ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/810-lyubimoe-tv" xmltv_id="Любимое ТВ">Любимое ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/456-lya-minor" xmltv_id="Ля-минор">Ля-минор</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/457-m1" xmltv_id="М1">М1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/458-m2" xmltv_id="М2">М2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/307-malyatko-tv" xmltv_id="Малятко ТВ">Малятко ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/57-mama" xmltv_id="Мама">Мама</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2838-match-tv" xmltv_id="Матч ТВ">Матч ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2839-match-tv-hd" xmltv_id="Матч ТВ HD">Матч ТВ HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6647-match" xmltv_id="Матч!">Матч!</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2535-match-arena" xmltv_id="Матч! Арена">Матч! Арена</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2689-match-arena-hd" xmltv_id="Матч! Арена HD">Матч! Арена HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2587-match-boec" xmltv_id="Матч! Боец">Матч! Боец</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2537-match-igra" xmltv_id="Матч! Игра">Матч! Игра</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2690-match-igra-hd" xmltv_id="Матч! Игра HD">Матч! Игра HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2539-match-nash-sport" xmltv_id="Матч! Наш Спорт">Матч! Наш Спорт</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2540-match-planeta" xmltv_id="Матч! Планета">Матч! Планета</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2541-match-futbol-1-" xmltv_id="Матч! Футбол 1">Матч! Футбол 1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2549-match-futbol-2-" xmltv_id="Матч! Футбол 2">Матч! Футбол 2</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/2551-match-futbol-3-" xmltv_id="Матч! Футбол 3">Матч! Футбол 3</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/425-mega" xmltv_id="Мега">Мега</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2840-millet" xmltv_id="Миллет">Миллет</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/6252-ministerstvo-idey" xmltv_id="Министерство идей">Министерство идей</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/232-mir" xmltv_id="Мир">Мир</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/31-mir-24" xmltv_id="Мир 24">Мир 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/234-mir-hd" xmltv_id="Мир HD">Мир HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2841-mir-seriala" xmltv_id="Мир сериала">Мир сериала</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2993-mir-uvlecheniy" xmltv_id="Мир увлечений">Мир увлечений</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2588-morskoy" xmltv_id="Морской">Морской</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/177-moskva-24" xmltv_id="Москва 24">Москва 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/426-moya-planeta" xmltv_id="Моя планета">Моя планета</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2994-muzhskoe-kino" xmltv_id="Мужское кино">Мужское кино</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/467-muzhskoy" xmltv_id="Мужской">Мужской</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/2844-muzsoyuz" xmltv_id="МузСоюз">МузСоюз</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/460-muzyka-pervogo" xmltv_id="Музыка Первого">Музыка Первого</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/308-mult" xmltv_id="Мульт">Мульт</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/58-multimaniya" xmltv_id="Мультимания">Мультимания</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2630-nadezhda" xmltv_id="Надежда">Надежда</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/427-nano-tv" xmltv_id="Нано ТВ">Нано ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/2914-nastoyaschee-vremya-hd" xmltv_id="Настоящее время HD">Настоящее время HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6771-nauka" xmltv_id="Наука">Наука</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/428-nauka-2.0" xmltv_id="Наука 2.0">Наука 2.0</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2698-nash-detektiv-hd" xmltv_id="Наш Детектив HD">Наш Детектив HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2699-nash-kinoroman-hd" xmltv_id="Наш Кинороман HD">Наш Кинороман HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6666-nash-futbol" xmltv_id="Наш Футбол">Наш Футбол</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/341-nashe-lyubimoe-kino" xmltv_id="Наше любимое кино">Наше любимое кино</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2517-nashe-novoe-kino" xmltv_id="НАШЕ НОВОЕ КИНО">НАШЕ НОВОЕ КИНО</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2846-novoe-televidenie" xmltv_id="Новое телевидение">Новое телевидение</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/286-novyy-kanal" xmltv_id="Новый канал">Новый канал</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/235-nostalgiya" xmltv_id="Ностальгия">Ностальгия</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/342-nst" xmltv_id="НСТ">НСТ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/7-ntv" xmltv_id="НТВ">НТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/812-ntv-2" xmltv_id="НТВ (+2)">НТВ (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/10-ntv-hd" xmltv_id="НТВ HD">НТВ HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2995-ntv-pravo-" xmltv_id="НТВ Право">НТВ Право</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6405-ntv-serial" xmltv_id="НТВ Сериал">НТВ Сериал</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="sport/6665-ntv-nash-futbol-hd" xmltv_id="НТВ+ Наш футбол HD">НТВ+ Наш футбол HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6177-ntn" xmltv_id="Нтн">Нтн</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/468-oruzhie" xmltv_id="Оружие">Оружие</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/66-ostrosyuzhetnoe-hd" xmltv_id="Остросюжетное HD">Остросюжетное HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2854-otkrytyy-mir" xmltv_id="Открытый мир">Открытый мир</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/12-otr" xmltv_id="ОТР">ОТР</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/469-ohota-i-rybalka" xmltv_id="Охота и рыбалка">Охота и рыбалка</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/470-ohotnik-i-rybolov" xmltv_id="Охотник и рыболов">Охотник и рыболов</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2949-ohotnik-i-rybolov-hd" xmltv_id="Охотник и рыболов HD">Охотник и рыболов HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/6180-park-razvlecheniy" xmltv_id="Парк развлечений">Парк развлечений</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6772-pervyy" xmltv_id="Первый">Первый</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/263-pervyy-delovoy" xmltv_id="Первый деловой">Первый деловой</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2855-pervyy-kanal" xmltv_id="Первый канал">Первый канал</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/789-pervyy-kanal-2" xmltv_id="Первый канал (+2)">Первый канал (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/13-pervyy-kanal-4" xmltv_id="Первый канал (+4)">Первый канал (+4)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/238-pervyy-kanal-hd" xmltv_id="Первый канал HD">Первый канал HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/637-pervyy-meteo" xmltv_id="Первый Метео">Первый Метео</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/429-pervyy-obrazovatelnyy" xmltv_id="Первый образовательный">Первый образовательный</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/834-pervyy-yaroslavskiy" xmltv_id="Первый Ярославский">Первый Ярославский</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/2700-planeta-hd" xmltv_id="Планета HD">Планета HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/310-plyusplyus" xmltv_id="ПлюсПлюс">ПлюсПлюс</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/430-prosveschenie" xmltv_id="Просвещение">Просвещение</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/431-psihologiya-21" xmltv_id="Психология 21">Психология 21</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/289-pyatnica" xmltv_id="Пятница">Пятница</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/3113-pyatnica-7" xmltv_id="Пятница (+7)">Пятница (+7)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/15-pyatyy-kanal" xmltv_id="Пятый канал">Пятый канал</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2866-pyatyy-kanal-2" xmltv_id="Пятый канал (+2)">Пятый канал (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/311-radost-moya" xmltv_id="Радость моя">Радость моя</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/32-rbk" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2869-ren-tv" xmltv_id="РЕН ТВ">РЕН ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2870-ren-tv-2" xmltv_id="РЕН ТВ (+2)">РЕН ТВ (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2871-ren-tv-7" xmltv_id="РЕН ТВ (+7)">РЕН ТВ (+7)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2518-rodnoe-kino" xmltv_id="РОДНОЕ КИНО">РОДНОЕ КИНО</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/17-rossiya-1" xmltv_id="Россия 1">Россия 1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/791-rossiya-1-2" xmltv_id="Россия 1 (+2)">Россия 1 (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/18-rossiya-1-4" xmltv_id="Россия 1 (+4)">Россия 1 (+4)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/34-rossiya-24" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/240-rossiya-hd" xmltv_id="Россия HD">Россия HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/432-rossiya-k" xmltv_id="Россия К">Россия К</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2936-rossiya-rtr" xmltv_id="Россия РТР">Россия РТР</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/2464-rtr-planeta" xmltv_id="РТР Планета">РТР Планета</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/758-russkaya-komediya" xmltv_id="Русская комедия">Русская комедия</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="xxx/682-russkaya-noch" xmltv_id="Русская ночь">Русская ночь</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/351-russkiy-bestseller" xmltv_id="Русский бестселлер">Русский бестселлер</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/352-russkiy-detektiv" xmltv_id="Русский детектив">Русский детектив</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/67-russkiy-illyuzion" xmltv_id="Русский иллюзион">Русский иллюзион</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/353-russkiy-roman" xmltv_id="Русский роман">Русский роман</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/2702-russkiy-roman-hd" xmltv_id="Русский роман HD">Русский роман HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/472-russkiy-ekstrim" xmltv_id="Русский экстрим">Русский экстрим</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2703-russkiy-ekstrim-hd" xmltv_id="Русский экстрим HD">Русский экстрим HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/312-ryzhiy" xmltv_id="Рыжий">Рыжий</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/489-sankt-peterburg" xmltv_id="Санкт-Петербург">Санкт-Петербург</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/291-sarafan-tv" xmltv_id="Сарафан ТВ">Сарафан ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/433-sovershenno-sekretno" xmltv_id="Совершенно секретно">Совершенно секретно</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/3017-sonce" xmltv_id="Сонце">Сонце</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/495-soyuz" xmltv_id="Союз">Союз</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/663-spas-tv" xmltv_id="Спас ТВ">Спас ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/242-stb" xmltv_id="СТБ">СТБ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/19-strana" xmltv_id="Страна">Страна</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/44-strk-hd" xmltv_id="СТРК HD">СТРК HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/292-sts" xmltv_id="СТС">СТС</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/800-sts-2" xmltv_id="СТС (+2)">СТС (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2879-sts-7" xmltv_id="СТС (+7)">СТС (+7)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2880-sts-rezerv" xmltv_id="СТС (резерв)">СТС (резерв)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/293-sts-love" xmltv_id="СТС Love">СТС Love</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/184-tbn" xmltv_id="ТБН">ТБН</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/354-tv-3" xmltv_id="ТВ 3">ТВ 3</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/68-tv-3-2" xmltv_id="ТВ 3 (+2)">ТВ 3 (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6775-tv-centr" xmltv_id="ТВ Центр">ТВ Центр</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6776-tv3" xmltv_id="ТВ3">ТВ3</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/243-tvc" xmltv_id="ТВЦ">ТВЦ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/45-tdk" xmltv_id="ТДК">ТДК</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/638-teatr" xmltv_id="Театр">Театр</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/435-telekafe" xmltv_id="Телекафе">Телекафе</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/436-teleputeshestviya" xmltv_id="Телепутешествия">Телепутешествия</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/294-tet" xmltv_id="ТЕТ">ТЕТ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/165-tehno-24" xmltv_id="Техно 24">Техно 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2623-tisa-1" xmltv_id="Тиса-1">Тиса-1</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="children/2886-tlum-hd" xmltv_id="Тлум HD">Тлум HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/490-tnv-planeta" xmltv_id="ТНВ-Планета">ТНВ-Планета</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/295-tnt" xmltv_id="ТНТ">ТНТ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/802-tnt-2" xmltv_id="ТНТ (+2)">ТНТ (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/46-tnt-4" xmltv_id="ТНТ (+4)">ТНТ (+4)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2981-tnt-hd" xmltv_id="ТНТ HD">ТНТ HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/3034-tnt-international-belarus" xmltv_id="ТНТ International (Беларусь)">ТНТ International (Беларусь)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6441-tnt-music" xmltv_id="ТНТ Music">ТНТ Music</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/754-tnt4" xmltv_id="ТНТ4">ТНТ4</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/772-tnt4-2" xmltv_id="ТНТ4 (+2)">ТНТ4 (+2)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/2889-tomskoe-vremya" xmltv_id="Томское время">Томское время</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/6447-tochka-tv" xmltv_id="Точка ТВ">Точка ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/3107-trk-chernovcy" xmltv_id="ТРК Черновцы">ТРК Черновцы</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/166-trofey" xmltv_id="Трофей">Трофей</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="men/2704-trofey-hd" xmltv_id="Трофей HD">Трофей HD</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/437-usadba" xmltv_id="Усадьба">Усадьба</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="educational/438-uspeh" xmltv_id="Успех">Успех</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="films/355-feniks-kino" xmltv_id="Феникс+ Кино">Феникс+ Кино</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="news/2896-habar-24" xmltv_id="Хабар 24">Хабар 24</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/639-che" xmltv_id="Че">Че</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2948-che-7" xmltv_id="Че (+7)">Че (+7)</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="music/161-shanson-tv" xmltv_id="Шансон ТВ">Шансон ТВ</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/298-yu" xmltv_id="Ю">Ю</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="humor/2900-yuvelirochka" xmltv_id="Ювелирочка">Ювелирочка</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="regional/7629-yugra" xmltv_id="Югра">Югра</channel>
+    <channel update="i" site="hdmi-tv.ru" site_id="main/6759-yamal-region" xmltv_id="Ямал Регион">Ямал Регион</channel>
+  </channels>
+</site>

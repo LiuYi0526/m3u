@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="tvp.pl">
+  <channels>
+    <channel update="i" site="tvp.pl" site_id="tvp-1" xmltv_id="TVP1">TVP1</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-2" xmltv_id="TVP2">TVP2</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-info" xmltv_id="TVP Info">TVP Info</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-warszawa" xmltv_id="TVP3 Warszawa">TVP3 Warszawa</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-bialystok" xmltv_id="TVP3 Białystok">TVP3 Białystok</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-bydgoszcz" xmltv_id="TVP3 Bydgoszcz">TVP3 Bydgoszcz</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-gdansk" xmltv_id="TVP3 Gdańsk">TVP3 Gdańsk</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-gorzow-wielkopolski" xmltv_id="TVP3 Gorzów Wlkp.">TVP3 Gorzów Wlkp.</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-katowice" xmltv_id="TVP3 Katowice">TVP3 Katowice</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-kielce" xmltv_id="TVP3 Kielce">TVP3 Kielce</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-krakow" xmltv_id="TVP3 Kraków">TVP3 Kraków</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-lodz" xmltv_id="TVP3 Łódź">TVP3 Łódź</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-lublin" xmltv_id="TVP3 Lublin">TVP3 Lublin</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-olsztyn" xmltv_id="TVP3 Olsztyn">TVP3 Olsztyn</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-opole" xmltv_id="TVP3 Opole">TVP3 Opole</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-poznan" xmltv_id="TVP3 Poznań">TVP3 Poznań</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-rzeszow" xmltv_id="TVP3 Rzeszów">TVP3 Rzeszów</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-szczecin" xmltv_id="TVP3 Szczecin">TVP3 Szczecin</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-3-wroclaw" xmltv_id="TVP3 Wrocław">TVP3 Wrocław</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-rozrywka" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-kultura" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-polonia" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-historia" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-abc" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-sport" xmltv_id="TVP Sport">TVP Sport</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-seriale" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-hd" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="tvp.pl" site_id="tv-bielsat" xmltv_id="TV Bielsat">TV Bielsat</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-wilno" xmltv_id="TVP Wilno">TVP Wilno</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-dokument" xmltv_id="TVP Dokument">TVP Dokument</channel>
+    <channel update="i" site="tvp.pl" site_id="domowe-przedszkole" xmltv_id="Domowe przedszkole">Domowe przedszkole</channel>
+    <channel update="i" site="tvp.pl" site_id="ferie-z-tvp" xmltv_id="Ferie z TVP">Ferie z TVP</channel>
+  </channels>
+</site>

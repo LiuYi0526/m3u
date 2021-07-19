@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.3 -- Jan van Straaten" site="sportklub.hr">
+  <channels>
+    <channel update="i" site="sportklub.hr" site_id="556##/2020/05/28/13/02/17/sk1hd_logo_16_9_light_160x90_f2d18d94_cc3c_4730_a4e1_2e0e1d1bacf1.png" xmltv_id="SK 1 HD (HR)">SK 1 HD (HR)</channel>
+    <channel update="i" site="sportklub.hr" site_id="923##/2020/11/03/13/33/24/s_light_480x270.png" xmltv_id="SK 2 HR (Portals)">SK 2 HR (Portals)</channel>
+    <channel update="i" site="sportklub.hr" site_id="924##/2020/11/03/13/39/16/s_light_480x270.png" xmltv_id="SK 3 HR (Portals)">SK 3 HR (Portals)</channel>
+    <channel update="i" site="sportklub.hr" site_id="925##/2020/11/03/13/40/57/s_light_480x270.png" xmltv_id="SK 4 HR (Portals)">SK 4 HR (Portals)</channel>
+    <channel update="i" site="sportklub.hr" site_id="928##/2020/11/03/13/44/12/s_light_480x270.png" xmltv_id="SK HD HR (Portals)">SK HD HR (Portals)</channel>
+    <channel update="i" site="sportklub.hr" site_id="73##/2020/05/28/13/04/17/skgolfhd_logo_16_9_light_160x90_21e37f21_1f81_493b_be9b_3014fe186230.png" xmltv_id="SK Golf HD">SK Golf HD</channel>
+    <channel update="i" site="sportklub.hr" site_id="929##/2020/11/03/14/16/25/s_light_480x270.png" xmltv_id="SK Esports HR (Portals)">SK Esports HR (Portals)</channel>
+    <channel update="i" site="sportklub.hr" site_id="926##/2020/11/03/13/41/55/s_light_480x270.png" xmltv_id="SK 5 HR (Portals)">SK 5 HR (Portals)</channel>
+    <channel update="i" site="sportklub.hr" site_id="927##/2020/11/03/13/43/13/s_light_480x270.png" xmltv_id="SK 6 HR (Portals)">SK 6 HR (Portals)</channel>
+    <channel update="i" site="sportklub.hr" site_id="74##/2020/05/28/13/03/52/sk7_logo_16_9_light_160x90_6215760e_11a2_4bf3_91c0_1478776028a8.png" xmltv_id="SK 7 (SR)">SK 7 (SR)</channel>
+    <channel update="i" site="sportklub.hr" site_id="75##/2020/05/28/13/03/57/sk8_logo_16_9_light_160x90_4788a614_11d1_41f8_b1e0_4ee6f133f9bd.png" xmltv_id="SK 8 (SR)">SK 8 (SR)</channel>
+    <channel update="i" site="sportklub.hr" site_id="76##/2020/05/28/13/04/02/sk9_logo_16_9_light_160x90_721527b9_4b6d_4aa3_8ef6_5fc293e64de4.png" xmltv_id="SK 9 (SR)">SK 9 (SR)</channel>
+    <channel update="i" site="sportklub.hr" site_id="77##/2020/05/28/13/02/32/sk10_logo_16_9_light_160x90_e76b0cf1_575e_4b6d_a20f_02a5af6d34ff.png" xmltv_id="SK 10 (SR)">SK 10 (SR)</channel>
+  </channels>
+</site>

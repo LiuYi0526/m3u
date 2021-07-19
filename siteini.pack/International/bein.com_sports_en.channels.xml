@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="bein.com">
+  <channels>
+    <channel update="i" site="bein.com_sports_en" site_id="NEWS_DIGITAL_Mono" xmltv_id="NEWS_DIGITAL_Mono">NEWS_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="bein_SPORTS_FTA_DIGITAL_Mono" xmltv_id="bein_SPORTS_FTA_DIGITAL_Mono">bein_SPORTS_FTA_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS1_DIGITAL_Mono" xmltv_id="beIN_SPORTS1_DIGITAL_Mono">beIN_SPORTS1_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS2_DIGITAL_Mono" xmltv_id="beIN_SPORTS2_DIGITAL_Mono">beIN_SPORTS2_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS3_DIGITAL_Mono" xmltv_id="beIN_SPORTS3_DIGITAL_Mono">beIN_SPORTS3_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS4_DIGITAL_Mono" xmltv_id="beIN_SPORTS4_DIGITAL_Mono">beIN_SPORTS4_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS5_DIGITAL_Mono" xmltv_id="beIN_SPORTS5_DIGITAL_Mono">beIN_SPORTS5_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS6_DIGITAL_Mono" xmltv_id="beIN_SPORTS6_DIGITAL_Mono">beIN_SPORTS6_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS7_DIGITAL_Mono" xmltv_id="beIN_SPORTS7_DIGITAL_Mono">beIN_SPORTS7_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS1_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS1_PREMIUM_Digital_Mono">beIN_SPORTS1_PREMIUM_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS2_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS2_PREMIUM_Digital_Mono">beIN_SPORTS2_PREMIUM_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS3_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS3_PREMIUM_Digital_Mono">beIN_SPORTS3_PREMIUM_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS_XTRA1_Digital_Mono" xmltv_id="beIN_SPORTS_XTRA1_Digital_Mono">beIN_SPORTS_XTRA1_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS_XTRA2_Digital_Mono" xmltv_id="beIN_SPORTS_XTRA2_Digital_Mono">beIN_SPORTS_XTRA2_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="4k_DIGITAL_Mono" xmltv_id="4k_DIGITAL_Mono">4k_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS1_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS1_ENGLISH_Digital_Mono">beIN_SPORTS1_ENGLISH_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS2_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS2_ENGLISH_Digital_Mono">beIN_SPORTS2_ENGLISH_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS3_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS3_ENGLISH_Digital_Mono">beIN_SPORTS3_ENGLISH_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="NBA_DIGITAL_Mono" xmltv_id="NBA_DIGITAL_Mono">NBA_DIGITAL_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS1_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS1_FRENCH_Digital_Mono">beIN_SPORTS1_FRENCH_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS2_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS2_FRENCH_Digital_Mono">beIN_SPORTS2_FRENCH_Digital_Mono</channel>
+    <channel update="i" site="bein.com_sports_en" site_id="beIN_SPORTS3_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS3_FRENCH_Digital_Mono">beIN_SPORTS3_FRENCH_Digital_Mono</channel>
+  </channels>
+</site>

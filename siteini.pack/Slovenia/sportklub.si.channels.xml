@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.3 -- Jan van Straaten" site="sportklub.si">
+  <channels>
+    <channel update="i" site="sportklub.si" site_id="345##/2020/05/28/13/02/22/sk1hd_logo_16_9_light_160x90_96798f2d_0107_4a9d_bd6c_486eb3f64d3e.png" xmltv_id="SK 1 HD (SI)">SK 1 HD (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="346##/2020/05/28/13/02/47/sk2hd_logo_16_9_light_160x90_34ee1578_c74a_473e_a395_a24ebbae449c.png" xmltv_id="SK 2 HD (SI)">SK 2 HD (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="347##/2020/05/28/13/03/04/sk3hd_logo_16_9_light_160x90_4e2c3e2f_21b8_4cfd_b4eb_97d2fb5f2e34.png" xmltv_id="SK 3 HD (SI)">SK 3 HD (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="885##/2020/09/04/09/05/34/s_sk4l.png" xmltv_id="SK 4 HD (SI)">SK 4 HD (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="18##/2020/05/28/13/04/23/skhd_logo_16_9_light_160x90_14f6cb27_ade9_4013_a133_3d9e5655a920.png" xmltv_id="SK HD">SK HD</channel>
+    <channel update="i" site="sportklub.si" site_id="292##/2020/05/28/13/03/29/sk5_logo_16_9_light_160x90_5f941bf9_56fb_4739_9ba5_1c789dfa96a5.png" xmltv_id="SK 5 (SI)">SK 5 (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="293##/2020/05/28/13/03/41/sk6_logo_16_9_light_160x90_ebd29b84_8705_4a7b_ab6d_5ad8e17b7c2b.png" xmltv_id="SK 6 (SI)">SK 6 (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="73##/2020/05/28/13/04/17/skgolfhd_logo_16_9_light_160x90_21e37f21_1f81_493b_be9b_3014fe186230.png" xmltv_id="SK Golf HD">SK Golf HD</channel>
+  </channels>
+</site>

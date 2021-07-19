@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="useetv.com">
+  <channels>
+    <channel update="i" site="useetv.com" site_id="bein1" xmltv_id="beIN Sport 1">beIN Sport 1</channel>
+    <channel update="i" site="useetv.com" site_id="bein2" xmltv_id="beIN Sport 2">beIN Sport 2</channel>
+    <channel update="i" site="useetv.com" site_id="useesport" xmltv_id="UseeSports">UseeSports</channel>
+    <channel update="i" site="useetv.com" site_id="useesports2" xmltv_id="UseeSports2">UseeSports2</channel>
+    <channel update="i" site="useetv.com" site_id="bwf" xmltv_id="BWF">BWF</channel>
+    <channel update="i" site="useetv.com" site_id="champion1" xmltv_id="Champion TV 1">Champion TV 1</channel>
+    <channel update="i" site="useetv.com" site_id="champion2" xmltv_id="Champion TV 2">Champion TV 2</channel>
+    <channel update="i" site="useetv.com" site_id="foxsport1" xmltv_id="Fox Sport 1">Fox Sport 1</channel>
+    <channel update="i" site="useetv.com" site_id="foxsport2" xmltv_id="Fox Sport 2">Fox Sport 2</channel>
+    <channel update="i" site="useetv.com" site_id="foxsport3" xmltv_id="Fox Sport 3">Fox Sport 3</channel>
+    <channel update="i" site="useetv.com" site_id="golfplus" xmltv_id="Golf">Golf</channel>
+    <channel update="i" site="useetv.com" site_id="natgeo" xmltv_id="Nat Geo">Nat Geo</channel>
+    <channel update="i" site="useetv.com" site_id="natgeopeople" xmltv_id="Nat Geo People">Nat Geo People</channel>
+    <channel update="i" site="useetv.com" site_id="natgeowild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="useetv.com" site_id="disco" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="useetv.com" site_id="nba" xmltv_id="NBA">NBA</channel>
+    <channel update="i" site="useetv.com" site_id="useeinfo" xmltv_id="Ruang Trampil">Ruang Trampil</channel>
+    <channel update="i" site="useetv.com" site_id="useephoto" xmltv_id="Usee Photo">Usee Photo</channel>
+    <channel update="i" site="useetv.com" site_id="useeprime" xmltv_id="UseePrime">UseePrime</channel>
+    <channel update="i" site="useetv.com" site_id="seatoday" xmltv_id="SEA Today">SEA Today</channel>
+    <channel update="i" site="useetv.com" site_id="indishopping" xmltv_id="Indihome Shopping">Indihome Shopping</channel>
+    <channel update="i" site="useetv.com" site_id="tvri" xmltv_id="TVRI">TVRI</channel>
+    <channel update="i" site="useetv.com" site_id="indosiar" xmltv_id="Indosiar">Indosiar</channel>
+    <channel update="i" site="useetv.com" site_id="jitv" xmltv_id="JITV">JITV</channel>
+    <channel update="i" site="useetv.com" site_id="kompastv" xmltv_id="Kompas TV">Kompas TV</channel>
+    <channel update="i" site="useetv.com" site_id="metrotv" xmltv_id="Metro TV">Metro TV</channel>
+    <channel update="i" site="useetv.com" site_id="net" xmltv_id="Net.">Net.</channel>
+    <channel update="i" site="useetv.com" site_id="rtv" xmltv_id="Rajawali TV">Rajawali TV</channel>
+    <channel update="i" site="useetv.com" site_id="rrinet" xmltv_id="RRI NET">RRI NET</channel>
+    <channel update="i" site="useetv.com" site_id="sctv" xmltv_id="SCTV">SCTV</channel>
+    <channel update="i" site="useetv.com" site_id="trans7" xmltv_id="Trans7">Trans7</channel>
+    <channel update="i" site="useetv.com" site_id="transtv" xmltv_id="TransTV">TransTV</channel>
+    <channel update="i" site="useetv.com" site_id="mncshop" xmltv_id="M Shop">M Shop</channel>
+    <channel update="i" site="useetv.com" site_id="crimeinvestigation" xmltv_id="Crime Investigation">Crime Investigation</channel>
+    <channel update="i" site="useetv.com" site_id="antara" xmltv_id="Antara">Antara</channel>
+    <channel update="i" site="useetv.com" site_id="idx" xmltv_id="IDX">IDX</channel>
+    <channel update="i" site="useetv.com" site_id="babyfirst" xmltv_id="Baby First">Baby First</channel>
+    <channel update="i" site="useetv.com" site_id="balitv" xmltv_id="Bali TV">Bali TV</channel>
+    <channel update="i" site="useetv.com" site_id="beritasatu" xmltv_id="Berita Satu">Berita Satu</channel>
+    <channel update="i" site="useetv.com" site_id="cdrama" xmltv_id="Citra Drama">Citra Drama</channel>
+    <channel update="i" site="useetv.com" site_id="ducktv" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="useetv.com" site_id="dunialain" xmltv_id="Dunia Lain">Dunia Lain</channel>
+    <channel update="i" site="useetv.com" site_id="dwtv" xmltv_id="DW (English)">DW (English)</channel>
+    <channel update="i" site="useetv.com" site_id="france24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="useetv.com" site_id="horee" xmltv_id="Horee">Horee</channel>
+    <channel update="i" site="useetv.com" site_id="imc" xmltv_id="IMC">IMC</channel>
+    <channel update="i" site="useetv.com" site_id="jaktv" xmltv_id="JakTV">JakTV</channel>
+    <channel update="i" site="useetv.com" site_id="jtv" xmltv_id="JTV">JTV</channel>
+    <channel update="i" site="useetv.com" site_id="muitv" xmltv_id="MUI TV">MUI TV</channel>
+    <channel update="i" site="useetv.com" site_id="newsasia" xmltv_id="News Asia">News Asia</channel>
+    <channel update="i" site="useetv.com" site_id="ikonser" xmltv_id="I-Konser">I-Konser</channel>
+    <channel update="i" site="useetv.com" site_id="mtvlive" xmltv_id="MTV Live">MTV Live</channel>
+    <channel update="i" site="useetv.com" site_id="citradangdut" xmltv_id="Citra Dangdut">Citra Dangdut</channel>
+    <channel update="i" site="useetv.com" site_id="tvedukasi" xmltv_id="TV Edukasi">TV Edukasi</channel>
+    <channel update="i" site="useetv.com" site_id="tv9" xmltv_id="TV9 NU">TV9 NU</channel>
+    <channel update="i" site="useetv.com" site_id="uchannel" xmltv_id="UChannel">UChannel</channel>
+    <channel update="i" site="useetv.com" site_id="aljazeera" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel update="i" site="useetv.com" site_id="arirang" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="useetv.com" site_id="alquran" xmltv_id="AlQuran Kareem">AlQuran Kareem</channel>
+    <channel update="i" site="useetv.com" site_id="tawaftv" xmltv_id="Tawaf TV">Tawaf TV</channel>
+    <channel update="i" site="useetv.com" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="useetv.com" site_id="celestialmovie" xmltv_id="Celestial Movie">Celestial Movie</channel>
+    <channel update="i" site="useetv.com" site_id="mqtv" xmltv_id="MQTV">MQTV</channel>
+    <channel update="i" site="useetv.com" site_id="mtatv" xmltv_id="MTATV">MTATV</channel>
+    <channel update="i" site="useetv.com" site_id="cinemaworld" xmltv_id="Cinema World">Cinema World</channel>
+    <channel update="i" site="useetv.com" site_id="muhammadiyahtv" xmltv_id="Muhammadiyah TV">Muhammadiyah TV</channel>
+    <channel update="i" site="useetv.com" site_id="rodjatv" xmltv_id="Rodja TV">Rodja TV</channel>
+    <channel update="i" site="useetv.com" site_id="animax" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="useetv.com" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="useetv.com" site_id="tvn" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="useetv.com" site_id="tvnmovies" xmltv_id="TVN Movies">TVN Movies</channel>
+    <channel update="i" site="useetv.com" site_id="kbsworld" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="useetv.com" site_id="blueant" xmltv_id="Blue Ant">Blue Ant</channel>
+    <channel update="i" site="useetv.com" site_id="blueantextreme" xmltv_id="Blue Ant Extreme">Blue Ant Extreme</channel>
+    <channel update="i" site="useetv.com" site_id="abcaustralia" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel update="i" site="useetv.com" site_id="nhkpremium" xmltv_id="NHK World Premium">NHK World Premium</channel>
+    <channel update="i" site="useetv.com" site_id="bioskopindonesia" xmltv_id="Bioskop Indonesia">Bioskop Indonesia</channel>
+    <channel update="i" site="useetv.com" site_id="cartoonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="useetv.com" site_id="chinesedrama" xmltv_id="Chinese Drama">Chinese Drama</channel>
+    <channel update="i" site="useetv.com" site_id="cnnindonesia" xmltv_id="CNN Indonesia">CNN Indonesia</channel>
+    <channel update="i" site="useetv.com" site_id="lifetime" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="useetv.com" site_id="cnninternational" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="useetv.com" site_id="daaitv" xmltv_id="Daai TV">Daai TV</channel>
+    <channel update="i" site="useetv.com" site_id="duniaanak" xmltv_id="Dunia anak">Dunia anak</channel>
+    <channel update="i" site="useetv.com" site_id="eatgo" xmltv_id="Eat &amp; Go">Eat &amp; Go</channel>
+    <channel update="i" site="useetv.com" site_id="flik" xmltv_id="Flik">Flik</channel>
+    <channel update="i" site="useetv.com" site_id="galaxy" xmltv_id="Galaxy">Galaxy</channel>
+    <channel update="i" site="useetv.com" site_id="thrill" xmltv_id="Thrill">Thrill</channel>
+    <channel update="i" site="useetv.com" site_id="galaxypremium" xmltv_id="Galaxy Premium">Galaxy Premium</channel>
+    <channel update="i" site="useetv.com" site_id="history" xmltv_id="History">History</channel>
+    <channel update="i" site="useetv.com" site_id="insert" xmltv_id="Insert">Insert</channel>
+    <channel update="i" site="useetv.com" site_id="nusantaratv" xmltv_id="Nusantara TV">Nusantara TV</channel>
+    <channel update="i" site="useetv.com" site_id="kix" xmltv_id="Kix">Kix</channel>
+    <channel update="i" site="useetv.com" site_id="nickjr" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="useetv.com" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="useetv.com" site_id="pramborstv" xmltv_id="Prambors">Prambors</channel>
+    <channel update="i" site="useetv.com" site_id="wakuwaku" xmltv_id="Waku Waku Japan">Waku Waku Japan</channel>
+    <channel update="i" site="useetv.com" site_id="warner" xmltv_id="Warner">Warner</channel>
+    <channel update="i" site="useetv.com" site_id="aniplus" xmltv_id="ANIPlus">ANIPlus</channel>
+    <channel update="i" site="useetv.com" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="useetv.com" site_id="cctv4" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="useetv.com" site_id="cgtndocumentary" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel update="i" site="useetv.com" site_id="lingua" xmltv_id="Lingua">Lingua</channel>
+    <channel update="i" site="useetv.com" site_id="tvbs" xmltv_id="TVBS News">TVBS News</channel>
+    <channel update="i" site="useetv.com" site_id="davinci" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="useetv.com" site_id="dreamworks" xmltv_id="Dreamworks">Dreamworks</channel>
+    <channel update="i" site="useetv.com" site_id="mykids" xmltv_id="My Kids">My Kids</channel>
+    <channel update="i" site="useetv.com" site_id="egg" xmltv_id="egg network">egg network</channel>
+    <channel update="i" site="useetv.com" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="useetv.com" site_id="cnbcindonesia" xmltv_id="CNBC Indonesia">CNBC Indonesia</channel>
+    <channel update="i" site="useetv.com" site_id="cnbcasia" xmltv_id="CNBC Asia">CNBC Asia</channel>
+    <channel update="i" site="useetv.com" site_id="trtworld" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="useetv.com" site_id="fashionone" xmltv_id="Fashion One">Fashion One</channel>
+    <channel update="i" site="useetv.com" site_id="fashiontv" xmltv_id="FashionTV">FashionTV</channel>
+    <channel update="i" site="useetv.com" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="useetv.com" site_id="kplus" xmltv_id="Kplus">Kplus</channel>
+    <channel update="i" site="useetv.com" site_id="nhkworld" xmltv_id="nhk world Japan">nhk world Japan</channel>
+    <channel update="i" site="useetv.com" site_id="sgem" xmltv_id="SGEM">SGEM</channel>
+    <channel update="i" site="useetv.com" site_id="sone" xmltv_id="SONE">SONE</channel>
+    <channel update="i" site="useetv.com" site_id="tv5monde" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="useetv.com" site_id="formosa" xmltv_id="Formosa">Formosa</channel>
+    <channel update="i" site="useetv.com" site_id="ctiasia" xmltv_id="CTI Asia">CTI Asia</channel>
+    <channel update="i" site="useetv.com" site_id="ettvasia" xmltv_id="EBC Asia">EBC Asia</channel>
+    <channel update="i" site="useetv.com" site_id="outdoor" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="useetv.com" site_id="zbioskop" xmltv_id="ZBioskop">ZBioskop</channel>
+    <channel update="i" site="useetv.com" site_id="afc" xmltv_id="Asian Food Network">Asian Food Network</channel>
+    <channel update="i" site="useetv.com" site_id="eljohn" xmltv_id="El John TV">El John TV</channel>
+  </channels>
+</site>

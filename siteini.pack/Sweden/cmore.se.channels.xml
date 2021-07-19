@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="cmore.se">
+  <channels>
+    <channel update="i" site="cmore.se" site_id="se##97" xmltv_id="SE Sportkanalen">SE Sportkanalen</channel>
+    <channel update="i" site="cmore.se" site_id="se##8" xmltv_id="SE C More First">SE C More First</channel>
+    <channel update="i" site="cmore.se" site_id="se##12" xmltv_id="SE C More First HD">SE C More First HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##25" xmltv_id="SE C More Fotboll">SE C More Fotboll</channel>
+    <channel update="i" site="cmore.se" site_id="se##69" xmltv_id="SE C More Fotboll HD">SE C More Fotboll HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##72" xmltv_id="SE C More Golf SD">SE C More Golf SD</channel>
+    <channel update="i" site="cmore.se" site_id="se##70" xmltv_id="SE C More Golf HD">SE C More Golf HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##9" xmltv_id="SE C More Hits">SE C More Hits</channel>
+    <channel update="i" site="cmore.se" site_id="se##18" xmltv_id="SE C More Hits HD">SE C More Hits HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##26" xmltv_id="SE C More Hockey">SE C More Hockey</channel>
+    <channel update="i" site="cmore.se" site_id="se##68" xmltv_id="SE C More Hockey HD">SE C More Hockey HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##22" xmltv_id="SE C More Live">SE C More Live</channel>
+    <channel update="i" site="cmore.se" site_id="se##7" xmltv_id="SE C More Live HD">SE C More Live HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##3" xmltv_id="SE C More Live 2">SE C More Live 2</channel>
+    <channel update="i" site="cmore.se" site_id="se##65" xmltv_id="SE C More Live 2 HD">SE C More Live 2 HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##4" xmltv_id="SE C More Live 3">SE C More Live 3</channel>
+    <channel update="i" site="cmore.se" site_id="se##66" xmltv_id="SE C More Live 3 HD">SE C More Live 3 HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##5" xmltv_id="SE C More Live 4">SE C More Live 4</channel>
+    <channel update="i" site="cmore.se" site_id="se##67" xmltv_id="SE C More Live 4 HD">SE C More Live 4 HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##94" xmltv_id="SE C More Live 5">SE C More Live 5</channel>
+    <channel update="i" site="cmore.se" site_id="se##95" xmltv_id="SE C More Live 5 HD">SE C More Live 5 HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##29" xmltv_id="SE C More Series">SE C More Series</channel>
+    <channel update="i" site="cmore.se" site_id="se##52" xmltv_id="SE C More Series HD">SE C More Series HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##79" xmltv_id="SE Sjuan">SE Sjuan</channel>
+    <channel update="i" site="cmore.se" site_id="se##89" xmltv_id="SE C More Stars">SE C More Stars</channel>
+    <channel update="i" site="cmore.se" site_id="se##80" xmltv_id="SE TV12">SE TV12</channel>
+    <channel update="i" site="cmore.se" site_id="se##90" xmltv_id="SE C More Stars HD">SE C More Stars HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##98" xmltv_id="SE Sportkanalen HD">SE Sportkanalen HD</channel>
+    <channel update="i" site="cmore.se" site_id="se##54" xmltv_id="SE C More Fotboll Hockey Stars">SE C More Fotboll Hockey Stars</channel>
+    <channel update="i" site="cmore.se" site_id="se##17" xmltv_id="SE C More Sport - Film HD (Boxer)">SE C More Sport - Film HD (Boxer)</channel>
+    <channel update="i" site="cmore.se" site_id="se##33" xmltv_id="SE C More Sport 1 / SF-kanalen">SE C More Sport 1 / SF-kanalen</channel>
+    <channel update="i" site="cmore.se" site_id="se##32" xmltv_id="SE SF-kanalen">SE SF-kanalen</channel>
+    <channel update="i" site="cmore.se" site_id="se##74" xmltv_id="SE SVT1">SE SVT1</channel>
+    <channel update="i" site="cmore.se" site_id="se##75" xmltv_id="SE SVT2">SE SVT2</channel>
+    <channel update="i" site="cmore.se" site_id="se##76" xmltv_id="SE TV4">SE TV4</channel>
+    <channel update="i" site="cmore.se" site_id="se##81" xmltv_id="SE TV4 FaktaXL">SE TV4 FaktaXL</channel>
+    <channel update="i" site="cmore.se" site_id="se##82" xmltv_id="SE TV4 Fakta">SE TV4 Fakta</channel>
+    <channel update="i" site="cmore.se" site_id="se##83" xmltv_id="SE TV4 Film">SE TV4 Film</channel>
+    <channel update="i" site="cmore.se" site_id="se##84" xmltv_id="SE TV4 Guld">SE TV4 Guld</channel>
+    <channel update="i" site="cmore.se" site_id="se##85" xmltv_id="SE TV4 Komedi">SE TV4 Komedi</channel>
+    <channel update="i" site="cmore.se" site_id="se##86" xmltv_id="SE SVT24">SE SVT24</channel>
+    <channel update="i" site="cmore.se" site_id="se##87" xmltv_id="SE SVT Kunskapskanalen">SE SVT Kunskapskanalen</channel>
+    <channel update="i" site="cmore.se" site_id="se##88" xmltv_id="SE SVT Barn">SE SVT Barn</channel>
+    <channel update="i" site="cmore.se" site_id="no##89" xmltv_id="NO C More Stars">NO C More Stars</channel>
+    <channel update="i" site="cmore.se" site_id="no##90" xmltv_id="NO C More Stars HD">NO C More Stars HD</channel>
+    <channel update="i" site="cmore.se" site_id="no##8" xmltv_id="NO C More First">NO C More First</channel>
+    <channel update="i" site="cmore.se" site_id="no##12" xmltv_id="NO C More First HD">NO C More First HD</channel>
+    <channel update="i" site="cmore.se" site_id="no##9" xmltv_id="NO C More Hits">NO C More Hits</channel>
+    <channel update="i" site="cmore.se" site_id="no##18" xmltv_id="NO C More Hits HD">NO C More Hits HD</channel>
+    <channel update="i" site="cmore.se" site_id="no##32" xmltv_id="NO SF-kanalen">NO SF-kanalen</channel>
+    <channel update="i" site="cmore.se" site_id="no##29" xmltv_id="NO C More Series">NO C More Series</channel>
+    <channel update="i" site="cmore.se" site_id="no##52" xmltv_id="NO C More Series HD">NO C More Series HD</channel>
+    <channel update="i" site="cmore.se" site_id="dk##8" xmltv_id="DK C More First">DK C More First</channel>
+    <channel update="i" site="cmore.se" site_id="dk##12" xmltv_id="DK C More First HD">DK C More First HD</channel>
+    <channel update="i" site="cmore.se" site_id="dk##9" xmltv_id="DK C More Hits">DK C More Hits</channel>
+    <channel update="i" site="cmore.se" site_id="dk##18" xmltv_id="DK C More Hits HD">DK C More Hits HD</channel>
+    <channel update="i" site="cmore.se" site_id="dk##29" xmltv_id="DK C More Series">DK C More Series</channel>
+    <channel update="i" site="cmore.se" site_id="dk##52" xmltv_id="DK C More Series HD">DK C More Series HD</channel>
+    <channel update="i" site="cmore.se" site_id="dk##89" xmltv_id="DK C More Stars">DK C More Stars</channel>
+    <channel update="i" site="cmore.se" site_id="dk##90" xmltv_id="DK C More Stars HD">DK C More Stars HD</channel>
+    <channel update="i" site="cmore.se" site_id="dk##32" xmltv_id="DK SF-kanalen">DK SF-kanalen</channel>
+    <channel update="i" site="cmore.se" site_id="fi##89" xmltv_id="FI C More Stars">FI C More Stars</channel>
+    <channel update="i" site="cmore.se" site_id="fi##90" xmltv_id="FI C More Stars HD">FI C More Stars HD</channel>
+    <channel update="i" site="cmore.se" site_id="fi##8" xmltv_id="FI C More First">FI C More First</channel>
+    <channel update="i" site="cmore.se" site_id="fi##12" xmltv_id="FI C More First HD">FI C More First HD</channel>
+    <channel update="i" site="cmore.se" site_id="fi##29" xmltv_id="FI C More Series">FI C More Series</channel>
+    <channel update="i" site="cmore.se" site_id="fi##52" xmltv_id="FI C More Series HD">FI C More Series HD</channel>
+    <channel update="i" site="cmore.se" site_id="fi##9" xmltv_id="FI C More Hits">FI C More Hits</channel>
+    <channel update="i" site="cmore.se" site_id="fi##18" xmltv_id="FI C More Hits HD">FI C More Hits HD</channel>
+    <channel update="i" site="cmore.se" site_id="fi##32" xmltv_id="FI SF-kanalen">FI SF-kanalen</channel>
+  </channels>
+</site>

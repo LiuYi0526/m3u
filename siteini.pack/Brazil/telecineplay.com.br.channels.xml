@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="telecineplay.com.br">
+  <channels>
+    <channel update="i" site="telecineplay.com.br" site_id="8867" xmltv_id="Telecine Premium">Telecine Premium</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8966" xmltv_id="Telecine Action">Telecine Action</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8834" xmltv_id="Telecine Touch">Telecine Touch</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8933" xmltv_id="Telecine Fun">Telecine Fun</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8801" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8900" xmltv_id="Telecine Cult">Telecine Cult</channel>
+  </channels>
+</site>

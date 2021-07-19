@@ -1,0 +1,108 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.2.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 19/07/2021 16:13:34
+[  Debug ] 
+[  Debug ] Running  on: Unix 5.4.0.1051
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] Mono version: 6.12.0.122 (tarball Mon Feb 22 17:29:18 UTC 2021)
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: /home/runner/work/IPTV/IPTV/.wg++/./WebGrab++.config.xml
+[  Info  ] Checking License ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[Warning ] The total channel count :20 exceeds the number 20 allowed for license 'default'
+[Warning ] The total channel count set to :20
+[Warning ] timezone=UTC+08:00 mapped with timezone_id "Asia/Shanghai"
+[  Debug ] 
+[  Info  ] found: /home/runner/work/IPTV/IPTV/.wg++/./siteini.pack/Hong Kong/epg.i-cable.com.chinese.ini -- Revision 00
+[  Debug ] 
+[  Info  ] found: /home/runner/work/IPTV/IPTV/.wg++/./siteini.pack/Hong Kong/nowtv.now.com.ini -- Revision 07
+[  Info  ] encrypted in 'new (V3)' mode
+[Warning ] License 'default' can not decrypt this siteini !!
+[Warning ] Consult WGLicense.log.txt for detail of the various license options
+[Warning ] nowtv.now.com skipped
+[  Info  ] input file /home/runner/work/IPTV/IPTV/.wg++/guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 65 - out of - 20 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=01 香港開電視 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=02 香港國際財經台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=03 香港開電視) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=05 香港國際財經台) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=108 財經資訊台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=109 新聞台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=110 直播新聞台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=151 財經資訊台) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=152 新聞台) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=153 直播新聞台) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=201 有線電影台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=251 有線電影台) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=301 綜合娛樂台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=371 綜合娛樂台) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=601 高清體育台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=602 Sports Plus 1 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=603 高清603台 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=604 Sports Plus 2 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=605 Sports Plus 3 *) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/20  ) EPG.I-CABLE.COM.CHINESE -- chan. (xmltv_id=618 有線18台) -- mode Force
+[  Info  ] 
+[  Info  ] Maximum number of allowed channels 20 reached!
+[  Debug ] 
+[  Debug ] 433 shows in 65 channels
+[  Debug ] 0 updated shows
+[  Debug ] 433 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 19/07/2021 16:15:14 done in 1m 39s

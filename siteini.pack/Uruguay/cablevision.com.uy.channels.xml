@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" site="cablevision.com.uy">
+  <channels>
+    <channel update="i" site="cablevision.com.uy" site_id="2541" xmltv_id="UCL">UCL</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="1290" xmltv_id="Teve Ciudad">Teve Ciudad</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="1383" xmltv_id="Canal 4 Montecarlo">Canal 4 Montecarlo</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="475" xmltv_id="Television Nacional">Television Nacional</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="373" xmltv_id="VTV">VTV</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="62" xmltv_id="CNN en español">CNN en español</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="943" xmltv_id="America 2 Internacional">America 2 Internacional</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="192" xmltv_id="Crónica TV">Crónica TV</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="1387" xmltv_id="Saeta (Canal 10)">Saeta (Canal 10)</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="36" xmltv_id="Todo Noticias">Todo Noticias</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="483" xmltv_id="La Tele">La Tele</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="1154" xmltv_id="Canal 13 Internacional">Canal 13 Internacional</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="11" xmltv_id="Canal Rural">Canal Rural</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="149" xmltv_id="Telefe Internacional">Telefe Internacional</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="709" xmltv_id="C5N">C5N</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="4928" xmltv_id="IN">IN</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="3644" xmltv_id="La Nación">La Nación</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="2263" xmltv_id="Metro">Metro</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="753" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="734" xmltv_id="The Golf Channel">The Golf Channel</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="362" xmltv_id="Fox Sports 3">Fox Sports 3</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="84" xmltv_id="America Sports">America Sports</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="492" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="77" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="21" xmltv_id="HBO Este">HBO Este</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="37" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="15" xmltv_id="Cinecanal">Cinecanal</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="22" xmltv_id="I-Sat">I-Sat</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="328" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="2292" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="97" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="760" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="60" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="325" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="76" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="174" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="756" xmltv_id="Disney Jr">Disney Jr</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="3932" xmltv_id="NAT GEO KIDS">NAT GEO KIDS</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="366" xmltv_id="STAR LIFE">STAR LIFE</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="125" xmltv_id="Gourmet">Gourmet</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="104" xmltv_id="Glitz">Glitz</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="50" xmltv_id="E! Entertainment Television">E! Entertainment Television</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="1531" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="26" xmltv_id="Magazine">Magazine</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="9" xmltv_id="El Canal de las Estrellas">El Canal de las Estrellas</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="493" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="2823" xmltv_id="H2">H2</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="63" xmltv_id="Film &amp; Arts">Film &amp; Arts</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="25" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="319" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="779" xmltv_id="Quiero">Quiero</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="115" xmltv_id="HTV">HTV</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="59" xmltv_id="TVE (España)">TVE (España)</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="65" xmltv_id="TV Galicia">TV Galicia</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="29" xmltv_id="La Rai">La Rai</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="38" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="13" xmltv_id="CNN Internacional">CNN Internacional</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="2067" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="273" xmltv_id="Canal Vasco">Canal Vasco</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="685" xmltv_id="Rede Record">Rede Record</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="83" xmltv_id="STAR SERIES">STAR SERIES</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="589" xmltv_id="STAR HITS">STAR HITS</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="583" xmltv_id="STAR ACTION">STAR ACTION</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="324" xmltv_id="STAR CLASSICS">STAR CLASSICS</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="1016" xmltv_id="STAR FUN">STAR FUN</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="1690" xmltv_id="STAR CINEMA">STAR CINEMA</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="2880" xmltv_id="STAR COMEDY">STAR COMEDY</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="2127" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="335" xmltv_id="HBO Family Panamericano">HBO Family Panamericano</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="2165" xmltv_id="HBO Plus Panamericano">HBO Plus Panamericano</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="1378" xmltv_id="HBO POP">HBO POP</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="334" xmltv_id="HBO XTREME ARGENTINA">HBO XTREME ARGENTINA</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="500" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="628" xmltv_id="Sextreme">Sextreme</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="114" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="cablevision.com.uy" site_id="44" xmltv_id="Venus">Venus</channel>
+  </channels>
+</site>

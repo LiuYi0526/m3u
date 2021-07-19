@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="redeglobo.globo.com">
+  <channels>
+    <channel update="i" site="redeglobo.globo.com" site_id="globobrasilia" xmltv_id="Regionais - globo brasilia">Regionais - globo brasilia</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="globominas" xmltv_id="Regionais - globominas">Regionais - globominas</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="globonordeste" xmltv_id="Regionais - globonordeste">Regionais - globonordeste</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="rio" xmltv_id="Regionais - rio">Regionais - rio</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sao-paulo" xmltv_id="Regionais - são paulo">Regionais - são paulo</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/eptv/campinas-e-regiao" xmltv_id="EPTV - campinas e região">EPTV - campinas e região</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/eptv/ribeirao-preto-franca" xmltv_id="EPTV - Ribeirão Preto e Franca">EPTV - Ribeirão Preto e Franca</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/eptv/sul-de-minas" xmltv_id="EPTV - sul de minas">EPTV - sul de minas</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/eptv/sao-carlos-regiao" xmltv_id="EPTV - São Carlos e Região">EPTV - São Carlos e Região</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/tvtem/bauru" xmltv_id="TV TEM - Bauru">TV TEM - Bauru</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/tvtem/itapetininga" xmltv_id="TV TEM - itapetininga">TV TEM - itapetininga</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/tvtem/sorocaba-e-regiao" xmltv_id="TV TEM - sorocaba e região">TV TEM - sorocaba e região</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/tvtem/sao-jose-do-rio-preto" xmltv_id="TV TEM - São José do Rio Preto">TV TEM - São José do Rio Preto</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="mg/intertvmg" xmltv_id="intertvmg">intertvmg</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="rj/intertvrj" xmltv_id="intertvrj">intertvrj</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="mg/tvintegracao" xmltv_id="tv integracao">tv integracao</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/tvtribuna" xmltv_id="tv tribuna">tv tribuna</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/tvvanguarda" xmltv_id="tv vanguarda">tv vanguarda</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/tvdiario" xmltv_id="tvdiario">tvdiario</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sp/tvfronteira" xmltv_id="tvfronteira">tvfronteira</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="tvgazetaes" xmltv_id="tvgazetaes">tvgazetaes</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="rj/tvriosul" xmltv_id="tvriosul">tvriosul</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="tvanhanguera/goias" xmltv_id="TV Anhanguera - goiás">TV Anhanguera - goiás</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="tvanhanguera/tocantins" xmltv_id="TV Anhanguera - tocantins">TV Anhanguera - tocantins</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="tvmorena" xmltv_id="tvmorena">tvmorena</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="rn/intertvrn/costa-branca" xmltv_id="Inter TV RN - costa branca">Inter TV RN - costa branca</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="rn/intertvrn/natal" xmltv_id="Inter TV RN - natal">Inter TV RN - natal</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="tvverdesmares/tv-cariri" xmltv_id="TV Verdes Mares - tv cariri">TV Verdes Mares - tv cariri</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="tvverdesmares" xmltv_id="TV Verdes Mares - tvverdesmares">TV Verdes Mares - tvverdesmares</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="redebahia" xmltv_id="redebahia">redebahia</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="pi/redeclube" xmltv_id="redeclube">redeclube</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="se/tvsergipe" xmltv_id="tv sergipe">tv sergipe</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="pe/tvasabranca" xmltv_id="tvasabranca">tvasabranca</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="tvcabobranco" xmltv_id="tvcabobranco">tvcabobranco</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="al/tvgazetaal" xmltv_id="tvgazetaal">tvgazetaal</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="pe/tvgranderio" xmltv_id="tvgranderio">tvgranderio</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="ma/tvmirante" xmltv_id="tvmirante">tvmirante</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="tvparaiba" xmltv_id="tvparaiba">tvparaiba</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="pa/tvtapajos" xmltv_id="tvtapajos">tvtapajos</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="redeamazonica/acre" xmltv_id="Rede Amazônica - acre">Rede Amazônica - acre</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="redeamazonica/amapa" xmltv_id="Rede Amazônica - amapá">Rede Amazônica - amapá</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="redeamazonica/amazonas" xmltv_id="Rede Amazônica - amazonas">Rede Amazônica - amazonas</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="redeamazonica/rondonia" xmltv_id="Rede Amazônica - rondônia">Rede Amazônica - rondônia</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="redeamazonica/roraima" xmltv_id="Rede Amazônica - roraima">Rede Amazônica - roraima</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="pa/tvliberal" xmltv_id="tv liberal">tv liberal</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="sc/nsctv" xmltv_id="nsctv">nsctv</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="rs/rbstvrs" xmltv_id="rbs tv">rbs tv</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="rpc" xmltv_id="rpc">rpc</channel>
+  </channels>
+</site>

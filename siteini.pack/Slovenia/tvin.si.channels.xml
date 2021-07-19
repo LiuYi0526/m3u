@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="tvin.si">
+  <channels>
+    <channel update="i" site="tvin.si" site_id="SLO1" xmltv_id="TV SLO 1">TV SLO 1</channel>
+    <channel update="i" site="tvin.si" site_id="SLO2" xmltv_id="TV SLO 2">TV SLO 2</channel>
+    <channel update="i" site="tvin.si" site_id="PLANETTVHD" xmltv_id="Planet HD">Planet HD</channel>
+    <channel update="i" site="tvin.si" site_id="POPTV" xmltv_id="POP TV">POP TV</channel>
+    <channel update="i" site="tvin.si" site_id="HBO" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="tvin.si" site_id="PINKSI" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tvin.si" site_id="AKANAL" xmltv_id="Kanal A">Kanal A</channel>
+    <channel update="i" site="tvin.si" site_id="SLO1HD" xmltv_id="TV SLO 1 HD">TV SLO 1 HD</channel>
+    <channel update="i" site="tvin.si" site_id="SLO2HD" xmltv_id="TV SLO 2 HD">TV SLO 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="PLANETTV" xmltv_id="Planet">Planet</channel>
+    <channel update="i" site="tvin.si" site_id="POPTVHD" xmltv_id="Pop TV HD">Pop TV HD</channel>
+    <channel update="i" site="tvin.si" site_id="AKANALHD" xmltv_id="Kanal A HD">Kanal A HD</channel>
+    <channel update="i" site="tvin.si" site_id="NOVA24TV" xmltv_id="Nova 24 TV">Nova 24 TV</channel>
+    <channel update="i" site="tvin.si" site_id="NOVA24TV2" xmltv_id="Nova 24 TV 2">Nova 24 TV 2</channel>
+    <channel update="i" site="tvin.si" site_id="GOLD" xmltv_id="Gold TV">Gold TV</channel>
+    <channel update="i" site="tvin.si" site_id="PLANETPLUS" xmltv_id="Planet PLUS">Planet PLUS</channel>
+    <channel update="i" site="tvin.si" site_id="PLANET2" xmltv_id="Planet 2">Planet 2</channel>
+    <channel update="i" site="tvin.si" site_id="PLANETPLUSHD" xmltv_id="Planet PLUS HD">Planet PLUS HD</channel>
+    <channel update="i" site="tvin.si" site_id="PLANET2HD" xmltv_id="Planet 2 HD">Planet 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="ITALIA1HD" xmltv_id="Italia 1 HD">Italia 1 HD</channel>
+    <channel update="i" site="tvin.si" site_id="RETE4HD" xmltv_id="Rete 4 HD">Rete 4 HD</channel>
+    <channel update="i" site="tvin.si" site_id="CANALE5HD" xmltv_id="Canale 5 HD">Canale 5 HD</channel>
+    <channel update="i" site="tvin.si" site_id="RETE4" xmltv_id="Rete 4">Rete 4</channel>
+    <channel update="i" site="tvin.si" site_id="CANALE5" xmltv_id="Canale 5">Canale 5</channel>
+    <channel update="i" site="tvin.si" site_id="ITALIA1" xmltv_id="Italia 1">Italia 1</channel>
+    <channel update="i" site="tvin.si" site_id="DISCOVERY" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvin.si" site_id="ANIMAL" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvin.si" site_id="DISCTLC" xmltv_id="Discovery TLC">Discovery TLC</channel>
+    <channel update="i" site="tvin.si" site_id="DISCIDX" xmltv_id="Discovery ID Xtra">Discovery ID Xtra</channel>
+    <channel update="i" site="tvin.si" site_id="DISCOVERYHDD" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="tvin.si" site_id="NATGEO" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tvin.si" site_id="NATGEOHD" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="tvin.si" site_id="NATGEOW" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="tvin.si" site_id="NATGEOWHD" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="tvin.si" site_id="HISTORY" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tvin.si" site_id="BBCEARTH" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="tvin.si" site_id="BBCEARTHHD" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="tvin.si" site_id="HISTORYCH" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="tvin.si" site_id="HISTORYHD" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="tvin.si" site_id="DISCIDXHD" xmltv_id="Discovery ID Xtra HD">Discovery ID Xtra HD</channel>
+    <channel update="i" site="tvin.si" site_id="DAVINCILEAR" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="tvin.si" site_id="ANIMALHD" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tvin.si" site_id="TRAVEL" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tvin.si" site_id="TRAVELHD" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="tvin.si" site_id="REALITY" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="tvin.si" site_id="OUTDOOR" xmltv_id="Outdoor">Outdoor</channel>
+    <channel update="i" site="tvin.si" site_id="OUTDOORHD" xmltv_id="Outdoor HD">Outdoor HD</channel>
+    <channel update="i" site="tvin.si" site_id="VIANATURE" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tvin.si" site_id="EXPLORE" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="tvin.si" site_id="TRAVELXPHD" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel update="i" site="tvin.si" site_id="TRAVELXP4K" xmltv_id="Travelxp 4K">Travelxp 4K</channel>
+    <channel update="i" site="tvin.si" site_id="VIAHISTORYHD" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="tvin.si" site_id="VIANATUREHD" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel update="i" site="tvin.si" site_id="EXPLOREHD" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="tvin.si" site_id="HBOHD" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="tvin.si" site_id="HBO2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="tvin.si" site_id="HBOCOMEDYHD" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="HBO3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="tvin.si" site_id="HBO3HD" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="tvin.si" site_id="CINEMAX1" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="tvin.si" site_id="CINEMAX2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="tvin.si" site_id="FOX" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tvin.si" site_id="FOXHD" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="tvin.si" site_id="FOXLIFE" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="tvin.si" site_id="FOXLIFEHD" xmltv_id="FOX Life HD">FOX Life HD</channel>
+    <channel update="i" site="tvin.si" site_id="FOXCRIME" xmltv_id="FOX Crime">FOX Crime</channel>
+    <channel update="i" site="tvin.si" site_id="FOXCRIMEHD" xmltv_id="FOX Crime HD">FOX Crime HD</channel>
+    <channel update="i" site="tvin.si" site_id="FOXMOVIES" xmltv_id="FOX Movies">FOX Movies</channel>
+    <channel update="i" site="tvin.si" site_id="FOXMOVIESHD" xmltv_id="FOX Movies HD">FOX Movies HD</channel>
+    <channel update="i" site="tvin.si" site_id="TV1000" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="tvin.si" site_id="POPKINO" xmltv_id="Kino">Kino</channel>
+    <channel update="i" site="tvin.si" site_id="POPKINOHD" xmltv_id="Kino HD">Kino HD</channel>
+    <channel update="i" site="tvin.si" site_id="BRIO" xmltv_id="Brio">Brio</channel>
+    <channel update="i" site="tvin.si" site_id="BRIOHD" xmltv_id="Brio HD">Brio HD</channel>
+    <channel update="i" site="tvin.si" site_id="CINESTARTV" xmltv_id="Cinestar TV 1">Cinestar TV 1</channel>
+    <channel update="i" site="tvin.si" site_id="CINESTARACTION" xmltv_id="CineStar TV Action &amp; Thriller">CineStar TV Action &amp; Thriller</channel>
+    <channel update="i" site="tvin.si" site_id="CINESTARPR1" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
+    <channel update="i" site="tvin.si" site_id="CINESTARPR1HD" xmltv_id="CineStar TV Premiere 1 HD">CineStar TV Premiere 1 HD</channel>
+    <channel update="i" site="tvin.si" site_id="CINESTARPR2" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
+    <channel update="i" site="tvin.si" site_id="CINESTARPR2HD" xmltv_id="CineStar TV Premiere 2 HD">CineStar TV Premiere 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="tvin.si" site_id="AXNSPIN" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="tvin.si" site_id="KLASIKTV" xmltv_id="Klasik TV">Klasik TV</channel>
+    <channel update="i" site="tvin.si" site_id="MGM" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="tvin.si" site_id="HALLMARK" xmltv_id="Diva">Diva</channel>
+    <channel update="i" site="tvin.si" site_id="CINEMAXHD" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="tvin.si" site_id="CINEMAXHD2" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="PINKMOVIE" xmltv_id="Pink Movies">Pink Movies</channel>
+    <channel update="i" site="tvin.si" site_id="PINKFAMILY" xmltv_id="Pink Family">Pink Family</channel>
+    <channel update="i" site="tvin.si" site_id="PINK2" xmltv_id="Pink 2">Pink 2</channel>
+    <channel update="i" site="tvin.si" site_id="PINKFILM" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="tvin.si" site_id="AMCHD" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="tvin.si" site_id="EPICDRAMA" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="tvin.si" site_id="EPICDRAMAHD" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="tvin.si" site_id="SCIFI" xmltv_id="SciFi">SciFi</channel>
+    <channel update="i" site="tvin.si" site_id="SCIFIHD" xmltv_id="SciFi HD">SciFi HD</channel>
+    <channel update="i" site="tvin.si" site_id="DOQ" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel update="i" site="tvin.si" site_id="24KITCHENHD" xmltv_id="24Kitchen HD">24Kitchen HD</channel>
+    <channel update="i" site="tvin.si" site_id="EEUROPE" xmltv_id="E!">E!</channel>
+    <channel update="i" site="tvin.si" site_id="EEUROPEHD" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="tvin.si" site_id="GINX" xmltv_id="Ginx">Ginx</channel>
+    <channel update="i" site="tvin.si" site_id="GINXHD" xmltv_id="Ginx HD">Ginx HD</channel>
+    <channel update="i" site="tvin.si" site_id="FASHION" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tvin.si" site_id="FASHIONTV4K" xmltv_id="FashionTV 4K">FashionTV 4K</channel>
+    <channel update="i" site="tvin.si" site_id="DRFIT" xmltv_id="Dr. Fit">Dr. Fit</channel>
+    <channel update="i" site="tvin.si" site_id="DRFITHD" xmltv_id="Dr. Fit HD">Dr. Fit HD</channel>
+    <channel update="i" site="tvin.si" site_id="WOMAN" xmltv_id="Woman">Woman</channel>
+    <channel update="i" site="tvin.si" site_id="WOMANHD" xmltv_id="Woman HD">Woman HD</channel>
+    <channel update="i" site="tvin.si" site_id="ARTE" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="tvin.si" site_id="RTL" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tvin.si" site_id="RTL2" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="tvin.si" site_id="SUPERRTL" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="tvin.si" site_id="KABEL1" xmltv_id="Kabel 1">Kabel 1</channel>
+    <channel update="i" site="tvin.si" site_id="VOX" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="tvin.si" site_id="SAT1" xmltv_id="SAT 1">SAT 1</channel>
+    <channel update="i" site="tvin.si" site_id="PRO7" xmltv_id="Pro7">Pro7</channel>
+    <channel update="i" site="tvin.si" site_id="3SAT" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="tvin.si" site_id="TVE" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="tvin.si" site_id="TV5" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="tvin.si" site_id="MEDIAINTER" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel update="i" site="tvin.si" site_id="INFOTV" xmltv_id="Top TV">Top TV</channel>
+    <channel update="i" site="tvin.si" site_id="PINKSLO" xmltv_id="PINK SI">PINK SI</channel>
+    <channel update="i" site="tvin.si" site_id="EWTN" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="tvin.si" site_id="PINK" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="tvin.si" site_id="PINKZABAVA" xmltv_id="Pink Zabava">Pink Zabava</channel>
+    <channel update="i" site="tvin.si" site_id="PINKWORLD" xmltv_id="Pink World">Pink World</channel>
+    <channel update="i" site="tvin.si" site_id="PINKREALITY" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel update="i" site="tvin.si" site_id="HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tvin.si" site_id="HGTVHD" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel update="i" site="tvin.si" site_id="MINIMAX" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="tvin.si" site_id="POPOTO" xmltv_id="OTO">OTO</channel>
+    <channel update="i" site="tvin.si" site_id="POPOTOHD" xmltv_id="OTO HD">OTO HD</channel>
+    <channel update="i" site="tvin.si" site_id="NICKLEODEON" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tvin.si" site_id="BABYTV" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="tvin.si" site_id="CARTOON" xmltv_id="Cartoon / TCM">Cartoon / TCM</channel>
+    <channel update="i" site="tvin.si" site_id="BOOMERANG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tvin.si" site_id="JIMJAM" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="tvin.si" site_id="DISNEY" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tvin.si" site_id="JETIX" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tvin.si" site_id="PINKKIDS" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel update="i" site="tvin.si" site_id="NICKJR1" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="tvin.si" site_id="NICKTOONS" xmltv_id="NickToons">NickToons</channel>
+    <channel update="i" site="tvin.si" site_id="CUPTEST" xmltv_id="Catchup Test">Catchup Test</channel>
+    <channel update="i" site="tvin.si" site_id="SPORTTVHD" xmltv_id="\u0160port TV 1 HD">\u0160port TV 1 HD</channel>
+    <channel update="i" site="tvin.si" site_id="SPORTTV2HD" xmltv_id="\u0160port TV 2 HD">\u0160port TV 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="SPORTTV3HD" xmltv_id="\u0160port TV 3 HD">\u0160port TV 3 HD</channel>
+    <channel update="i" site="tvin.si" site_id="SPORTTV" xmltv_id="\u0160port TV 1">\u0160port TV 1</channel>
+    <channel update="i" site="tvin.si" site_id="SPORTTV2" xmltv_id="\u0160port TV 2">\u0160port TV 2</channel>
+    <channel update="i" site="tvin.si" site_id="SPORTTV3" xmltv_id="\u0160port TV 3">\u0160port TV 3</channel>
+    <channel update="i" site="tvin.si" site_id="ARENASLO1HD" xmltv_id="Arena Sport 1 HD">Arena Sport 1 HD</channel>
+    <channel update="i" site="tvin.si" site_id="ARENASLO2HD" xmltv_id="Arena Sport 2 HD">Arena Sport 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="TVARENAESPORTHD" xmltv_id="Arena eSport HD">Arena eSport HD</channel>
+    <channel update="i" site="tvin.si" site_id="ARENASLO1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel update="i" site="tvin.si" site_id="ARENASLO2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel update="i" site="tvin.si" site_id="TVARENAESPORT" xmltv_id="Arena eSport">Arena eSport</channel>
+    <channel update="i" site="tvin.si" site_id="EUROSPORT" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="tvin.si" site_id="EUROSPORTHD" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="tvin.si" site_id="EUROSPORT2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvin.si" site_id="EUROSPORT2HD" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="EUROSPORT4K" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+    <channel update="i" site="tvin.si" site_id="EXTREME" xmltv_id="Extreme TV">Extreme TV</channel>
+    <channel update="i" site="tvin.si" site_id="DSF" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="tvin.si" site_id="MOTORVISIONTV" xmltv_id="Motorvision TV HD">Motorvision TV HD</channel>
+    <channel update="i" site="tvin.si" site_id="TRACESPORT" xmltv_id="Trace Sport">Trace Sport</channel>
+    <channel update="i" site="tvin.si" site_id="YACHTSAIL" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="tvin.si" site_id="MTVLIVEHD" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="tvin.si" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tvin.si" site_id="CMCHD" xmltv_id="CMC HD">CMC HD</channel>
+    <channel update="i" site="tvin.si" site_id="CMC" xmltv_id="CMC">CMC</channel>
+    <channel update="i" site="tvin.si" site_id="JUGOTONTV" xmltv_id="Jugoton">Jugoton</channel>
+    <channel update="i" site="tvin.si" site_id="MTVDANCE" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="tvin.si" site_id="MTVH" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tvin.si" site_id="TRACE" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="tvin.si" site_id="MTV2" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="tvin.si" site_id="VH1CLA" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="tvin.si" site_id="MEZZO" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="tvin.si" site_id="PINKMUSIC" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="tvin.si" site_id="PINKEXTRA" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="tvin.si" site_id="PINKFOLK" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel update="i" site="tvin.si" site_id="PAPRIKA" xmltv_id="TV Veseljak">TV Veseljak</channel>
+    <channel update="i" site="tvin.si" site_id="NET" xmltv_id="NET TV">NET TV</channel>
+    <channel update="i" site="tvin.si" site_id="VASKANAL" xmltv_id="Va\u0161 kanal">Va\u0161 kanal</channel>
+    <channel update="i" site="tvin.si" site_id="PTUJTV" xmltv_id="Ptujska TV">Ptujska TV</channel>
+    <channel update="i" site="tvin.si" site_id="BKTV" xmltv_id="BK TV">BK TV</channel>
+    <channel update="i" site="tvin.si" site_id="EXODUSTV" xmltv_id="Exodus TV">Exodus TV</channel>
+    <channel update="i" site="tvin.si" site_id="PINKSIHD" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="tvin.si" site_id="NOVA24TVHD" xmltv_id="Nova 24 TV HD">Nova 24 TV HD</channel>
+    <channel update="i" site="tvin.si" site_id="NOVA24TV2HD" xmltv_id="Nova 24 TV 2 HD">Nova 24 TV 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="SLO3HD" xmltv_id="TV SLO 3 HD">TV SLO 3 HD</channel>
+    <channel update="i" site="tvin.si" site_id="KOPERHD" xmltv_id="TV Koper Capodistria HD">TV Koper Capodistria HD</channel>
+    <channel update="i" site="tvin.si" site_id="SLO3" xmltv_id="TV SLO 3">TV SLO 3</channel>
+    <channel update="i" site="tvin.si" site_id="KOPER" xmltv_id="TV Koper Capodistria">TV Koper Capodistria</channel>
+    <channel update="i" site="tvin.si" site_id="TELEM" xmltv_id="Tele Maribor">Tele Maribor</channel>
+    <channel update="i" site="tvin.si" site_id="TELEMHD" xmltv_id="Tele Maribor HD">Tele Maribor HD</channel>
+    <channel update="i" site="tvin.si" site_id="HRT1" xmltv_id="HRT 1">HRT 1</channel>
+    <channel update="i" site="tvin.si" site_id="HRT2" xmltv_id="HRT 2">HRT 2</channel>
+    <channel update="i" site="tvin.si" site_id="HRT3" xmltv_id="HRT 3">HRT 3</channel>
+    <channel update="i" site="tvin.si" site_id="OBNBOSNA" xmltv_id="OBN">OBN</channel>
+    <channel update="i" site="tvin.si" site_id="RTS" xmltv_id="RT Srbija HD">RT Srbija HD</channel>
+    <channel update="i" site="tvin.si" site_id="RTCG" xmltv_id="RT Crna gora">RT Crna gora</channel>
+    <channel update="i" site="tvin.si" site_id="ALJAZEERA" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel update="i" site="tvin.si" site_id="HAYAT" xmltv_id="Hayat">Hayat</channel>
+    <channel update="i" site="tvin.si" site_id="ELTATV" xmltv_id="ELTA TV">ELTA TV</channel>
+    <channel update="i" site="tvin.si" site_id="BNTV" xmltv_id="BN TV">BN TV</channel>
+    <channel update="i" site="tvin.si" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvin.si" site_id="BBCWORLD" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tvin.si" site_id="RAI1HD" xmltv_id="RAI 1 HD">RAI 1 HD</channel>
+    <channel update="i" site="tvin.si" site_id="FRANCE24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tvin.si" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tvin.si" site_id="ARD" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="tvin.si" site_id="RUSSIA1" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel update="i" site="tvin.si" site_id="RUSSIATODAY" xmltv_id="Russia Today ">Russia Today </channel>
+    <channel update="i" site="tvin.si" site_id="ORF1" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="tvin.si" site_id="ORF2" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="tvin.si" site_id="RAI1" xmltv_id="RAI 1">RAI 1</channel>
+    <channel update="i" site="tvin.si" site_id="RAI2" xmltv_id="RAI 2">RAI 2</channel>
+    <channel update="i" site="tvin.si" site_id="RAI3" xmltv_id="RAI 3">RAI 3</channel>
+    <channel update="i" site="tvin.si" site_id="DUNA" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="tvin.si" site_id="TRING7" xmltv_id="Tring 7">Tring 7</channel>
+    <channel update="i" site="tvin.si" site_id="TRINGM" xmltv_id="Tring Max">Tring Max</channel>
+    <channel update="i" site="tvin.si" site_id="TRINGS" xmltv_id="Tring Shiqip">Tring Shiqip</channel>
+    <channel update="i" site="tvin.si" site_id="TRINGT" xmltv_id="Tring Tring">Tring Tring</channel>
+    <channel update="i" site="tvin.si" site_id="ALTERNATIVA" xmltv_id="Elta 2">Elta 2</channel>
+    <channel update="i" site="tvin.si" site_id="FTV" xmltv_id="FTV">FTV</channel>
+    <channel update="i" site="tvin.si" site_id="KAKANJ" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
+    <channel update="i" site="tvin.si" site_id="RTRS" xmltv_id="RTRS">RTRS</channel>
+    <channel update="i" site="tvin.si" site_id="TV1" xmltv_id="O Kanal">O Kanal</channel>
+    <channel update="i" site="tvin.si" site_id="SARAJEVO" xmltv_id="TV Sarajevo">TV Sarajevo</channel>
+    <channel update="i" site="tvin.si" site_id="ZDRAVA" xmltv_id="Zdrava TV">Zdrava TV</channel>
+    <channel update="i" site="tvin.si" site_id="ATLAS" xmltv_id="TV Atlas">TV Atlas</channel>
+    <channel update="i" site="tvin.si" site_id="RTLHRVATSKA" xmltv_id="RTL Hrva\u0161ka">RTL Hrva\u0161ka</channel>
+    <channel update="i" site="tvin.si" site_id="RTLHRVATSKA2" xmltv_id="RTL 2 Hrva\u0161ka">RTL 2 Hrva\u0161ka</channel>
+    <channel update="i" site="tvin.si" site_id="RTLLIVING" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="tvin.si" site_id="JABUKATV" xmltv_id="Jabuka (OTV)">Jabuka (OTV)</channel>
+    <channel update="i" site="tvin.si" site_id="NARODNA" xmltv_id="Narodna TV">Narodna TV</channel>
+    <channel update="i" site="tvin.si" site_id="ISTRA" xmltv_id="TV RI">TV RI</channel>
+    <channel update="i" site="tvin.si" site_id="JADRAN" xmltv_id="TV Jadran">TV Jadran</channel>
+    <channel update="i" site="tvin.si" site_id="Z1" xmltv_id="Z1 Televizija">Z1 Televizija</channel>
+    <channel update="i" site="tvin.si" site_id="ALSATM" xmltv_id="Alsat Macedonia">Alsat Macedonia</channel>
+    <channel update="i" site="tvin.si" site_id="KANAL5" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel update="i" site="tvin.si" site_id="MKTV1" xmltv_id="MTV 1">MTV 1</channel>
+    <channel update="i" site="tvin.si" site_id="MKTV2" xmltv_id="MTV 2">MTV 2</channel>
+    <channel update="i" site="tvin.si" site_id="TELMA" xmltv_id="Telma TV">Telma TV</channel>
+    <channel update="i" site="tvin.si" site_id="SITEL" xmltv_id="TV Sitel">TV Sitel</channel>
+    <channel update="i" site="tvin.si" site_id="B92" xmltv_id="O2 TV">O2 TV</channel>
+    <channel update="i" site="tvin.si" site_id="HAPPY" xmltv_id="Happy TV">Happy TV</channel>
+    <channel update="i" site="tvin.si" site_id="VIKOM" xmltv_id="Vikom">Vikom</channel>
+    <channel update="i" site="tvin.si" site_id="KCN" xmltv_id="KCN">KCN</channel>
+    <channel update="i" site="tvin.si" site_id="KCNM" xmltv_id="KCN Music">KCN Music</channel>
+    <channel update="i" site="tvin.si" site_id="PRVASRB" xmltv_id="PRVA Srbska TV">PRVA Srbska TV</channel>
+    <channel update="i" site="tvin.si" site_id="RTS1" xmltv_id="RTS 1">RTS 1</channel>
+    <channel update="i" site="tvin.si" site_id="RTS2" xmltv_id="RTS 2">RTS 2</channel>
+    <channel update="i" site="tvin.si" site_id="DUGANS" xmltv_id="TV Duga Novi sad">TV Duga Novi sad</channel>
+    <channel update="i" site="tvin.si" site_id="SPBEOGRAD" xmltv_id="TV Svet Plus Beograd">TV Svet Plus Beograd</channel>
+    <channel update="i" site="tvin.si" site_id="ORF1HD" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
+    <channel update="i" site="tvin.si" site_id="ORF2HD" xmltv_id="ORF 2 HD">ORF 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="BNTVHD" xmltv_id="BN TV HD">BN TV HD</channel>
+    <channel update="i" site="tvin.si" site_id="HRT1HD" xmltv_id="HRT 1 HD">HRT 1 HD</channel>
+    <channel update="i" site="tvin.si" site_id="HRT2HD" xmltv_id="HRT 2 HD">HRT 2 HD</channel>
+    <channel update="i" site="tvin.si" site_id="HRT3HD" xmltv_id="HRT 3 HD">HRT 3 HD</channel>
+    <channel update="i" site="tvin.si" site_id="RTLHRVATSKA2HD" xmltv_id="RTL 2 Hrva\u0161ka HD">RTL 2 Hrva\u0161ka HD</channel>
+    <channel update="i" site="tvin.si" site_id="RTLHRVATSKAHD" xmltv_id="RTL Hrva\u0161ka HD">RTL Hrva\u0161ka HD</channel>
+    <channel update="i" site="tvin.si" site_id="PLANET2TEST" xmltv_id="Planet2_test">Planet2_test</channel>
+    <channel update="i" site="tvin.si" site_id="PLANET2HDTEST" xmltv_id="Planet2HD_test">Planet2HD_test</channel>
+    <channel update="i" site="tvin.si" site_id="AKANALHEVC" xmltv_id="Kanal A">Kanal A</channel>
+    <channel update="i" site="tvin.si" site_id="SPICE" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="tvin.si" site_id="DORCEL" xmltv_id="Dorcel TV HD">Dorcel TV HD</channel>
+    <channel update="i" site="tvin.si" site_id="DORCELHD" xmltv_id="Dorcel XXX HD">Dorcel XXX HD</channel>
+    <channel update="i" site="tvin.si" site_id="HUSTLER" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="tvin.si" site_id="HUSTLERHD" xmltv_id="Hustler TV HD">Hustler TV HD</channel>
+    <channel update="i" site="tvin.si" site_id="PRIVATE" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="tvin.si" site_id="SUPERONEHD" xmltv_id="Super One HD">Super One HD</channel>
+    <channel update="i" site="tvin.si" site_id="FREEX" xmltv_id="Pinko club">Pinko club</channel>
+    <channel update="i" site="tvin.si" site_id="REDXXX" xmltv_id="Red XXX">Red XXX</channel>
+    <channel update="i" site="tvin.si" site_id="PLAYHOUSE" xmltv_id="Playhouse">Playhouse</channel>
+    <channel update="i" site="tvin.si" site_id="ZDFHD" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel update="i" site="tvin.si" site_id="ARTEHD" xmltv_id="Arte HD">Arte HD</channel>
+  </channels>
+</site>

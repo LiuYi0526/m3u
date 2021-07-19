@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="stod2.is">
+  <channels>
+    <channel update="i" site="stod2.is" site_id="beint" xmltv_id="Beint">Beint</channel>
+    <channel update="i" site="stod2.is" site_id="bio" xmltv_id="Bio">Bio</channel>
+    <channel update="i" site="stod2.is" site_id="esport" xmltv_id="Esport">Esport</channel>
+    <channel update="i" site="stod2.is" site_id="golfstodin" xmltv_id="Golfstodin">Golfstodin</channel>
+    <channel update="i" site="stod2.is" site_id="sport" xmltv_id="Sport">Sport</channel>
+    <channel update="i" site="stod2.is" site_id="sport2" xmltv_id="Sport2">Sport2</channel>
+    <channel update="i" site="stod2.is" site_id="sport3" xmltv_id="Sport3">Sport3</channel>
+    <channel update="i" site="stod2.is" site_id="sport4" xmltv_id="Sport4">Sport4</channel>
+    <channel update="i" site="stod2.is" site_id="sport5" xmltv_id="Sport5">Sport5</channel>
+    <channel update="i" site="stod2.is" site_id="stod2" xmltv_id="Stod2">Stod2</channel>
+    <channel update="i" site="stod2.is" site_id="stod3" xmltv_id="Stod3">Stod3</channel>
+  </channels>
+</site>

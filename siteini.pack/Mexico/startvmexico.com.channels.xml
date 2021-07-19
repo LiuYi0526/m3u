@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" site="startvmexico.com">
+  <channels>
+    <channel update="i" site="startvmexico.com" site_id="3129_1134" xmltv_id="AZTECA UNO">AZTECA UNO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1079" xmltv_id="CANAL DE LAS ESTRELLAS">CANAL DE LAS ESTRELLAS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2253" xmltv_id="IMAGEN TELEVISION">IMAGEN TELEVISION</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1081" xmltv_id="CANAL 5">CANAL 5</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1091" xmltv_id="AZTECA 7">AZTECA 7</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_4260" xmltv_id="A+">A+</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1088" xmltv_id="CANAL 11">CANAL 11</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2779" xmltv_id="UNA VOZ CON TODOS">UNA VOZ CON TODOS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1109" xmltv_id="TV UNAM">TV UNAM</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1087" xmltv_id="CANAL 22 CONACULTA">CANAL 22 CONACULTA</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_3282" xmltv_id="ADN 40">ADN 40</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1344" xmltv_id="CANAL DEL CONGRESO">CANAL DEL CONGRESO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1440" xmltv_id="CANAL JUDICIAL">CANAL JUDICIAL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2780" xmltv_id="INGENIO">INGENIO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_3711" xmltv_id="CANAL 22.2">CANAL 22.2</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_296" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1058" xmltv_id="TELERITMO">TELERITMO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1565" xmltv_id="TELEHIT MUSICA">TELEHIT MUSICA</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1564" xmltv_id="TELEHIT">TELEHIT</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_502" xmltv_id="BANDAMAX">BANDAMAX</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1410" xmltv_id="CANAL DE LAS ESTRELLAS +2">CANAL DE LAS ESTRELLAS +2</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1080" xmltv_id="FORO TV">FORO TV</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1047" xmltv_id="NUEVE">NUEVE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2280" xmltv_id="AGROTENDENCIA">AGROTENDENCIA</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1212" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_447" xmltv_id="SONY">SONY</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1059" xmltv_id="MULTIMEDIOS">MULTIMEDIOS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1068" xmltv_id="UNICABLE">UNICABLE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1133" xmltv_id="WARNER">WARNER</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_490" xmltv_id="ENTERTAINMENT">ENTERTAINMENT</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_498" xmltv_id="FX">FX</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_449" xmltv_id="UNIVERSAL CHANNEL">UNIVERSAL CHANNEL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1122" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_430" xmltv_id="A&amp;E MUNDO">A&amp;E MUNDO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1114" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1112" xmltv_id="TRU TV">TRU TV</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_512" xmltv_id="FOX LIFE">FOX LIFE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1563" xmltv_id="TLNOVELAS">TLNOVELAS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_3040" xmltv_id="TNT SERIES">TNT SERIES</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1152" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2879" xmltv_id="LIFETIME">LIFETIME</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_815" xmltv_id="AZ CORAZON">AZ CORAZON</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1806" xmltv_id="AZ CLIC">AZ CLIC</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_703" xmltv_id="DISTRITO COMEDIA">DISTRITO COMEDIA</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_4217" xmltv_id="COMEDY CENTRAL">COMEDY CENTRAL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1966" xmltv_id="TBS VERYFUNNY">TBS VERYFUNNY</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_444" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_472" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1185" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2473" xmltv_id="H2">H2</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_4718" xmltv_id="LOVE NATURE">LOVE NATURE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_283" xmltv_id="MARIAVISIÓN">MARIAVISIÓN</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_413" xmltv_id="ENLACE">ENLACE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_874" xmltv_id="DISNEY">DISNEY</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_817" xmltv_id="DISNEY JR">DISNEY JR</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1014" xmltv_id="DISNEY XD">DISNEY XD</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_297" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1227" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1959" xmltv_id="BITIME">BITIME</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_3136" xmltv_id="CANAL 11.2">CANAL 11.2</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_4219" xmltv_id="NAT GEO KIDS">NAT GEO KIDS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_402" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_422" xmltv_id="BOOMERANG">BOOMERANG</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_695" xmltv_id="BABY TV">BABY TV</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_137" xmltv_id="DE PELICULA">DE PELICULA</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_4249" xmltv_id="PARAMOUNT">PARAMOUNT</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_474" xmltv_id="GOLDEN">GOLDEN</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1069" xmltv_id="GOLDEN EDGE">GOLDEN EDGE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_242" xmltv_id="CINECANAL">CINECANAL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_516" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_442" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1576" xmltv_id="CINEMAX">CINEMAX</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1370" xmltv_id="SPACE">SPACE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_4100" xmltv_id="FILM ZONE">FILM ZONE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_3159" xmltv_id="AZ CINEMA">AZ CINEMA</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_4991" xmltv_id="MORBIDO TV">MORBIDO TV</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_246" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2900" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1570" xmltv_id="HBO MUNDI">HBO MUNDI</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_335" xmltv_id="HBO FAMILY">HBO FAMILY</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2361" xmltv_id="HBO XREME">HBO XREME</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1379" xmltv_id="HBO POP">HBO POP</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_589" xmltv_id="FOX PREMIUM MOVIES">FOX PREMIUM MOVIES</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_83" xmltv_id="FOX PREMIUM SERIES">FOX PREMIUM SERIES</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1016" xmltv_id="FOX PREMIUM FAMILY">FOX PREMIUM FAMILY</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2881" xmltv_id="FOX PREMIUM COMEDY">FOX PREMIUM COMEDY</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_583" xmltv_id="FOX PREMIUM ACTION">FOX PREMIUM ACTION</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1150" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1149" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2336" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_577" xmltv_id="FOX SPORTS">FOX SPORTS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1266" xmltv_id="FOX SPORTS 2">FOX SPORTS 2</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1101" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2793" xmltv_id="ADRENALINA SPORTS">ADRENALINA SPORTS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_947" xmltv_id="TUDN">TUDN</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_5300" xmltv_id="CLAROSPORTS">CLAROSPORTS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_441" xmltv_id="CNN EN ESPAÑOL">CNN EN ESPAÑOL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1048" xmltv_id="MILENIO">MILENIO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_3085" xmltv_id="EL FINANCIERO">EL FINANCIERO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_1020" xmltv_id="FOX NEWS">FOX NEWS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_3257" xmltv_id="NTR">NTR</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2310" xmltv_id="STINGRAY POP LATINO ACTUAL">STINGRAY POP LATINO ACTUAL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2121" xmltv_id="STINGRAY LATINO TROPICAL">STINGRAY LATINO TROPICAL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2079" xmltv_id="STINGRAY ROCK EN ESPAÑOL">STINGRAY ROCK EN ESPAÑOL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2754" xmltv_id="STINGRAY MARIACHI PARA SIEMPRE">STINGRAY MARIACHI PARA SIEMPRE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2126" xmltv_id="STINGRAY VIVA MEXICO">STINGRAY VIVA MEXICO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2318" xmltv_id="STINGRAY REGGAETÓN">STINGRAY REGGAETÓN</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2758" xmltv_id="STINGRAY ROMANCE LATINO">STINGRAY ROMANCE LATINO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2323" xmltv_id="STINGRAY SALSA Y MERENGUE">STINGRAY SALSA Y MERENGUE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2759" xmltv_id="STINGRAY LATIN LOUNGE">STINGRAY LATIN LOUNGE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2761" xmltv_id="STINGRAY VIEJITAS PERO BUENÍSIMAS">STINGRAY VIEJITAS PERO BUENÍSIMAS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2081" xmltv_id="STINGRAY HARD ROCK">STINGRAY HARD ROCK</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2080" xmltv_id="STINGRAY ROCK ALTERNATIVO">STINGRAY ROCK ALTERNATIVO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2082" xmltv_id="STINGRAY CLÁSICOS INDIE">STINGRAY CLÁSICOS INDIE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2115" xmltv_id="STINGRAY AÑOS 80">STINGRAY AÑOS 80</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2116" xmltv_id="STINGRAY AÑOS 90">STINGRAY AÑOS 90</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2113" xmltv_id="STINGRAY EXITOS RECIENTES">STINGRAY EXITOS RECIENTES</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2109" xmltv_id="STINGRAY POP ADULTO">STINGRAY POP ADULTO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2319" xmltv_id="STINGRAY SÓLO PARA PEQUES">STINGRAY SÓLO PARA PEQUES</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2317" xmltv_id="STINGRAY JAZZ LATINO">STINGRAY JAZZ LATINO</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2089" xmltv_id="STINGRAY MAESTROS DEL JAZZ">STINGRAY MAESTROS DEL JAZZ</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2762" xmltv_id="STINGRAY COCKTAIL LOUNGE">STINGRAY COCKTAIL LOUNGE</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2108" xmltv_id="STINGRAY EL SALON CHILL">STINGRAY EL SALON CHILL</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2098" xmltv_id="STINGRAY ÓPERA PLUS">STINGRAY ÓPERA PLUS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2097" xmltv_id="STINGRAY CLÁSICOS PARA TODOS">STINGRAY CLÁSICOS PARA TODOS</channel>
+    <channel update="i" site="startvmexico.com" site_id="3129_2107" xmltv_id="STINGRAY ESPECIALES">STINGRAY ESPECIALES</channel>
+  </channels>
+</site>

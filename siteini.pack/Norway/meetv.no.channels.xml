@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="meetv">
+  <channels>
+    <channel update="i" site="meetv.no" site_id="NRK1" xmltv_id="NRK1">NRK1</channel>
+    <channel update="i" site="meetv.no" site_id="NRK2" xmltv_id="NRK2">NRK2</channel>
+    <channel update="i" site="meetv.no" site_id="NRK3" xmltv_id="NRK3">NRK3</channel>
+    <channel update="i" site="meetv.no" site_id="TV2NORGE" xmltv_id="TV 2 Norway">TV 2 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="TVNORGE" xmltv_id="TVNorge">TVNorge</channel>
+    <channel update="i" site="meetv.no" site_id="TV3NORGE" xmltv_id="TV3 Norway">TV3 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_NRKSUPER_NO" xmltv_id="NRK Super Norway">NRK Super Norway</channel>
+    <channel update="i" site="meetv.no" site_id="VIASAT4" xmltv_id="Viasat 4 Norway">Viasat 4 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="TVNORGEMAX" xmltv_id="MAX Norway">MAX Norway</channel>
+    <channel update="i" site="meetv.no" site_id="TV2NZEBRA" xmltv_id="TV 2 Zebra Norway">TV 2 Zebra Norway</channel>
+    <channel update="i" site="meetv.no" site_id="THEVOICENO" xmltv_id="VOX Norway">VOX Norway</channel>
+    <channel update="i" site="meetv.no" site_id="FEM" xmltv_id="FEM Norway">FEM Norway</channel>
+    <channel update="i" site="meetv.no" site_id="DISCOVERYTLCNORGE" xmltv_id="TLC Norway">TLC Norway</channel>
+    <channel update="i" site="meetv.no" site_id="BBCENTERTAINMENTN" xmltv_id="BBC Brit Norway">BBC Brit Norway</channel>
+    <channel update="i" site="meetv.no" site_id="NGC" xmltv_id="National Geographic Norway">National Geographic Norway</channel>
+    <channel update="i" site="meetv.no" site_id="DISCOVERYNO" xmltv_id="Discovery Channel Norway">Discovery Channel Norway</channel>
+    <channel update="i" site="meetv.no" site_id="DISNEYCHANNELNO" xmltv_id="Disney Channel Nordics">Disney Channel Nordics</channel>
+    <channel update="i" site="meetv.no" site_id="TRAVELCH" xmltv_id="Travel Channel EMEA English">Travel Channel EMEA English</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_INVESTIGATIONDISCOVERY_NO" xmltv_id="Investigation Discovery Norway">Investigation Discovery Norway</channel>
+    <channel update="i" site="meetv.no" site_id="HISTORYCH" xmltv_id="History Norway">History Norway</channel>
+    <channel update="i" site="meetv.no" site_id="ANIMALPLANET" xmltv_id="Animal Planet Norway">Animal Planet Norway</channel>
+    <channel update="i" site="meetv.no" site_id="DISCOVERYHD" xmltv_id="Discovery Showcase HD Norway">Discovery Showcase HD Norway</channel>
+    <channel update="i" site="meetv.no" site_id="EUROSPORT" xmltv_id="Eurosport Norway">Eurosport Norway</channel>
+    <channel update="i" site="meetv.no" site_id="TV1000" xmltv_id="Viasat Film Premiere Norway">Viasat Film Premiere Norway</channel>
+    <channel update="i" site="meetv.no" site_id="MTVNO" xmltv_id="MTV Norway">MTV Norway</channel>
+    <channel update="i" site="meetv.no" site_id="vg-norway--no-no-" xmltv_id="VG Norway">VG Norway</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_TV6_NO" xmltv_id="TV6 Norway">TV6 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_CARTOONNETWORK_NO" xmltv_id="Cartoon Network Norway">Cartoon Network Norway</channel>
+    <channel update="i" site="meetv.no" site_id="EUROSPORT2" xmltv_id="ES NO Norway Eurosport 2">ES NO Norway Eurosport 2</channel>
+    <channel update="i" site="meetv.no" site_id="VIASATHISTORY" xmltv_id="Viasat History Norway">Viasat History Norway</channel>
+    <channel update="i" site="meetv.no" site_id="tv-2-sport-1-norway--no-no-" xmltv_id="TV 2 Sport 1 Norway">TV 2 Sport 1 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="viasport-1-norway--no-no-" xmltv_id="Viasport 1 Norway">Viasport 1 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="tv-2-nyhetskanalen-norway--no-no-" xmltv_id="TV 2 Nyhetskanalen Norway">TV 2 Nyhetskanalen Norway</channel>
+    <channel update="i" site="meetv.no" site_id="TV1000DRAMA" xmltv_id="Viasat Series Norway">Viasat Series Norway</channel>
+    <channel update="i" site="meetv.no" site_id="FOXCRIME" xmltv_id="Fox Norway">Fox Norway</channel>
+    <channel update="i" site="meetv.no" site_id="CPLFILMHD" xmltv_id="C More First Norway">C More First Norway</channel>
+    <channel update="i" site="meetv.no" site_id="CPLHITS" xmltv_id="C More Hits Norway">C More Hits Norway</channel>
+    <channel update="i" site="meetv.no" site_id="CPLSERIES" xmltv_id="C More Series Norway">C More Series Norway</channel>
+    <channel update="i" site="meetv.no" site_id="SVT1" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="meetv.no" site_id="SVT2" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="meetv.no" site_id="DR1" xmltv_id="DR1">DR1</channel>
+    <channel update="i" site="meetv.no" site_id="DR2" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="meetv.no" site_id="TV4" xmltv_id="TV4 Sweden">TV4 Sweden</channel>
+    <channel update="i" site="meetv.no" site_id="TV2DANMARK" xmltv_id="TV 2 Denmark">TV 2 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="BARNKANALEN" xmltv_id="Barnkanalen SVT-B">Barnkanalen SVT-B</channel>
+    <channel update="i" site="meetv.no" site_id="SVT24" xmltv_id="SVT 24 Sweden">SVT 24 Sweden</channel>
+    <channel update="i" site="meetv.no" site_id="TV3SVERIGE" xmltv_id="TV3 Sweden">TV3 Sweden</channel>
+    <channel update="i" site="meetv.no" site_id="BBCENTERTAINMENT_EN" xmltv_id="BBC Brit Nordics English">BBC Brit Nordics English</channel>
+    <channel update="i" site="meetv.no" site_id="BBCKNOWLEDGE" xmltv_id="BBC Earth Nordics English">BBC Earth Nordics English</channel>
+    <channel update="i" site="meetv.no" site_id="VH1CLASSIC" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_MTVROCKS_EN" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="meetv.no" site_id="SKYNEWS" xmltv_id="Sky News International">Sky News International</channel>
+    <channel update="i" site="meetv.no" site_id="ALJAZEERA" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="meetv.no" site_id="baby-tv-english--gb-en-" xmltv_id="Baby TV English">Baby TV English</channel>
+    <channel update="i" site="meetv.no" site_id="CNBCNOR" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="meetv.no" site_id="CNN" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_DISCOVERYWORLD_EN" xmltv_id="Discovery World Nordics English">Discovery World Nordics English</channel>
+    <channel update="i" site="meetv.no" site_id="M_EURONEWS_DE" xmltv_id="Euronews English">Euronews English</channel>
+    <channel update="i" site="meetv.no" site_id="HUSTLERTV" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="meetv.no" site_id="REALITY" xmltv_id="CBS Reality Europe">CBS Reality Europe</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_DISCOVERYHD_EN" xmltv_id="Discovery Channel Central Europe English">Discovery Channel Central Europe English</channel>
+    <channel update="i" site="meetv.no" site_id="DISCSCI" xmltv_id="Discovery Science Europe English">Discovery Science Europe English</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_DISNEYXD_DK" xmltv_id="Disney XD Denmark">Disney XD Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_EUROSPORT_DK" xmltv_id="Eurosport 1 Denmark">Eurosport 1 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_H2HD_EN" xmltv_id="HISTORY2 Europe">HISTORY2 Europe</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_MTVHITS_EN" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="meetv.no" site_id="NGCWILDHD" xmltv_id="National Geographic Wild Nordics">National Geographic Wild Nordics</channel>
+    <channel update="i" site="meetv.no" site_id="TV2DCHARLIE" xmltv_id="TV 2 Charlie">TV 2 Charlie</channel>
+    <channel update="i" site="meetv.no" site_id="TV3SPORT1DK" xmltv_id="TV3 Sport Denmark">TV3 Sport Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_TV1000CLASSIC_DK" xmltv_id="Viasat Film Hits Denmark">Viasat Film Hits Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_VIASATGOLF_DK" xmltv_id="Viasat Golf Denmark">Viasat Golf Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="viasat-ultra-hd-denmark--dk-da-" xmltv_id="Viasat Ultra HD Denmark">Viasat Ultra HD Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_BOOMERANG_NO" xmltv_id="Boomerang Norway">Boomerang Norway</channel>
+    <channel update="i" site="meetv.no" site_id="PLAYHOUSE" xmltv_id="Disney Junior Norway">Disney Junior Norway</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_BBCENTERTAINMENT_DK" xmltv_id="BBC Brit Denmark">BBC Brit Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="BOOMERANG_DK" xmltv_id="Boomerang Denmark">Boomerang Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="DISCOVERYDK" xmltv_id="Discovery Channel Denmark">Discovery Channel Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_DISNEYJUNIOR_DK" xmltv_id="Disney Junior Denmark">Disney Junior Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="history2-denmark--dk-da-" xmltv_id="HISTORY2 Denmark">HISTORY2 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="KANAL4DK" xmltv_id="Kanal 4 Denmark">Kanal 4 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="NATIONALGEOGRAPHICDK" xmltv_id="National Geographic Denmark">National Geographic Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_SFKANALEN_DK" xmltv_id="SF-kanalen Denmark">SF-kanalen Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="TV3DANMARK" xmltv_id="TV3 Denmark">TV3 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="vh1-denmark--dk-da-" xmltv_id="VH1 Denmark">VH1 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_TV1000ACTION_DK" xmltv_id="Viasat Film Action Denmark">Viasat Film Action Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_TV1000FAMILY_DK" xmltv_id="Viasat Film Family Denmark">Viasat Film Family Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_TV1000_DK" xmltv_id="Viasat Film Premiere HD Denmark">Viasat Film Premiere HD Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="BBCONE_EN" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="meetv.no" site_id="BLUEHUSTLER" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="meetv.no" site_id="BOOMERANG_EN" xmltv_id="Boomerang Nordics English">Boomerang Nordics English</channel>
+    <channel update="i" site="meetv.no" site_id="FUELTV_EN" xmltv_id="Fuel.TV English">Fuel.TV English</channel>
+    <channel update="i" site="meetv.no" site_id="GOSPELCHANNEL" xmltv_id="Gospel Channel Scandinavia">Gospel Channel Scandinavia</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_MTVLIVEHD_EN" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="meetv.no" site_id="M_MOTORVISION_DE" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel update="i" site="meetv.no" site_id="OUTDOORCHANNEL_EN" xmltv_id="Outdoor Channel TV EMEA">Outdoor Channel TV EMEA</channel>
+    <channel update="i" site="meetv.no" site_id="ADULTCH" xmltv_id="Adult Channel">Adult Channel</channel>
+    <channel update="i" site="meetv.no" site_id="BBCWORLD" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="meetv.no" site_id="BLOOMBERG" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="meetv.no" site_id="CCTV" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_CARTOONNETWORKNORDIC_EN" xmltv_id="Cartoon Network Nordics English">Cartoon Network Nordics English</channel>
+    <channel update="i" site="meetv.no" site_id="club-mtv--gb-en-" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="meetv.no" site_id="M_DEUTSCHEWELLE_DE" xmltv_id="Deutsche Welle (DW)">Deutsche Welle (DW)</channel>
+    <channel update="i" site="meetv.no" site_id="EENTERTAINMENT" xmltv_id="E! Entertainment Europe">E! Entertainment Europe</channel>
+    <channel update="i" site="meetv.no" site_id="FRANCENEWS" xmltv_id="France 24 English">France 24 English</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_GINXTV_EN" xmltv_id="Ginx TV Esports">Ginx TV Esports</channel>
+    <channel update="i" site="meetv.no" site_id="MEZZOLIVEHD_EN" xmltv_id="MEZZO LIVE HD EN">MEZZO LIVE HD EN</channel>
+    <channel update="i" site="meetv.no" site_id="nautical-channel--us-en-" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="meetv.no" site_id="VH1" xmltv_id="VH1 Euro">VH1 Euro</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_CANALFIRST_DK" xmltv_id="C More First HD Denmark">C More First HD Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_CANALHITS_DK" xmltv_id="C More Hits Denmark">C More Hits Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="DISNEYCHANNELDK" xmltv_id="Disney Channel Denmark">Disney Channel Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_INVESTIGATIONDISCOVERY_DK" xmltv_id="Investigation Discovery Denmark">Investigation Discovery Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="nicktoons-denmark--dk-da-" xmltv_id="NickToons Denmark">NickToons Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_COMEDYCENTRAL_DK" xmltv_id="Paramount Channel Denmark">Paramount Channel Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_TV3SPORT2_DK" xmltv_id="TV3 Max Denmark">TV3 Max Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="TV2NSPORT" xmltv_id="Viasat Esports Denmark">Viasat Esports Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_VIASATEXPLORER_DK" xmltv_id="Viasat Explore Denmark">Viasat Explore Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="CMORESTARS_NO" xmltv_id="C More Stars Norway">C More Stars Norway</channel>
+    <channel update="i" site="meetv.no" site_id="es-no-norway-eurosport-2--no-no-" xmltv_id="ES NO Norway Eurosport 2">ES NO Norway Eurosport 2</channel>
+    <channel update="i" site="meetv.no" site_id="NATIONALGEOGRAPHICWILD" xmltv_id="National Geographic Wild Norway">National Geographic Wild Norway</channel>
+    <channel update="i" site="meetv.no" site_id="tv-2-sport-2-norway--no-no-" xmltv_id="TV 2 Sport 2 Norway">TV 2 Sport 2 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="tv-2-sport-premium-2--no-no-" xmltv_id="TV 2 Sport Premium 2">TV 2 Sport Premium 2</channel>
+    <channel update="i" site="meetv.no" site_id="VIASATEXPLORER" xmltv_id="Viasat Explore Norway">Viasat Explore Norway</channel>
+    <channel update="i" site="meetv.no" site_id="viasport-2-norway--no-no-" xmltv_id="Viasport 2 Norway">Viasport 2 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_ANIMALPLANET_DK" xmltv_id="Animal Planet Denmark">Animal Planet Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="CANAL9" xmltv_id="Canal 9">Canal 9</channel>
+    <channel update="i" site="meetv.no" site_id="DK4" xmltv_id="DK4 Denmark">DK4 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_EUROSPORT2_DK" xmltv_id="Eurosport 2 Denmark">Eurosport 2 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="folketinget--dk-da-" xmltv_id="Folketinget">Folketinget</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_NATGEOWILD_DK" xmltv_id="National Geographic Wild Denmark">National Geographic Wild Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="DISCOVERYTLCDANMARK" xmltv_id="TLC Denmark">TLC Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_TV2FRI_DK" xmltv_id="TV 2 Fri">TV 2 Fri</channel>
+    <channel update="i" site="meetv.no" site_id="TV2DZULU" xmltv_id="TV 2 Zulu">TV 2 Zulu</channel>
+    <channel update="i" site="meetv.no" site_id="TV3PULS" xmltv_id="TV3 Puls Denmark">TV3 Puls Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="TV3DKPLUS" xmltv_id="TV3+ Denmark">TV3+ Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_VIASATNATURECRIME_DK" xmltv_id="Viasat Nature Nordic Denmark">Viasat Nature Nordic Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_NICKJR_NO" xmltv_id="Nick Jr. Norway">Nick Jr. Norway</channel>
+    <channel update="i" site="meetv.no" site_id="NICKELODEON" xmltv_id="Nickelodeon Norway">Nickelodeon Norway</channel>
+    <channel update="i" site="meetv.no" site_id="CPLSF" xmltv_id="SF-kanalen Norway">SF-kanalen Norway</channel>
+    <channel update="i" site="meetv.no" site_id="tv-2-sport-premium--no-no-" xmltv_id="TV 2 Sport Premium">TV 2 Sport Premium</channel>
+    <channel update="i" site="meetv.no" site_id="TV1000FAMILY" xmltv_id="Viasat Film Family Norway">Viasat Film Family Norway</channel>
+    <channel update="i" site="meetv.no" site_id="viasport-3-norway--no-no-" xmltv_id="Viasport 3 Norway">Viasport 3 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="VISJONNO" xmltv_id="Visjon Norge Norway">Visjon Norge Norway</channel>
+    <channel update="i" site="meetv.no" site_id="6EREN" xmltv_id="6'eren">6'eren</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_CANALSERIES_DK" xmltv_id="C More Series Denmark">C More Series Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_CARTOONNETWORK_DK" xmltv_id="Cartoon Network Denmark">Cartoon Network Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="DRRAMASJANG" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_HISTORYCHANNEL_DK" xmltv_id="History Channel Denmark">History Channel Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="KANAL5DK" xmltv_id="Kanal 5 Denmark">Kanal 5 Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MTVDK" xmltv_id="MTV Denmark">MTV Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_NICKJR_DK" xmltv_id="Nick Jr. Denmark">Nick Jr. Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_ANIMALPLANETHD_DK" xmltv_id="TV 2 News">TV 2 News</channel>
+    <channel update="i" site="meetv.no" site_id="TV2DFILM" xmltv_id="TV 2 Sport Denmark">TV 2 Sport Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="tv-2-sport-x-denmark--dk-da-" xmltv_id="TV 2 Sport X Denmark">TV 2 Sport X Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_VIASATHISTORY_DK" xmltv_id="Viasat History Denmark">Viasat History Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="MEETV_TV1000DRAMA_DK" xmltv_id="Viasat Series Denmark">Viasat Series Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="xee-denmark--dk-da-" xmltv_id="XEE Denmark">XEE Denmark</channel>
+    <channel update="i" site="meetv.no" site_id="DISCWOR" xmltv_id="Discovery World Norway">Discovery World Norway</channel>
+    <channel update="i" site="meetv.no" site_id="norway-live--no-no-" xmltv_id="Norway Live">Norway Live</channel>
+    <channel update="i" site="meetv.no" site_id="RIKSTOTO" xmltv_id="RIKSTOTO Norway">RIKSTOTO Norway</channel>
+    <channel update="i" site="meetv.no" site_id="tv-2-livsstil-norway--no-no-" xmltv_id="TV 2 Livsstil Norway">TV 2 Livsstil Norway</channel>
+    <channel update="i" site="meetv.no" site_id="history2-norway--no-no-" xmltv_id="HISTORY2 Norway">HISTORY2 Norway</channel>
+    <channel update="i" site="meetv.no" site_id="matkanalen-norway--no-no-" xmltv_id="Matkanalen Norway">Matkanalen Norway</channel>
+    <channel update="i" site="meetv.no" site_id="TV1000ACTION" xmltv_id="Viasat Film Action Norway">Viasat Film Action Norway</channel>
+    <channel update="i" site="meetv.no" site_id="TV1000CLASSIC" xmltv_id="Viasat Film Hits Norway">Viasat Film Hits Norway</channel>
+    <channel update="i" site="meetv.no" site_id="VIASATGOLF" xmltv_id="Viasat Golf Norway">Viasat Golf Norway</channel>
+    <channel update="i" site="meetv.no" site_id="VIASATNATURE" xmltv_id="Viasat Nature Nordic Norway">Viasat Nature Nordic Norway</channel>
+    <channel update="i" site="meetv.no" site_id="viasport--norway--no-no-" xmltv_id="Viasport+ Norway">Viasport+ Norway</channel>
+  </channels>
+</site>

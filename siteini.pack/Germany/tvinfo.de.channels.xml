@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.1 -- Jan van Straaten" site="tvinfo.de">
+  <channels>
+    <channel update="i" site="tvinfo.de" site_id="13th-street" xmltv_id="13th Street">13th Street</channel>
+    <channel update="i" site="tvinfo.de" site_id="3sat" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="tvinfo.de" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvinfo.de" site_id="anixe-hd" xmltv_id="Anixe HD">Anixe HD</channel>
+    <channel update="i" site="tvinfo.de" site_id="ard-alpha" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel update="i" site="tvinfo.de" site_id="ard" xmltv_id="ARD - Das Erste">ARD - Das Erste</channel>
+    <channel update="i" site="tvinfo.de" site_id="arte" xmltv_id="arte">arte</channel>
+    <channel update="i" site="tvinfo.de" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="tvinfo.de" site_id="ATV2" xmltv_id="ATV2">ATV2</channel>
+    <channel update="i" site="tvinfo.de" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="tvinfo.de" site_id="bbc" xmltv_id="BBC">BBC</channel>
+    <channel update="i" site="tvinfo.de" site_id="bbc-entertainment" xmltv_id="BBC entertainment">BBC entertainment</channel>
+    <channel update="i" site="tvinfo.de" site_id="belgien-1" xmltv_id="Belgien 1">Belgien 1</channel>
+    <channel update="i" site="tvinfo.de" site_id="bibel-tv" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="bloombergtv" xmltv_id="BloombergTV">BloombergTV</channel>
+    <channel update="i" site="tvinfo.de" site_id="bongusto" xmltv_id="BonGusto">BonGusto</channel>
+    <channel update="i" site="tvinfo.de" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tvinfo.de" site_id="br" xmltv_id="BR">BR</channel>
+    <channel update="i" site="tvinfo.de" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tvinfo.de" site_id="channel21" xmltv_id="Channel 21">Channel 21</channel>
+    <channel update="i" site="tvinfo.de" site_id="classica" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="tvinfo.de" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tvinfo.de" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvinfo.de" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tvinfo.de" site_id="crime-investigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="tvinfo.de" site_id="dazn" xmltv_id="DAZN">DAZN</channel>
+    <channel update="i" site="tvinfo.de" site_id="d-musik-tv" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel update="i" site="tvinfo.de" site_id="d-wetterfernsehen" xmltv_id="Deutsches Wetterfernsehen">Deutsches Wetterfernsehen</channel>
+    <channel update="i" site="tvinfo.de" site_id="discovery-hd" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="tvinfo.de" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tvinfo.de" site_id="disneyjunior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tvinfo.de" site_id="disneyxd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tvinfo.de" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="tvinfo.de" site_id="dmc" xmltv_id="DMC.TV">DMC.TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="dr1" xmltv_id="DR1">DR1</channel>
+    <channel update="i" site="tvinfo.de" site_id="dr2" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="tvinfo.de" site_id="dw-tv" xmltv_id="DW-tv">DW-tv</channel>
+    <channel update="i" site="tvinfo.de" site_id="e-entertainment-de" xmltv_id="E! Entertainment (deu)">E! Entertainment (deu)</channel>
+    <channel update="i" site="tvinfo.de" site_id="eotv" xmltv_id="EO Television">EO Television</channel>
+    <channel update="i" site="tvinfo.de" site_id="euronews" xmltv_id="EuroNews">EuroNews</channel>
+    <channel update="i" site="tvinfo.de" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="tvinfo.de" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvinfo.de" site_id="extreme-sports-channel" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="tvinfo.de" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="fox" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tvinfo.de" site_id="geo-television" xmltv_id="GEO Television">GEO Television</channel>
+    <channel update="i" site="tvinfo.de" site_id="goldstar-tv" xmltv_id="Goldstar TV">Goldstar TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="gotv" xmltv_id="gotv">gotv</channel>
+    <channel update="i" site="tvinfo.de" site_id="gute-laune-tv" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="tvinfo.de" site_id="hh1" xmltv_id="HH1">HH1</channel>
+    <channel update="i" site="tvinfo.de" site_id="historyhd" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="tvinfo.de" site_id="hgtv" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="home-shopping-europe" xmltv_id="Home Shopping Europe">Home Shopping Europe</channel>
+    <channel update="i" site="tvinfo.de" site_id="hr" xmltv_id="HR">HR</channel>
+    <channel update="i" site="tvinfo.de" site_id="intv" xmltv_id="intv">intv</channel>
+    <channel update="i" site="tvinfo.de" site_id="junior" xmltv_id="Junior">Junior</channel>
+    <channel update="i" site="tvinfo.de" site_id="ktv" xmltv_id="K TV">K TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="kabel1" xmltv_id="Kabel1">Kabel1</channel>
+    <channel update="i" site="tvinfo.de" site_id="kabel1-classics" xmltv_id="Kabel1 Classics">Kabel1 Classics</channel>
+    <channel update="i" site="tvinfo.de" site_id="kabel1-doku" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
+    <channel update="i" site="tvinfo.de" site_id="ki.ka" xmltv_id="Ki.Ka">Ki.Ka</channel>
+    <channel update="i" site="tvinfo.de" site_id="kinowelt-tv" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="mdr" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="tvinfo.de" site_id="melodie-tv" xmltv_id="Melodie TV">Melodie TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="muenchen-tv" xmltv_id="mÃ¼nchen.tv">mÃ¼nchen.tv</channel>
+    <channel update="i" site="tvinfo.de" site_id="motor-vision" xmltv_id="Motor Vision TV">Motor Vision TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvinfo.de" site_id="mtv-dance" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="tvinfo.de" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tvinfo.de" site_id="n-tv" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="tvinfo.de" site_id="n24-doku" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="tvinfo.de" site_id="nat-geo-wild" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+    <channel update="i" site="tvinfo.de" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="tvinfo.de" site_id="nautical-channel" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="tvinfo.de" site_id="ndr" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="tvinfo.de" site_id="nick" xmltv_id="Nick">Nick</channel>
+    <channel update="i" site="tvinfo.de" site_id="nicktoons" xmltv_id="nicktoons">nicktoons</channel>
+    <channel update="i" site="tvinfo.de" site_id="nl-1" xmltv_id="NL 1">NL 1</channel>
+    <channel update="i" site="tvinfo.de" site_id="nl-2" xmltv_id="NL 2">NL 2</channel>
+    <channel update="i" site="tvinfo.de" site_id="nl-3" xmltv_id="NL 3">NL 3</channel>
+    <channel update="i" site="tvinfo.de" site_id="okto" xmltv_id="Okto.TV">Okto.TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="one" xmltv_id="one">one</channel>
+    <channel update="i" site="tvinfo.de" site_id="orf1" xmltv_id="ORF1">ORF1</channel>
+    <channel update="i" site="tvinfo.de" site_id="orf2" xmltv_id="ORF2">ORF2</channel>
+    <channel update="i" site="tvinfo.de" site_id="orf3" xmltv_id="ORF 3">ORF 3</channel>
+    <channel update="i" site="tvinfo.de" site_id="orf-sport" xmltv_id="ORF Sport Plus">ORF Sport Plus</channel>
+    <channel update="i" site="tvinfo.de" site_id="otv" xmltv_id="OTV">OTV</channel>
+    <channel update="i" site="tvinfo.de" site_id="phoenix" xmltv_id="Phoenix">Phoenix</channel>
+    <channel update="i" site="tvinfo.de" site_id="planet" xmltv_id="Planet">Planet</channel>
+    <channel update="i" site="tvinfo.de" site_id="playboy-tv-europe" xmltv_id="Playboy TV Europe">Playboy TV Europe</channel>
+    <channel update="i" site="tvinfo.de" site_id="pro7" xmltv_id="Pro7">Pro7</channel>
+    <channel update="i" site="tvinfo.de" site_id="prosiebenfun" xmltv_id="Pro Sieben Fun">Pro Sieben Fun</channel>
+    <channel update="i" site="tvinfo.de" site_id="pro7-maxx" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel update="i" site="tvinfo.de" site_id="puls4" xmltv_id="PULS4">PULS4</channel>
+    <channel update="i" site="tvinfo.de" site_id="qvc" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="tvinfo.de" site_id="rbb" xmltv_id="RBB">RBB</channel>
+    <channel update="i" site="tvinfo.de" site_id="rheinmaintv" xmltv_id="rheinmaintv">rheinmaintv</channel>
+    <channel update="i" site="tvinfo.de" site_id="ric" xmltv_id="Ric TV">Ric TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="rnfplus" xmltv_id="RNFplus">RNFplus</channel>
+    <channel update="i" site="tvinfo.de" site_id="romance-tv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tvinfo.de" site_id="rtl2" xmltv_id="RTL2">RTL2</channel>
+    <channel update="i" site="tvinfo.de" site_id="rtl-crime" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="tvinfo.de" site_id="rtl-living" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="tvinfo.de" site_id="rtl-lux" xmltv_id="RTL Lux">RTL Lux</channel>
+    <channel update="i" site="tvinfo.de" site_id="rtl-nitro" xmltv_id="RTL Nitro">RTL Nitro</channel>
+    <channel update="i" site="tvinfo.de" site_id="passion" xmltv_id="RTL PASSION">RTL PASSION</channel>
+    <channel update="i" site="tvinfo.de" site_id="rtl-tvi" xmltv_id="RTL TVI">RTL TVI</channel>
+    <channel update="i" site="tvinfo.de" site_id="rtlplus" xmltv_id="RTLplus">RTLplus</channel>
+    <channel update="i" site="tvinfo.de" site_id="rts-deux" xmltv_id="RTS deux">RTS deux</channel>
+    <channel update="i" site="tvinfo.de" site_id="rts-un" xmltv_id="RTS un">RTS un</channel>
+    <channel update="i" site="tvinfo.de" site_id="sat1" xmltv_id="Sat1">Sat1</channel>
+    <channel update="i" site="tvinfo.de" site_id="sat1emotions" xmltv_id="SAT1 Emotions">SAT1 Emotions</channel>
+    <channel update="i" site="tvinfo.de" site_id="sat1gold" xmltv_id="Sat1 Gold">Sat1 Gold</channel>
+    <channel update="i" site="tvinfo.de" site_id="servustv" xmltv_id="ServusTV">ServusTV</channel>
+    <channel update="i" site="tvinfo.de" site_id="silverline" xmltv_id="Silverline">Silverline</channel>
+    <channel update="i" site="tvinfo.de" site_id="six" xmltv_id="sixx">sixx</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky1" xmltv_id="sky 1">sky 1</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-atlantich-hd" xmltv_id="SKY Atlantic HD">SKY Atlantic HD</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema" xmltv_id="Sky Cinema">Sky Cinema</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema+1" xmltv_id="Sky Cinema +1">Sky Cinema +1</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema+24" xmltv_id="Sky Cinema +24">Sky Cinema +24</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema-action" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema-comedy" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema-emotion" xmltv_id="Sky Cinema Emotion">Sky Cinema Emotion</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema-family-hd" xmltv_id="SKY CINEMA FAMILY HD">SKY CINEMA FAMILY HD</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema-hits" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema-nostalgie" xmltv_id="Sky Cinema Nostalgie">Sky Cinema Nostalgie</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-cinema-hd" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-fussball-bundesliga" xmltv_id="Sky Fussball Bundesliga">Sky Fussball Bundesliga</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-krimi" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-select" xmltv_id="Sky Select">Sky Select</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-sport-austria" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-sport-hd" xmltv_id="Sky Sport HD">Sky Sport HD</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-sport-hd2" xmltv_id="SKY SPORT HD 2">SKY SPORT HD 2</channel>
+    <channel update="i" site="tvinfo.de" site_id="sky-sport-news" xmltv_id="sky sport news">sky sport news</channel>
+    <channel update="i" site="tvinfo.de" site_id="sonnenklar-tv" xmltv_id="Sonnenklar TV">Sonnenklar TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="sony-entertainment-tv" xmltv_id="Sony Entertainment TV">Sony Entertainment TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="spiegel-geschichte" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel update="i" site="tvinfo.de" site_id="spiegel-tv-wissen" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel update="i" site="tvinfo.de" site_id="sport1" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="tvinfo.de" site_id="sport1plus" xmltv_id="Sport1+">Sport1+</channel>
+    <channel update="i" site="tvinfo.de" site_id="sportdeutschland-tv" xmltv_id="Sportdeutschland.TV">Sportdeutschland.TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="srf1" xmltv_id="SRF1">SRF1</channel>
+    <channel update="i" site="tvinfo.de" site_id="srf2" xmltv_id="SRF2">SRF2</channel>
+    <channel update="i" site="tvinfo.de" site_id="srtl" xmltv_id="SRTL">SRTL</channel>
+    <channel update="i" site="tvinfo.de" site_id="super-rtl-ch" xmltv_id="Super RTL CH">Super RTL CH</channel>
+    <channel update="i" site="tvinfo.de" site_id="swr" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="tvinfo.de" site_id="syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="tvinfo.de" site_id="tagesschau24" xmltv_id="Tagesschau24">Tagesschau24</channel>
+    <channel update="i" site="tvinfo.de" site_id="tele-5" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="tvinfo.de" site_id="tide" xmltv_id="TIDE">TIDE</channel>
+    <channel update="i" site="tvinfo.de" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvinfo.de" site_id="tntcomedy" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="tvinfo.de" site_id="tnt-film" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="tvinfo.de" site_id="tnt-serie" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel update="i" site="tvinfo.de" site_id="trace-tv" xmltv_id="Trace TV">Trace TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="trt" xmltv_id="TRT">TRT</channel>
+    <channel update="i" site="tvinfo.de" site_id="tv5" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="tvinfo.de" site_id="tv5-monde-fbs" xmltv_id="TV5 MONDE (FBS)">TV5 MONDE (FBS)</channel>
+    <channel update="i" site="tvinfo.de" site_id="tv-2" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tvinfo.de" site_id="tv-allgaeu" xmltv_id="tv allgÃ¤u">tv allgÃ¤u</channel>
+    <channel update="i" site="tvinfo.de" site_id="tv-franken" xmltv_id="TV Franken">TV Franken</channel>
+    <channel update="i" site="tvinfo.de" site_id="tv-oberfranken" xmltv_id="TV Oberfranken">TV Oberfranken</channel>
+    <channel update="i" site="tvinfo.de" site_id="tv-slovenija-1" xmltv_id="TV Slovenija 1">TV Slovenija 1</channel>
+    <channel update="i" site="tvinfo.de" site_id="tv-slovenija-2" xmltv_id="TV Slovenija 2">TV Slovenija 2</channel>
+    <channel update="i" site="tvinfo.de" site_id="tvberlin" xmltv_id="TVBerlin">TVBerlin</channel>
+    <channel update="i" site="tvinfo.de" site_id="tve" xmltv_id="TVE Internationale">TVE Internationale</channel>
+    <channel update="i" site="tvinfo.de" site_id="universal-tv" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="tvinfo.de" site_id="vh1-classic" xmltv_id="VH-1 Classic">VH-1 Classic</channel>
+    <channel update="i" site="tvinfo.de" site_id="vox" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="tvinfo.de" site_id="voxup" xmltv_id="VOXup">VOXup</channel>
+    <channel update="i" site="tvinfo.de" site_id="wdr" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="tvinfo.de" site_id="welt" xmltv_id="WELT">WELT</channel>
+    <channel update="i" site="tvinfo.de" site_id="welt-der-wunder" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+    <channel update="i" site="tvinfo.de" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tvinfo.de" site_id="zdfinfokanal" xmltv_id="ZDFinfokanal">ZDFinfokanal</channel>
+    <channel update="i" site="tvinfo.de" site_id="zdfneo" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel update="i" site="tvinfo.de" site_id="zeeone" xmltv_id="Zee.One">Zee.One</channel>
+  </channels>
+</site>

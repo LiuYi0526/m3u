@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.1 -- Jan van Straaten" site="palo.gr">
+  <channels>
+    <channel update="i" site="palo.gr" site_id="action24" xmltv_id="Action24">Action24</channel>
+    <channel update="i" site="palo.gr" site_id="animal" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="palo.gr" site_id="ant1" xmltv_id="Ant1">Ant1</channel>
+    <channel update="i" site="palo.gr" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="palo.gr" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="palo.gr" site_id="discovery" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="palo.gr" site_id="disney_xd" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="palo.gr" site_id="dorcel_tv" xmltv_id="Dorcel TV HD">Dorcel TV HD</channel>
+    <channel update="i" site="palo.gr" site_id="ent" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="palo.gr" site_id="ert_sports" xmltv_id="ERT SPORTS">ERT SPORTS</channel>
+    <channel update="i" site="palo.gr" site_id="ert1" xmltv_id="ERT1">ERT1</channel>
+    <channel update="i" site="palo.gr" site_id="ert2" xmltv_id="ERT2">ERT2</channel>
+    <channel update="i" site="palo.gr" site_id="ert3" xmltv_id="ERT3">ERT3</channel>
+    <channel update="i" site="palo.gr" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="palo.gr" site_id="eurosport1" xmltv_id="Eurosport 1HD">Eurosport 1HD</channel>
+    <channel update="i" site="palo.gr" site_id="foxlife1" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="palo.gr" site_id="food_network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="palo.gr" site_id="insight_tv" xmltv_id="InsightTV">InsightTV</channel>
+    <channel update="i" site="palo.gr" site_id="kontra" xmltv_id="Kontra Channel">Kontra Channel</channel>
+    <channel update="i" site="palo.gr" site_id="mad" xmltv_id="MAD GREEKZ">MAD GREEKZ</channel>
+    <channel update="i" site="palo.gr" site_id="mega" xmltv_id="MEGA">MEGA</channel>
+    <channel update="i" site="palo.gr" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="palo.gr" site_id="macedonia_tv" xmltv_id="Macedonia TV">Macedonia TV</channel>
+    <channel update="i" site="palo.gr" site_id="my_zen_tv" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel update="i" site="palo.gr" site_id="nr1tv" xmltv_id="NR1 HD">NR1 HD</channel>
+    <channel update="i" site="palo.gr" site_id="44" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="palo.gr" site_id="ngeo" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="palo.gr" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="palo.gr" site_id="novacinema1" xmltv_id="Novacinema1HD">Novacinema1HD</channel>
+    <channel update="i" site="palo.gr" site_id="novacinema2" xmltv_id="Novacinema2HD">Novacinema2HD</channel>
+    <channel update="i" site="palo.gr" site_id="novacinema3" xmltv_id="Novacinema3HD">Novacinema3HD</channel>
+    <channel update="i" site="palo.gr" site_id="novacinema4" xmltv_id="Novacinema4HD">Novacinema4HD</channel>
+    <channel update="i" site="palo.gr" site_id="Novalife" xmltv_id="Novalif&amp;#x3B5;HD">Novalif&amp;#x3B5;HD</channel>
+    <channel update="i" site="palo.gr" site_id="novasports1" xmltv_id="Novasports1HD">Novasports1HD</channel>
+    <channel update="i" site="palo.gr" site_id="novasports2" xmltv_id="Novasports2HD">Novasports2HD</channel>
+    <channel update="i" site="palo.gr" site_id="novasports3" xmltv_id="Novasports3HD">Novasports3HD</channel>
+    <channel update="i" site="palo.gr" site_id="novasports4" xmltv_id="Novasports4HD">Novasports4HD</channel>
+    <channel update="i" site="palo.gr" site_id="novasports5" xmltv_id="Novasports5HD">Novasports5HD</channel>
+    <channel update="i" site="palo.gr" site_id="nova_summer_kids" xmltv_id="NovasummerkidsHD">NovasummerkidsHD</channel>
+    <channel update="i" site="palo.gr" site_id="open_beyond" xmltv_id="OPEN BEYOND">OPEN BEYOND</channel>
+    <channel update="i" site="palo.gr" site_id="34" xmltv_id="One Channel">One Channel</channel>
+    <channel update="i" site="palo.gr" site_id="skai" xmltv_id="Skai TV">Skai TV</channel>
+    <channel update="i" site="palo.gr" site_id="travel" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="palo.gr" site_id="vh1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="palo.gr" site_id="viasat_history" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="palo.gr" site_id="vouli" xmltv_id="Vouli - TV">Vouli - TV</channel>
+  </channels>
+</site>

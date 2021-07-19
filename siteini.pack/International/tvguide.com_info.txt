@@ -1,0 +1,36 @@
+Creating a channellist file for tvguide.com , four steps:
+!! only works in program version 3.1.7.1 or above!!
+
+Step 1: Create a list of available countries
+in config , channel section add this channel, remove or disable al other channels
+<channel update="i" site="tvguide.com" site_id="" xmltv_id="dummy">dummy</channel>
+use <update>c1</update>
+run 
+Result in tvguide.com.channels.c1.xml .. 
+any of these country can be used in step 2
+
+Step 2:  Create a list of provider for the selected country
+in config, replace the 'channel' of step 1 with any in the result of step 1
+example ...
+<channel update="i" site="tvguide.com" site_id="BOL" xmltv_id="Bolivia">Bolivia</channel>
+use <update>c2</update>
+run 
+Result in tvguide.com.channels.c2.xml .. 
+This is the channellist file for the selected country and the selected provider.
+
+Step 1 and 2 exclude the channels for USA. For USA use step 3 and 4
+
+Step 3: Create a list of providers for a given zip code
+in config, channel section add this channel, remove or disable al other channels
+<channel update="i" site="tvguide.com" site_id="xxxx" xmltv_id="dummy">dummy</channel>
+replace "xxxx" with your zipcode, eg site_id="10001"
+use <update>c3</update>
+run 
+Result in tvguide.com.channels.c3.xml .. a list of providers for the selected zip
+
+Step 4: Create a channellist for a selected provider.
+in config, replace the 'channel' of step 3 with any in the result of step 3
+use <update>c4</update>
+run 
+Result in tvguide.com.channels.c4.xml , A channellist of the available channels for the selected provider for your zip code
+

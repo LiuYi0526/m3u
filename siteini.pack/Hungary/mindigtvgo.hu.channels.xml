@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="mindigtvgo.hu">
+  <channels>
+    <channel update="i" site="mindigtvgo.hu" site_id="8##5128" xmltv_id="M1 HD">M1 HD</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="25##5129" xmltv_id="M2 HD">M2 HD</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="66##5132" xmltv_id="DUNA HD">DUNA HD</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="41##5148" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="42##5149" xmltv_id="M5">M5</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="10##5108" xmltv_id="Duna World HD">Duna World HD</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="39##921159" xmltv_id="Bonum TV">Bonum TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="15##921158" xmltv_id="PAX TV">PAX TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="16##921160" xmltv_id="D1 TV">D1 TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="49##921172" xmltv_id="Heti TV">Heti TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="78##921173" xmltv_id="FIX">FIX</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="40##2913771" xmltv_id="Fit HD">Fit HD</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="85##921174" xmltv_id="Balaton Televízió">Balaton Televízió</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="90##921139" xmltv_id="EsportGuru">EsportGuru</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="59##1321963" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="82##2505114" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="583##1710019" xmltv_id="PestiTV">PestiTV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="44##5151" xmltv_id="Izaura TV">Izaura TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="26##2501746" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="7##921140" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="72##5096" xmltv_id="Cool">Cool</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="33##921145" xmltv_id="Mozi+">Mozi+</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="28##921168" xmltv_id="VIASAT3">VIASAT3</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="30##5136" xmltv_id="Prime">Prime</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="37##921144" xmltv_id="SuperTV2">SuperTV2</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="36##921141" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="22##921143" xmltv_id="RTL+">RTL+</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="17##921180" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="38##1816649" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="58##5090" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="47##921148" xmltv_id="TV2 Comedy">TV2 Comedy</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="18##5084" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="76##921181" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="9##921161" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="19##5134" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="546##921167" xmltv_id="Life TV">Life TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="31##921150" xmltv_id="Sláger TV">Sláger TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="84##921183" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="74##921177" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="35##921178" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="24##921170" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="57##921151" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="12##921142" xmltv_id="RTL Gold">RTL Gold</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="539##921190" xmltv_id="Moziverzum">Moziverzum</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="540##921196" xmltv_id="JOCKY TV">JOCKY TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="541##921189" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="542##921182" xmltv_id="Sport 2">Sport 2</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="543##921186" xmltv_id="Arena 4">Arena 4</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="83##921184" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="2##1321970" xmltv_id="TV2 Séf">TV2 Séf</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="29##1710017" xmltv_id="OzoneTv">OzoneTv</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="547##921192" xmltv_id="Film Cafe">Film Cafe</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="11##921169" xmltv_id="VIASAT6">VIASAT6</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="549##921193" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="43##5150" xmltv_id="Zenebutik">Zenebutik</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="551##921200" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="54##1758096" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="45##921171" xmltv_id="FEM3">FEM3</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="87##5126" xmltv_id="Sony Movie">Sony Movie</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="86##5125" xmltv_id="Sony Max">Sony Max</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="556##921199" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="557##921191" xmltv_id="Film Mania">Film Mania</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="14##1476784" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="13##1476786" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="89##5127" xmltv_id="ATV Spirit">ATV Spirit</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="561##921206" xmltv_id="Muzsika">Muzsika</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="562##921195" xmltv_id="Food network">Food network</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="563##921194" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="4##921198" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="565##921204" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="55##921176" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="567##921185" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="77##5100" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="56##921154" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="570##921202" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="571##921149" xmltv_id="TV2 Kids">TV2 Kids</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="572##921205" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="573##921203" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="574##921201" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="73##921187" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="75##921188" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="5##921156" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="67##1476783" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="20##5114" xmltv_id="Fishing &amp; Hunting">Fishing &amp; Hunting</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="21##921146" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="81##921147" xmltv_id="Spíler1">Spíler1</channel>
+    <channel update="i" site="mindigtvgo.hu" site_id="582##921179" xmltv_id="Spíler2">Spíler2</channel>
+  </channels>
+</site>

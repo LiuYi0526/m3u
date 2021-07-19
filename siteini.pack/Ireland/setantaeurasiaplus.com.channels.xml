@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="setantaeurasiaplus.com">
+  <channels>
+    <channel update="i" site="setantaeurasiaplus.com" site_id="setantasports1" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="setantaeurasiaplus.com" site_id="setantasports2" xmltv_id="Setanta Sports 2">Setanta Sports 2</channel>
+  </channels>
+</site>

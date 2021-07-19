@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.20 -- Jan van Straaten" site="dubaitv.ae">
+  <channels>
+    <channel update="i" site="dubaitv.ae" site_id="dubaitv" xmltv_id="Dubai TV">Dubai TV</channel>
+  </channels>
+</site>

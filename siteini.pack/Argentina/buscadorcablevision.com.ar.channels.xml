@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="buscadorcablevision.com.ar">
+  <channels>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2423" xmltv_id="On Demand">On Demand</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2332" xmltv_id="Canal de la Ciudad">Canal de la Ciudad</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="999" xmltv_id="Somos">Somos</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2263" xmltv_id="Metro">Metro</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="175" xmltv_id="América 2">América 2</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="35" xmltv_id="Telefe">Telefe</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="292" xmltv_id="TV Pública Argentina">TV Pública Argentina</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="6" xmltv_id="El Trece">El Trece</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="96" xmltv_id="El Nueve">El Nueve</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="36" xmltv_id="Todo Noticias">Todo Noticias</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="343" xmltv_id="A 24">A 24</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="709" xmltv_id="C5N">C5N</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="192" xmltv_id="Crónica TV">Crónica TV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3" xmltv_id="26 TV">26 TV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3644" xmltv_id="La Nación">La Nación</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="26" xmltv_id="Magazine">Magazine</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="4646" xmltv_id="Net TV">Net TV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="477" xmltv_id="Encuentro">Encuentro</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="62" xmltv_id="CNN en español">CNN en español</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="6158" xmltv_id="IP">IP</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3078" xmltv_id="KZO">KZO</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="4320" xmltv_id="DIPUTADOS TV">DIPUTADOS TV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="769" xmltv_id="Canal 90">Canal 90</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="153" xmltv_id="TyC Sports 2">TyC Sports 2</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2195" xmltv_id="DEPORTV">DEPORTV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="40" xmltv_id="TyC Sports">TyC Sports</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="18" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="229" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2005" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3224" xmltv_id="ESPN Extra">ESPN Extra</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="223" xmltv_id="Fox Sports">Fox Sports</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="978" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="362" xmltv_id="Fox Sports 3">Fox Sports 3</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="358" xmltv_id="El Garage">El Garage</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="734" xmltv_id="The Golf Channel">The Golf Channel</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="753" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="492" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3582" xmltv_id="PX SPORTS">PX SPORTS</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="84" xmltv_id="America Sports">America Sports</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1359" xmltv_id="Eventos HD">Eventos HD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3951" xmltv_id="FOX SPORTS PREMIUM">FOX SPORTS PREMIUM</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3950" xmltv_id="TNT SPORTS">TNT SPORTS</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1492" xmltv_id="PakaPaka">PakaPaka</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="136" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="60" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="226" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="325" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="76" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="174" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="756" xmltv_id="Disney Jr">Disney Jr</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="695" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="880" xmltv_id="Tooncast">Tooncast</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="816" xmltv_id="Nick Jrs">Nick Jrs</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3932" xmltv_id="NAT GEO KIDS">NAT GEO KIDS</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="21" xmltv_id="HBO Este">HBO Este</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2127" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2165" xmltv_id="HBO Plus Panamericano">HBO Plus Panamericano</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="12" xmltv_id="HBO MUNDI ARGENTINA">HBO MUNDI ARGENTINA</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1378" xmltv_id="HBO POP">HBO POP</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="334" xmltv_id="HBO XTREME ARGENTINA">HBO XTREME ARGENTINA</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="335" xmltv_id="HBO Family Panamericano">HBO Family Panamericano</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="500" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="589" xmltv_id="STAR HITS">STAR HITS</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="83" xmltv_id="STAR SERIES">STAR SERIES</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="241" xmltv_id="STAR SERIES OESTE">STAR SERIES OESTE</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="583" xmltv_id="STAR ACTION">STAR ACTION</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1016" xmltv_id="STAR FUN">STAR FUN</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2880" xmltv_id="STAR COMEDY">STAR COMEDY</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1690" xmltv_id="STAR CINEMA">STAR CINEMA</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="324" xmltv_id="STAR CLASSICS">STAR CLASSICS</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1605" xmltv_id="Cine.AR">Cine.AR</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2292" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="4094" xmltv_id="FX MOVIES">FX MOVIES</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="45" xmltv_id="Volver">Volver</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="4535" xmltv_id="Space HD">Space HD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3445" xmltv_id="Cinecanal HD">Cinecanal HD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="37" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2999" xmltv_id="TNT Series">TNT Series</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="353" xmltv_id="FX">FX</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="19" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="32" xmltv_id="Sony">Sony</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="46" xmltv_id="Warner Channel">Warner Channel</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="327" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="100" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="77" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="167" xmltv_id="A&amp;E Mundo">A&amp;E Mundo</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="184" xmltv_id="Europa Europa">Europa Europa</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1967" xmltv_id="TBS">TBS</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="328" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="97" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="22" xmltv_id="I-Sat">I-Sat</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3149" xmltv_id="Atreseries">Atreseries</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="760" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="366" xmltv_id="STAR LIFE">STAR LIFE</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="337" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2266" xmltv_id="DISCOVERY ID HD">DISCOVERY ID HD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2037" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2910" xmltv_id="Paramount">Paramount</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1976" xmltv_id="PASIONES">PASIONES</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="958" xmltv_id="Telemundo">Telemundo</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2788" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="125" xmltv_id="Gourmet">Gourmet</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3438" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="50" xmltv_id="E! Entertainment Television">E! Entertainment Television</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="340" xmltv_id="Discovery Home &amp; Health">Discovery Home &amp; Health</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="108" xmltv_id="Mas Chic">Mas Chic</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="4909" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1531" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2669" xmltv_id="Hola TV">Hola TV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="104" xmltv_id="Glitz">Glitz</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="11" xmltv_id="Canal Rural">Canal Rural</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2197" xmltv_id="VIAJAR">VIAJAR</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="771" xmltv_id="Sun Channel">Sun Channel</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="887" xmltv_id="Telemax">Telemax</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2381" xmltv_id="Señal María">Señal María</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="308" xmltv_id="Nueva Imagen">Nueva Imagen</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="64" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3437" xmltv_id="Canal Orbe 21">Canal Orbe 21</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="723" xmltv_id="WOBI">WOBI</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2392" xmltv_id="Juegos APTIV">Juegos APTIV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="164" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="17" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3239" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1181" xmltv_id="Discovery Theatre HD">Discovery Theatre HD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="178" xmltv_id="The History Channel">The History Channel</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="912" xmltv_id="Tru TV">Tru TV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="58" xmltv_id="Canal A">Canal A</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="63" xmltv_id="Film &amp; Arts">Film &amp; Arts</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2823" xmltv_id="H2">H2</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1184" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1389" xmltv_id="Discovery World HD">Discovery World HD</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="493" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="25" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="779" xmltv_id="Quiero">Quiero</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3154" xmltv_id="Allegro">Allegro</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="319" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="115" xmltv_id="HTV">HTV</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="28" xmltv_id="Much Music">Much Music</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="230" xmltv_id="Canal de la Musica">Canal de la Musica</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="727" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2360" xmltv_id="NICKMUSIC">NICKMUSIC</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="29" xmltv_id="La Rai">La Rai</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="730" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="39" xmltv_id="TV Chile">TV Chile</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="38" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="61" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="388" xmltv_id="Telesur">Telesur</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="13" xmltv_id="CNN Internacional">CNN Internacional</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="80" xmltv_id="BBC">BBC</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="578" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="751" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="962" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2067" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="59" xmltv_id="TVE (España)">TVE (España)</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="65" xmltv_id="TV Galicia">TV Galicia</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="9" xmltv_id="El Canal de las Estrellas">El Canal de las Estrellas</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="322" xmltv_id="Arirang Tv">Arirang Tv</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2541" xmltv_id="UCL">UCL</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3431" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1667" xmltv_id="Band Internacional">Band Internacional</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="57" xmltv_id="Argentinisima">Argentinisima</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="5264" xmltv_id="MANIJOMIO">MANIJOMIO</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="5298" xmltv_id="FLOW GAMING XP">FLOW GAMING XP</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="5299" xmltv_id="FLOW MUSIC XP">FLOW MUSIC XP</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="114" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="44" xmltv_id="Venus">Venus</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="628" xmltv_id="Sextreme">Sextreme</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="757" xmltv_id="Radio Mitre">Radio Mitre</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="758" xmltv_id="FM 100">FM 100</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="759" xmltv_id="AM 1030">AM 1030</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="785" xmltv_id="Mitre AM 810 Córdoba">Mitre AM 810 Córdoba</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="904" xmltv_id="Radio Rivadavia">Radio Rivadavia</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="3054" xmltv_id="RADIO NACIONAL">RADIO NACIONAL</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="1265" xmltv_id="Radio Disney">Radio Disney</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="2282" xmltv_id="RFI">RFI</channel>
+    <channel update="i" site="buscadorcablevision.com.ar" site_id="5244" xmltv_id="RADIO CNN">RADIO CNN</channel>
+  </channels>
+</site>

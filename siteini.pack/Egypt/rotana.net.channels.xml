@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="rotana.net">
+  <channels>
+    <channel update="i" site="rotana.net" site_id="AMERICA-FROM-23-Till-31" xmltv_id="روتانا خليجية">روتانا خليجية</channel>
+    <channel update="i" site="rotana.net" site_id="KIDS-4" xmltv_id="روتانا KIDS">روتانا KIDS</channel>
+    <channel update="i" site="rotana.net" site_id="COMEDY-4" xmltv_id="روتانا كوميدي">روتانا كوميدي</channel>
+    <channel update="i" site="rotana.net" site_id="CINEMA-3" xmltv_id="روتانا سينما">روتانا سينما</channel>
+    <channel update="i" site="rotana.net" site_id="CLASSIC-4" xmltv_id="روتانا كلاسيك">روتانا كلاسيك</channel>
+    <channel update="i" site="rotana.net" site_id="DRAMA-4" xmltv_id="روتانا دراما">روتانا دراما</channel>
+    <channel update="i" site="rotana.net" site_id="LBC-4" xmltv_id="LBC">LBC</channel>
+    <channel update="i" site="rotana.net" site_id="AFLAM-PLUS-4" xmltv_id="الرسالة">الرسالة</channel>
+    <channel update="i" site="rotana.net" site_id="CINEMA-EGY-3" xmltv_id="روتانا كليب">روتانا كليب</channel>
+    <channel update="i" site="rotana.net" site_id="ROTANA-HD-FROM-23-Till-31" xmltv_id="+روتانا أفلام">+روتانا أفلام</channel>
+  </channels>
+</site>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="tvarenasport.com">
+  <channels>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_380" xmltv_id="ARENA SPORT 1 (Serbia)">ARENA SPORT 1 (Serbia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_381" xmltv_id="ARENA SPORT 2 (Serbia)">ARENA SPORT 2 (Serbia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_382" xmltv_id="ARENA SPORT 3 (Serbia)">ARENA SPORT 3 (Serbia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_383" xmltv_id="ARENA SPORT 4 (Serbia)">ARENA SPORT 4 (Serbia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_384" xmltv_id="ARENA SPORT 5 (Serbia)">ARENA SPORT 5 (Serbia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="CRO_380" xmltv_id="ARENA SPORT 1 (Croatia)">ARENA SPORT 1 (Croatia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="CRO_381" xmltv_id="ARENA SPORT 2 (Croatia)">ARENA SPORT 2 (Croatia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="CRO_382" xmltv_id="ARENA SPORT 3 (Croatia)">ARENA SPORT 3 (Croatia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="CRO_383" xmltv_id="ARENA SPORT 4 (Croatia)">ARENA SPORT 4 (Croatia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="CRO_384" xmltv_id="ARENA SPORT 5 (Croatia)">ARENA SPORT 5 (Croatia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="CRO_1175" xmltv_id="ARENA SPORT 6 (Croatia)">ARENA SPORT 6 (Croatia)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="BIH_380" xmltv_id="ARENA SPORT 1 (Bosnia–Herzegovina)">ARENA SPORT 1 (Bosnia–Herzegovina)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="BIH_381" xmltv_id="ARENA SPORT 2 (Bosnia–Herzegovina)">ARENA SPORT 2 (Bosnia–Herzegovina)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="BIH_382" xmltv_id="ARENA SPORT 3 (Bosnia–Herzegovina)">ARENA SPORT 3 (Bosnia–Herzegovina)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="BIH_383" xmltv_id="ARENA SPORT 4 (Bosnia–Herzegovina)">ARENA SPORT 4 (Bosnia–Herzegovina)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MNE_380" xmltv_id="ARENA SPORT 1 (Montenegro)">ARENA SPORT 1 (Montenegro)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MNE_381" xmltv_id="ARENA SPORT 2 (Montenegro)">ARENA SPORT 2 (Montenegro)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MNE_382" xmltv_id="ARENA SPORT 3 (Montenegro)">ARENA SPORT 3 (Montenegro)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MNE_383" xmltv_id="ARENA SPORT 4 (Montenegro)">ARENA SPORT 4 (Montenegro)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MNE_384" xmltv_id="ARENA SPORT 5 (Montenegro)">ARENA SPORT 5 (Montenegro)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MKD_380" xmltv_id="ARENA SPORT 1 (Македонија)">ARENA SPORT 1 (Македонија)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MKD_381" xmltv_id="ARENA SPORT 2 (Македонија)">ARENA SPORT 2 (Македонија)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MKD_382" xmltv_id="ARENA SPORT 3 (Македонија)">ARENA SPORT 3 (Македонија)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MKD_383" xmltv_id="ARENA SPORT 4 (Македонија)">ARENA SPORT 4 (Македонија)</channel>
+    <channel update="i" site="tvarenasport.com" site_id="MKD_384" xmltv_id="ARENA SPORT 5 (Македонија)">ARENA SPORT 5 (Македонија)</channel>
+  </channels>
+</site>

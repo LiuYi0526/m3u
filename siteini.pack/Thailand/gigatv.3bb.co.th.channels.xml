@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="gigatv.3bb.co.th">
+  <channels>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="4" xmltv_id="CH5 HD">CH5 HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="10" xmltv_id="NBT">NBT</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="13" xmltv_id="Thai PBS">Thai PBS</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="15" xmltv_id="TPTV">TPTV</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="14" xmltv_id="TNN16">TNN16</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="11" xmltv_id="NEW TV 18">NEW TV 18</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="9" xmltv_id="Nation TV">Nation TV</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="17" xmltv_id="Workpoint">Workpoint</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="16" xmltv_id="True 4U">True 4U</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="7" xmltv_id="GMM 25">GMM 25</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="6" xmltv_id="CH8">CH8</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="8" xmltv_id="Mono 29">Mono 29</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="55" xmltv_id="MCOT HD">MCOT HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="12" xmltv_id="One31 HD">One31 HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="65" xmltv_id="Thiarath TV">Thiarath TV</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="1" xmltv_id="3 HD">3 HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="3" xmltv_id="Amarin TV">Amarin TV</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="5" xmltv_id="CH7 HD">CH7 HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="62" xmltv_id="PPTV HD">PPTV HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="34" xmltv_id="3BB Asian">3BB Asian</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="49" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="48" xmltv_id="HBO Singnature">HBO Singnature</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="47" xmltv_id="HBO Hits">HBO Hits</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="46" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="43" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="53" xmltv_id="Red by HBO">Red by HBO</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="52" xmltv_id="MONO PLUS">MONO PLUS</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="58" xmltv_id="MONO 29">MONO 29</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="51" xmltv_id="MONO 29 Music station">MONO 29 Music station</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="54" xmltv_id="RUSH Stories">RUSH Stories</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="36" xmltv_id="A'lure Channel">A'lure Channel</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="63" xmltv_id="BBC Liftstyle">BBC Liftstyle</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="37" xmltv_id="Blue Ant Extreme">Blue Ant Extreme</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="50" xmltv_id="Hunan TV HD">Hunan TV HD</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="40" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="38" xmltv_id="Boomerang(Asian)">Boomerang(Asian)</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="60" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="59" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="39" xmltv_id="Cartoon Club">Cartoon Club</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="35" xmltv_id="3BB Sport one">3BB Sport one</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="45" xmltv_id="EDGE Sport">EDGE Sport</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="44" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="56" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="42" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="41" xmltv_id="CCTV 1">CCTV 1</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="57" xmltv_id="LOVE Nature 4K ">LOVE Nature 4K </channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="61" xmltv_id="Smithsonian Channel">Smithsonian Channel</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="64" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="18" xmltv_id="DLTV 1">DLTV 1</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="19" xmltv_id="DLTV 2">DLTV 2</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="20" xmltv_id="DLTV 3">DLTV 3</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="21" xmltv_id="DLTV 4">DLTV 4</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="22" xmltv_id="DLTV 5">DLTV 5</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="23" xmltv_id="DLTV 6">DLTV 6</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="24" xmltv_id="DLTV 7">DLTV 7</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="25" xmltv_id="DLTV 8">DLTV 8</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="26" xmltv_id="DLTV 9">DLTV 9</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="27" xmltv_id="DLTV 10">DLTV 10</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="28" xmltv_id="DLTV 11">DLTV 11</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="29" xmltv_id="DLTV 12">DLTV 12</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="30" xmltv_id="DLTV 13">DLTV 13</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="31" xmltv_id="DLTV 14">DLTV 14</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="32" xmltv_id="DLTV 15">DLTV 15</channel>
+    <channel update="i" site="gigatv.3bb.co.th" site_id="33" xmltv_id="ETV">ETV</channel>
+  </channels>
+</site>

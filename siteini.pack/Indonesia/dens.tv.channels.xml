@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="dens.tv">
+  <channels>
+    <channel update="i" site="dens.tv" site_id="3" xmltv_id="Live Streaming 1">Live Streaming 1</channel>
+    <channel update="i" site="dens.tv" site_id="75" xmltv_id="Live Streaming 2">Live Streaming 2</channel>
+    <channel update="i" site="dens.tv" site_id="6" xmltv_id="Metro TV">Metro TV</channel>
+    <channel update="i" site="dens.tv" site_id="7" xmltv_id="tvOne">tvOne</channel>
+    <channel update="i" site="dens.tv" site_id="9" xmltv_id="SCTV">SCTV</channel>
+    <channel update="i" site="dens.tv" site_id="10" xmltv_id="Indosiar">Indosiar</channel>
+    <channel update="i" site="dens.tv" site_id="11" xmltv_id="Trans TV">Trans TV</channel>
+    <channel update="i" site="dens.tv" site_id="12" xmltv_id="Trans7">Trans7</channel>
+    <channel update="i" site="dens.tv" site_id="8" xmltv_id="antv">antv</channel>
+    <channel update="i" site="dens.tv" site_id="42" xmltv_id="DENS Life &amp; Style">DENS Life &amp; Style</channel>
+    <channel update="i" site="dens.tv" site_id="1" xmltv_id="Dens Learning &amp; Knowledge (Trial)">Dens Learning &amp; Knowledge (Trial)</channel>
+    <channel update="i" site="dens.tv" site_id="102" xmltv_id="Dens ShowBiz (Trial)">Dens ShowBiz (Trial)</channel>
+    <channel update="i" site="dens.tv" site_id="13" xmltv_id="NET.">NET.</channel>
+    <channel update="i" site="dens.tv" site_id="14" xmltv_id="Kompas TV">Kompas TV</channel>
+    <channel update="i" site="dens.tv" site_id="94" xmltv_id="Elshinta TV">Elshinta TV</channel>
+    <channel update="i" site="dens.tv" site_id="17" xmltv_id="TVRI">TVRI</channel>
+    <channel update="i" site="dens.tv" site_id="22" xmltv_id="RTV">RTV</channel>
+    <channel update="i" site="dens.tv" site_id="21" xmltv_id="RodjaTV">RodjaTV</channel>
+    <channel update="i" site="dens.tv" site_id="80" xmltv_id="BeritaSatu">BeritaSatu</channel>
+    <channel update="i" site="dens.tv" site_id="23" xmltv_id="DAAI TV">DAAI TV</channel>
+    <channel update="i" site="dens.tv" site_id="76" xmltv_id="U-Channel">U-Channel</channel>
+    <channel update="i" site="dens.tv" site_id="105" xmltv_id="MYTV">MYTV</channel>
+    <channel update="i" site="dens.tv" site_id="106" xmltv_id="TVRI Sport HD">TVRI Sport HD</channel>
+    <channel update="i" site="dens.tv" site_id="107" xmltv_id="DensPlay">DensPlay</channel>
+    <channel update="i" site="dens.tv" site_id="26" xmltv_id="eGG">eGG</channel>
+    <channel update="i" site="dens.tv" site_id="60" xmltv_id="FIGHT SPORTS HD">FIGHT SPORTS HD</channel>
+    <channel update="i" site="dens.tv" site_id="97" xmltv_id="Animax HD">Animax HD</channel>
+    <channel update="i" site="dens.tv" site_id="96" xmltv_id="My Kidz HD">My Kidz HD</channel>
+    <channel update="i" site="dens.tv" site_id="38" xmltv_id="ANIPLUS">ANIPLUS</channel>
+    <channel update="i" site="dens.tv" site_id="93" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="dens.tv" site_id="49" xmltv_id="KIX HD">KIX HD</channel>
+    <channel update="i" site="dens.tv" site_id="101" xmltv_id="HITS HD">HITS HD</channel>
+    <channel update="i" site="dens.tv" site_id="39" xmltv_id="Blue Ant Entertainment HD">Blue Ant Entertainment HD</channel>
+    <channel update="i" site="dens.tv" site_id="44" xmltv_id="Blue Ant Extreme HD">Blue Ant Extreme HD</channel>
+    <channel update="i" site="dens.tv" site_id="100" xmltv_id="K-PLUS">K-PLUS</channel>
+    <channel update="i" site="dens.tv" site_id="89" xmltv_id="ONE">ONE</channel>
+    <channel update="i" site="dens.tv" site_id="5" xmltv_id="GEM">GEM</channel>
+    <channel update="i" site="dens.tv" site_id="87" xmltv_id="CinemaWorld HD">CinemaWorld HD</channel>
+    <channel update="i" site="dens.tv" site_id="99" xmltv_id="Celestial Movies">Celestial Movies</channel>
+    <channel update="i" site="dens.tv" site_id="103" xmltv_id="Zee Bioskop">Zee Bioskop</channel>
+    <channel update="i" site="dens.tv" site_id="55" xmltv_id="Thrill">Thrill</channel>
+    <channel update="i" site="dens.tv" site_id="95" xmltv_id="My Cinema HD">My Cinema HD</channel>
+    <channel update="i" site="dens.tv" site_id="98" xmltv_id="Motorvision TV (Trial)">Motorvision TV (Trial)</channel>
+    <channel update="i" site="dens.tv" site_id="37" xmltv_id="TV5MONDE Style">TV5MONDE Style</channel>
+    <channel update="i" site="dens.tv" site_id="53" xmltv_id="Bloomberg Television HD">Bloomberg Television HD</channel>
+    <channel update="i" site="dens.tv" site_id="61" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="dens.tv" site_id="77" xmltv_id="NHK WORLD-JAPAN">NHK WORLD-JAPAN</channel>
+    <channel update="i" site="dens.tv" site_id="56" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="dens.tv" site_id="41" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="dens.tv" site_id="104" xmltv_id="UA!??!TV">UA!??!TV</channel>
+    <channel update="i" site="dens.tv" site_id="27" xmltv_id="Al Jazeera Arabic">Al Jazeera Arabic</channel>
+    <channel update="i" site="dens.tv" site_id="85" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="dens.tv" site_id="69" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="dens.tv" site_id="90" xmltv_id="TV5MONDE ASIE">TV5MONDE ASIE</channel>
+    <channel update="i" site="dens.tv" site_id="81" xmltv_id="DW-TV">DW-TV</channel>
+    <channel update="i" site="dens.tv" site_id="78" xmltv_id="TBN">TBN</channel>
+    <channel update="i" site="dens.tv" site_id="16" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel update="i" site="dens.tv" site_id="82" xmltv_id="Quran TV">Quran TV</channel>
+    <channel update="i" site="dens.tv" site_id="88" xmltv_id="Sunna TV">Sunna TV</channel>
+  </channels>
+</site>

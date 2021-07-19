@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="tvtid.tv2.dk">
+  <channels>
+    <channel update="i" site="tvtid.tv2.dk" site_id="1" xmltv_id="DR1">DR1</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="3" xmltv_id="TV 2 DANMARK">TV 2 DANMARK</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="5" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="133" xmltv_id="TV 2 NEWS">TV 2 NEWS</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="77" xmltv_id="TV 2 SPORT">TV 2 SPORT</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2147483561" xmltv_id="TV 2 SPORT X">TV 2 SPORT X</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="31" xmltv_id="TV 2 CHARLIE">TV 2 CHARLIE</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="12566" xmltv_id="TV 2 FRI">TV 2 FRI</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="4" xmltv_id="TV 2 ZULU">TV 2 ZULU</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="70" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="6" xmltv_id="TV3+">TV3+</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="8" xmltv_id="Kanal 4">Kanal 4</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="7" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10066" xmltv_id="6’eren">6’eren</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10153" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10093" xmltv_id="TV3 Puls">TV3 Puls</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="156" xmltv_id="TV3 Sport">TV3 Sport</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="15" xmltv_id="dk4">dk4</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2147483568" xmltv_id="Oiii">Oiii</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2147483567" xmltv_id="ZULU Comedy">ZULU Comedy</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2147483566" xmltv_id="CS:GO">CS:GO</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2147483565" xmltv_id="TV 2 PLAY 4">TV 2 PLAY 4</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2147483564" xmltv_id="TV 2 PLAY 5">TV 2 PLAY 5</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2147483563" xmltv_id="TV 2 PLAY 6">TV 2 PLAY 6</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="2147483562" xmltv_id="TV 2 PLAY 7">TV 2 PLAY 7</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="164" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="93" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="162" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10104" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="12396" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10061" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="191" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="248" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10111" xmltv_id="CANAL9">CANAL9</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="185" xmltv_id="Cartoon">Cartoon</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="25" xmltv_id="C More First">C More First</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="26" xmltv_id="C More Hits">C More Hits</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="201" xmltv_id="C More Series">C More Series</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="181" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="15129" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="147" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="117" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="116" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="14" xmltv_id="Disney Channel sca.">Disney Channel sca.</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="157" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="74" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="174" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="37" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10341" xmltv_id="FOLKETINGET">FOLKETINGET</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10159" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="15049" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10262" xmltv_id="Kanal Hovedstaden">Kanal Hovedstaden</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11616" xmltv_id="TV 2 Lorry">TV 2 Lorry</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="71" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="94" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="15032" xmltv_id="National Geographic People">National Geographic People</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11572" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="188" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="153" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10455" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="130" xmltv_id="NRK1">NRK1</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="129" xmltv_id="NRK2">NRK2</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="570" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10511" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="161" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="221" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10510" xmltv_id="SAT1">SAT1</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10145" xmltv_id="SF-Kanalen">SF-Kanalen</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10621" xmltv_id="SPORT1">SPORT1</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="240" xmltv_id="SuperRTL">SuperRTL</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="135" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="136" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="118" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10435" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="215" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11617" xmltv_id="TV 2/Bornholm">TV 2/Bornholm</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11610" xmltv_id="TV2 Nord">TV2 Nord</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="142" xmltv_id="TV 2 Norge">TV 2 Norge</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11613" xmltv_id="TV2 ØST">TV2 ØST</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11612" xmltv_id="TV2 Østjylland">TV2 Østjylland</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="12948" xmltv_id="TV3 Max">TV3 Max</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="111" xmltv_id="TV4 Sverige">TV4 Sverige</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="12697" xmltv_id="TV5MONDE Europe">TV5MONDE Europe</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11615" xmltv_id="TV 2/Fyn">TV 2/Fyn</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11611" xmltv_id="TV Midtvest">TV Midtvest</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11614" xmltv_id="TV SYD">TV SYD</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="219" xmltv_id="Vh1">Vh1</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="19" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="9" xmltv_id="Viasat Film">Viasat Film</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="12" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="11" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="165" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="39" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="20" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="10070" xmltv_id="Viasat Series">Viasat Series</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="689" xmltv_id="Viasat Ultra">Viasat Ultra</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="218" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="687" xmltv_id="Xee">Xee</channel>
+    <channel update="i" site="tvtid.tv2.dk" site_id="163" xmltv_id="ZDF">ZDF</channel>
+  </channels>
+</site>

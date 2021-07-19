@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="vodafone.co.nz">
+  <channels>
+    <channel update="i" site="vodafone.co.nz" site_id="TVNZ 1 HD" xmltv_id="TVNZ 1 HD">TVNZ 1 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="TVNZ 2 HD" xmltv_id="TVNZ 2 HD">TVNZ 2 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="THREE HD" xmltv_id="THREE HD">THREE HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Prime HD" xmltv_id="Prime HD">Prime HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Sky 5 HD" xmltv_id="Sky 5 HD">Sky 5 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Vibe HD" xmltv_id="Vibe HD">Vibe HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="UKTV" xmltv_id="UKTV">UKTV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="SoHo HD" xmltv_id="SoHo HD">SoHo HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="E!" xmltv_id="E!">E!</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Bravo" xmltv_id="Bravo">Bravo</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Jones!" xmltv_id="Jones!">Jones!</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="VICELAND" xmltv_id="VICELAND">VICELAND</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Comedy Central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="The Shopping Channel" xmltv_id="The Shopping Channel">The Shopping Channel</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="DUKE" xmltv_id="DUKE">DUKE</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="MTV Music" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Choice TV" xmltv_id="Choice TV">Choice TV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="SKY ARTS" xmltv_id="SKY ARTS">SKY ARTS</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Discovery Turbo" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Travel Living Channel" xmltv_id="Travel Living Channel">Travel Living Channel</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Hope TV" xmltv_id="Hope TV">Hope TV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Jones! too" xmltv_id="Jones! too">Jones! too</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="TVNZ 1 +1" xmltv_id="TVNZ 1 +1">TVNZ 1 +1</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="TVNZ 2 +1" xmltv_id="TVNZ 2 +1">TVNZ 2 +1</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Bravo Plus 1" xmltv_id="Bravo Plus 1">Bravo Plus 1</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="THREE Plus 1" xmltv_id="THREE Plus 1">THREE Plus 1</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Prime PLUS 1" xmltv_id="Prime PLUS 1">Prime PLUS 1</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Movies Premieres HD" xmltv_id="Movies Premieres HD">Movies Premieres HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Movies Greats HD" xmltv_id="Movies Greats HD">Movies Greats HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Movies Extra HD" xmltv_id="Movies Extra HD">Movies Extra HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Movies Disney HD" xmltv_id="Movies Disney HD">Movies Disney HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Sky Sport 1 HD" xmltv_id="Sky Sport 1 HD">Sky Sport 1 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Sky Sport 2 HD" xmltv_id="Sky Sport 2 HD">Sky Sport 2 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Sky Sport 3 HD" xmltv_id="Sky Sport 3 HD">Sky Sport 3 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="SKY Sport 4 HD" xmltv_id="SKY Sport 4 HD">SKY Sport 4 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Sky Sport 5 HD" xmltv_id="Sky Sport 5 HD">Sky Sport 5 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Sky Sport 6 HD" xmltv_id="Sky Sport 6 HD">Sky Sport 6 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="ESPN HD" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="ESPN2 HD" xmltv_id="ESPN2 HD">ESPN2 HD</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Face TV" xmltv_id="Face TV">Face TV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="SKY News" xmltv_id="SKY News">SKY News</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Fox News" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="BBC World" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Parliament TV" xmltv_id="Parliament TV">Parliament TV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="CNBC" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="RT" xmltv_id="RT">RT</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Al Jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Discovery" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Crime &amp; Investigation" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="National Geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="The History Channel" xmltv_id="The History Channel">The History Channel</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="BBC Knowledge" xmltv_id="BBC Knowledge">BBC Knowledge</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Animal Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Cartoon Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Nick JR" xmltv_id="Nick JR">Nick JR</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="MTV Classic" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="The Living Channel" xmltv_id="The Living Channel">The Living Channel</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Maori Television" xmltv_id="Maori Television">Maori Television</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Firstlight" xmltv_id="Firstlight">Firstlight</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Country TV" xmltv_id="Country TV">Country TV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Te Reo TV" xmltv_id="Te Reo TV">Te Reo TV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Shine TV" xmltv_id="Shine TV">Shine TV</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Daystar" xmltv_id="Daystar">Daystar</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="SonLife" xmltv_id="SonLife">SonLife</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="CCTV9" xmltv_id="CCTV9">CCTV9</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Star Plus Hindi" xmltv_id="Star Plus Hindi">Star Plus Hindi</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Base FM" xmltv_id="Base FM">Base FM</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="RNZ National" xmltv_id="RNZ National">RNZ National</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="RNZ Concert" xmltv_id="RNZ Concert">RNZ Concert</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="NZ Chart" xmltv_id="NZ Chart">NZ Chart</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Pop" xmltv_id="Pop">Pop</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Smooth" xmltv_id="Smooth">Smooth</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Grooves" xmltv_id="Grooves">Grooves</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Jazz" xmltv_id="Jazz">Jazz</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="House" xmltv_id="House">House</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="50s &amp; 60s" xmltv_id="50s &amp; 60s">50s &amp; 60s</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Party" xmltv_id="Party">Party</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Rock" xmltv_id="Rock">Rock</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Country" xmltv_id="Country">Country</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Classical" xmltv_id="Classical">Classical</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Kids" xmltv_id="Kids">Kids</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Blues" xmltv_id="Blues">Blues</channel>
+    <channel update="i" site="vodafone.co.nz" site_id="Monthly Theme" xmltv_id="Monthly Theme">Monthly Theme</channel>
+  </channels>
+</site>

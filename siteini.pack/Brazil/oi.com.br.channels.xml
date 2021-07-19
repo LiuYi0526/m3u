@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.2.0 -- Jan van Straaten" site="oi.com.br">
+  <channels>
+    <channel update="i" site="oi.com.br" site_id="76937" xmltv_id="Globo Rio">Globo Rio</channel>
+    <channel update="i" site="oi.com.br" site_id="103750" xmltv_id="RedeTV! Rio de Janeiro HD">RedeTV! Rio de Janeiro HD</channel>
+    <channel update="i" site="oi.com.br" site_id="103711" xmltv_id="Band RJ HD">Band RJ HD</channel>
+    <channel update="i" site="oi.com.br" site_id="105128" xmltv_id="CNT Rio">CNT Rio</channel>
+    <channel update="i" site="oi.com.br" site_id="38709" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="oi.com.br" site_id="98757" xmltv_id="SBT Rio HD">SBT Rio HD</channel>
+    <channel update="i" site="oi.com.br" site_id="104206" xmltv_id="RecordTV Rio HD">RecordTV Rio HD</channel>
+    <channel update="i" site="oi.com.br" site_id="78292" xmltv_id="Rede NGT Nova Geracao de Televisao">Rede NGT Nova Geracao de Televisao</channel>
+    <channel update="i" site="oi.com.br" site_id="91647" xmltv_id="Rit TV">Rit TV</channel>
+    <channel update="i" site="oi.com.br" site_id="76237" xmltv_id="TV JUSTIÇA">TV JUSTIÇA</channel>
+    <channel update="i" site="oi.com.br" site_id="38060" xmltv_id="TV Senado">TV Senado</channel>
+    <channel update="i" site="oi.com.br" site_id="75881" xmltv_id="TV Câmara">TV Câmara</channel>
+    <channel update="i" site="oi.com.br" site_id="56337" xmltv_id="TV Escola">TV Escola</channel>
+    <channel update="i" site="oi.com.br" site_id="54643" xmltv_id="RBI">RBI</channel>
+    <channel update="i" site="oi.com.br" site_id="108865" xmltv_id="Ideal TV">Ideal TV</channel>
+    <channel update="i" site="oi.com.br" site_id="38059" xmltv_id="Rede Vida">Rede Vida</channel>
+    <channel update="i" site="oi.com.br" site_id="71719" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel update="i" site="oi.com.br" site_id="77914" xmltv_id="CineBrasil TV">CineBrasil TV</channel>
+    <channel update="i" site="oi.com.br" site_id="83208" xmltv_id="Discovery Home &amp; Health HD">Discovery Home &amp; Health HD</channel>
+    <channel update="i" site="oi.com.br" site_id="73859" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="oi.com.br" site_id="20386" xmltv_id="Futura">Futura</channel>
+    <channel update="i" site="oi.com.br" site_id="76116" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="oi.com.br" site_id="94570" xmltv_id="SporTV3 HD">SporTV3 HD</channel>
+    <channel update="i" site="oi.com.br" site_id="94568" xmltv_id="SporTV2 HD">SporTV2 HD</channel>
+    <channel update="i" site="oi.com.br" site_id="94567" xmltv_id="SporTV HD">SporTV HD</channel>
+    <channel update="i" site="oi.com.br" site_id="95744" xmltv_id="Globo News HD">Globo News HD</channel>
+    <channel update="i" site="oi.com.br" site_id="79019" xmltv_id="GNT HD">GNT HD</channel>
+    <channel update="i" site="oi.com.br" site_id="78181" xmltv_id="Multishow HD">Multishow HD</channel>
+    <channel update="i" site="oi.com.br" site_id="94571" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75610" xmltv_id="Warner HD">Warner HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75596" xmltv_id="Sony Channel HD">Sony Channel HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75586" xmltv_id="Fox Channel HD">Fox Channel HD</channel>
+    <channel update="i" site="oi.com.br" site_id="78130" xmltv_id="Megapix HD">Megapix HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75606" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75583" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="oi.com.br" site_id="76101" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="oi.com.br" site_id="98075" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="oi.com.br" site_id="98076" xmltv_id="HBO Plus HD">HBO Plus HD</channel>
+    <channel update="i" site="oi.com.br" site_id="98096" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel update="i" site="oi.com.br" site_id="98088" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel update="i" site="oi.com.br" site_id="69097" xmltv_id="HBO Mundi">HBO Mundi</channel>
+    <channel update="i" site="oi.com.br" site_id="54590" xmltv_id="HBO Xtreme">HBO Xtreme</channel>
+    <channel update="i" site="oi.com.br" site_id="75590" xmltv_id="HBO Pop">HBO Pop</channel>
+    <channel update="i" site="oi.com.br" site_id="78306" xmltv_id="Telecine Premium HD">Telecine Premium HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75600" xmltv_id="Telecine Action HD">Telecine Action HD</channel>
+    <channel update="i" site="oi.com.br" site_id="78304" xmltv_id="Telecine Touch HD">Telecine Touch HD</channel>
+    <channel update="i" site="oi.com.br" site_id="78314" xmltv_id="Telecine Fun HD">Telecine Fun HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75603" xmltv_id="Telecine Pipoca HD">Telecine Pipoca HD</channel>
+    <channel update="i" site="oi.com.br" site_id="84420" xmltv_id="Telecine Cult HD">Telecine Cult HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75582" xmltv_id="Canal Brasil">Canal Brasil</channel>
+    <channel update="i" site="oi.com.br" site_id="56102" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="oi.com.br" site_id="75598" xmltv_id="Space HD">Space HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75580" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="oi.com.br" site_id="16269" xmltv_id="Investigação Discovery">Investigação Discovery</channel>
+    <channel update="i" site="oi.com.br" site_id="98922" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="oi.com.br" site_id="77795" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel update="i" site="oi.com.br" site_id="89295" xmltv_id="Lifetime Brazil">Lifetime Brazil</channel>
+    <channel update="i" site="oi.com.br" site_id="16427" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="oi.com.br" site_id="79639" xmltv_id="Curta!">Curta!</channel>
+    <channel update="i" site="oi.com.br" site_id="75599" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="oi.com.br" site_id="75915" xmltv_id="Polishop">Polishop</channel>
+    <channel update="i" site="oi.com.br" site_id="16398" xmltv_id="Shoptime">Shoptime</channel>
+    <channel update="i" site="oi.com.br" site_id="100898" xmltv_id="FOX Premium 1 HD">FOX Premium 1 HD</channel>
+    <channel update="i" site="oi.com.br" site_id="100906" xmltv_id="FOX Premium 2 HD">FOX Premium 2 HD</channel>
+    <channel update="i" site="oi.com.br" site_id="78279" xmltv_id="Prime Box Brazil">Prime Box Brazil</channel>
+    <channel update="i" site="oi.com.br" site_id="79018" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="oi.com.br" site_id="18651" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="oi.com.br" site_id="95745" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75593" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="oi.com.br" site_id="56075" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="oi.com.br" site_id="90307" xmltv_id="History 2">History 2</channel>
+    <channel update="i" site="oi.com.br" site_id="78083" xmltv_id="Gloob HD">Gloob HD</channel>
+    <channel update="i" site="oi.com.br" site_id="18650" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="oi.com.br" site_id="16142" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="oi.com.br" site_id="105759" xmltv_id="Gloobinho">Gloobinho</channel>
+    <channel update="i" site="oi.com.br" site_id="54592" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="oi.com.br" site_id="45034" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="oi.com.br" site_id="77933" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="oi.com.br" site_id="75919" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="oi.com.br" site_id="78242" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="oi.com.br" site_id="75584" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="oi.com.br" site_id="97985" xmltv_id="BABY TV">BABY TV</channel>
+    <channel update="i" site="oi.com.br" site_id="56131" xmltv_id="TV Rá Tim Bum!">TV Rá Tim Bum!</channel>
+    <channel update="i" site="oi.com.br" site_id="83240" xmltv_id="Tooncast">Tooncast</channel>
+    <channel update="i" site="oi.com.br" site_id="54594" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="oi.com.br" site_id="105758" xmltv_id="Nat Geo Kids HD">Nat Geo Kids HD</channel>
+    <channel update="i" site="oi.com.br" site_id="36939" xmltv_id="SescTV">SescTV</channel>
+    <channel update="i" site="oi.com.br" site_id="74979" xmltv_id="Mais na Tela HD">Mais na Tela HD</channel>
+    <channel update="i" site="oi.com.br" site_id="94122" xmltv_id="BIS HD">BIS HD</channel>
+    <channel update="i" site="oi.com.br" site_id="16238" xmltv_id="E!">E!</channel>
+    <channel update="i" site="oi.com.br" site_id="15416" xmltv_id="MTV Brasil">MTV Brasil</channel>
+    <channel update="i" site="oi.com.br" site_id="90944" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="oi.com.br" site_id="77826" xmltv_id="VH1 Megahits Brazil">VH1 Megahits Brazil</channel>
+    <channel update="i" site="oi.com.br" site_id="75832" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="oi.com.br" site_id="77910" xmltv_id="Chef TV">Chef TV</channel>
+    <channel update="i" site="oi.com.br" site_id="97986" xmltv_id="I.SAT">I.SAT</channel>
+    <channel update="i" site="oi.com.br" site_id="97987" xmltv_id="TNT Séries">TNT Séries</channel>
+    <channel update="i" site="oi.com.br" site_id="55882" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="oi.com.br" site_id="75916" xmltv_id="TV WA">TV WA</channel>
+    <channel update="i" site="oi.com.br" site_id="83277" xmltv_id="TBS HD">TBS HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75605" xmltv_id="Discovery World HD">Discovery World HD</channel>
+    <channel update="i" site="oi.com.br" site_id="79689" xmltv_id="Arte 1">Arte 1</channel>
+    <channel update="i" site="oi.com.br" site_id="77747" xmltv_id="ESPN Brasil HD">ESPN Brasil HD</channel>
+    <channel update="i" site="oi.com.br" site_id="10179" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="oi.com.br" site_id="76100" xmltv_id="Fox Sports HD">Fox Sports HD</channel>
+    <channel update="i" site="oi.com.br" site_id="75918" xmltv_id="Off">Off</channel>
+    <channel update="i" site="oi.com.br" site_id="77820" xmltv_id="WooHoo">WooHoo</channel>
+    <channel update="i" site="oi.com.br" site_id="56076" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="oi.com.br" site_id="94563" xmltv_id="BandSports HD">BandSports HD</channel>
+    <channel update="i" site="oi.com.br" site_id="86787" xmltv_id="Fox Sports 2 HD Brazil">Fox Sports 2 HD Brazil</channel>
+    <channel update="i" site="oi.com.br" site_id="79594" xmltv_id="FishTV">FishTV</channel>
+    <channel update="i" site="oi.com.br" site_id="75604" xmltv_id="Terraviva">Terraviva</channel>
+    <channel update="i" site="oi.com.br" site_id="38704" xmltv_id="Canal Rural">Canal Rural</channel>
+    <channel update="i" site="oi.com.br" site_id="54679" xmltv_id="BandNews">BandNews</channel>
+    <channel update="i" site="oi.com.br" site_id="64364" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="oi.com.br" site_id="17054" xmltv_id="CNN En Español">CNN En Español</channel>
+    <channel update="i" site="oi.com.br" site_id="107950" xmltv_id="Fox News Channel">Fox News Channel</channel>
+    <channel update="i" site="oi.com.br" site_id="75880" xmltv_id="TV Climatempo">TV Climatempo</channel>
+    <channel update="i" site="oi.com.br" site_id="15717" xmltv_id="RTPi RadioTV Portuguesa Int'l">RTPi RadioTV Portuguesa Int'l</channel>
+    <channel update="i" site="oi.com.br" site_id="75816" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="oi.com.br" site_id="76112" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="oi.com.br" site_id="75833" xmltv_id="DW (Deutsch+)">DW (Deutsch+)</channel>
+    <channel update="i" site="oi.com.br" site_id="78076" xmltv_id="Rede Gênesis">Rede Gênesis</channel>
+    <channel update="i" site="oi.com.br" site_id="78373" xmltv_id="Rede Super">Rede Super</channel>
+    <channel update="i" site="oi.com.br" site_id="75800" xmltv_id="Boa Vontade TV">Boa Vontade TV</channel>
+    <channel update="i" site="oi.com.br" site_id="75831" xmltv_id="TV Novo Tempo">TV Novo Tempo</channel>
+    <channel update="i" site="oi.com.br" site_id="56084" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+    <channel update="i" site="oi.com.br" site_id="95288" xmltv_id="Premiere 2">Premiere 2</channel>
+    <channel update="i" site="oi.com.br" site_id="95290" xmltv_id="Premiere 3">Premiere 3</channel>
+    <channel update="i" site="oi.com.br" site_id="56087" xmltv_id="Premiere 4">Premiere 4</channel>
+    <channel update="i" site="oi.com.br" site_id="98136" xmltv_id="Premiere 5 Brazil">Premiere 5 Brazil</channel>
+    <channel update="i" site="oi.com.br" site_id="98139" xmltv_id="Premiere 6">Premiere 6</channel>
+    <channel update="i" site="oi.com.br" site_id="78275" xmltv_id="Premiere 7">Premiere 7</channel>
+    <channel update="i" site="oi.com.br" site_id="78277" xmltv_id="Premiere 8">Premiere 8</channel>
+    <channel update="i" site="oi.com.br" site_id="107258" xmltv_id="Premiere 9">Premiere 9</channel>
+    <channel update="i" site="oi.com.br" site_id="107714" xmltv_id="Premiere 10">Premiere 10</channel>
+    <channel update="i" site="oi.com.br" site_id="99021" xmltv_id="Premiere Clubes HD">Premiere Clubes HD</channel>
+    <channel update="i" site="oi.com.br" site_id="102412" xmltv_id="Premiere 2 HD">Premiere 2 HD</channel>
+    <channel update="i" site="oi.com.br" site_id="102413" xmltv_id="Premiere 3 HD">Premiere 3 HD</channel>
+    <channel update="i" site="oi.com.br" site_id="102433" xmltv_id="Premiere HD 4">Premiere HD 4</channel>
+    <channel update="i" site="oi.com.br" site_id="102434" xmltv_id="Premiere HD 5">Premiere HD 5</channel>
+    <channel update="i" site="oi.com.br" site_id="78479" xmltv_id="SexPrivé">SexPrivé</channel>
+    <channel update="i" site="oi.com.br" site_id="56088" xmltv_id="Sexy Hot">Sexy Hot</channel>
+    <channel update="i" site="oi.com.br" site_id="19783" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="oi.com.br" site_id="94895" xmltv_id="Music Box Brasil">Music Box Brasil</channel>
+    <channel update="i" site="oi.com.br" site_id="98036" xmltv_id="Fashion TV Brazil">Fashion TV Brazil</channel>
+    <channel update="i" site="oi.com.br" site_id="110390" xmltv_id="Fish TV HD">Fish TV HD</channel>
+    <channel update="i" site="oi.com.br" site_id="113574" xmltv_id="Travel Box Brazil HD">Travel Box Brazil HD</channel>
+    <channel update="i" site="oi.com.br" site_id="114159" xmltv_id="CNN Brasil">CNN Brasil</channel>
+  </channels>
+</site>

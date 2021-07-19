@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="orange.pl">
+  <channels>
+    <channel update="i" site="orange.pl" site_id="14135##L1ZPRC9EMkE1NUMwNUJDMEY4NTAwMDUyMDFDOEI4ODNCQUE1RTg0MjI4OEEyLnBuZw==" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14999##L1ZPRC80NDdDMkQ3RkZBRkEyQkQwNTc3OTUwMjk1RURBRkEyMzY3ODFCNEIzLnBuZw==" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel update="i" site="orange.pl" site_id="15019##L2F0dGFjaG1lbnRzL0MyOEJEOUI3RTBFODMzMUQyQTlGQzAyNTMyQUFCREYxRkVCMUJCNDAucG5n" xmltv_id="TV Puls HD">TV Puls HD</channel>
+    <channel update="i" site="orange.pl" site_id="14199##L2F0dGFjaG1lbnRzLzAwODVDMjU5QTM4RDI3OUYwQzBEQTc4MTY3RUZEM0YwRDJBMUNFRTYucG5n" xmltv_id="Puls 2 HD">Puls 2 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14015##L1ZPRC83RkQ1RTY1OTNENENCQzlCOUM1MEFCMDg2MjczMzYzNTBERUM5NzVGLnBuZw==" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="orange.pl" site_id="14167##L1ZPRC8xMjFGNjE5QjRCRUFDMzU1OTAwQzdBODA0NTQ3OEYyOUFDNEQzMkEzLnBuZw==" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="orange.pl" site_id="14170##L1ZPRC81QzRGREE3NzBBMkZGN0Q0MTRDREFFNDQ3RTIxMTIwNjczMThEODU1LnBuZw==" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="orange.pl" site_id="14190##L1ZPRC84NkRBNkVGOUZGRDZCMTA1NjM2N0NGQjYzMDczOTgxMkUzRDNFMTQ1LnBuZw==" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14290##L1ZPRC9DNDNBODIwOUQ3NDM4RTI1NTZBRkU1OUY1RTBGNkFFMTk4NUFGRTUyLnBuZw==" xmltv_id="TVN24 BiS HD">TVN24 BiS HD</channel>
+    <channel update="i" site="orange.pl" site_id="14014##L1ZPRC9ENzg1ODZGNTlBQzcxMDRFRTE1ODU1RUQzRUI2MzhFMDU4OUY4MkZCLnBuZw==" xmltv_id="TVP Info HD">TVP Info HD</channel>
+    <channel update="i" site="orange.pl" site_id="14215##L1ZPRC81QkRCNjY3MkNBRDJCMURCOUEzRTQzRTlFRkZFQkYyRDg4OTREMUMxLnBuZw==" xmltv_id="TVP 3">TVP 3</channel>
+    <channel update="i" site="orange.pl" site_id="14249##L1ZPRC9FMTMzOTE4QkRDRTkxRDIxNzRGM0I0RTUyMzJFMTlCNTEzNzdBRkEwLnBuZw==" xmltv_id="TV Republika">TV Republika</channel>
+    <channel update="i" site="orange.pl" site_id="14233##L1ZPRC82MDU2QjMyMDdDRTBFM0ZFM0ZFRkIwQUIxNERBODc1RDJERkM0RTVGLnBuZw==" xmltv_id="Polsat News HD">Polsat News HD</channel>
+    <channel update="i" site="orange.pl" site_id="14332##L2F0dGFjaG1lbnRzL0Jpem5lczI0X2dyYWRpZW50QktHXzE1OXgxMTAucG5n" xmltv_id="Biznes24 HD">Biznes24 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14004##L1ZPRC8xMDg0OTAyMUE4RTEzMEVFMUJCOTQ5ODM2MjkwRDJBODAwQTVDNUE1LnBuZw==" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="orange.pl" site_id="14287##L1ZPRC80MTA5Q0Y3RjM5MEUxNzM1NEZFN0E0OTUzMUFGQTBGN0Y5MTM3MDY4LnBuZw==" xmltv_id="Nowa TV">Nowa TV</channel>
+    <channel update="i" site="orange.pl" site_id="14289##L1ZPRC83Rjc4OTA2NkEyMkExNzBCN0E0MzAwMTlCQzFDQkYwQ0IxODdCMjg5LnBuZw==" xmltv_id="Metro TV">Metro TV</channel>
+    <channel update="i" site="orange.pl" site_id="14288##L1ZPRC80OEVCMzEzNUZDRURDQjFCOEI3OUZCQjkwN0ZGNzM1NEYwMjdBMzg5LnBuZw==" xmltv_id="WP">WP</channel>
+    <channel update="i" site="orange.pl" site_id="14286##L1ZPRC8xRDBFNDYwNTAxREE2Q0U5NEE0NUQzOTMzNjI5MjgyNDA3MUE5NDMyLnBuZw==" xmltv_id="Zoom TV">Zoom TV</channel>
+    <channel update="i" site="orange.pl" site_id="14262##L2F0dGFjaG1lbnRzL3R2Y0hEXzE1OXgxMTAucG5n" xmltv_id="TVC HD">TVC HD</channel>
+    <channel update="i" site="orange.pl" site_id="14108##L1ZPRC82MkIxRUVFMzc2M0U5RjQ3MEYwN0M1OEY4OUE1Rjc3MUM3MDgxNDFDLnBuZw==" xmltv_id="TVP Sport HD">TVP Sport HD</channel>
+    <channel update="i" site="orange.pl" site_id="14271##L1ZPRC8yQzlCNkI5Rjg1OEYxRURGRjFFREExRjIzQThCQTIxNkEwQUQ4ODRCLnBuZw==" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14272##L1ZPRC9BQTJDRjVBMTY0MjMwNzU4QTg5RjY1RkI1NUNEN0JFOUU3QzI2Njk2LnBuZw==" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14306##L1ZPRC8zMUMzRjAzMjhCRjUyNDc3M0M3MEJCRDY4NUU0M0VDOTg3N0QwRTQwLnBuZw==" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14224##L1ZPRC9DMjU0MDk4OTZBQjE3RkE1Q0YxRDM0ODFCOEZENTUyOUQ0NDk1MzI5LnBuZw==" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="orange.pl" site_id="14130##L1ZPRC85QzRCMUNCMkVFRUU5NDMyNzE4NkQ5N0ZFRTY1RjYyMTUwQTNGRjMzLnBuZw==" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="orange.pl" site_id="14016##L1ZPRC83NTIyRDY1NzY5MzNGRDY4QzVCRkJDMTc3MUZDQzMxOUUzQURDNjI1LnBuZw==" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="orange.pl" site_id="14237##L1ZPRC8yQ0YxMEU3Q0M4MTJCN0RBRTFFRDc4MUE4NDZERjNGNkExOEI5MkRCLnBuZw==" xmltv_id="Stopklatka TV">Stopklatka TV</channel>
+    <channel update="i" site="orange.pl" site_id="15014##L1ZPRC8xRDY3Nzc4REE1OEFEMThCNTBCOTMxOTMzMDZFNEYyN0ZFQzFFNzYyLnBuZw==" xmltv_id="Kino Polska HD">Kino Polska HD</channel>
+    <channel update="i" site="orange.pl" site_id="14250##L1ZPRC85N0VGRUI4MDZEMUMxMUM5MzhCNTJGQjRBRERGOTY0NUJGREQ3MDk0LnBuZw==" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="orange.pl" site_id="14281##L1ZPRC85QTk5OUQ5MzQ5ODQ2REEzMjczQzcwOTU0NTQ0MDM5RUY3NDkxQjM3LnBuZw==" xmltv_id="13 Ulica HD">13 Ulica HD</channel>
+    <channel update="i" site="orange.pl" site_id="14175##L1ZPRC84NTBFQjlBNjZCNzEyMEUyRjI5NzI0ODYwNDE4MTkzRUEyMkQ5RTAxLnBuZw==" xmltv_id="Paramount Channel HD">Paramount Channel HD</channel>
+    <channel update="i" site="orange.pl" site_id="14097##L2F0dGFjaG1lbnRzL1BvbHNhcnRDb21lZHlDZW50cmFsRXh0cmFfMTU5eDExMC5wbmc=" xmltv_id="Polsat Comedy Central Extra">Polsat Comedy Central Extra</channel>
+    <channel update="i" site="orange.pl" site_id="14200##L1ZPRC9FOURGRTI0NzYyRDk5QUY1NzM0OTg1RjVGRkEzMjc0QzVCODg0NzExLnBuZw==" xmltv_id="Ale Kino+ HD">Ale Kino+ HD</channel>
+    <channel update="i" site="orange.pl" site_id="14132##L1ZPRC9GNkM4NTY3RkM4MDQyM0NDN0VGREVDRDgyMkNBNTcxQTA3REI4OTg2LnBuZw==" xmltv_id="Kino TV">Kino TV</channel>
+    <channel update="i" site="orange.pl" site_id="14164##L1ZPRC9GNERBOEZDQTZFMEM5ODlFQzgxQUE2MTU0NDIzMzFFMjlGMjMxMzE0LnBuZw==" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="orange.pl" site_id="14219##L1ZPRC83QzU0MDdGRDdDNjc0RTJFNzRDMkExQkQ3Mjg1M0ZCRDMxNEUyRTRFLnBuZw==" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="orange.pl" site_id="14138##L1ZPRC82REM5QzUxQTIwMTBCNUQ1Qzc3QkU5ODIyNzU2NUI3OEMzOTdFNDFDLnBuZw==" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="orange.pl" site_id="14166##L1ZPRC81RkJCNTQ0NDMyNjgwN0IyOTMzMDNBMUU1QUIxM0I5MkFFRjM3NDJDLnBuZw==" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel update="i" site="orange.pl" site_id="14172##L1ZPRC80RDk3QzU1QzEyM0I4NjcyRkExM0RFNkQxNUU2OUU2NzYxRkIzOEMzLnBuZw==" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="orange.pl" site_id="15047##L1ZPRC82MTU1MEIxNkRFQzdDOTM1MERCNDEyMTUwNUFDNjgzNEMwQ0ZCRjc3LnBuZw==" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="orange.pl" site_id="15046##L1ZPRC84RUIxRUY0OTcxMkY3MkY0MEVFRUQwRURBQTA2REJCNTNDQ0UzMkIwLnBuZw==" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="orange.pl" site_id="14201##L1ZPRC9DNzYxMjk2MDdFMzdGRkNCQkEyQjNBOTc4MjBFMzJCODk3NjlCODZCLnBuZw==" xmltv_id="AXN Spin HD">AXN Spin HD</channel>
+    <channel update="i" site="orange.pl" site_id="14174##L2F0dGFjaG1lbnRzL1JvbWFuY2VUVl8xNTl4MTEwLnBuZw==" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="orange.pl" site_id="14096##L1ZPRC8zMDE4RTRERTY4M0YzNjU5QUIzMkU5OUVEOTUwRjg0QkU1RDJGMEE4LnBuZw==" xmltv_id="Sci Fi HD">Sci Fi HD</channel>
+    <channel update="i" site="orange.pl" site_id="14307##L1ZPRC8zRkJEODI1RkE5MjEzNTI1QTI4NDkwRThGMjdCREYzQkY1Njg0QThGLnBuZw==" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="orange.pl" site_id="14228##L1ZPRC8yRkVBQTFENDAyQUE1Qzk4RDczNTlGODY1Njg3NzZENUI2NjVDNTNCLnBuZw==" xmltv_id="CBS Europa HD">CBS Europa HD</channel>
+    <channel update="i" site="orange.pl" site_id="14195##L1ZPRC8wMzZDNzk2QjBGNTQxRDkwOTNENzhDRUIwQzc1OEEyMUQ5RDAwRTFELnBuZw==" xmltv_id="Sundance TV HD">Sundance TV HD</channel>
+    <channel update="i" site="orange.pl" site_id="14165##L1ZPRC80ODcyRUMxMzA1N0FDNzI2RDdGN0JCNkI0Q0YyMkMwRTZDMTNDMkJFLnBuZw==" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="orange.pl" site_id="14147##L1ZPRC80NUI1NkExMEJERUU5NUZBNDQ1M0RFNjVCQUQ5QUFFQ0I3NDdGMEZCLnBuZw==" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14148##L1ZPRC80NTBERjQ5Q0VDMjkyM0I4MkU3RjJFNTQ2QjU0RjEzRDk5RDI1N0VFLnBuZw==" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14149##L1ZPRC9CMEYwNkIwMjdCN0U4MUI0NTU2MzcyMDRCNTVERDkyRDkyMTM0NkM5LnBuZw==" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="orange.pl" site_id="14150##L1ZPRC9CMDQxOTQ0ODE4OTgwNUVCM0U2MjJCQUQ4RjVFOENFNkM0RDQzQUU4LnBuZw==" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14151##L2F0dGFjaG1lbnRzL2ZpbG1ib3hFeHRyYUhEXzE1OXgxMTAucG5n" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="orange.pl" site_id="14197##L1ZPRC8wODkyMTdDRkFFMjE0NkRDREE0OTdCNkFDMUJFNUZDNkVFN0Q5MkUwLnBuZw==" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel update="i" site="orange.pl" site_id="14176##L1ZPRC9DNTJBRThFNzkzMTY5QTA1QjQ5OERFRDg5RURCRkZDNjIwQkVBMjZBLnBuZw==" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel update="i" site="orange.pl" site_id="14178##L1ZPRC8zMDNGMENBRUEyRUNFMzFERTQyMEYzM0EzNDMwNEVBNjM5NEI3MDFDLnBuZw==" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel update="i" site="orange.pl" site_id="15021##L1ZPRC8wNzREODYxNTE5RDRBNTI3MUQxNjdBNzVFNzgwRjI3RkEyQzI5NkIxLnBuZw==" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel update="i" site="orange.pl" site_id="14193##L1ZPRC8yREU3ODI1QzEwQjM3RjdFNDgwRjNDQkQ0QzZERjQ4MjNGQjdDRDdGLnBuZw==" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="orange.pl" site_id="14072##L1ZPRC84QzlDQzI5OUY0QzY0NEZDMEY1OTk2NDhBNTQ1RDJBQTIxMjE3NTI1LnBuZw==" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="orange.pl" site_id="14210##L1ZPRC8wNjE5MUVEMjI4MjQ4QUQ3RjFERUU2MjdGRDkzQ0VBOUZGRUU5QjUzLnBuZw==" xmltv_id="Domo+ HD">Domo+ HD</channel>
+    <channel update="i" site="orange.pl" site_id="14211##L1ZPRC9BQkQzNUE2NEY4NDg4QkVFODBDNEYwQTU3RUEwQTEyQzBBOERBRjg1LnBuZw==" xmltv_id="Kuchnia+ HD">Kuchnia+ HD</channel>
+    <channel update="i" site="orange.pl" site_id="14252##L1ZPRC8wRkYwQTVENEQyMjRDNTc5ODg5MzQwNTVENEJGOEJGQkY4REUxOUY2LnBuZw==" xmltv_id="BBC Brit HD">BBC Brit HD</channel>
+    <channel update="i" site="orange.pl" site_id="14235##L1ZPRC9DRjY3MzVDOEIyQjhGMjY5MjI4MkQyMUUyRDRGNzVGQzBCOTIzNDAyLnBuZw==" xmltv_id="E! Polska HD">E! Polska HD</channel>
+    <channel update="i" site="orange.pl" site_id="14226##L1ZPRC9FQzhCODE4Q0ZEMEVGRDE5RUEzNEY0NDg5QjVDQjZCRUMxQUIzRURFLnBuZw==" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="orange.pl" site_id="14063##L1ZPRC8xQTczMDBCNTJFRjM2RUExQUQyODFEQ0VDRjU2MDY3Mzc3ODI1QUY4LnBuZw==" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
+    <channel update="i" site="orange.pl" site_id="14251##L1ZPRC8zRUY3RjM3RTQ2QTAyNEFDQThBNjU4QzMwQkY1RTFBOTU3QjI1ODRGLnBuZw==" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="orange.pl" site_id="14160##L2F0dGFjaG1lbnRzL3BvbHNhdFBsYXlfMTU5eDExMC5wbmc=" xmltv_id="Polsat Play HD">Polsat Play HD</channel>
+    <channel update="i" site="orange.pl" site_id="14161##L2F0dGFjaG1lbnRzL3BvbHNhdENhZmVfMTU5eDExMC5wbmc=" xmltv_id="Polsat Cafe HD">Polsat Cafe HD</channel>
+    <channel update="i" site="orange.pl" site_id="14029##L2F0dGFjaG1lbnRzL3R2b2themplX2xvZ29fMTU5eDExMC5wbmc=" xmltv_id="TV Okazje">TV Okazje</channel>
+    <channel update="i" site="orange.pl" site_id="14180##L2F0dGFjaG1lbnRzL2hvbWVUVkhEXzE1OXgxMTAucG5n" xmltv_id="HOME TV HD">HOME TV HD</channel>
+    <channel update="i" site="orange.pl" site_id="14134##L1ZPRC9DMDk1NDI0QUExRkM5MEQ0QTNBQzQxNDczQzQ5OUQ4Njc0Q0Y2OUU2LnBuZw==" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="orange.pl" site_id="14212##L1ZPRC81Q0NFRDZFNTNDMEVEOERERTRERUNCMjcxQUIxRDNBM0JDNzkyRjNDLnBuZw==" xmltv_id="Planete+ HD">Planete+ HD</channel>
+    <channel update="i" site="orange.pl" site_id="14155##L1ZPRC84ODYxMzEzOTQ1NDk1MzIyRDMyOTdFQ0ZBNEM3RTc2OUUyOTdGRkVCLnBuZw==" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="orange.pl" site_id="14118##L2F0dGFjaG1lbnRzL2lkX2NoYW4ucG5n" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="orange.pl" site_id="14156##L1ZPRC9GQUM3NDlFMUExM0MzREREQTdFRTY2MzM5NTVDQkRBN0ZBODZBRkZCLnBuZw==" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="orange.pl" site_id="14169##L2F0dGFjaG1lbnRzL05hdGlvbmFsR2VvZ3JhcGhpY1dpbGRfMTU5eDExMC5wbmc=" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="orange.pl" site_id="14260##L1ZPRC8wNDE3OUUxOUJFNjJCREJFQjhBMjRCRjczMTA4OTUwMEYzMkUzODBGLnBuZw==" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="orange.pl" site_id="14154##L1ZPRC8zMTY5QzQxQzUxQjkzNTY1OERCODMwOTdCRDYyMzBGNzFERDE0QkMxLnBuZw==" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="orange.pl" site_id="14282##L1ZPRC82MDhCRjAyODlBMkI2RDJBNjVCOERFNEU1Q0UzNzRBNDE5QjZCM0YyLnBuZw==" xmltv_id="Polsat Viasat History HD">Polsat Viasat History HD</channel>
+    <channel update="i" site="orange.pl" site_id="14196##L1ZPRC8zN0U3MzAxMUQ1NzVFNjkyNTY0NkRBNDA4QzAwRTU4MTQyODExREZFLnBuZw==" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="orange.pl" site_id="14256##L2F0dGFjaG1lbnRzL2hpc3RvcnkyXzE1OXgxMTAucG5n" xmltv_id="History 2">History 2</channel>
+    <channel update="i" site="orange.pl" site_id="14188##L1ZPRC9GRkE1NzJFRDQ5QkU3MUJEQkZDMDdBNjg5REJGRkI3QUQxNDhGNkQ2LnBuZw==" xmltv_id="Crime+Investigation Polsat HD">Crime+Investigation Polsat HD</channel>
+    <channel update="i" site="orange.pl" site_id="14283##L1ZPRC9ERTRCNTcwOTA0OTc1NEI2MDQxRDVCMUI2MjI1N0I3MDZDMTJCOEE2LnBuZw==" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="orange.pl" site_id="14284##L1ZPRC9GNDU3QTA5QkEwODA3RDgwQjVGRkY5MzVENkFFMEY5QkYzMzUxRTRDLnBuZw==" xmltv_id="Polsat Viasat Nature HD">Polsat Viasat Nature HD</channel>
+    <channel update="i" site="orange.pl" site_id="14257##L1ZPRC82OTdDQThDNzgxRkM1NkI0ODkwNDA4QzI1OUJERjQxMTE0N0I3MTMwLnBuZw==" xmltv_id="Adventure HD">Adventure HD</channel>
+    <channel update="i" site="orange.pl" site_id="14242##L1ZPRC9FQTk4QzRERTIyQkYwOTA4MDdDMDVDMTg0NkYxQkI4Q0M1MTc4MUZGLnBuZw==" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="orange.pl" site_id="14208##L1ZPRC9EODJGREFENTQwOEI4QTRFMkI2NTlBOEFCMzU2RDM0NjM1MzVBMDQ4LnBuZw==" xmltv_id="MiniMini+ HD">MiniMini+ HD</channel>
+    <channel update="i" site="orange.pl" site_id="14123##L1ZPRC8zMjQyQTlGNEIzQjRCMkNCMzUyNDg3RDFCN0QwQUUxMDM3MjAzQTdDLnBuZw==" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="orange.pl" site_id="14187##L1ZPRC9GNjlGNkIzMzBDQTI3MUQ4NTYxRDE2RTRFNTc5MzVBRjY0MTQzMzBFLnBuZw==" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="orange.pl" site_id="14079##L1ZPRC8yMDZENjVBMzJCNDdDMEVFQjNFNzRGRDJFREZFMkZBN0FCNzExREQwLnBuZw==" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="orange.pl" site_id="14066##L1ZPRC9FREVBMTdDRDc2Mzg4MERCQUEyM0RFN0FCOEZFODJCRUJBQUE5NEE0LnBuZw==" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="orange.pl" site_id="14218##L1ZPRC8wODQ4RDBBNTRFQzYxQkQ3RTJCMjk5OTdDRjAwMUMwREZCRkY2MEIxLnBuZw==" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="orange.pl" site_id="14330##L2F0dGFjaG1lbnRzL3RvcEtpZHNKUl8xNTl4MTEwLnBuZw==" xmltv_id="Top Kids Jr">Top Kids Jr</channel>
+    <channel update="i" site="orange.pl" site_id="14117##L1ZPRC85QkVBQTM2RTNCQkVEQTAwMTI0NjY3QTVCMkFFN0M0QzA5RTREQkEwLnBuZw==" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="orange.pl" site_id="15044##L1ZPRC83OEJGNjVBNTFDMkFBMkQ4RjIwRDczOTQ1QTY4MzQxNTRGMTEyNDk5LnBuZw==" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="orange.pl" site_id="15031##L1ZPRC9BQTdEMjc2MEUxRkZGN0EwM0Q2NDYzODRCNjA0Q0UxOEEwRjMwOTlBLnBuZw==" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="orange.pl" site_id="14217##L1ZPRC9BNkFBMjMyM0EzNkU1QkNCQ0M1QzQ2MDFENDE4RDYzMkIyRjk1MDRCLnBuZw==" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="orange.pl" site_id="14209##L1ZPRC8zMDdBRTQyMDA4MTE0RDAwOTg5ODgxQUFCNjlDN0Y4RDNDODI1MjhFLnBuZw==" xmltv_id="teleTOON+ HD">teleTOON+ HD</channel>
+    <channel update="i" site="orange.pl" site_id="15039##L1ZPRC8zNDI1RDE2NDZEMTA0QzlDNUJBNUI1MzRCQ0Q3NEY2N0U2NjAxNERFLnBuZw==" xmltv_id="MTV Polska HD">MTV Polska HD</channel>
+    <channel update="i" site="orange.pl" site_id="14037##L1ZPRC81QTE3NzU2MTgwMDdBQTVGQjZEMUI1MjdGRDMyQTlGNkMzNTczRjU4LnBuZw==" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="orange.pl" site_id="14121##L1ZPRC8zNDAzNTZFQ0FDOTlFNTlBRTAyREVFQjg0QUI0OTVDOURBRUZFNURFLnBuZw==" xmltv_id="Eska TV">Eska TV</channel>
+    <channel update="i" site="orange.pl" site_id="14181##L1ZPRC81MjJGODAzOUU2NzJCNkE2NTI2RDU2NUZDNEQ2NkE1QjA3RkI1MTAwLnBuZw==" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="orange.pl" site_id="14168##L1ZPRC82NDM5NDgzOTFGMEMzNDFCNjM1RTUzRTM3MUREOUU3N0QwQzMwRjAyLnBuZw==" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="orange.pl" site_id="15040##L2F0dGFjaG1lbnRzL210djkwc18xNTl4MTEwLnBuZw==" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="orange.pl" site_id="14129##L1ZPRC81ODA4RDBEMDk1MDFEMzRCREQyQjE4RjA0NzU2RjQwMjlCMjhFQUY5LnBuZw==" xmltv_id="VH1 European">VH1 European</channel>
+    <channel update="i" site="orange.pl" site_id="14005##L1ZPRC8yNTQxREFEQTQwQTNGMDI1NjU5MzUyM0EyMDZCRTJGNzJCRkQ1Q0Y3LnBuZw==" xmltv_id="4FUN.TV">4FUN.TV</channel>
+    <channel update="i" site="orange.pl" site_id="14182##L1ZPRC82RjZGNTFCNzI2QTc2QUIzNzlFM0NBRjEyODIwNTkyQjRDMDFGRUIyLnBuZw==" xmltv_id="4FUN DANCE">4FUN DANCE</channel>
+    <channel update="i" site="orange.pl" site_id="14120##L2F0dGFjaG1lbnRzLzRGdW5LaWRzXzE1OXgxMTAucG5n" xmltv_id="4FUN KIDS">4FUN KIDS</channel>
+    <channel update="i" site="orange.pl" site_id="14291##L1ZPRC9FQzc2RDIyRDFEQTk0MTg4QzQ2QTk1MUU0QTU5M0U4RUFEN0FCN0E1LnBuZw==" xmltv_id="Eska Rock TV">Eska Rock TV</channel>
+    <channel update="i" site="orange.pl" site_id="14189##L1ZPRC8yNkM1MkMwMzk4ODRBQjNEMDZCQTFCM0JCRDIzN0UyNjdGRTQxMTc5LnBuZw==" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="orange.pl" site_id="14255##L2F0dGFjaG1lbnRzL3Bvd2VyVFZIRF8xNTl4MTEwLnBuZw==" xmltv_id="Power TV">Power TV</channel>
+    <channel update="i" site="orange.pl" site_id="14239##L1ZPRC9FNzBDQTlGQTczRDI2RjFGRTJFQkZDOEMwOTAwOTkxMEE1MUQwMDdGLnBuZw==" xmltv_id="VOX Music TV">VOX Music TV</channel>
+    <channel update="i" site="orange.pl" site_id="14292##L1ZPRC9GMzhBOTJEMjQyQTkyQTYwQTk2NkMzOTk4QkQ2MENEM0VBOTA4RDgzLnBuZw==" xmltv_id="Eska TV Extra">Eska TV Extra</channel>
+    <channel update="i" site="orange.pl" site_id="14241##L1ZPRC8zNDZBOEVERkI0NUFCMzYyODAyOTgxNzM4QzY1OTQxRkJFODBGM0IxLnBuZw==" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="orange.pl" site_id="14329##L2F0dGFjaG1lbnRzL251dGFUVl8xNTl4MTEwLnBuZw==" xmltv_id="Nuta.TV">Nuta.TV</channel>
+    <channel update="i" site="orange.pl" site_id="14031##L1ZPRC85OEY5OTBFNzMxRENGMUEwQ0NCMkI3N0FBRENEN0Y0MjZBRUUxM0QwLnBuZw==" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="orange.pl" site_id="14009##L1ZPRC9FQjc5RTZDOUM5MTYzMDE3RkU4M0ZEQ0M3OUI5QjQ4MTk1MDg5OTQ4LnBuZw==" xmltv_id="EuroNews">EuroNews</channel>
+    <channel update="i" site="orange.pl" site_id="15055##L1ZPRC9DQTU4MzA3RTE0NkJFODE1NjNGMjA0QzI3NTQ4MzQ5MEIyNzlBQkEwLnBuZw==" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="orange.pl" site_id="14028##L1ZPRC81NUFEMDUwMTVFQTNBQkFEODE2NzkyMkM0RDE1QzU5MTg2N0EzRUUyLnBuZw==" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="orange.pl" site_id="14223##L1ZPRC81ODFBRDg2Q0M0N0Q1MzA4NDA2RUEyMEQ4REU0RTY3N0RGREUyNzFBLnBuZw==" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="orange.pl" site_id="14010##L1ZPRC8zNzc1MDgwRUNCMzhGMzY5NkYyNDlBRjg1NDk5OUJFMDVBMTM3QkYxLnBuZw==" xmltv_id="DW">DW</channel>
+    <channel update="i" site="orange.pl" site_id="14038##L1ZPRC9CRjIxRjlFQzFGRTAzNzZCNTQ1Nzc3QzUwQUJENzIwQzAxNzE2M0QyLnBuZw==" xmltv_id="France 24 Eng HD">France 24 Eng HD</channel>
+    <channel update="i" site="orange.pl" site_id="14106##L1ZPRC9GMjk3MUM0REFBMzM3RjczNkE5NzgwMzIwRDUxOUJBMzVGMzdDMjI1LnBuZw==" xmltv_id="France 24 Fra HD">France 24 Fra HD</channel>
+    <channel update="i" site="orange.pl" site_id="14011##L1ZPRC8xNDcyNTM4RkI0MUI1NjYxQTA5QkQ0OEIzNDE3Rjg1NENBMTk4RDA4LnBuZw==" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="orange.pl" site_id="14039##L1ZPRC83RkIwNjRDOURBQkEwM0NFNjZEMEUzN0Q5QUY0NTg4M0MxRDMwRTNBLnBuZw==" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="orange.pl" site_id="14171##L1ZPRC8wMjNFQjE2MUYxM0RCOTJBMjIzODk0QkFCNUZCRUYzQjJCNTczNzdELnBuZw==" xmltv_id="TVN HD">TVN HD</channel>
+    <channel update="i" site="orange.pl" site_id="14177##L1ZPRC81QjNBMThGQ0MzM0E4NDEyMzAzNDMwOUZBRjYyNzU2MzVDMTY3MjhFLnBuZw==" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14137##L1ZPRC8yRjVEMDU1QTdGRTg0NkJGMTkxMDZGQzczNjBBRDNDMDRDQTc5NzFELnBuZw==" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel update="i" site="orange.pl" site_id="14301##L1ZPRC80ODEzNDdCMzFDNkM0MjBDREIxNTgxRjVDQTRDMTE4NjE1NDdDQzJDLnBuZw==" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14185##L1ZPRC9ERjc0NzExRjRENzc3MjU2QUY0MEIwQzUxOUMwMzY1ODc3NjE4ODFDLnBuZw==" xmltv_id="TTV HD">TTV HD</channel>
+    <channel update="i" site="orange.pl" site_id="14294##L2F0dGFjaG1lbnRzL3BvbHNhdFN1cGVyXzE1OXgxMTAucG5n" xmltv_id="Super Polsat HD">Super Polsat HD</channel>
+    <channel update="i" site="orange.pl" site_id="14173##L1ZPRC82MjVGMDlGRjYyRUJEMDY0M0FCM0IzMUUzMjJDNEU4NkZBNzI0OTkxLnBuZw==" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14162##L1ZPRC81MkY5MDdDODFGMUMxQUNGNkEzODFBRTQ5MzU1MDc4MTlGODQ4RUQ3LnBuZw==" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14163##L1ZPRC9FMjYxNDlCQjc4NTEzOEQ5RTBCNEREMUZBMzVFQUQzQjMwQjVGMERELnBuZw==" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14146##L1ZPRC85NEVFODY3MTkyMTU2NUVFOTEyQzg3M0MxNzU2MTg4RjgyRTUxNjQzLnBuZw==" xmltv_id="nSport HD">nSport HD</channel>
+    <channel update="i" site="orange.pl" site_id="14216##L1ZPRC85MzEyRDJCMjAxMzRFREM5QTVGM0ZGNUE0MEJFRTMyNDM0MTg0RjBFLnBuZw==" xmltv_id="SportKlub HD">SportKlub HD</channel>
+    <channel update="i" site="orange.pl" site_id="14273##L1ZPRC8wN0U5MTgxOUYzRjQxREM0NDA1MUJEMDFDRkExRkMwMTY4RTk1MEE0LnBuZw==" xmltv_id="FightKlub HD">FightKlub HD</channel>
+    <channel update="i" site="orange.pl" site_id="14232##L1ZPRC8xNzQ3OEI4RDg1MkEyRTkxMjhENjI0RDUwMDM2RUE0MkYzMDRGREJCLnBuZw==" xmltv_id="Motowizja HD">Motowizja HD</channel>
+    <channel update="i" site="orange.pl" site_id="14259##L1ZPRC9DOUNDNzM0NjFENTE5RTUxMjBDNDE1QjJDMDAyQkMxNTk0NTAwQkE1LnBuZw==" xmltv_id="Family Active">Family Active</channel>
+    <channel update="i" site="orange.pl" site_id="14317##L2F0dGFjaG1lbnRzL1Nwb3J0UHJlbWl1bV8xXzE1OXgxMTAucG5n" xmltv_id="Polsat Sport Premium 1">Polsat Sport Premium 1</channel>
+    <channel update="i" site="orange.pl" site_id="14318##L2F0dGFjaG1lbnRzL1Nwb3J0UHJlbWl1bV8yXzE1OXgxMTAucG5n" xmltv_id="Polsat Sport Premium 2">Polsat Sport Premium 2</channel>
+    <channel update="i" site="orange.pl" site_id="14319##L2F0dGFjaG1lbnRzL1Nwb3J0UHJlbWl1bV8zXzE1OXgxMTAucG5n" xmltv_id="Polsat Sport Premium 3 PPV">Polsat Sport Premium 3 PPV</channel>
+    <channel update="i" site="orange.pl" site_id="14320##L2F0dGFjaG1lbnRzL1Nwb3J0UHJlbWl1bV80XzE1OXgxMTAucG5n" xmltv_id="Polsat Sport Premium 4 PPV">Polsat Sport Premium 4 PPV</channel>
+    <channel update="i" site="orange.pl" site_id="14321##L2F0dGFjaG1lbnRzL1Nwb3J0UHJlbWl1bV81XzE1OXgxMTAucG5n" xmltv_id="Polsat Sport Premium 5 PPV">Polsat Sport Premium 5 PPV</channel>
+    <channel update="i" site="orange.pl" site_id="14322##L2F0dGFjaG1lbnRzL3BvbHNhdFNwb3J0UHJlbWl1bTZQUFZfMTU5eDExMC5wbmc=" xmltv_id="Polsat Sport Premium 6 PPV">Polsat Sport Premium 6 PPV</channel>
+    <channel update="i" site="orange.pl" site_id="14258##L1ZPRC9GRDdFMkU0NTM3NzM5MzZFREJCMzk2NjI5RTY0NzIyMDI0REYxODJDLnBuZw==" xmltv_id="TVN Fabuła HD">TVN Fabuła HD</channel>
+    <channel update="i" site="orange.pl" site_id="14230##L2F0dGFjaG1lbnRzL3BvbHNhdEZpbG1fMTU5eDExMC5wbmc=" xmltv_id="Polsat Film HD">Polsat Film HD</channel>
+    <channel update="i" site="orange.pl" site_id="14229##L2F0dGFjaG1lbnRzL3BvbHNhdFNlcmlhbGVfMTU5eDExMC5wbmc=" xmltv_id="Polsat Seriale HD">Polsat Seriale HD</channel>
+    <channel update="i" site="orange.pl" site_id="14139##L2F0dGFjaG1lbnRzL3BvbHNhdDJfMTU5eDExMC5wbmc=" xmltv_id="Polsat 2 HD">Polsat 2 HD</channel>
+    <channel update="i" site="orange.pl" site_id="14206##L2F0dGFjaG1lbnRzL2NwbHVzUHJlbWl1bV8xNTl4MTEwLnBuZw==" xmltv_id="Canal+ Premium">Canal+ Premium</channel>
+    <channel update="i" site="orange.pl" site_id="14204##L1ZPRC9ENTU5MDlCRDFCMTZEMzMyRTIzQTU1NjQ2REU1MUNFODUxRkZFNDk2LnBuZw==" xmltv_id="Canal+ Film">Canal+ Film</channel>
+    <channel update="i" site="orange.pl" site_id="14202##L1ZPRC9DOTA0MUUxQjgzQzBGQ0IyMTQ0NEE2MjNBRjg0NDU5MkIxODQxNzk1LnBuZw==" xmltv_id="Canal+ Family">Canal+ Family</channel>
+    <channel update="i" site="orange.pl" site_id="14203##L2F0dGFjaG1lbnRzL2NhbmFscGx1czFIRF8xNTl4MTEwLnBuZw==" xmltv_id="Canal+ &gt;&gt;1">Canal+ &gt;&gt;1</channel>
+    <channel update="i" site="orange.pl" site_id="14205##L1ZPRC8zRkUxMkFEOEQwQURGRTE3N0EwNDZFOTMzQkU2MkRDRkU0QzJBQzMxLnBuZw==" xmltv_id="Canal+ Seriale">Canal+ Seriale</channel>
+    <channel update="i" site="orange.pl" site_id="14207##L1ZPRC8zMTBFNjYwQ0M4NUMyNzAyNTJCREZDRTdBMjA2ODY3NjYxMjk0RjRBLnBuZw==" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
+    <channel update="i" site="orange.pl" site_id="14253##L1ZPRC9EODFFQUJEMUMwODk0MUY2MEEyMUUwRTUyMDdFNTBCMUFENEZCNzRBLnBuZw==" xmltv_id="Canal+ Sport 2">Canal+ Sport 2</channel>
+    <channel update="i" site="orange.pl" site_id="14254##L2F0dGFjaG1lbnRzL2NhbmFsUGx1c19Eb2t1bWVudF8xNTl4MTEwLnBuZw==" xmltv_id="Canal+ Dokument">Canal+ Dokument</channel>
+    <channel update="i" site="orange.pl" site_id="14326##L2F0dGFjaG1lbnRzL2NwbHVzU3BvcnQzXzE1OXgxMTAucG5n" xmltv_id="Canal+ Sport 3">Canal+ Sport 3</channel>
+    <channel update="i" site="orange.pl" site_id="14327##L2F0dGFjaG1lbnRzL2NwbHVzU3BvcnQ0XzE1OXgxMTAucG5n" xmltv_id="Canal+ Sport 4">Canal+ Sport 4</channel>
+    <channel update="i" site="orange.pl" site_id="14152##L1ZPRC9GMTgyOTgwOTFCMjIyNTM4MzMwNDE2OUNBMDJENjBBNTMxQTJGNDJELnBuZw==" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
+    <channel update="i" site="orange.pl" site_id="14153##L1ZPRC82RDhBMjNGOEY3OEY4QTFFNzIyQjhBRDg5RjBGNTcxRDA3RkI1OTc0LnBuZw==" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="orange.pl" site_id="14198##L1ZPRC8wNTZDQUJEMDM2MkMyOTk4OTcyNTA4NDBFRDcxQTdCNjFGQUVBOUM3LnBuZw==" xmltv_id="FilmBox Action">FilmBox Action</channel>
+    <channel update="i" site="orange.pl" site_id="15049##L1ZPRC9zdXBlcnN0YWNqYV94X2NjYjY1NjYwNDI3NmYxNzI5NTUyZmE4ZWQucG5n" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="orange.pl" site_id="14293##L1ZPRC9CMUIwN0FGMDZCMkFBNjI4QUE0RjQwNTYwNUM4QTI4ODM3QjY2MjFBLnBuZw==" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="orange.pl" site_id="14027##L1ZPRC9fN2VmZTkzZmQ1NzkwZDE4MGI0ZmMzMjNjMy5mYXNoaW9uX3R2X19iaWc=" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="orange.pl" site_id="14006##L2F0dGFjaG1lbnRzL2dvbGRUVl8xNTl4MTEwLnBuZw==" xmltv_id="Gold TV">Gold TV</channel>
+    <channel update="i" site="orange.pl" site_id="14308##L1ZPRC90Ym5feF81YWI1NjI4YTNmMGE2ZjA2YmQ1OTUzOTVmLnBuZw==" xmltv_id="TBN Polska">TBN Polska</channel>
+    <channel update="i" site="orange.pl" site_id="14261##L1ZPRC83MkQxRENGMTI0QTY1NDQ4QjYzNzgyRDVGQjAwOTEwODZENTcxNEYzLnBuZw==" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
+    <channel update="i" site="orange.pl" site_id="14240##L1ZPRC9CRjU0QzRBMUFEOTlGRTFGMkVENDgxQjVDMzYxRDM1NEUwMzhBNkY2LnBuZw==" xmltv_id="Fokus TV">Fokus TV</channel>
+    <channel update="i" site="orange.pl" site_id="14119##L1ZPRC85NzE3MkMyOEQzMjI2QkY0NTM4QzgyQTBBODczQjU5QzBBOEQ3Mjc4LnBuZw==" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="orange.pl" site_id="15033##L1ZPRC94X2Rpc2NvdmVyeV9saXZlXzg4YmNkM2EyZDA1NjBiYzNkZDE4YWQyNGIucG5n" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="orange.pl" site_id="15037##L1ZPRC9kaXNjb3Zlcnlfc2NpZW5jZV9oZF94XzA0YzMzMDgzNDMzNjNjZGUwNWZiOGFkOTIucG5n" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="orange.pl" site_id="15036##L1ZPRC9kdHhfeF9hZTk4ZWUyZjM2YTFhYWUxZjRmNzA3NGE2LnBuZw==" xmltv_id="DTX HD">DTX HD</channel>
+    <channel update="i" site="orange.pl" site_id="14157##L2F0dGFjaG1lbnRzL2FuaW1hbF9wbGFuZXRfMTU5eDExMF9wcy5QTkc=" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="orange.pl" site_id="14222##L2F0dGFjaG1lbnRzL3RyYXZlbENoYW5uZWxfMTU5eDExMC5wbmc=" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="orange.pl" site_id="14276##L1ZPRC9ydF9kb2NfeF9mNTQxZmEyYWZhY2IyOGE4NGMwYjQ2MjUzLnBuZw==" xmltv_id="Russia Today Documentary">Russia Today Documentary</channel>
+    <channel update="i" site="orange.pl" site_id="14238##L1ZPRC9CMjNBMjk4RDhDQTAwRUJBMDFBMzc5RjZEMEQyMUJGRTM5RUU3MjlBLnBuZw==" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="orange.pl" site_id="14158##L1ZPRC85NjNCOUVCMTk4QkE3MDA0NDYwNTU1Q0QxNjZGQzI0MDg3MUEwQjQ3LnBuZw==" xmltv_id="Polsat JimJam">Polsat JimJam</channel>
+    <channel update="i" site="orange.pl" site_id="14186##L1ZPRC9DRTk5QkQ5RTNBQkFFMEVBMThDQjc5NDgzQ0VBODY4NjA2NkU4ODgxLnBuZw==" xmltv_id="Nicktoons HD">Nicktoons HD</channel>
+    <channel update="i" site="orange.pl" site_id="14194##L1ZPRC9EMDJFODFBNEFERjNCOTM4MEQzQTU4MkMwNTQ3MkYxNjEyRDFCN0U2LnBuZw==" xmltv_id="Stars.TV">Stars.TV</channel>
+    <channel update="i" site="orange.pl" site_id="14248##L1ZPRC82NDcwMDk4MThFNTZEQzhEMzM2MEVERjQ2QzZCMUVERjQzMjhGN0E4LnBuZw==" xmltv_id="Polsat Music HD">Polsat Music HD</channel>
+    <channel update="i" site="orange.pl" site_id="14275##L2F0dGFjaG1lbnRzL3J1c3NpYVRvZGF5XzE1OXgxMTAucG5n" xmltv_id="RT HD">RT HD</channel>
+    <channel update="i" site="orange.pl" site_id="14047##L1ZPRC9fM2Q3MTUzZWQ0YTJiY2Q0ODdkYjAxYzI2YS5yb3NzaWphX19fYmln" xmltv_id="Rossija 24">Rossija 24</channel>
+    <channel update="i" site="orange.pl" site_id="14034##L1ZPRC9fYzJlM2FkN2M4OWNlYTA5MGI3YTIwOTFjMy5jaGFubmVsX19ydXNzaWFfX2JpZw==" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel update="i" site="orange.pl" site_id="14040##L1ZPRC9fYjU0NDM3NWM5MGFiMzQxNjNlZDIwZjMyZi5ydHJfcGxhbmV0YV9fYmln" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="orange.pl" site_id="14003##L1ZPRC90ZWxlX3hfZDA4MWI3ZjFjMjNkYjBmMDU3YjEwYjc0NS5wbmc=" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="orange.pl" site_id="14008##L1ZPRC9wX3hfN2NiZTU3MDE1ZGU5Y2E3NWE0ODU1NGFjMS5wbmc=" xmltv_id="P1">P1</channel>
+    <channel update="i" site="orange.pl" site_id="14007##L2F0dGFjaG1lbnRzL1RWU2hkXzE1OXgxMTAucG5n" xmltv_id="TVS HD">TVS HD</channel>
+  </channels>
+</site>

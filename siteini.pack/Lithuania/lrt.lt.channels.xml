@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="lrt.lt">
+  <channels>
+    <channel update="i" site="lrt.lt" site_id="lrt-televizija" xmltv_id="LRT TELEVIZIJA">LRT TELEVIZIJA</channel>
+    <channel update="i" site="lrt.lt" site_id="lrt-plius" xmltv_id="LRT Plius">LRT Plius</channel>
+    <channel update="i" site="lrt.lt" site_id="lrt-lituanica" xmltv_id="LRT Lituanica">LRT Lituanica</channel>
+    <channel update="i" site="lrt.lt" site_id="lrt-radijas" xmltv_id="LRT Radijas">LRT Radijas</channel>
+    <channel update="i" site="lrt.lt" site_id="lrt-klasika" xmltv_id="LRT Klasika">LRT Klasika</channel>
+    <channel update="i" site="lrt.lt" site_id="lrt-opus" xmltv_id="LRT Opus">LRT Opus</channel>
+  </channels>
+</site>

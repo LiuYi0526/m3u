@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="elevensports">
+  <channels>
+    <channel update="i" site="elevensports" site_id="uk/epg/elevensports1" xmltv_id="UK-Elevensports 1">UK-Elevensports 1</channel>
+    <channel update="i" site="elevensports" site_id="uk/epg/laliga-tv" xmltv_id="UK-Laliga TV">UK-Laliga TV</channel>
+    <channel update="i" site="elevensports" site_id="pt/epg/elevensports1" xmltv_id="PT-Eleven Sports 1">PT-Eleven Sports 1</channel>
+    <channel update="i" site="elevensports" site_id="pt/epg/elevensports2" xmltv_id="PT-Eleven Sports 2">PT-Eleven Sports 2</channel>
+    <channel update="i" site="elevensports" site_id="pt/epg/eleven-plus1" xmltv_id="PT-Eleven Sports 3">PT-Eleven Sports 3</channel>
+    <channel update="i" site="elevensports" site_id="pt/epg/eleven-plus2" xmltv_id="PT-Eleven Sports 4">PT-Eleven Sports 4</channel>
+    <channel update="i" site="elevensports" site_id="pt/epg/eleven-plus3" xmltv_id="PT-Eleven Sports 5">PT-Eleven Sports 5</channel>
+    <channel update="i" site="elevensports" site_id="pt/epg/eleven-plus4" xmltv_id="PT-Eleven Sports 6">PT-Eleven Sports 6</channel>
+    <channel update="i" site="elevensports" site_id="pl/epg/elevensports1" xmltv_id="PL-Eleven Sports 1">PL-Eleven Sports 1</channel>
+    <channel update="i" site="elevensports" site_id="pl/epg/elevensports2" xmltv_id="PL-Eleven Sports 2">PL-Eleven Sports 2</channel>
+    <channel update="i" site="elevensports" site_id="pl/epg/elevensports3" xmltv_id="PL-Eleven Sports 3">PL-Eleven Sports 3</channel>
+    <channel update="i" site="elevensports" site_id="pl/epg/elevensports4" xmltv_id="PL-Eleven Sports 4">PL-Eleven Sports 4</channel>
+    <channel update="i" site="elevensports" site_id="be/epg/eleven-fr" xmltv_id="FR-Eleven Sports 1">FR-Eleven Sports 1</channel>
+    <channel update="i" site="elevensports" site_id="be/epg/eleven-nl" xmltv_id="NL-Eleven Sports 1">NL-Eleven Sports 1</channel>
+    <channel update="i" site="elevensports" site_id="be/epg/eleven-sports-fr" xmltv_id="FR-Eleven Sports 2">FR-Eleven Sports 2</channel>
+    <channel update="i" site="elevensports" site_id="be/epg/eleven-sports-nl" xmltv_id="NL-Eleven Sports 2">NL-Eleven Sports 2</channel>
+    <channel update="i" site="elevensports" site_id="be/epg/eleven-sports-3-fr" xmltv_id="FR-Eleven Sports 3">FR-Eleven Sports 3</channel>
+    <channel update="i" site="elevensports" site_id="be/epg/eleven-sports-3-nl" xmltv_id="NL-Eleven Sports 3">NL-Eleven Sports 3</channel>
+    <channel update="i" site="elevensports" site_id="be/epg/laliga-tv" xmltv_id="BE-Laliga TV">BE-Laliga TV</channel>
+  </channels>
+</site>

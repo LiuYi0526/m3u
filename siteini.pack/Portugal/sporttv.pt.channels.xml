@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.1 -- Jan van Straaten" site="sporttv.pt">
+  <channels>
+    <channel update="i" site="sporttv.pt" site_id="7133" xmltv_id="SPORT.TV +">SPORT.TV +</channel>
+    <channel update="i" site="sporttv.pt" site_id="727" xmltv_id="SPORT.TV1">SPORT.TV1</channel>
+    <channel update="i" site="sporttv.pt" site_id="728" xmltv_id="SPORT.TV2">SPORT.TV2</channel>
+    <channel update="i" site="sporttv.pt" site_id="729" xmltv_id="SPORT.TV3">SPORT.TV3</channel>
+    <channel update="i" site="sporttv.pt" site_id="5406" xmltv_id="SPORT.TV4">SPORT.TV4</channel>
+    <channel update="i" site="sporttv.pt" site_id="5422" xmltv_id="SPORT.TV5">SPORT.TV5</channel>
+    <channel update="i" site="sporttv.pt" site_id="7386" xmltv_id="NBA TV">NBA TV</channel>
+  </channels>
+</site>

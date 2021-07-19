@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="connect.beinsports.com_us">
+  <channels>
+    <channel update="i" site="connect.beinsports.com_us" site_id="54520##301852" xmltv_id="beIN SPORTS">beIN SPORTS</channel>
+    <channel update="i" site="connect.beinsports.com_us" site_id="54524##301836" xmltv_id="beIN SPORTS en Español">beIN SPORTS en Español</channel>
+    <channel update="i" site="connect.beinsports.com_us" site_id="54521##301840" xmltv_id="LaLiga TV">LaLiga TV</channel>
+    <channel update="i" site="connect.beinsports.com_us" site_id="54523##301842" xmltv_id="CONNECT 4">CONNECT 4</channel>
+    <channel update="i" site="connect.beinsports.com_us" site_id="54518##301844" xmltv_id="CONNECT 5">CONNECT 5</channel>
+    <channel update="i" site="connect.beinsports.com_us" site_id="54517##301846" xmltv_id="CONNECT 6">CONNECT 6</channel>
+    <channel update="i" site="connect.beinsports.com_us" site_id="54522##301848" xmltv_id="CONNECT 7">CONNECT 7</channel>
+    <channel update="i" site="connect.beinsports.com_us" site_id="54519##301850" xmltv_id="CONNECT 8">CONNECT 8</channel>
+  </channels>
+</site>

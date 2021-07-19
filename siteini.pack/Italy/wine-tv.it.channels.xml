@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.3 -- Jan van Straaten" site="wine-tv.it">
+  <channels>
+    <channel update="i" site="wine-tv.it" site_id="wine-tv" xmltv_id="Wine TV">Wine TV</channel>
+  </channels>
+</site>

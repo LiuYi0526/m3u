@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="mewatch.sg">
+  <channels>
+    <channel update="i" site="mewatch.sg" site_id="97098" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="mewatch.sg" site_id="97104" xmltv_id="Channel 8">Channel 8</channel>
+    <channel update="i" site="mewatch.sg" site_id="97129" xmltv_id="Channel U">Channel U</channel>
+    <channel update="i" site="mewatch.sg" site_id="97084" xmltv_id="Suria">Suria</channel>
+    <channel update="i" site="mewatch.sg" site_id="97096" xmltv_id="Vasantham">Vasantham</channel>
+    <channel update="i" site="mewatch.sg" site_id="97072" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="mewatch.sg" site_id="98201" xmltv_id="Stories4SG Showcase">Stories4SG Showcase</channel>
+    <channel update="i" site="mewatch.sg" site_id="186574" xmltv_id="oktolidays">oktolidays</channel>
+    <channel update="i" site="mewatch.sg" site_id="206958" xmltv_id="eGG Network">eGG Network</channel>
+    <channel update="i" site="mewatch.sg" site_id="97137" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="mewatch.sg" site_id="97140" xmltv_id="HBO Hits">HBO Hits</channel>
+    <channel update="i" site="mewatch.sg" site_id="97147" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="mewatch.sg" site_id="97146" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="mewatch.sg" site_id="97155" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="mewatch.sg" site_id="97154" xmltv_id="Red by HBO">Red by HBO</channel>
+    <channel update="i" site="mewatch.sg" site_id="97166" xmltv_id="beIN SPORTS">beIN SPORTS</channel>
+    <channel update="i" site="mewatch.sg" site_id="97163" xmltv_id="beIN SPORTS MAX">beIN SPORTS MAX</channel>
+  </channels>
+</site>

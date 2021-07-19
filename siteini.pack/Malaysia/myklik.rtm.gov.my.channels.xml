@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" site="myklik.rtm.gov.my">
+  <channels>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="225##tvTV1logo-New.jpg" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="310##tvTV2logo.jpg" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="311##tvTVOKEYlogo.jpg" xmltv_id="TV Okey">TV Okey</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="312##Berita-NEW.jpg" xmltv_id="BERITA RTM">BERITA RTM</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="272##Sukan_RTMmedium.jpg" xmltv_id="TV SUKAN">TV SUKAN</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="517##TV6-Logo-JPG.jpg" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="232##tvTVPARLIMENDEWANRAKYATlogo170X96.jpg" xmltv_id="DEWAN RAKYAT">DEWAN RAKYAT</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="231##tvTVPARLIMENDEWAN NEGARAlogo170X96.jpg" xmltv_id="DEWAN NEGARA">DEWAN NEGARA</channel>
+  </channels>
+</site>

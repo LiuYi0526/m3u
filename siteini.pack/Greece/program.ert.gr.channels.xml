@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.3 -- Jan van Straaten" site="program.ert.gr">
+  <channels>
+    <channel update="i" site="program.ert.gr" site_id="9" xmltv_id="ΕΡΤ1">ΕΡΤ1</channel>
+    <channel update="i" site="program.ert.gr" site_id="49" xmltv_id="ΕΡΤ2">ΕΡΤ2</channel>
+    <channel update="i" site="program.ert.gr" site_id="10" xmltv_id="EΡT3">EΡT3</channel>
+    <channel update="i" site="program.ert.gr" site_id="24" xmltv_id="ΕΡΤ SPORTS HD">ΕΡΤ SPORTS HD</channel>
+    <channel update="i" site="program.ert.gr" site_id="8" xmltv_id="ΒΟΥΛΗ">ΒΟΥΛΗ</channel>
+  </channels>
+</site>

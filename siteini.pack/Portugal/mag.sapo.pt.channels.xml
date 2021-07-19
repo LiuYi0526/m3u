@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" site="mag.sapo.pt">
+  <channels>
+    <channel update="i" site="mag.sapo.pt" site_id="LOLLY" xmltv_id="Lolly Kids">Lolly Kids</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTP1" xmltv_id="RTP1">RTP1</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTP2" xmltv_id="RTP2">RTP2</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SIC" xmltv_id="SIC">SIC</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVI" xmltv_id="TVI">TVI</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICN" xmltv_id="SIC Notícias">SIC Notícias</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTP3" xmltv_id="RTP3">RTP3</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVI24" xmltv_id="TVI24">TVI24</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CMTV" xmltv_id="CMTV">CMTV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICM" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="GLOB" xmltv_id="Globo">Globo</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="C11" xmltv_id="11">11</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVIFIC" xmltv_id="TVI Ficção">TVI Ficção</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ABOLA" xmltv_id="A Bola TV">A Bola TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPTVHD" xmltv_id="Sport TV + HD">Sport TV + HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PORTO" xmltv_id="Porto Canal">Porto Canal</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTPAC" xmltv_id="RTP Açores">RTP Açores</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTPMD" xmltv_id="RTP Madeira">RTP Madeira</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEVEN1" xmltv_id="Eleven 1">Eleven 1</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEVEN2" xmltv_id="Eleven 2">Eleven 2</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEVEN3" xmltv_id="Eleven 3">Eleven 3</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SCPHD" xmltv_id="Sporting TV HD">Sporting TV HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="EURHD" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="EURS2HD" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DISNY" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CART" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BIGGS" xmltv_id="Biggs">Biggs</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICK" xmltv_id="SIC K">SIC K</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="NICKELO" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DISNYJ" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PANDA" xmltv_id="Panda">Panda</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="JJAM" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BABYT" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CINEHD" xmltv_id="Cinemundo">Cinemundo</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HOLHD" xmltv_id="Hollywood HD">Hollywood HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FOXMH" xmltv_id="FOX Movies HD">FOX Movies HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AMCHD" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AXNMHD" xmltv_id="AXN Movies HD">AXN Movies HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="VOD" xmltv_id="MEO VideoClube">MEO VideoClube</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FOXHD" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FLIFEH" xmltv_id="FOX Life HD">FOX Life HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FOXCHD" xmltv_id="FOX Crime HD">FOX Crime HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FOXCOH" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AXNHD" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AXWHD" xmltv_id="AXN White HD">AXN White HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SYFHD" xmltv_id="SyFy">SyFy</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DEST" xmltv_id="MEO Destaques">MEO Destaques</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DISCVHD" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HISTHD" xmltv_id="História">História</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ODISSHD" xmltv_id="Odisseia">Odisseia</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="NGHD" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="WILDHD" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTPM" xmltv_id="RTP Memória">RTP Memória</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="QHD" xmltv_id="Q">Q</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICR" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MTVPHD" xmltv_id="MTV Portugal">MTV Portugal</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BLAZEHD" xmltv_id="Blaze HD">Blaze HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FUELTV" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="GAMET" xmltv_id="Gametoon">Gametoon</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CIHD" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CBSR" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TLC" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="GALERIA" xmltv_id="Galeria">Galeria</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICC" xmltv_id="SIC Caras">SIC Caras</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="E! HD" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MYCHD" xmltv_id="My Cuisine">My Cuisine</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="24KTHD" xmltv_id="24Kitchen HD">24Kitchen HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FTV" xmltv_id="FTV">FTV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FTVHD" xmltv_id="FTV">FTV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MCHIC" xmltv_id="Mas Chic">Mas Chic</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SMAISHD" xmltv_id="S+">S+</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MTVLIVE" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TRAHD" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MCM P" xmltv_id="MCM Pop">MCM Pop</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MCMTHD" xmltv_id="MCM Top">MCM Top</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CLUBHD" xmltv_id="Clubbing TV">Clubbing TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AFRO" xmltv_id="Afro Music">Afro Music</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TRACETC" xmltv_id="Trace Toca">Trace Toca</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TRACEBR" xmltv_id="Trace Brazuca">Trace Brazuca</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ALMALUS" xmltv_id="Alma Lusa">Alma Lusa</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MEZZO" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MEZHD" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ICOHD" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="LOUD" xmltv_id="Stingray Loud">Stingray Loud</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RETRO" xmltv_id="Stingray Retro">Stingray Retro</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTPACR" xmltv_id="RTP Açores">RTP Açores</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTPMA" xmltv_id="RTP Madeira">RTP Madeira</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ARTV" xmltv_id="ARTV">ARTV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="LVTVHD" xmltv_id="Localvisão TV">Localvisão TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MKANAL" xmltv_id="MEO Kanal">MEO Kanal</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEVEN4" xmltv_id="Eleven 4">Eleven 4</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="C180" xmltv_id="CANAL 180">CANAL 180</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="KURIAKO" xmltv_id="Kuriakos TV">Kuriakos TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CNOVA" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVVERHD" xmltv_id="TV Verdade">TV Verdade</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="UME" xmltv_id="UM Europa">UM Europa</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DOGTVHD" xmltv_id="Dog TV">Dog TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="REC HD" xmltv_id="Record TV">Record TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RECNEW" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="EURN" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTPA" xmltv_id="RTP África">RTP África</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TPA" xmltv_id="TPA Internacional">TPA Internacional</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BLOOM" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CNBC" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SKYN" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BBC W" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BBC E" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FR24I" xmltv_id="France 24 (I)">France 24 (I)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="I24I" xmltv_id="i24 News (I)">i24 News (I)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="NHKHD" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CGTNHD" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CGTNDHD" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="EURNIHD" xmltv_id="Euronews (I)">Euronews (I)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DWTVHD" xmltv_id="Deutsche Welle (I)">Deutsche Welle (I)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ALJAZHD" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TRTWHD" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RUSSTHD" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="1RUSS" xmltv_id="Channel 1 Russia">Channel 1 Russia</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVEI" xmltv_id="TVEi">TVEi</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVE24" xmltv_id="TVE 24h">TVE 24h</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVGAL" xmltv_id="TV Galícia">TV Galícia</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="G VIS" xmltv_id="Globovision">Globovision</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CUBAV" xmltv_id="Cubavision">Cubavision</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="A3INTER" xmltv_id="Antena3 Internacional">Antena3 Internacional</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="A3SERIE" xmltv_id="A3 Series">A3 Series</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="A3CINE" xmltv_id="A3 Cine">A3 Cine</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SOMOS" xmltv_id="Somos">Somos</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SOLMUSI" xmltv_id="Sol Musica">Sol Musica</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CCOCINA" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DECASA" xmltv_id="Decasa">Decasa</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M6" xmltv_id="M6">M6</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TV5HD" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BFM" xmltv_id="BFM TV">BFM TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BFMB" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="I24F" xmltv_id="i24 News (F)">i24 News (F)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FR24F" xmltv_id="France 24 (F)">France 24 (F)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DWTVA" xmltv_id="Deutsche Welle (A)">Deutsche Welle (A)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="EURNA" xmltv_id="Euronews (A)">Euronews (A)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BVN" xmltv_id="BVN">BVN</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="IHTEP" xmltv_id="INTER+">INTER+</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PROTV" xmltv_id="PRO TV Internacional">PRO TV Internacional</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BNT4" xmltv_id="BNT 4">BNT 4</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="KBS" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CCTV4HD" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PHCNE" xmltv_id="Phoenix CNE">Phoenix CNE</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RAI1" xmltv_id="RAI 1">RAI 1</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RAI2" xmltv_id="RAI 2">RAI 2</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RAI3" xmltv_id="RAI 3">RAI 3</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RAINEWS" xmltv_id="RAI News">RAI News</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SCUOLA" xmltv_id="RAI Scuola">RAI Scuola</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="STORIA" xmltv_id="RAI Storia">RAI Storia</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MCSUHD" xmltv_id="MCS TV Ultra HD">MCS TV Ultra HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTP4K" xmltv_id="RTP 4K">RTP 4K</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HISPA4K" xmltv_id="Hispasat 4K">Hispasat 4K</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTP1SD" xmltv_id="RTP1">RTP1</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTP2SD" xmltv_id="RTP2">RTP2</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICSD" xmltv_id="SIC">SIC</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVISD" xmltv_id="TVI">TVI</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICNSD" xmltv_id="SIC Notícias">SIC Notícias</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RTP3SD" xmltv_id="RTP3">RTP3</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVI24SD" xmltv_id="TVI24">TVI24</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CMTVSD" xmltv_id="CMTV">CMTV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICMSD" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="GLOBSD" xmltv_id="Globo">Globo</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="C11SD" xmltv_id="11">11</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVIFISD" xmltv_id="TVI Ficção">TVI Ficção</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ABOLASD" xmltv_id="A Bola TV">A Bola TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPTV" xmltv_id="Sport TV+">Sport TV+</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PORTOSD" xmltv_id="Porto Canal">Porto Canal</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEV1SD" xmltv_id="Eleven 1">Eleven 1</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEV2SD" xmltv_id="Eleven 2">Eleven 2</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEV3SD" xmltv_id="Eleven 3">Eleven 3</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SCP" xmltv_id="Sporting TV">Sporting TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="EURSP" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="EURS2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICKSD" xmltv_id="SIC K">SIC K</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CINE" xmltv_id="Cinemundo">Cinemundo</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HOLLW" xmltv_id="Hollywood">Hollywood</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FOXM" xmltv_id="FOX Movies">FOX Movies</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AMC" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AXNM" xmltv_id="AXN Movies">AXN Movies</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FOX" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FLIFE" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FOXCR" xmltv_id="FOX Crime">FOX Crime</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="FOXCOM" xmltv_id="FOX Comedy">FOX Comedy</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="AXNWH" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SYFY" xmltv_id="SyFy">SyFy</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DISCV" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HIST" xmltv_id="História">História</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ODISS" xmltv_id="Odisseia">Odisseia</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="NGC" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="WILD" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="Q" xmltv_id="Q">Q</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICRSD" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MTV" xmltv_id="MTV Portugal">MTV Portugal</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CI" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SICCSD" xmltv_id="SIC Caras">SIC Caras</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="E!" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MYC" xmltv_id="My Cuisine">My Cuisine</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="24KITC" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TRACE" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MCM T" xmltv_id="MCM Top">MCM Top</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CLUBB" xmltv_id="Clubbing TV">Clubbing TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="LVTV" xmltv_id="Localvisão TV">Localvisão TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEV4SD" xmltv_id="Eleven 4">Eleven 4</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVREC" xmltv_id="Record TV">Record TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CGTN" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="EURNI" xmltv_id="Euronews (I)">Euronews (I)</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ALJAZ" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TV5" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CCTV4" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEVEN5" xmltv_id="Eleven 5">Eleven 5</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEVEN6" xmltv_id="Eleven 6">Eleven 6</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEV5SD" xmltv_id="Eleven 5">Eleven 5</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ELEV6SD" xmltv_id="Eleven 6">Eleven 6</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="DOGTV" xmltv_id="Dog TV">Dog TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M NOV" xmltv_id="Novidades">Novidades</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M POR" xmltv_id="Música Portuguesa">Música Portuguesa</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M POP" xmltv_id="POP\/Rock">POP\/Rock</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M DIS" xmltv_id="Disco &amp; Clubbing">Disco &amp; Clubbing</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M FNK" xmltv_id="Funky R&amp;B">Funky R&amp;B</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M ESP" xmltv_id="Rock Alternativo">Rock Alternativo</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M BRA" xmltv_id="Música Brasileira">Música Brasileira</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M ROM" xmltv_id="Música Romântica">Música Romântica</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M J&amp;B" xmltv_id="Cool Jazz">Cool Jazz</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M CLS" xmltv_id="Música Clássica">Música Clássica</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M AMB" xmltv_id="Chillout">Chillout</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="M INF" xmltv_id="Música Infantil">Música Infantil</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CLASSIC" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CAÇAV" xmltv_id="Caçavision">Caçavision</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PFC" xmltv_id="PFC">PFC</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SETAS" xmltv_id="SET Asia">SET Asia</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="MAX" xmltv_id="SET Max">SET Max</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PLAY" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPTV1" xmltv_id="Sport TV1">Sport TV1</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPTV2" xmltv_id="Sport TV2">Sport TV2</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPTV3" xmltv_id="Sport TV3">Sport TV3</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPTV4" xmltv_id="Sport TV4">Sport TV4</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPTV5" xmltv_id="Sport TV5">Sport TV5</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPT1HD" xmltv_id="Sport TV1 HD">Sport TV1 HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPT2HD" xmltv_id="Sport TV2 HD">Sport TV2 HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPT3HD" xmltv_id="Sport TV3 HD">Sport TV3 HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPT4HD" xmltv_id="Sport TV4 HD">Sport TV4 HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPT5HD" xmltv_id="Sport TV5 HD">Sport TV5 HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SPTV4K" xmltv_id="Sport TV 4K">Sport TV 4K</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SLB" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SLBHD" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVCTOP" xmltv_id="TV Cine Top">TV Cine Top</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVCEDI" xmltv_id="TV Cine Edition">TV Cine Edition</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVCEMO" xmltv_id="TV Cine Emotion">TV Cine Emotion</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVCACT" xmltv_id="TVCine 4">TVCine 4</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVCTOPH" xmltv_id="TV Cine Top HD">TV Cine Top HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVCEDIH" xmltv_id="TV Cine Edition HD">TV Cine Edition HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVCEMOH" xmltv_id="TV Cine Emotion HD">TV Cine Emotion HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVCACTH" xmltv_id="TV Cine Action HD">TV Cine Action HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="GNOWHD" xmltv_id="Globo Now">Globo Now</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="GNOW" xmltv_id="Globo Now">Globo Now</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CAÇAP" xmltv_id="Caça e Pesca">Caça e Pesca</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CAÇAPHD" xmltv_id="Caça e Pesca">Caça e Pesca</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="CAÇAVHD" xmltv_id="Caçavision">Caçavision</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TOROTV" xmltv_id="Toros TV">Toros TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TOROTVHD" xmltv_id="Toros TV">Toros TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="VENUS" xmltv_id="Venus">Venus</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PBTVHD" xmltv_id="Playboy TV HD">Playboy TV HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="SEXTRM" xmltv_id="SexTreme">SexTreme</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="PENTHG" xmltv_id="Penthouse Gold">Penthouse Gold</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HOTTAB" xmltv_id="HOT Taboo">HOT Taboo</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HOTMAN" xmltv_id="HOT Man">HOT Man</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="BODYSEX" xmltv_id="Body Sex">Body Sex</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HOT" xmltv_id="HOT">HOT</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="HOTHD" xmltv_id="HOT">HOT</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TCV" xmltv_id="TCV Internacional">TCV Internacional</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ZEETV" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="ZEECIN" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVSEHD" xmltv_id="Promo TVCine HD">Promo TVCine HD</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="RMTV" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="mag.sapo.pt" site_id="TVSER" xmltv_id="Promo TVCine">Promo TVCine</channel>
+  </channels>
+</site>

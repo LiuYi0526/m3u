@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="discoveryplus">
+  <channels>
+    <channel update="i" site="discoveryplus" site_id="dk_APEU" xmltv_id="ANIMAL PLANET (Danmark)">ANIMAL PLANET (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="dk_DDEN" xmltv_id="DISCOVERY CHANNEL (Danmark)">DISCOVERY CHANNEL (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="dk_IDDE" xmltv_id="ID (Danmark)">ID (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="dk_SCEU" xmltv_id="DISCOVERY SCIENCE (Danmark)">DISCOVERY SCIENCE (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="dk_TLDE" xmltv_id="TLC (Danmark)">TLC (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="dk_dk.sbsdiscovery.channel.4" xmltv_id="KANAL 4 (Danmark)">KANAL 4 (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="dk_dk.sbsdiscovery.channel.5" xmltv_id="KANAL 5 (Danmark)">KANAL 5 (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="dk_dk.sbsdiscovery.channel.6" xmltv_id="6'EREN (Danmark)">6'EREN (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="dk_dk.sbsdiscovery.channel.9" xmltv_id="CANAL 9 (Danmark)">CANAL 9 (Danmark)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_DMax" xmltv_id="DMAX (Italy)">DMAX (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_DiscoveryChannel" xmltv_id="DISCOVERY CHANNEL (Italy)">DISCOVERY CHANNEL (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_DiscoveryRealTime" xmltv_id="REAL TIME (Italy)">REAL TIME (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_DiscoveryScience" xmltv_id="DISCOVERY SCIENCE (Italy)">DISCOVERY SCIENCE (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_FoodNetwork" xmltv_id="FOOD NETWORK (Italy)">FOOD NETWORK (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_Frisbee" xmltv_id="FRISBEE (Italy)">FRISBEE (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_Giallo" xmltv_id="GIALLO (Italy)">GIALLO (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_HGTV" xmltv_id="HGTV (Italy)">HGTV (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_K2" xmltv_id="K2 (Italy)">K2 (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_MotorTrend" xmltv_id="MOTORTREND (Italy)">MOTORTREND (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="it_Nove" xmltv_id="NOVE (Italy)">NOVE (Italy)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_IDSW" xmltv_id="ID (Sweden)">ID (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_TCEU" xmltv_id="TRAVEL CHANNEL (Sweden)">TRAVEL CHANNEL (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_TLSW" xmltv_id="TLC (Sweden)">TLC (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-SVT1" xmltv_id="SVT 1 (Sweden)">SVT 1 (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-SVT2" xmltv_id="SVT 2 (Sweden)">SVT 2 (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-SVT24" xmltv_id="SVT 24 (Sweden)">SVT 24 (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-SVTB" xmltv_id="SVT BARN (Sweden)">SVT BARN (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-SVTK" xmltv_id="KUNSKAPSKANALEN (Sweden)">KUNSKAPSKANALEN (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-cmore-fotboll" xmltv_id="C MORE FOTBOLL HD (Sweden)">C MORE FOTBOLL HD (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-cmore-golf-se" xmltv_id="C MORE GOLF HD (Sweden)">C MORE GOLF HD (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-cmore-hockey" xmltv_id="C MORE HOCKEY HD (Sweden)">C MORE HOCKEY HD (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-fakta" xmltv_id="TV4 FAKTA (Sweden)">TV4 FAKTA (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-sjuan" xmltv_id="SJUAN HD (Sweden)">SJUAN HD (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-sportkanalen" xmltv_id="SPORTKANALEN HD (Sweden)">SPORTKANALEN HD (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-tv12" xmltv_id="TV12 HD (Sweden)">TV12 HD (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-tv4" xmltv_id="TV4 HD (Sweden)">TV4 HD (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-tv4-film" xmltv_id="TV4 FILM (Sweden)">TV4 FILM (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_dplayse-telia-tv4-guld" xmltv_id="TV4 GULD (Sweden)">TV4 GULD (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_se.sbsdiscovery.channel.11" xmltv_id="KANAL 11 (Sweden)">KANAL 11 (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_se.sbsdiscovery.channel.5" xmltv_id="KANAL 5 (Sweden)">KANAL 5 (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="se_se.sbsdiscovery.channel.9" xmltv_id="KANAL 9 (Sweden)">KANAL 9 (Sweden)</channel>
+    <channel update="i" site="discoveryplus" site_id="nl_APEU" xmltv_id="ANIMAL PLANET (Netherland)">ANIMAL PLANET (Netherland)</channel>
+    <channel update="i" site="discoveryplus" site_id="nl_DBEN" xmltv_id="DISCOVERY CHANNEL (Netherland)">DISCOVERY CHANNEL (Netherland)</channel>
+    <channel update="i" site="discoveryplus" site_id="nl_IDXE" xmltv_id="INVESTIGATION DISCOVERY (Netherland)">INVESTIGATION DISCOVERY (Netherland)</channel>
+    <channel update="i" site="discoveryplus" site_id="nl_TLNL" xmltv_id="TLC (Netherland)">TLC (Netherland)</channel>
+    <channel update="i" site="discoveryplus" site_id="es_APEU" xmltv_id="ANIMAL PLANET (Spain)">ANIMAL PLANET (Spain)</channel>
+    <channel update="i" site="discoveryplus" site_id="es_DSWE" xmltv_id="DISCOVERY CHANNEL (Spain)">DISCOVERY CHANNEL (Spain)</channel>
+    <channel update="i" site="discoveryplus" site_id="no_IDXE" xmltv_id="ID (Norway)">ID (Norway)</channel>
+    <channel update="i" site="discoveryplus" site_id="no_TLCN" xmltv_id="TLC (Norway)">TLC (Norway)</channel>
+    <channel update="i" site="discoveryplus" site_id="no_no.sbsdiscovery.channel.fem" xmltv_id="FEM (Norway)">FEM (Norway)</channel>
+    <channel update="i" site="discoveryplus" site_id="no_no.sbsdiscovery.channel.max" xmltv_id="MAX (Norway)">MAX (Norway)</channel>
+    <channel update="i" site="discoveryplus" site_id="no_no.sbsdiscovery.channel.tvn" xmltv_id="TV NORGE (Norway)">TV NORGE (Norway)</channel>
+    <channel update="i" site="discoveryplus" site_id="no_no.sbsdiscovery.channel.vox" xmltv_id="VOX (Norway)">VOX (Norway)</channel>
+    <channel update="i" site="discoveryplus" site_id="fi_dplayfi-telia-cmore-max-fi" xmltv_id="C MORE MAX HD (Finland)">C MORE MAX HD (Finland)</channel>
+    <channel update="i" site="discoveryplus" site_id="fi_dplayfi-telia-cmore-sport1-fi" xmltv_id="C MORE SPORT 1 HD (Finland)">C MORE SPORT 1 HD (Finland)</channel>
+    <channel update="i" site="discoveryplus" site_id="fi_dplayfi-telia-cmore-sport2-fi" xmltv_id="C MORE SPORT 2 HD (Finland)">C MORE SPORT 2 HD (Finland)</channel>
+    <channel update="i" site="discoveryplus" site_id="fi_fi.sbsdiscovery.channel.4" xmltv_id="FRII (Finland)">FRII (Finland)</channel>
+    <channel update="i" site="discoveryplus" site_id="fi_fi.sbsdiscovery.channel.5" xmltv_id="TV5 (Finland)">TV5 (Finland)</channel>
+    <channel update="i" site="discoveryplus" site_id="fi_fi.sbsdiscovery.channel.kutonen" xmltv_id="KUTONEN (Finland)">KUTONEN (Finland)</channel>
+    <channel update="i" site="discoveryplus" site_id="fi_fi.sbsdiscovery.channel.tlc" xmltv_id="TLC FINLAND (Finland)">TLC FINLAND (Finland)</channel>
+  </channels>
+</site>

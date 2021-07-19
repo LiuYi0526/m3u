@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="fdb.cz">
+  <channels>
+    <channel update="i" site="fdb.cz" site_id="204" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
+    <channel update="i" site="fdb.cz" site_id="228" xmltv_id="Barrandov News">Barrandov News</channel>
+    <channel update="i" site="fdb.cz" site_id="227" xmltv_id="Československo HD">Československo HD</channel>
+    <channel update="i" site="fdb.cz" site_id="160" xmltv_id="ČT :D / ČT art">ČT :D / ČT art</channel>
+    <channel update="i" site="fdb.cz" site_id="277" xmltv_id="ČT 3">ČT 3</channel>
+    <channel update="i" site="fdb.cz" site_id="4" xmltv_id="ČT1">ČT1</channel>
+    <channel update="i" site="fdb.cz" site_id="5" xmltv_id="ČT2">ČT2</channel>
+    <channel update="i" site="fdb.cz" site_id="224" xmltv_id="JOJ Family">JOJ Family</channel>
+    <channel update="i" site="fdb.cz" site_id="203" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel update="i" site="fdb.cz" site_id="218" xmltv_id="Markíza International">Markíza International</channel>
+    <channel update="i" site="fdb.cz" site_id="6" xmltv_id="NOVA">NOVA</channel>
+    <channel update="i" site="fdb.cz" site_id="250" xmltv_id="Nova 2">Nova 2</channel>
+    <channel update="i" site="fdb.cz" site_id="248" xmltv_id="Nova Action">Nova Action</channel>
+    <channel update="i" site="fdb.cz" site_id="18" xmltv_id="Nova Cinema">Nova Cinema</channel>
+    <channel update="i" site="fdb.cz" site_id="249" xmltv_id="Nova Gold">Nova Gold</channel>
+    <channel update="i" site="fdb.cz" site_id="149" xmltv_id="NOVA HD">NOVA HD</channel>
+    <channel update="i" site="fdb.cz" site_id="7" xmltv_id="Prima">Prima</channel>
+    <channel update="i" site="fdb.cz" site_id="216" xmltv_id="Prima Comedy Central">Prima Comedy Central</channel>
+    <channel update="i" site="fdb.cz" site_id="37" xmltv_id="Prima Cool">Prima Cool</channel>
+    <channel update="i" site="fdb.cz" site_id="259" xmltv_id="Prima Krimi">Prima Krimi</channel>
+    <channel update="i" site="fdb.cz" site_id="119" xmltv_id="Prima LOVE">Prima LOVE</channel>
+    <channel update="i" site="fdb.cz" site_id="212" xmltv_id="Prima MAX">Prima MAX</channel>
+    <channel update="i" site="fdb.cz" site_id="153" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
+    <channel update="i" site="fdb.cz" site_id="170" xmltv_id="Relax">Relax</channel>
+    <channel update="i" site="fdb.cz" site_id="258" xmltv_id="Seznam.cz TV">Seznam.cz TV</channel>
+    <channel update="i" site="fdb.cz" site_id="29" xmltv_id="TV Barrandov">TV Barrandov</channel>
+    <channel update="i" site="fdb.cz" site_id="130" xmltv_id="Dajto">Dajto</channel>
+    <channel update="i" site="fdb.cz" site_id="115" xmltv_id="Doma">Doma</channel>
+    <channel update="i" site="fdb.cz" site_id="69" xmltv_id="Dvojka">Dvojka</channel>
+    <channel update="i" site="fdb.cz" site_id="68" xmltv_id="Jednotka">Jednotka</channel>
+    <channel update="i" site="fdb.cz" site_id="30" xmltv_id="JOJ">JOJ</channel>
+    <channel update="i" site="fdb.cz" site_id="16" xmltv_id="Markíza">Markíza</channel>
+    <channel update="i" site="fdb.cz" site_id="217" xmltv_id="Nova International">Nova International</channel>
+    <channel update="i" site="fdb.cz" site_id="31" xmltv_id="PLUS">PLUS</channel>
+    <channel update="i" site="fdb.cz" site_id="274" xmltv_id="PLUS HD">PLUS HD</channel>
+    <channel update="i" site="fdb.cz" site_id="102" xmltv_id="Trojka">Trojka</channel>
+    <channel update="i" site="fdb.cz" site_id="159" xmltv_id="WAU">WAU</channel>
+    <channel update="i" site="fdb.cz" site_id="198" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="fdb.cz" site_id="20" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="fdb.cz" site_id="162" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="fdb.cz" site_id="254" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="fdb.cz" site_id="163" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="fdb.cz" site_id="17" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="fdb.cz" site_id="19" xmltv_id="Cinemax2">Cinemax2</channel>
+    <channel update="i" site="fdb.cz" site_id="25" xmltv_id="CS Film">CS Film</channel>
+    <channel update="i" site="fdb.cz" site_id="154" xmltv_id="CS Horror">CS Horror</channel>
+    <channel update="i" site="fdb.cz" site_id="257" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="fdb.cz" site_id="265" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="fdb.cz" site_id="135" xmltv_id="Film Europe">Film Europe</channel>
+    <channel update="i" site="fdb.cz" site_id="26" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="fdb.cz" site_id="21" xmltv_id="Filmbox">Filmbox</channel>
+    <channel update="i" site="fdb.cz" site_id="213" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
+    <channel update="i" site="fdb.cz" site_id="137" xmltv_id="Filmbox Family">Filmbox Family</channel>
+    <channel update="i" site="fdb.cz" site_id="35" xmltv_id="Filmbox Plus">Filmbox Plus</channel>
+    <channel update="i" site="fdb.cz" site_id="200" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
+    <channel update="i" site="fdb.cz" site_id="9" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="fdb.cz" site_id="15" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="fdb.cz" site_id="219" xmltv_id="HBO3">HBO3</channel>
+    <channel update="i" site="fdb.cz" site_id="205" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
+    <channel update="i" site="fdb.cz" site_id="122" xmltv_id="VOYO">VOYO</channel>
+    <channel update="i" site="fdb.cz" site_id="225" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel update="i" site="fdb.cz" site_id="226" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel update="i" site="fdb.cz" site_id="174" xmltv_id="Auto Moto Sport">Auto Moto Sport</channel>
+    <channel update="i" site="fdb.cz" site_id="46" xmltv_id="ČT sport">ČT sport</channel>
+    <channel update="i" site="fdb.cz" site_id="131" xmltv_id="DIGI Sport 1">DIGI Sport 1</channel>
+    <channel update="i" site="fdb.cz" site_id="172" xmltv_id="DIGI Sport 2">DIGI Sport 2</channel>
+    <channel update="i" site="fdb.cz" site_id="57" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="fdb.cz" site_id="63" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="fdb.cz" site_id="187" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="fdb.cz" site_id="58" xmltv_id="Nova Sport 1">Nova Sport 1</channel>
+    <channel update="i" site="fdb.cz" site_id="209" xmltv_id="NOVA Sport 2">NOVA Sport 2</channel>
+    <channel update="i" site="fdb.cz" site_id="261" xmltv_id="O2 TV tenis">O2 TV tenis</channel>
+    <channel update="i" site="fdb.cz" site_id="262" xmltv_id="Premier Sport">Premier Sport</channel>
+    <channel update="i" site="fdb.cz" site_id="89" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="fdb.cz" site_id="104" xmltv_id="SPORT2">SPORT2</channel>
+    <channel update="i" site="fdb.cz" site_id="199" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="fdb.cz" site_id="45" xmltv_id="ČT24">ČT24</channel>
+    <channel update="i" site="fdb.cz" site_id="24" xmltv_id="TA3">TA3</channel>
+    <channel update="i" site="fdb.cz" site_id="175" xmltv_id="Brava HDTV">Brava HDTV</channel>
+    <channel update="i" site="fdb.cz" site_id="27" xmltv_id="Óčko">Óčko</channel>
+    <channel update="i" site="fdb.cz" site_id="238" xmltv_id="Óčko Expres">Óčko Expres</channel>
+    <channel update="i" site="fdb.cz" site_id="207" xmltv_id="Óčko Star">Óčko Star</channel>
+    <channel update="i" site="fdb.cz" site_id="171" xmltv_id="Senzi">Senzi</channel>
+    <channel update="i" site="fdb.cz" site_id="95" xmltv_id="BOOMERANG">BOOMERANG</channel>
+    <channel update="i" site="fdb.cz" site_id="44" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="fdb.cz" site_id="180" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="fdb.cz" site_id="43" xmltv_id="JIM JAM">JIM JAM</channel>
+    <channel update="i" site="fdb.cz" site_id="201" xmltv_id="Jojko">Jojko</channel>
+    <channel update="i" site="fdb.cz" site_id="38" xmltv_id="MINIMAX">MINIMAX</channel>
+    <channel update="i" site="fdb.cz" site_id="193" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="fdb.cz" site_id="169" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="fdb.cz" site_id="206" xmltv_id="Ťuki TV">Ťuki TV</channel>
+    <channel update="i" site="fdb.cz" site_id="79" xmltv_id="3SAT">3SAT</channel>
+    <channel update="i" site="fdb.cz" site_id="75" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="fdb.cz" site_id="80" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="fdb.cz" site_id="88" xmltv_id="Cartoon+TCM">Cartoon+TCM</channel>
+    <channel update="i" site="fdb.cz" site_id="256" xmltv_id="CS History">CS History</channel>
+    <channel update="i" site="fdb.cz" site_id="232" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="fdb.cz" site_id="202" xmltv_id="E! Entertainment TV">E! Entertainment TV</channel>
+    <channel update="i" site="fdb.cz" site_id="181" xmltv_id="EroXXX HD">EroXXX HD</channel>
+    <channel update="i" site="fdb.cz" site_id="185" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel update="i" site="fdb.cz" site_id="234" xmltv_id="Ginx eSports TV">Ginx eSports TV</channel>
+    <channel update="i" site="fdb.cz" site_id="87" xmltv_id="KABEL1">KABEL1</channel>
+    <channel update="i" site="fdb.cz" site_id="236" xmltv_id="KTV Štětí">KTV Štětí</channel>
+    <channel update="i" site="fdb.cz" site_id="78" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="fdb.cz" site_id="73" xmltv_id="ORF1">ORF1</channel>
+    <channel update="i" site="fdb.cz" site_id="74" xmltv_id="ORF2">ORF2</channel>
+    <channel update="i" site="fdb.cz" site_id="72" xmltv_id="Polsat">Polsat</channel>
+    <channel update="i" site="fdb.cz" site_id="239" xmltv_id="Praha TV">Praha TV</channel>
+    <channel update="i" site="fdb.cz" site_id="84" xmltv_id="PRO7">PRO7</channel>
+    <channel update="i" site="fdb.cz" site_id="240" xmltv_id="PRO7 Maxx">PRO7 Maxx</channel>
+    <channel update="i" site="fdb.cz" site_id="82" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="fdb.cz" site_id="83" xmltv_id="RTL2">RTL2</channel>
+    <channel update="i" site="fdb.cz" site_id="85" xmltv_id="SAT1">SAT1</channel>
+    <channel update="i" site="fdb.cz" site_id="114" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="fdb.cz" site_id="67" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel update="i" site="fdb.cz" site_id="251" xmltv_id="UP Network">UP Network</channel>
+    <channel update="i" site="fdb.cz" site_id="86" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="fdb.cz" site_id="53" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="fdb.cz" site_id="178" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
+    <channel update="i" site="fdb.cz" site_id="164" xmltv_id="CS Mystery">CS Mystery</channel>
+    <channel update="i" site="fdb.cz" site_id="54" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="fdb.cz" site_id="127" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="fdb.cz" site_id="179" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel update="i" site="fdb.cz" site_id="158" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel update="i" site="fdb.cz" site_id="109" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="fdb.cz" site_id="52" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="fdb.cz" site_id="196" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="fdb.cz" site_id="260" xmltv_id="Travel XP HD">Travel XP HD</channel>
+    <channel update="i" site="fdb.cz" site_id="55" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="fdb.cz" site_id="56" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="fdb.cz" site_id="142" xmltv_id="Viasat Nature">Viasat Nature</channel>
+  </channels>
+</site>

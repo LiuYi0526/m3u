@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="movistar.co">
+  <channels>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3913##00/06/51/6519097_DE3A1635092C0904.png" xmltv_id="A&amp;E (AE HD)">A&amp;E (AE HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2569##00/06/51/6515474_CAE1CCA6A8584D97.png" xmltv_id="AMC (AMC)">AMC (AMC)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3780##00/06/51/6515474_CAE1CCA6A8584D97.png" xmltv_id="AMC (AMC Col IPTV)">AMC (AMC Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2571##00/06/51/6515474_CAE1CCA6A8584D97.png" xmltv_id="AMC HD (AMC HD)">AMC HD (AMC HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2576##00/06/52/6523540_26F81A3F46EA5552.png" xmltv_id="Animal Planet (Animal Planet HD)">Animal Planet (Animal Planet HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2573##00/06/51/6518949_E921DB62227C95EB.png" xmltv_id="ANTENA3 (Antena3)">ANTENA3 (Antena3)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2568##00/07/26/7265848_80A656F053F25772.png" xmltv_id="ATRES SERIES HD (Atres Series HD)">ATRES SERIES HD (Atres Series HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2570##00/06/51/6518947_CDE896912C494ADE.png" xmltv_id="AXN (AXN HD)">AXN (AXN HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2583##00/06/52/6523295_B3CDC74D14D25D9D.png" xmltv_id="BABY TV (Baby TV)">BABY TV (Baby TV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH1251##00/06/55/6553011_30E134DB30D676B5.png" xmltv_id="BBC World News (BBC World)">BBC World News (BBC World)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2581##00/06/52/6523296_E2B2239234ED8894.png" xmltv_id="Boomerang (Boomerang)">Boomerang (Boomerang)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2819##00/06/73/6737705_3275EC62B4CD9DFE.png" xmltv_id="CableNoticias (CNOTICIAS)">CableNoticias (CNOTICIAS)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3345##00/06/73/6735849_E3E120BD5125A1BB.png" xmltv_id="Canal 1 (Canal 1 HD)">Canal 1 (Canal 1 HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2710##00/06/84/6840718_06DF1DE82185646C.png" xmltv_id="Canal Capital (Canal Capital)">Canal Capital (Canal Capital)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2703##00/06/87/6872963_B9A89B733937ACFE.png" xmltv_id="CANAL CONGRESO (Congreso)">CANAL CONGRESO (Congreso)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2692##00/06/51/6512487_CFE8BCBFF8331FC4.png" xmltv_id="Canal Fox (Fox Channel)">Canal Fox (Fox Channel)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3766##00/06/73/6735845_B030513D3A93A004.png" xmltv_id="Canal Institucional (Institucional HD)">Canal Institucional (Institucional HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2714##00/06/76/6766259_EF1557DB7D3B4F8E.png" xmltv_id="Canal Trece (Canal Trece)">Canal Trece (Canal Trece)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2705##00/06/76/6766257_49048E2F6B098025.png" xmltv_id="Canal TRO (Canal Tro)">Canal TRO (Canal Tro)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2713##00/06/77/6777674_523AE0ED0219820E.png" xmltv_id="Caracol (Caracol HD)">Caracol (Caracol HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2822##00/06/52/6523297_AC1C9C4372225AAB.png" xmltv_id="Cartoon Network (Cartoon Network HD)">Cartoon Network (Cartoon Network HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2579##00/06/52/6523297_AC1C9C4372225AAB.png" xmltv_id="CARTOON NETWORK REGIONAL (Cartoon Network)">CARTOON NETWORK REGIONAL (Cartoon Network)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3776##00/06/51/6512486_A3E2583BEF3E7D10.png" xmltv_id="Cinecanal (Cinecanal Col IPTV)">Cinecanal (Cinecanal Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2582##00/06/51/6512486_A3E2583BEF3E7D10.png" xmltv_id="CINECANAL HD (Cinecanal HD)">CINECANAL HD (Cinecanal HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2577##00/06/51/6512486_A3E2583BEF3E7D10.png" xmltv_id="CINECANAL REGIONAL (Cinecanal)">CINECANAL REGIONAL (Cinecanal)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3774##00/06/51/6512485_54EA3938DE90CEEE.png" xmltv_id="Cinemax (Cinemax COL IPTV)">Cinemax (Cinemax COL IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2580##00/06/51/6512485_54EA3938DE90CEEE.png" xmltv_id="CINEMAX HD (Cinemax HD)">CINEMAX HD (Cinemax HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2578##00/06/51/6512485_54EA3938DE90CEEE.png" xmltv_id="CINEMAX SUR (Cinemax)">CINEMAX SUR (Cinemax)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2712##00/06/76/6766261_1A203E4D298185B0.png" xmltv_id="City TV (City TV)">City TV (City TV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3866##00/06/55/6552916_2077BEC98CF63BD7.png" xmltv_id="CNN Español (CNN Espanol)">CNN Español (CNN Espanol)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2587##00/06/55/6552961_24C94E4AD3ADD85A.png" xmltv_id="CNN INTERNACIONAL (CNN)">CNN INTERNACIONAL (CNN)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3910##00/06/51/6519091_39917200288AD4FD.png" xmltv_id="Comedy Central (Comedy Central C)">Comedy Central (Comedy Central C)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2709##00/06/51/6519091_39917200288AD4FD.png" xmltv_id="Comedy Central (Comedy Central HD)">Comedy Central (Comedy Central HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2605##00/06/71/6718045_E5191A2E17B29B03.png" xmltv_id="DEUTSCHE WELLE (Deutsche Welle)">DEUTSCHE WELLE (Deutsche Welle)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2680##00/06/52/6523534_45AEC952162CBFB0.png" xmltv_id="Discovery Channel (Discovery HD)">Discovery Channel (Discovery HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2601##00/06/52/6523534_45AEC952162CBFB0.png" xmltv_id="DISCOVERY CHANNEL VENEZUELA (Discovery Channel)">DISCOVERY CHANNEL VENEZUELA (Discovery Channel)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3911##00/06/52/6523671_FDDA58C41643809E.png" xmltv_id="Discovery H&amp;H (Home Health HD)">Discovery H&amp;H (Home Health HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2586##00/06/52/6523537_4F688A020028689F.png" xmltv_id="DISCOVERY HD THEATER (D. Theater)">DISCOVERY HD THEATER (D. Theater)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2603##00/06/52/6523293_350A81601DFB7D0D.png" xmltv_id="Discovery Kids (Discovery Kids HD)">Discovery Kids (Discovery Kids HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2598##00/06/52/6523536_DA0F564CD40D207F.png" xmltv_id="DISCOVERY SCIENCE (Discovery Science)">DISCOVERY SCIENCE (Discovery Science)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3971##00/06/52/6523537_4F688A020028689F.png" xmltv_id="Discovery Theater (Theater)">Discovery Theater (Theater)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2708##00/06/51/6512491_2CE2F46FEA087030.png" xmltv_id="Discovery Turbo (Discovery Turbo)">Discovery Turbo (Discovery Turbo)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2885##00/06/08/6088309_A9A996302B4125FF.png" xmltv_id="DISCOVERY WORLD HD (Discovery World HD)">DISCOVERY WORLD HD (Discovery World HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3839##00/06/52/6523290_AD350A44EE3C7F22.png" xmltv_id="Disney Channel (Disney Col IPTV)">Disney Channel (Disney Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2636##00/06/52/6523290_AD350A44EE3C7F22.png" xmltv_id="DISNEY CHANNEL HD (Disney HD)">DISNEY CHANNEL HD (Disney HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2599##00/06/52/6523290_AD350A44EE3C7F22.png" xmltv_id="DISNEY CHANNEL REGIONAL (Disney Channel)">DISNEY CHANNEL REGIONAL (Disney Channel)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2602##00/06/52/6523291_F6DF039E3B8E8BB1.png" xmltv_id="DISNEY JUNIOR (Disney Jr)">DISNEY JUNIOR (Disney Jr)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3927##00/06/52/6523291_F6DF039E3B8E8BB1.png" xmltv_id="DISNEY JUNIOR (Disney Jr Col IPTV)">DISNEY JUNIOR (Disney Jr Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2594##00/06/52/6523292_8FD5D73FC7904844.png" xmltv_id="DISNEY XD (Disney XD)">DISNEY XD (Disney XD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3771##00/06/52/6523292_8FD5D73FC7904844.png" xmltv_id="Disney XD (Disney XD Col IPTV)">Disney XD (Disney XD Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2606##00/06/55/6551426_5546C17CCDC9C9C7.png" xmltv_id="E! ENTERTAINMENT REGIONAL (E! Entertainment)">E! ENTERTAINMENT REGIONAL (E! Entertainment)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3912##00/06/55/6551426_5546C17CCDC9C9C7.png" xmltv_id="E! Entertainment TV (E HD)">E! Entertainment TV (E HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2592##00/06/55/6551365_CB3DF0D02E287051.png" xmltv_id="EL GOURMET (El Gourmet)">EL GOURMET (El Gourmet)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2593##00/06/55/6551365_CB3DF0D02E287051.png" xmltv_id="El Gourmet (El Gourmet HD)">El Gourmet (El Gourmet HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2824##00/06/77/6777670_C679F246B55CB21E.png" xmltv_id="El Tiempo Televisión (ELTIEMPO)">El Tiempo Televisión (ELTIEMPO)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2600##00/06/72/6726444_D21DDB643F3506E9.png" xmltv_id="ENLACE (Enlace TBN)">ENLACE (Enlace TBN)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2608##00/05/82/5825823_9BE57E09BE530F98.jpg" xmltv_id="Época (Epoca)">Época (Epoca)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2722##00/04/19/4198140_99108D7568AA9AAE.png" xmltv_id="ESPN (ESPN HD)">ESPN (ESPN HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2720##00/06/51/6512316_AA8FA81542C172F3.png" xmltv_id="ESPN 2 (ESPN 2)">ESPN 2 (ESPN 2)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2828##00/04/19/4198159_B5DE0073541D8808.png" xmltv_id="ESPN 3 (ESPN 3 HD)">ESPN 3 (ESPN 3 HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3867##00/06/96/6968340_D2605B6C9B3501F7.png" xmltv_id="ESPN EXTRA (ESPN EXTRA)">ESPN EXTRA (ESPN EXTRA)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2590##00/06/51/6515397_BC24839BB3009970.png" xmltv_id="EUROPA EUROPA (Europa Europa)">EUROPA EUROPA (Europa Europa)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2591##00/06/72/6726450_4EBE76F722C3BA5D.png" xmltv_id="EWTN (EWTN)">EWTN (EWTN)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH4096##00/06/52/6523543_31B3B8B0D0453776.png" xmltv_id="FILM &amp; ARTS (Film Arts)">FILM &amp; ARTS (Film Arts)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2611##00/06/55/6551512_B3F3A42DB87F57A4.png" xmltv_id="Food Network (Food Network HD)">Food Network (Food Network HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2644##00/06/51/6519369_CDC467D7DD4B5E2C.png" xmltv_id="FOX Action (Fox Action HD)">FOX Action (Fox Action HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2693##00/06/51/6519099_57B023660CDB6133.png" xmltv_id="FOX Comedy (Fox Comedy HD)">FOX Comedy (Fox Comedy HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2657##00/06/51/6519368_7083165256A40F1C.png" xmltv_id="FOX Family (Fox Family HD)">FOX Family (Fox Family HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2612##00/06/55/6551272_881C93483FE1FCAE.png" xmltv_id="FOX LIFE (Fox Life)">FOX LIFE (Fox Life)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2674##00/06/51/6519367_FC3084B535482962.png" xmltv_id="FOX Movies (Fox Movies HD)">FOX Movies (Fox Movies HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2634##00/06/51/6519369_CDC467D7DD4B5E2C.png" xmltv_id="FOX PREMIUM ACTION (Fox Action)">FOX PREMIUM ACTION (Fox Action)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2638##00/06/51/6519366_28E9C14C72C6613F.png" xmltv_id="FOX PREMIUM CINEMA (Fox Cinema)">FOX PREMIUM CINEMA (Fox Cinema)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2676##00/06/51/6519100_79CECA5B120FA097.png" xmltv_id="FOX PREMIUM CLASSIC (Fox Classic)">FOX PREMIUM CLASSIC (Fox Classic)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2631##00/06/51/6519099_57B023660CDB6133.png" xmltv_id="FOX PREMIUM COMEDY (Fox Comedy)">FOX PREMIUM COMEDY (Fox Comedy)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2666##00/06/51/6519368_7083165256A40F1C.png" xmltv_id="FOX PREMIUM FAMILY (Fox Family)">FOX PREMIUM FAMILY (Fox Family)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2641##00/06/51/6519367_FC3084B535482962.png" xmltv_id="FOX PREMIUM MOVIES (Fox Movies)">FOX PREMIUM MOVIES (Fox Movies)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2652##00/06/51/6519098_99D42C546D72E9F3.png" xmltv_id="FOX SERIES (Fox Series)">FOX SERIES (Fox Series)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2684##00/06/51/6519098_99D42C546D72E9F3.png" xmltv_id="FOX PREMIUM SERIES (Fox Series HD)">FOX PREMIUM SERIES (Fox Series HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2689##00/06/51/6519098_99D42C546D72E9F3.png" xmltv_id="FOX SERIES OESTE (Fox Series Oeste)">FOX SERIES OESTE (Fox Series Oeste)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2743##00/06/51/6512314_0B0C89965291A54E.png" xmltv_id="Fox Sports (Fox Sports Col)">Fox Sports (Fox Sports Col)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2729##00/06/51/6512315_D10000FAD4D97B7A.png" xmltv_id="Fox Sports 2 (Fox Sports 2 HD)">Fox Sports 2 (Fox Sports 2 HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2726##00/06/51/6512317_5D426D156AAE9D2E.png" xmltv_id="Fox Sports 3 (Fox Sports 3 HD)">Fox Sports 3 (Fox Sports 3 HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2721##00/06/51/6512314_0B0C89965291A54E.png" xmltv_id="FOX SPORTS HD (FOX SPORTS HD)">FOX SPORTS HD (FOX SPORTS HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2633##00/06/55/6551272_881C93483FE1FCAE.png" xmltv_id="FOXlife (Fox Life HD)">FOXlife (Fox Life HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2628##00/06/51/6515473_45AD48727E7ED8C8.png" xmltv_id="FX (FX)">FX (FX)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3777##00/06/51/6515473_45AD48727E7ED8C8.png" xmltv_id="FX (FX Col IPTV)">FX (FX Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2659##00/06/51/6515473_45AD48727E7ED8C8.png" xmltv_id="FX HD (FX HD)">FX HD (FX HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2660##00/06/51/6512490_F36F99ED6681E4E5.png" xmltv_id="FX Movies (FX Movies)">FX Movies (FX Movies)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2639##00/06/72/6726440_069897AA3D19F2C2.png" xmltv_id="GLITZ* (Glitz)">GLITZ* (Glitz)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2694##00/06/68/6689769_A31DD0BD8D60A632.png" xmltv_id="GOLDEN EDGE (Golden Edge)">GOLDEN EDGE (Golden Edge)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2651##00/06/08/6088370_85C88729652ABB5B.png" xmltv_id="GOLDEN HD (Golden HD)">GOLDEN HD (Golden HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2627##00/06/51/6519370_43816C0D37A55C34.png" xmltv_id="HBO (HBO)">HBO (HBO)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2685##00/06/51/6519370_43816C0D37A55C34.png" xmltv_id="HBO (HBO HD)">HBO (HBO HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2630##00/06/51/6519371_95895B596B5C8566.png" xmltv_id="HBO 2 (HBO 2 HD)">HBO 2 (HBO 2 HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2675##00/06/51/6519371_95895B596B5C8566.png" xmltv_id="HBO 2 (HBO 2)">HBO 2 (HBO 2)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2661##00/06/51/6519374_3CA482E51D2B655C.png" xmltv_id="HBO Family (HBO Family HD)">HBO Family (HBO Family HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2663##00/06/51/6519374_3CA482E51D2B655C.png" xmltv_id="HBO FAMILY ESTE (HBO Family)">HBO FAMILY ESTE (HBO Family)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2617##00/06/51/6519375_F1446BBBF228D258.png" xmltv_id="HBO PLUS ESTE (HBO Plus)">HBO PLUS ESTE (HBO Plus)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2695##00/06/57/6576554_D50CDAAE95539E82.png" xmltv_id="HBO POP (HBOPOP)">HBO POP (HBOPOP)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2687##00/06/51/6519376_8703C1B7518B626C.png" xmltv_id="HBO SIGNATURE (HBO Signature)">HBO SIGNATURE (HBO Signature)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2615##00/06/57/6576354_680306081B40EE38.png" xmltv_id="HBO XTREME (HBO Xtreme HD)">HBO XTREME (HBO Xtreme HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2698##00/06/57/6576354_680306081B40EE38.png" xmltv_id="HBO XTREME (HBO Xtreme)">HBO XTREME (HBO Xtreme)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3973##00/06/50/6502146_B26126E65BFB4AE2.png" xmltv_id="HGTV (Home Garden)">HGTV (Home Garden)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2655##00/06/52/6523542_993EC55E36D9221C.png" xmltv_id="History 2 (H2 HD)">History 2 (H2 HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2673##00/06/52/6523542_993EC55E36D9221C.png" xmltv_id="HISTORY 2 (H2)">HISTORY 2 (H2)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2683##00/06/52/6523541_39FEFBD81BFBED5F.png" xmltv_id="HISTORY CHANNEL (History Channel)">HISTORY CHANNEL (History Channel)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3773##00/06/52/6523541_39FEFBD81BFBED5F.png" xmltv_id="History Channel (History Col IPTV)">History Channel (History Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2614##00/06/52/6523541_39FEFBD81BFBED5F.png" xmltv_id="HISTORY CHANNEL HD (History HD)">HISTORY CHANNEL HD (History HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2653##00/06/55/6551607_D4F6C6A08179E093.png" xmltv_id="¡Hola! TV (HOLA TV HD)">¡Hola! TV (HOLA TV HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2823##00/06/55/6551607_D4F6C6A08179E093.png" xmltv_id="¡HOLA! TV SD (HOLATV)">¡HOLA! TV SD (HOLATV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2585##00/06/52/6523671_FDDA58C41643809E.png" xmltv_id="HOME &amp; HEALTH REGIONAL (Home &amp; Health)">HOME &amp; HEALTH REGIONAL (Home &amp; Health)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2678##00/06/55/6551636_BB2F922E6C894C1C.png" xmltv_id="HTV (HTV)">HTV (HTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2642##00/06/51/6515393_0049660C0E96869B.png" xmltv_id="I-SAT (I Sat)">I-SAT (I Sat)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2669##00/06/51/6519092_6D7D0E0165969478.png" xmltv_id="ID - Investigation Discovery (Invest.DiscoveryHD)">ID - Investigation Discovery (Invest.DiscoveryHD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2609##00/06/70/6706228_EA289714A01B3353.png" xmltv_id="INTI (INTI)">INTI (INTI)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2668##00/07/17/7174957_C8682663671689F2.png" xmltv_id="LIFETIME (Lifetime)">LIFETIME (Lifetime)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2826##00/06/55/6551565_C12AECCD0D7A425E.png" xmltv_id="MTV (MTV HD)">MTV (MTV HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2597##00/06/71/6718047_776EFC6B2E7FD09F.png" xmltv_id="MTV Live (MTV Live HD)">MTV Live (MTV Live HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2637##00/06/52/6523538_ED18BE0D9CB65652.png" xmltv_id="NAT GEO (Nat Geo)">NAT GEO (Nat Geo)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2672##00/06/52/6523538_ED18BE0D9CB65652.png" xmltv_id="NAT GEO HD (Nat Geo HD)">NAT GEO HD (Nat Geo HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3488##00/06/52/6523294_066A1EE839F5F186.png" xmltv_id="Nat Geo Kids (Nat Geo Kids)">Nat Geo Kids (Nat Geo Kids)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2619##00/06/52/6523539_B3C432423060C4EC.png" xmltv_id="NAT GEO WILD (Nat Geo Wild)">NAT GEO WILD (Nat Geo Wild)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2626##00/06/52/6523539_B3C432423060C4EC.png" xmltv_id="Nat Geo Wild (Nat Geo Wild HD)">Nat Geo Wild (Nat Geo Wild HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3725##00/06/52/6523538_ED18BE0D9CB65652.png" xmltv_id="National Geographic (Nat Geo Colombia)">National Geographic (Nat Geo Colombia)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3801##00/06/51/6515475_A299F962D4D3C995.png" xmltv_id="NETFLIX (NETFLIX)">NETFLIX (NETFLIX)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2735##00/06/52/6523298_5E05A48FF212BDA3.png" xmltv_id="Nick (Nick HD)">Nick (Nick HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2734##00/06/52/6523299_3D2D15D8014926D6.png" xmltv_id="Nick Jr (Nick Jr)">Nick Jr (Nick Jr)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2679##00/06/76/6766263_EF18A52021D069F6.png" xmltv_id="NTN24 (NTN 24 horas)">NTN24 (NTN 24 horas)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2745##00/06/84/6840721_AEB0D89DD5B9FA4C.png" xmltv_id="PARAMOUNT (Paramount)">PARAMOUNT (Paramount)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2741##00/06/84/6840721_AEB0D89DD5B9FA4C.png" xmltv_id="Paramount Channel (Paramount HD)">Paramount Channel (Paramount HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH4115##00/06/69/6693700_03BC91674A4C6D72.png" xmltv_id="PASIONES (Pasiones)">PASIONES (Pasiones)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2738##00/06/72/6726442_FFF4DE2DAA79BEBE.png" xmltv_id="RCN (RCN HD)">RCN (RCN HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3752##00/06/77/6777668_306F5814B8C4F4D0.png" xmltv_id="Señal Colombia (Señal Colombia HD)">Señal Colombia (Señal Colombia HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2625##00/06/51/6519094_D25BA55CD778E9BC.png" xmltv_id="Sony (Sony HD)">Sony (Sony HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2696##00/06/51/6515394_45E57EEB6C610D30.png" xmltv_id="Space (Space HD)">Space (Space HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2610##00/06/51/6515394_45E57EEB6C610D30.png" xmltv_id="SPACE REGIONAL (Space)">SPACE REGIONAL (Space)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2632##00/06/08/6088301_9018F0C267867285.png" xmltv_id="Studio Universal (Studio Universal HD)">Studio Universal (Studio Universal HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2635##00/06/08/6088301_9018F0C267867285.png" xmltv_id="STUDIO UNIVERSAL (Studio Universal)">STUDIO UNIVERSAL (Studio Universal)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2623##00/06/51/6518953_3E6DEA309E2566B2.png" xmltv_id="TBS VERY FUNNY (TBS Very Funny)">TBS VERY FUNNY (TBS Very Funny)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2671##00/06/51/6518953_3E6DEA309E2566B2.png" xmltv_id="TBS Very Funny (TBS Very Funny HD)">TBS Very Funny (TBS Very Funny HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2667##00/06/31/6310573_FDBA1F86CF41A989.png" xmltv_id="TCM (TCM)">TCM (TCM)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2750##00/06/73/6737703_74477722C5CA4FB8.png" xmltv_id="Teleantioquia (Teleantioquia)">Teleantioquia (Teleantioquia)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2752##00/05/65/5659003_FC1E6DCADAFA7C04.png" xmltv_id="Telecafé (Telecafe)">Telecafé (Telecafe)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2749##00/05/66/5665850_792391671CCAE81B.png" xmltv_id="Telecaribe (Telecaribe)">Telecaribe (Telecaribe)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2756##00/06/16/6160805_08A4E31058350413.png" xmltv_id="Telefé (Telefe)">Telefé (Telefe)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3647##00/06/77/6777666_C276C345F6941321.png" xmltv_id="Teleislas (Teleislas)">Teleislas (Teleislas)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3770##00/06/52/6523670_1160A8714A70955D.png" xmltv_id="Telemundo (Telemundo Col IPTV)">Telemundo (Telemundo Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2754##00/06/77/6777672_498DFB24EDD741CF.png" xmltv_id="Telepacifico (Telepacifico)">Telepacifico (Telepacifico)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2670##00/06/71/6714296_EC83B9DCA67A40FF.png" xmltv_id="TELESUR (Telesur)">TELESUR (Telesur)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2658##00/06/52/6523672_50C8A6C8B9DD42A3.png" xmltv_id="TLC (TLC)">TLC (TLC)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2688##00/06/51/6515391_CB25EB7CDA76FB24.png" xmltv_id="TNT (TNT)">TNT (TNT)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3772##00/06/51/6515391_CB25EB7CDA76FB24.png" xmltv_id="TNT (TNT Col HD)">TNT (TNT Col HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2662##00/06/51/6515391_CB25EB7CDA76FB24.png" xmltv_id="TNT HD (TNT HD)">TNT HD (TNT HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2640##00/06/51/6515476_805DDBBB18788395.png" xmltv_id="TNT SERIES (TNT Series)">TNT SERIES (TNT Series)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2648##00/06/51/6515476_805DDBBB18788395.png" xmltv_id="TNT Series (TNT Series HD)">TNT Series (TNT Series HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2690##00/06/52/6523532_9C3A5096215B3A89.png" xmltv_id="TOONCAST (Tooncast)">TOONCAST (Tooncast)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2624##00/06/51/6519095_678CDFE242981C69.png" xmltv_id="UNIVERSAL CHANNEL (Universal)">UNIVERSAL CHANNEL (Universal)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2629##00/06/51/6519095_678CDFE242981C69.png" xmltv_id="Universal TV (Universal HD)">Universal TV (Universal HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2762##00/06/69/6693622_E2EBE53F5E6D025B.png" xmltv_id="VH1 (VH1 HD)">VH1 (VH1 HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3769##00/06/51/6515477_3BB7C82967F46BD5.png" xmltv_id="Warner Channel (Warner Col IPTV)">Warner Channel (Warner Col IPTV)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2646##00/06/51/6515477_3BB7C82967F46BD5.png" xmltv_id="WARNER CHANNEL HD (Warner HD)">WARNER CHANNEL HD (Warner HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2645##00/06/51/6515477_3BB7C82967F46BD5.png" xmltv_id="WARNER CHANNEL REGIONAL (Warner Channel)">WARNER CHANNEL REGIONAL (Warner Channel)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH2761##00/06/73/6737707_F9A7AE02A016370E.png" xmltv_id="Win Sports (Win Sports HD)">Win Sports (Win Sports HD)</channel>
+    <channel update="i" site="movistar.co.EK" site_id="LCH3972##00/06/50/6502118_A3D837B2E9C01F60.png" xmltv_id="Win Sports+ (Win Sports P HD)">Win Sports+ (Win Sports P HD)</channel>
+  </channels>
+</site>

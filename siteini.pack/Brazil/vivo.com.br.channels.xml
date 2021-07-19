@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.1 -- Jan van Straaten" site="vivo.com.br">
+  <channels>
+    <channel update="i" site="vivo.com.br" site_id="LCH150" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH74" xmltv_id="A&amp;E Mundo">A&amp;E Mundo</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH4104" xmltv_id="Agro+">Agro+</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH15" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2199" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH16" xmltv_id="ART">ART</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2792" xmltv_id="Arte 1 HD">Arte 1 HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH193" xmltv_id="ARTE1">ARTE1</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2050" xmltv_id="Aviso">Aviso</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH18" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH158" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH25" xmltv_id="BAND">BAND</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH867" xmltv_id="Band Campinas HD">Band Campinas HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH143" xmltv_id="Band HD">Band HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2795" xmltv_id="Band News HD">Band News HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH897" xmltv_id="Band Vale HD">Band Vale HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2085" xmltv_id="Bandnews">Bandnews</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH87" xmltv_id="BandNews">BandNews</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH27" xmltv_id="Bandsports">Bandsports</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH928" xmltv_id="Bandsports HD">Bandsports HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2028" xmltv_id="BBB Mosaico HD">BBB Mosaico HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2023" xmltv_id="BBB1 HD">BBB1 HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2025" xmltv_id="BBB2 HD">BBB2 HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH20" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH22" xmltv_id="Biography Channel">Biography Channel</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH81" xmltv_id="BIS HD">BIS HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH185" xmltv_id="BIS SD">BIS SD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2442" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH914" xmltv_id="Boa Vontade SJC">Boa Vontade SJC</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2058" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH24" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2794" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH5478" xmltv_id="Campeonato Carioca">Campeonato Carioca</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH5479" xmltv_id="Campeonato Carioca 2">Campeonato Carioca 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH31" xmltv_id="Canal Brasil">Canal Brasil</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH929" xmltv_id="Canal Brasil HD">Canal Brasil HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2427" xmltv_id="Canal Comunitário de Santos">Canal Comunitário de Santos</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH37" xmltv_id="Canal de São Paulo">Canal de São Paulo</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH36" xmltv_id="Canal de Testes">Canal de Testes</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH192" xmltv_id="Canal Teste 1">Canal Teste 1</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3652" xmltv_id="Canal Teste 2">Canal Teste 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH773" xmltv_id="CANAL TESTE CURITIBA">CANAL TESTE CURITIBA</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH30" xmltv_id="Canal Universitário">Canal Universitário</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2064" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH34" xmltv_id="Canção Nova HD">Canção Nova HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3736" xmltv_id="Cartoon HD">Cartoon HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH77" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH932" xmltv_id="Chef TV">Chef TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2191" xmltv_id="Chef TV">Chef TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2066" xmltv_id="Chef TV HD">Chef TV HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH4068" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH35" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2067" xmltv_id="Clima Tempo">Clima Tempo</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3099" xmltv_id="Climatempo">Climatempo</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH194" xmltv_id="CNN Brasil HD">CNN Brasil HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1211" xmltv_id="CNN Internacional">CNN Internacional</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH187" xmltv_id="CNNi">CNNi</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH649" xmltv_id="CNT Americana">CNT Americana</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH38" xmltv_id="Combate">Combate</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH930" xmltv_id="Combate HD">Combate HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH183" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3653" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH44" xmltv_id="CULTURA">CULTURA</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH41" xmltv_id="Cultura HD">Cultura HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH769" xmltv_id="Curta!">Curta!</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH65" xmltv_id="Curta! HD">Curta! HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH771" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH40" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH770" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH198" xmltv_id="Discovery Home&amp;Health">Discovery Home&amp;Health</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3286" xmltv_id="Discovery Home&amp;Health HD">Discovery Home&amp;Health HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH39" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH199" xmltv_id="Discovery Kids HD">Discovery Kids HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1253" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1242" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH43" xmltv_id="Discovery Theater">Discovery Theater</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH42" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2088" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH91" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2072" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH45" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3811" xmltv_id="Disney Júnior">Disney Júnior</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2071" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH46" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2073" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH870" xmltv_id="Dog TV">Dog TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH913" xmltv_id="DW">DW</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH47" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH211" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3545" xmltv_id="EPTV Campinas HD">EPTV Campinas HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH464" xmltv_id="EPTV Ribeirão">EPTV Ribeirão</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH50" xmltv_id="EPTV Ribeirão HD">EPTV Ribeirão HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH444" xmltv_id="ESPN Brasil">ESPN Brasil</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH49" xmltv_id="ESPN Brasil HD">ESPN Brasil HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH51" xmltv_id="ESPN Extra">ESPN Extra</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2040" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2079" xmltv_id="ESPN International">ESPN International</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3544" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3379" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3874" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2163" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2045" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2074" xmltv_id="FashionTV HD">FashionTV HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3619" xmltv_id="Fish TV">Fish TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2076" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH145" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH856" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH855" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2077" xmltv_id="Fox Premium 1">Fox Premium 1</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH144" xmltv_id="Fox Premium 2">Fox Premium 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2078" xmltv_id="Fox Sports">Fox Sports</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2889" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH33" xmltv_id="Fox Sports 2 HD">Fox Sports 2 HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH854" xmltv_id="Fox Sports 2 SD">Fox Sports 2 SD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH55" xmltv_id="Fox Sports HD">Fox Sports HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH891" xmltv_id="Fox Sports HD">Fox Sports HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH61" xmltv_id="Futura HD">Futura HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH213" xmltv_id="FX">FX</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH57" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH58" xmltv_id="Gazeta">Gazeta</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH146" xmltv_id="Gazeta HD">Gazeta HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH147" xmltv_id="GLOBO">GLOBO</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3872" xmltv_id="Globo News HD">Globo News HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH59" xmltv_id="Globo SP HD">Globo SP HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH214" xmltv_id="Globonews">Globonews</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH60" xmltv_id="GLOOB">GLOOB</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3547" xmltv_id="Gloob HD">Gloob HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH132" xmltv_id="Gloobinho HD">Gloobinho HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH64" xmltv_id="GNT">GNT</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH459" xmltv_id="GNT HD">GNT HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH62" xmltv_id="Gospel">Gospel</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH66" xmltv_id="Gospel HD">Gospel HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH138" xmltv_id="Guia Vivo TV">Guia Vivo TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH182" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH85" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH933" xmltv_id="HBO E*">HBO E*</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH69" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH462" xmltv_id="HBO Family E*">HBO Family E*</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH159" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH76" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH461" xmltv_id="HBO Mundi">HBO Mundi</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH72" xmltv_id="HBO Mundi HD">HBO Mundi HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH931" xmltv_id="HBO Plus">HBO Plus</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3960" xmltv_id="HBO Plus HD">HBO Plus HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2449" xmltv_id="HBO Pop">HBO Pop</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2450" xmltv_id="HBO Pop HD">HBO Pop HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH67" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH149" xmltv_id="HBO Xtreme">HBO Xtreme</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH71" xmltv_id="HBO Xtreme HD">HBO Xtreme HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH772" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH465" xmltv_id="History 2">History 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2055" xmltv_id="History 2">History 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH471" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3716" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH184" xmltv_id="ID">ID</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH56" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH75" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH80" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH79" xmltv_id="Loading">Loading</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH463" xmltv_id="Loading HD">Loading HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH469" xmltv_id="Mais na Tela">Mais na Tela</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH4112" xmltv_id="Mais na Tela HD">Mais na Tela HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH82" xmltv_id="Mega TV">Mega TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH215" xmltv_id="Megapix">Megapix</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH5480" xmltv_id="Megapix HD">Megapix HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH857" xmltv_id="MTV BR">MTV BR</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3746" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH110" xmltv_id="MTV LIVE">MTV LIVE</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2099" xmltv_id="Multishow">Multishow</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3100" xmltv_id="Multishow HD:">Multishow HD:</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH89" xmltv_id="Music Box Brazil">Music Box Brazil</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3650" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH948" xmltv_id="Nat Geo Kids">Nat Geo Kids</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2791" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH90" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH934" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH151" xmltv_id="NGT">NGT</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH186" xmltv_id="NHK">NHK</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH946" xmltv_id="NHK HD">NHK HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH949" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2716" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH195" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH6" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH888" xmltv_id="OFF HD">OFF HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH8" xmltv_id="OFF SD">OFF SD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH9" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH10" xmltv_id="Paramount Network HD">Paramount Network HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2052" xmltv_id="Polishop">Polishop</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH11" xmltv_id="Polishop TV">Polishop TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2053" xmltv_id="Premiere 2">Premiere 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH12" xmltv_id="Premiere 3">Premiere 3</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2054" xmltv_id="Premiere 4">Premiere 4</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH887" xmltv_id="Premiere 5">Premiere 5</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH123" xmltv_id="Premiere 6">Premiere 6</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH937" xmltv_id="Premiere 6">Premiere 6</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1995" xmltv_id="Premiere 7">Premiere 7</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1996" xmltv_id="Premiere 7">Premiere 7</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH142" xmltv_id="Premiere 8">Premiere 8</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2440" xmltv_id="Premiere 8">Premiere 8</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2441" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2439" xmltv_id="Premiere HD">Premiere HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2165" xmltv_id="Premiere HD 3">Premiere HD 3</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2062" xmltv_id="Premiere HD 4">Premiere HD 4</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2444" xmltv_id="Premiere HD 5">Premiere HD 5</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2090" xmltv_id="Premiere HD2">Premiere HD2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH92" xmltv_id="Premiere HD6">Premiere HD6</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH191" xmltv_id="Premiere HD7">Premiere HD7</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH94" xmltv_id="Premiere HD8">Premiere HD8</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH95" xmltv_id="Prime Box Brasil">Prime Box Brasil</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1315" xmltv_id="Prime Box Brazil">Prime Box Brazil</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2091" xmltv_id="Prime Box Brazil HD">Prime Box Brazil HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH93" xmltv_id="RAI">RAI</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH28" xmltv_id="RAI">RAI</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH4050" xmltv_id="RBI">RBI</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3101" xmltv_id="RECORD">RECORD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3401" xmltv_id="Record HD">Record HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH920" xmltv_id="Record Interior HD">Record Interior HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH133" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3546" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH100" xmltv_id="REDE 21">REDE 21</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH98" xmltv_id="Rede Brasil HD">Rede Brasil HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH99" xmltv_id="Rede Família">Rede Família</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH101" xmltv_id="Rede Século 21">Rede Século 21</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH104" xmltv_id="Rede Século 22">Rede Século 22</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH907" xmltv_id="Rede Vida">Rede Vida</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1316" xmltv_id="Rede Vida HD">Rede Vida HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH442" xmltv_id="RedeTV">RedeTV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2081" xmltv_id="RedeTV! HD">RedeTV! HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH443" xmltv_id="RTPI">RTPI</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2042" xmltv_id="Santa Cecília TV">Santa Cecília TV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2172" xmltv_id="SBT">SBT</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH103" xmltv_id="SBT HD">SBT HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH152" xmltv_id="SBT Ribeirão HD">SBT Ribeirão HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH107" xmltv_id="SBT Vale HD">SBT Vale HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH108" xmltv_id="Sex Privê">Sex Privê</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH109" xmltv_id="Sexy Hot">Sexy Hot</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH217" xmltv_id="Sexy Hot">Sexy Hot</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH106" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1210" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH216" xmltv_id="SONY">SONY</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH52" xmltv_id="Sony HD">Sony HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH54" xmltv_id="SPACE">SPACE</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2075" xmltv_id="Space HD">Space HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2460" xmltv_id="Sportv">Sportv</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2200" xmltv_id="Sportv 2 HD">Sportv 2 HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH53" xmltv_id="Sportv 3">Sportv 3</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH148" xmltv_id="SporTV 3 HD">SporTV 3 HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2080" xmltv_id="Sportv HD">Sportv HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH160" xmltv_id="STAR Channel">STAR Channel</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2093" xmltv_id="STAR Channel">STAR Channel</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH654" xmltv_id="Star Hits 1">Star Hits 1</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH653" xmltv_id="Star Hits 2">Star Hits 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH120" xmltv_id="STAR LIFE">STAR LIFE</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2100" xmltv_id="STAR LIFE">STAR LIFE</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH114" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH111" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH117" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH218" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH118" xmltv_id="TBS">TBS</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH155" xmltv_id="TBS HD">TBS HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH119" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH116" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH112" xmltv_id="Telecine Action">Telecine Action</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH113" xmltv_id="Telecine Action HD">Telecine Action HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH115" xmltv_id="Telecine Cult">Telecine Cult</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH154" xmltv_id="Telecine Cult HD">Telecine Cult HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2043" xmltv_id="Telecine Fun">Telecine Fun</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2173" xmltv_id="Telecine Fun HD">Telecine Fun HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH130" xmltv_id="Telecine HD">Telecine HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH127" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH126" xmltv_id="Telecine Pipoca HD">Telecine Pipoca HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1287" xmltv_id="Telecine Premium">Telecine Premium</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2101" xmltv_id="Telecine Touch">Telecine Touch</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2793" xmltv_id="Telecine Touch HD">Telecine Touch HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH208" xmltv_id="Telefe">Telefe</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2102" xmltv_id="Telefe">Telefe</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH4103" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2044" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3651" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH128" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH129" xmltv_id="TNT Series">TNT Series</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3618" xmltv_id="TNT Séries">TNT Séries</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2817" xmltv_id="TNT Séries HD">TNT Séries HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH32" xmltv_id="Tooncast">Tooncast</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH14" xmltv_id="Tooncast">Tooncast</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3648" xmltv_id="Trace Brazuca">Trace Brazuca</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH17" xmltv_id="Travel Box Brasil">Travel Box Brasil</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2434" xmltv_id="Travel Box Brazil HD">Travel Box Brazil HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH122" xmltv_id="Tru TV HD">Tru TV HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH86" xmltv_id="TRUTV">TRUTV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3649" xmltv_id="TruTV">TruTV</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH29" xmltv_id="TV 100% Vida Santos">TV 100% Vida Santos</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2428" xmltv_id="TV Aberta">TV Aberta</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2437" xmltv_id="TV Aparecida">TV Aparecida</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH912" xmltv_id="TV Aparecida HD">TV Aparecida HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2429" xmltv_id="TV Assembléia">TV Assembléia</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2435" xmltv_id="TV Ativa">TV Ativa</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2432" xmltv_id="TV Brasil">TV Brasil</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2426" xmltv_id="TV Brasil 2">TV Brasil 2</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH48" xmltv_id="TV Brasil HD">TV Brasil HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3550" xmltv_id="TV CÂMARA">TV CÂMARA</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH70" xmltv_id="TV Câmara Campinas">TV Câmara Campinas</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2393" xmltv_id="TV Câmara de Americana">TV Câmara de Americana</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2092" xmltv_id="TV Câmara de Ribeirão">TV Câmara de Ribeirão</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2443" xmltv_id="TV Camara de SJC">TV Camara de SJC</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH97" xmltv_id="TV Câmara de Valinhos">TV Câmara de Valinhos</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH102" xmltv_id="TV Câmara Piracicaba">TV Câmara Piracicaba</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2436" xmltv_id="TV Câmara Sorocaba">TV Câmara Sorocaba</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2398" xmltv_id="TV Escola">TV Escola</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2399" xmltv_id="TV Integração">TV Integração</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH919" xmltv_id="TV JUSTIÇA">TV JUSTIÇA</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2818" xmltv_id="TV Osasco">TV Osasco</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH902" xmltv_id="TV Rá Tim Bum">TV Rá Tim Bum</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH131" xmltv_id="TV Rá Tim Bum">TV Rá Tim Bum</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2104" xmltv_id="TV Rá-Tim-Bum">TV Rá-Tim-Bum</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH911" xmltv_id="TV SENADO">TV SENADO</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH917" xmltv_id="TV Sol">TV Sol</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH209" xmltv_id="TV Sorocaba HD">TV Sorocaba HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2105" xmltv_id="TV TEM Sorocaba HD">TV TEM Sorocaba HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1237" xmltv_id="TV Tribuna Santos HD">TV Tribuna Santos HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH936" xmltv_id="TV Univap SJC">TV Univap SJC</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH134" xmltv_id="TV Vanguarda HD">TV Vanguarda HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH156" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH677" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1193" xmltv_id="TVB Band HD">TVB Band HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH1360" xmltv_id="TVB Campinas HD">TVB Campinas HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH875" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH921" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH135" xmltv_id="TVT SD">TVT SD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH157" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH136" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH2106" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="vivo.com.br" site_id="LCH3620" xmltv_id="Viva HD">Viva HD</channel>
+  </channels>
+</site>

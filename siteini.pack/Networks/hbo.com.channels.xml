@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.1 -- Jan van Straaten" site="hbogo.hr">
+  <channels>
+    <channel update="i" site="hbo.com" site_id="28" xmltv_id="HBO (EAST)">HBO (EAST)</channel>
+    <channel update="i" site="hbo.com" site_id="29" xmltv_id="HBO2 (EAST)">HBO2 (EAST)</channel>
+    <channel update="i" site="hbo.com" site_id="30" xmltv_id="HBO SIGNATURE (EAST)">HBO SIGNATURE (EAST)</channel>
+    <channel update="i" site="hbo.com" site_id="31" xmltv_id="HBO FAMILY (EAST)">HBO FAMILY (EAST)</channel>
+    <channel update="i" site="hbo.com" site_id="1701" xmltv_id="HBO COMEDY (EAST)">HBO COMEDY (EAST)</channel>
+    <channel update="i" site="hbo.com" site_id="1702" xmltv_id="HBO ZONE (EAST)">HBO ZONE (EAST)</channel>
+    <channel update="i" site="hbo.com" site_id="1703" xmltv_id="HBO LATINO (EAST)">HBO LATINO (EAST)</channel>
+    <channel update="i" site="hbo.com" site_id="5028" xmltv_id="HBO (WEST)">HBO (WEST)</channel>
+    <channel update="i" site="hbo.com" site_id="5029" xmltv_id="HBO2 (WEST)">HBO2 (WEST)</channel>
+    <channel update="i" site="hbo.com" site_id="5030" xmltv_id="HBO SIGNATURE (WEST)">HBO SIGNATURE (WEST)</channel>
+    <channel update="i" site="hbo.com" site_id="5031" xmltv_id="HBO FAMILY (WEST)">HBO FAMILY (WEST)</channel>
+    <channel update="i" site="hbo.com" site_id="6701" xmltv_id="HBO COMEDY (WEST)">HBO COMEDY (WEST)</channel>
+    <channel update="i" site="hbo.com" site_id="6702" xmltv_id="HBO ZONE (WEST)">HBO ZONE (WEST)</channel>
+    <channel update="i" site="hbo.com" site_id="6703" xmltv_id="HBO LATINO (WEST)">HBO LATINO (WEST)</channel>
+  </channels>
+</site>

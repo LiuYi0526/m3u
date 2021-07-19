@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="comhem.se">
+  <channels>
+    <channel update="i" site="comhem.se" site_id="69430##d0/85c1a3ef301fc395774ba2bad07015.png" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="comhem.se" site_id="69431##05/3ed70ce83d0e0099bcd84e0da8683c.png" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="comhem.se" site_id="76805##1d/40c5b2f9dcbe20ca45a1b22c1aae88.png" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="comhem.se" site_id="54090##0a/c7c878d923762601348204df3e20a0.png" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="comhem.se" site_id="76808##78/4e5a30e9ac58312a4117b3f7587b16.png" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel update="i" site="comhem.se" site_id="76810##96/cbdb20b78d303999fb723c76a53114.png" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="comhem.se" site_id="76809##14/d1111b317cce47306fa0a2789335a0.png" xmltv_id="Sjuan">Sjuan</channel>
+    <channel update="i" site="comhem.se" site_id="76811##9a/f929c332273fe6fca4086dc3cf9e51.png" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="comhem.se" site_id="76812##05/b3936e2a1bfe8fa8ef8d339e5039f5.png" xmltv_id="Kanal 9">Kanal 9</channel>
+    <channel update="i" site="comhem.se" site_id="76813##ee/ac7f800d7db8df40c7d5895ee25b62.png" xmltv_id="TV10">TV10</channel>
+    <channel update="i" site="comhem.se" site_id="76825##55/f1b43fe0224433b47a610d45a6b8cc.png" xmltv_id="Kanal 11">Kanal 11</channel>
+    <channel update="i" site="comhem.se" site_id="77657##a_/923f5f7750893ca8b030587d561cf1.png" xmltv_id="TV12">TV12</channel>
+    <channel update="i" site="comhem.se" site_id="77726##fc/1fd387722e6808c834edd774abad49.png" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="comhem.se" site_id="89539##32/be3c261e6726b4ff35d6e08d665eb6.png" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="comhem.se" site_id="114314##9b/6f721a694a45ca826f92e2e592592d.png" xmltv_id="Godare">Godare</channel>
+    <channel update="i" site="comhem.se" site_id="69426##c6/342b733711dfb0a6374a0a6b70fb88.png" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="comhem.se" site_id="102772##7c/af35f05c9773a56a83f5b021c5149a.png" xmltv_id="Paramount Network HD">Paramount Network HD</channel>
+    <channel update="i" site="comhem.se" site_id="107718##42/b0dde5dd2c3b3b4b07f871ce8484be.png" xmltv_id="ATG Live">ATG Live</channel>
+    <channel update="i" site="comhem.se" site_id="108965##79/b52697a1d953347f1a2177ae34b3d2.png" xmltv_id="TV10 HD">TV10 HD</channel>
+    <channel update="i" site="comhem.se" site_id="98543##d9/a50002393983af151f64439e3f3d6a.png" xmltv_id="Viasat Sport Extra HD">Viasat Sport Extra HD</channel>
+    <channel update="i" site="comhem.se" site_id="69429##49/b829eb0478745b0c8ccc873d980613.png" xmltv_id="SVT1 HD">SVT1 HD</channel>
+    <channel update="i" site="comhem.se" site_id="76804##34/ef2ad9195e67f034c38292d1cc2cc4.png" xmltv_id="SVT2 HD">SVT2 HD</channel>
+    <channel update="i" site="comhem.se" site_id="76806##8d/34e6e87c0667c3ca718569f1339ce3.png" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="comhem.se" site_id="76807##f9/9c6c0a16522ce1bab36a592ba8f627.png" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel update="i" site="comhem.se" site_id="83127##87/1dff4e6ce785c97772b9b722fbe79f.png" xmltv_id="KANAL 5 HD">KANAL 5 HD</channel>
+    <channel update="i" site="comhem.se" site_id="83524##e3/eeebe4746e319d6ba345611dd1cfe4.png" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel update="i" site="comhem.se" site_id="106567##c3/9b90007689c8473037f40921123971.png" xmltv_id="Sjuan HD">Sjuan HD</channel>
+    <channel update="i" site="comhem.se" site_id="108964##18/62bf0bf94f400cbc01179d655374b9.png" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel update="i" site="comhem.se" site_id="98333##0b/208686ccf47747f76ff7917c729a23.png" xmltv_id="Kanal 9 HD">Kanal 9 HD</channel>
+    <channel update="i" site="comhem.se" site_id="89540##da/3fac78b1e6782a4c8310964e93cbf1.png" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="comhem.se" site_id="98336##0e/1af6b68ef4042a743e59bcef9fb6e4.png" xmltv_id="Kanal 11 HD">Kanal 11 HD</channel>
+    <channel update="i" site="comhem.se" site_id="98728##ed/069bdeb835bd6ffc690e89b8fa9237.png" xmltv_id="TV12 HD">TV12 HD</channel>
+    <channel update="i" site="comhem.se" site_id="78687##f1/0997c71b1c3d794c9573f262a9b7b3.png" xmltv_id="Outdoor Channel HD">Outdoor Channel HD</channel>
+    <channel update="i" site="comhem.se" site_id="77397##b8/f9f7fee40606eb557ce18178771085.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="comhem.se" site_id="76857##3a/25a0648e77be74577e46530fdd7d0b.png" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="comhem.se" site_id="87852##c2/cb370272d6a29871054013e324bc6d.png" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="comhem.se" site_id="98339##45/5c42d5d1a32b15cafa5b088a315401.png" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="comhem.se" site_id="77396##57/8ea292baafa3b6504f62d61ea3a249.png" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="comhem.se" site_id="76858##9e/8c04b3031b71a2f06cf95c552a0958.png" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="comhem.se" site_id="98727##a_/1dc0fdb96c4bc68e5ef23b46f3770f.png" xmltv_id="H2 HD">H2 HD</channel>
+    <channel update="i" site="comhem.se" site_id="69421##98/64d264cb82ce123cabc6e6b37d9646.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="comhem.se" site_id="77691##68/68b525a500c26d6d1c5a48bb32b0dc.png" xmltv_id="Axess TV">Axess TV</channel>
+    <channel update="i" site="comhem.se" site_id="92257##c0/2b1f7fa6c3a34a9278f2a9d4be7c0c.png" xmltv_id="Expressen TV">Expressen TV</channel>
+    <channel update="i" site="comhem.se" site_id="69424##b3/6785d5b7d5c6b3bb4913120c067cae.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="comhem.se" site_id="69434##07/b06ceb3d44b6d90c9e6112536391f9.png" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
+    <channel update="i" site="comhem.se" site_id="69425##c9/6985f65dfc1b7537b296777fddda1f.png" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="comhem.se" site_id="83371##64/45845826e5b4cdcbdd0b681371889c.png" xmltv_id="ID">ID</channel>
+    <channel update="i" site="comhem.se" site_id="114774##46/40d64072511cdeab69a64c59a9e402.png" xmltv_id="Curiosity Stream EU">Curiosity Stream EU</channel>
+    <channel update="i" site="comhem.se" site_id="91961##6b/d13faa82856bea19b9cc10104e14df.png" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="comhem.se" site_id="89005##42/dc1dd0df56a043d5bf8c28d9f0771d.png" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="comhem.se" site_id="77692##3e/91912eed7daec6b2513d9abbbc8cf1.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="comhem.se" site_id="69974##23/1fea270a40d77f06278eab83ff4e97.png" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="comhem.se" site_id="56243##a_/9a77be8f09a74da9fa486578aaac98.png" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="comhem.se" site_id="74635##c8/b50e354667836d9ddb5912c6b206eb.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="comhem.se" site_id="77693##3b/d95cb615c65a7831d845c829fb1aed.png" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="comhem.se" site_id="56245##df/52ee95c0a8eed4e2d8b296764d7e67.png" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="comhem.se" site_id="76844##a3/f512b5c1285fc5295f3c3fb67f8c09.png" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="comhem.se" site_id="76843##0d/41b9e7c3ff3a1ef14597b496ae0bf8.png" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="comhem.se" site_id="77694##a8/67f9ef2104a2e80d922c0b1aabd65d.png" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="comhem.se" site_id="91956##bf/44f7f538b1dbab37240feab8c6abd9.png" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="comhem.se" site_id="76827##db/b4db68c17eb9b663f1b63ac5298eb3.png" xmltv_id="TV4 Guld">TV4 Guld</channel>
+    <channel update="i" site="comhem.se" site_id="102773##8a/54599ea82d95805ecf10c111fc99aa.png" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="comhem.se" site_id="56271##fc/062d097cb1dd5d8abcf6cdbd51c7b2.png" xmltv_id="Horse &amp; Country TV">Horse &amp; Country TV</channel>
+    <channel update="i" site="comhem.se" site_id="67637##15/5e59a927f3eaecd20d8174eb84fb1f.png" xmltv_id="FTV">FTV</channel>
+    <channel update="i" site="comhem.se" site_id="52550##a5/47be1f4ad44c9505edf31938bd9f29.png" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="comhem.se" site_id="78643##10/4c241c164d93d2e32dabf1b35743c7.png" xmltv_id="OUTtv">OUTtv</channel>
+    <channel update="i" site="comhem.se" site_id="100236##7b/7793549713c630f7ab109e904056e8.png" xmltv_id="C More Stars HD">C More Stars HD</channel>
+    <channel update="i" site="comhem.se" site_id="77661##33/4b455c5d1b3cbb1d349a0dcf7d90c6.png" xmltv_id="C More First HD">C More First HD</channel>
+    <channel update="i" site="comhem.se" site_id="82273##11/7be19b0dce5407291f746b51a11737.png" xmltv_id="V Series HD">V Series HD</channel>
+    <channel update="i" site="comhem.se" site_id="77688##a2/a10ba9a83d19ece6b29d8bd04d7b36.png" xmltv_id="V Film Family">V Film Family</channel>
+    <channel update="i" site="comhem.se" site_id="76831##43/1cfbea6881173c4156f5ee6b3f884b.png" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel update="i" site="comhem.se" site_id="77700##0e/8cd831dbb8decf366b85bb6ec0de35.png" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="comhem.se" site_id="77689##71/d1ca6f3f9b01e89e0f19582693b345.png" xmltv_id="V Film Premiere HD">V Film Premiere HD</channel>
+    <channel update="i" site="comhem.se" site_id="77678##a6/63909ac592eb4d109ba4ac390022bf.png" xmltv_id="SF Kanalen">SF Kanalen</channel>
+    <channel update="i" site="comhem.se" site_id="107029##f2/7469fd875bb115d5f1dd91f2701c72.png" xmltv_id="Sport Expressen TV">Sport Expressen TV</channel>
+    <channel update="i" site="comhem.se" site_id="87661##6a/06133fa0672fce79a8f16dff8021c8.png" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="comhem.se" site_id="77724##7a/4ec4c5b300aefb9131f6eeba3cb930.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="comhem.se" site_id="77725##36/7c7ba1ae2e7ac59935a9846f1850eb.png" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="comhem.se" site_id="77723##70/1b9925ce2ed60ad6fa736172d53ef0.png" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="comhem.se" site_id="77699##f8/80fbf1201cd5e864e1938c0bf21042.png" xmltv_id="C More Live HD">C More Live HD</channel>
+    <channel update="i" site="comhem.se" site_id="100285##78/9b7fac6cc3ff48ef57c137dacd22d6.png" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel update="i" site="comhem.se" site_id="83504##61/7af2a0869ff8859197664d622be724.png" xmltv_id="V Sport Golf HD">V Sport Golf HD</channel>
+    <channel update="i" site="comhem.se" site_id="77730##e6/795ff3a283eb248c95e4461298ccaa.png" xmltv_id="V Sport Fotboll HD">V Sport Fotboll HD</channel>
+    <channel update="i" site="comhem.se" site_id="83537##dd/a7eea362c1b820902c7fdec967ef27.png" xmltv_id="V Sport Hockey HD">V Sport Hockey HD</channel>
+    <channel update="i" site="comhem.se" site_id="77718##c2/538afced9cbdd2eed760f194066d26.png" xmltv_id="C More Hockey">C More Hockey</channel>
+    <channel update="i" site="comhem.se" site_id="77717##1c/68ed6a606e49b57b312bbf0cc02c5c.png" xmltv_id="C More Fotboll">C More Fotboll</channel>
+    <channel update="i" site="comhem.se" site_id="56232##f1/f28a555d0e19bce06c998e6b75822d.png" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="comhem.se" site_id="67628##db/8a29485981f1d64f43a8eaa3a48128.png" xmltv_id="FUEL TV">FUEL TV</channel>
+    <channel update="i" site="comhem.se" site_id="77675##3c/628c1d24e52cd30f6e6b0a18b9fc42.png" xmltv_id="C More Hits HD">C More Hits HD</channel>
+    <channel update="i" site="comhem.se" site_id="78748##ef/b55929283a9be2ae54a8759b4c1ac9.png" xmltv_id="C More Series HD">C More Series HD</channel>
+    <channel update="i" site="comhem.se" site_id="17664##75/f8ebcec32cd6e702905a968576c767.png" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="comhem.se" site_id="108178##26/661f5eafb6980fe50a4e909ea891fd.png" xmltv_id="Di TV HD">Di TV HD</channel>
+    <channel update="i" site="comhem.se" site_id="16230##d1/b78ad3fa56114af9643504941899a6.png" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="comhem.se" site_id="36844##c4/760c82c82ac054ddec07ca1db0a95b.png" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="comhem.se" site_id="99333##3a/62c4bf267859e656aa2b6d0938c040.png" xmltv_id="Kunskapskanalen HD">Kunskapskanalen HD</channel>
+    <channel update="i" site="comhem.se" site_id="69428##87/e88c5f1ac2201186e7020edb040e80.png" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
+    <channel update="i" site="comhem.se" site_id="49968##37/f1d9cbf6a4cb6c2192adf524dfe594.png" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="comhem.se" site_id="83018##7e/6a3c06537e108b3a0e311897c11960.png" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="comhem.se" site_id="106537##b2/d743f06941c433d778afaeff9af1d6.png" xmltv_id="Sportkanalen HD">Sportkanalen HD</channel>
+    <channel update="i" site="comhem.se" site_id="77712##01/cdb9bc48f69719651e5f4cdc7fbbf0.png" xmltv_id="V Sport Motor HD">V Sport Motor HD</channel>
+    <channel update="i" site="comhem.se" site_id="82271##e8/bc58afc03f9d0ad8197f20ec32a367.png" xmltv_id="V Sport 1 HD">V Sport 1 HD</channel>
+    <channel update="i" site="comhem.se" site_id="102328##8a/1933aea280999fe545c35aaed3fc18.png" xmltv_id="V Film Hits HD">V Film Hits HD</channel>
+    <channel update="i" site="comhem.se" site_id="82275##29/e71d779223fa980f809a5de476ea2f.png" xmltv_id="V Film Action HD">V Film Action HD</channel>
+    <channel update="i" site="comhem.se" site_id="100128##a_/8043743752145668137e599c95316c.png" xmltv_id="V Sport Premium HD">V Sport Premium HD</channel>
+    <channel update="i" site="comhem.se" site_id="83272##68/04d2879b06c24935aa5ad8cfa2da57.png" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
+    <channel update="i" site="comhem.se" site_id="100984##6d/8267578d1a99e3ce0b7ab6fb8575db.png" xmltv_id="SVTB/SVT24 HD">SVTB/SVT24 HD</channel>
+    <channel update="i" site="comhem.se" site_id="78627##9a/cb676cdf3300999af7e87856861e9f.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="comhem.se" site_id="80769##9c/716fc0e4aee9ba9d0b99c0052c475f.png" xmltv_id="Nick JR">Nick JR</channel>
+    <channel update="i" site="comhem.se" site_id="77727##e2/3aa49a902c8a645c7ac0bd4282c421.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="comhem.se" site_id="78552##8b/58061a30b938fe000887879a4da63d.png" xmltv_id="SVT Barn/SVT24">SVT Barn/SVT24</channel>
+    <channel update="i" site="comhem.se" site_id="101757##19/0595a60ba425b919438bbba8a4bada.png" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="comhem.se" site_id="78625##63/485225bf57ecee6761e26936496faa.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="comhem.se" site_id="102771##bb/599a4d4bbec7b8ebcc726e389a3ea2.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="comhem.se" site_id="102770##56/c7a25fadc18d1cbd8dfa7d4758cf6f.png" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel update="i" site="comhem.se" site_id="91132##a6/afe71fbafc986282d64cf393e4a1f9.png" xmltv_id="C More Fotboll HD">C More Fotboll HD</channel>
+    <channel update="i" site="comhem.se" site_id="91133##cd/58dcbd621ae0a9f2abe0b54a8e62de.png" xmltv_id="C More Hockey HD">C More Hockey HD</channel>
+    <channel update="i" site="comhem.se" site_id="97326##52/8da51afb65bd0a167e269855f2df11.png" xmltv_id="C More Golf HD">C More Golf HD</channel>
+    <channel update="i" site="comhem.se" site_id="97327##60/05d0d21ff0e3895ab47c9cafbcff02.png" xmltv_id="C More Golf">C More Golf</channel>
+    <channel update="i" site="comhem.se" site_id="77714##b7/c0b618be10df58326f24165447cb44.png" xmltv_id="C More Live 2">C More Live 2</channel>
+    <channel update="i" site="comhem.se" site_id="77715##d4/0cc57dee87acc874843e0160716a2f.png" xmltv_id="C More Live 3">C More Live 3</channel>
+    <channel update="i" site="comhem.se" site_id="77716##ac/e7bc9749731a0bbb086bcdc591c5dd.png" xmltv_id="C More Live 4">C More Live 4</channel>
+    <channel update="i" site="comhem.se" site_id="91141##2c/9a48e6c997be42a4c0e7649fba0676.png" xmltv_id="C More Live 2 HD">C More Live 2 HD</channel>
+    <channel update="i" site="comhem.se" site_id="91142##1a/333c3cad91ce492a6b84022055afee.png" xmltv_id="C More Live 3 HD">C More Live 3 HD</channel>
+    <channel update="i" site="comhem.se" site_id="91170##64/399a680fb87de052f8da7c1b7058fa.png" xmltv_id="C More Live 4 HD">C More Live 4 HD</channel>
+    <channel update="i" site="comhem.se" site_id="101912##25/36560c6bf0ee699ea9417ced7fc914.png" xmltv_id="C More Live 5 HD">C More Live 5 HD</channel>
+    <channel update="i" site="comhem.se" site_id="98742##11/6130c32e95b63922a2b33499d3cd05.png" xmltv_id="Com Hem">Com Hem</channel>
+  </channels>
+</site>

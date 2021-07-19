@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="rte.ie">
+  <channels>
+    <channel update="i" site="rte.ie.providers" site_id="hkxt" xmltv_id="Sky HD">Sky HD</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkx7" xmltv_id="Sky SD">Sky SD</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyz" xmltv_id="Freeview">Freeview</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2k" xmltv_id="Freesat">Freesat</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2x" xmltv_id="Virgin">Virgin</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4r" xmltv_id="Top Up TV">Top Up TV</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5x" xmltv_id="YouView">YouView</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6b" xmltv_id="BT TV">BT TV</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk65" xmltv_id="TalkTalk YouView">TalkTalk YouView</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8p" xmltv_id="Irish Radio">Irish Radio</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hpcf" xmltv_id="Virgin Media Ireland">Virgin Media Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk57" xmltv_id="Saorsat">Saorsat</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk56" xmltv_id="Saorview">Saorview</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hmdt" xmltv_id="International">International</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkx6" xmltv_id="Meridian (West)">Meridian (West)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkx9" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkx8" xmltv_id="Scotland (Borders)">Scotland (Borders)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyc" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyb" xmltv_id="South Lakeland">South Lakeland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyf" xmltv_id="West England">West England</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyd" xmltv_id="West Dorset">West Dorset</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyh" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyg" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyk" xmltv_id="Channel Islands">Channel Islands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyj" xmltv_id="Yorkshire">Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyn" xmltv_id="London (Thames Valley)">London (Thames Valley)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkym" xmltv_id="Cambridgeshire">Cambridgeshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyq" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyp" xmltv_id="Anglia">Anglia</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkys" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyr" xmltv_id="Henley on Thames">Henley on Thames</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyv" xmltv_id="London (Kent)">London (Kent)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyt" xmltv_id="Cumbria">Cumbria</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyw" xmltv_id="London (Essex)">London (Essex)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkxw" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkxv" xmltv_id="Republic of Ireland">Republic of Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkxy" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkxx" xmltv_id="Oxford">Oxford</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkx2" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkxz" xmltv_id="North Yorkshire">North Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkx5" xmltv_id="Meridian (East)">Meridian (East)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkx4" xmltv_id="North East Midlands">North East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyx" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkyy" xmltv_id="Republic of Ireland">Republic of Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hky4" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hky2" xmltv_id="Oxford">Oxford</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hky6" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hky5" xmltv_id="North Yorkshire">North Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hky8" xmltv_id="Meridian (East)">Meridian (East)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hky7" xmltv_id="North East Midlands">North East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzb" xmltv_id="Scotland (Central)">Scotland (Central)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hky9" xmltv_id="Meridian (West)">Meridian (West)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzd" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzc" xmltv_id="Scotland (Borders)">Scotland (Borders)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzg" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzf" xmltv_id="South Lakeland">South Lakeland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzj" xmltv_id="West England">West England</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzh" xmltv_id="West Dorset">West Dorset</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzm" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzk" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzp" xmltv_id="Channel Islands">Channel Islands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzn" xmltv_id="Yorkshire">Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzr" xmltv_id="London (Thames Valley)">London (Thames Valley)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzq" xmltv_id="Cambridgeshire">Cambridgeshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzt" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzs" xmltv_id="Anglia">Anglia</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzw" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzv" xmltv_id="Henley on Thames">Henley on Thames</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzy" xmltv_id="London (Kent)">London (Kent)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzx" xmltv_id="Cumbria">Cumbria</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkzz" xmltv_id="London (Essex)">London (Essex)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkz2" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2j" xmltv_id="West">West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2n" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2m" xmltv_id="South East">South East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2q" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2p" xmltv_id="South West">South West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2s" xmltv_id="South">South</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2r" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2t" xmltv_id="East">East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkz5" xmltv_id="Cumbria">Cumbria</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkz4" xmltv_id="Yorkshire">Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkz7" xmltv_id="Channel Islands">Channel Islands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkz6" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkz9" xmltv_id="Scotland (Borders)">Scotland (Borders)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hkz8" xmltv_id="Scotland (Central)">Scotland (Central)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2c" xmltv_id="Cambridgeshire">Cambridgeshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2b" xmltv_id="Oxfordshire">Oxfordshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2f" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2d" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2h" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2g" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2v" xmltv_id="South East">South East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2w" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2z" xmltv_id="South England">South England</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk2y" xmltv_id="East">East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk24" xmltv_id="Cambridge">Cambridge</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk22" xmltv_id="South West">South West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk26" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk25" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk28" xmltv_id="Oxfordshire">Oxfordshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk27" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4b" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk29" xmltv_id="Scotland (Central)">Scotland (Central)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4d" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4c" xmltv_id="West">West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4g" xmltv_id="Channel Islands">Channel Islands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4f" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4j" xmltv_id="Yorkshire">Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4h" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4k" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4m" xmltv_id="South England">South England</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4q" xmltv_id="East">East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4t" xmltv_id="Cambridge">Cambridge</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4s" xmltv_id="South West">South West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4w" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4v" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4y" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4x" xmltv_id="West">West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk42" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4z" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk45" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk44" xmltv_id="Yorkshire">Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk47" xmltv_id="Oxfordshire">Oxfordshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk46" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk49" xmltv_id="Scotland (Central)">Scotland (Central)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk48" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4p" xmltv_id="South East">South East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk4n" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5b" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5w" xmltv_id="Scotland (Central)">Scotland (Central)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5z" xmltv_id="South">South</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5y" xmltv_id="Cambridgeshire">Cambridgeshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk54" xmltv_id="Oxfordshire">Oxfordshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk52" xmltv_id="Channel Islands">Channel Islands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5c" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5f" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5d" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5h" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5g" xmltv_id="South West">South West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5k" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5j" xmltv_id="South East">South East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5n" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5m" xmltv_id="West">West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5q" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5p" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5s" xmltv_id="Cumbria">Cumbria</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5r" xmltv_id="Yorkshire">Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5v" xmltv_id="East">East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk5t" xmltv_id="Scotland (Borders)">Scotland (Borders)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk58" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk59" xmltv_id="South West">South West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6d" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6c" xmltv_id="South East">South East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6g" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6f" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6j" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6h" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6m" xmltv_id="Yorkshire">Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6k" xmltv_id="West">West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6p" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6n" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6r" xmltv_id="Cumbria">Cumbria</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6q" xmltv_id="Oxfordshire">Oxfordshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6t" xmltv_id="East">East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6s" xmltv_id="Scotland (Borders)">Scotland (Borders)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6w" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6v" xmltv_id="Scotland (Central)">Scotland (Central)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6y" xmltv_id="South">South</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6x" xmltv_id="Cambridgeshire">Cambridgeshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk6z" xmltv_id="Channel Islands">Channel Islands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk62" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk64" xmltv_id="West">West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk67" xmltv_id="Oxfordshire">Oxfordshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk66" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk69" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk68" xmltv_id="Scotland (Borders)">Scotland (Borders)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7c" xmltv_id="Yorkshire">Yorkshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7b" xmltv_id="Scotland (Central)">Scotland (Central)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7f" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7d" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7h" xmltv_id="Channel Islands">Channel Islands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7g" xmltv_id="Cumbria">Cumbria</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7k" xmltv_id="East">East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7j" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7n" xmltv_id="South">South</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7m" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7q" xmltv_id="Cambridgeshire">Cambridgeshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7p" xmltv_id="South East">South East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7s" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7r" xmltv_id="South West">South West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7t" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk7v" xmltv_id="London">London</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8r" xmltv_id="North West">North West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8q" xmltv_id="North East">North East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8t" xmltv_id="Channel Islands">Channel Islands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8s" xmltv_id="Northern Ireland">Northern Ireland</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8w" xmltv_id="Cumbria">Cumbria</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8v" xmltv_id="Oxfordshire">Oxfordshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8y" xmltv_id="Scotland (Central)">Scotland (Central)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8x" xmltv_id="Scotland (Borders)">Scotland (Borders)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk82" xmltv_id="Scotland (North)">Scotland (North)</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk8z" xmltv_id="South West">South West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk85" xmltv_id="South">South</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk84" xmltv_id="Cambridgeshire">Cambridgeshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk87" xmltv_id="South East">South East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk86" xmltv_id="Yorkshire &amp; Lincolnshire">Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk89" xmltv_id="East Midlands">East Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk88" xmltv_id="East">East</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk9c" xmltv_id="Wales">Wales</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk9b" xmltv_id="West">West</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk9f" xmltv_id="West Midlands">West Midlands</channel>
+    <channel update="i" site="rte.ie.providers" site_id="hk9d" xmltv_id="Yorkshire">Yorkshire</channel>
+  </channels>
+</site>

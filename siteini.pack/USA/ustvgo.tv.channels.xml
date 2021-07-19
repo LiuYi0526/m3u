@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" site="ustvgo.tv">
+  <channels>
+    <channel update="i" site="ustvgo.tv" site_id="5943" xmltv_id="CBS">CBS</channel>
+    <channel update="i" site="ustvgo.tv" site_id="5942" xmltv_id="ABC">ABC</channel>
+    <channel update="i" site="ustvgo.tv" site_id="6077" xmltv_id="NBC">NBC</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1219" xmltv_id="NBC Sports Network">NBC Sports Network</channel>
+    <channel update="i" site="ustvgo.tv" site_id="5963" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="ustvgo.tv" site_id="5964" xmltv_id="PBS">PBS</channel>
+    <channel update="i" site="ustvgo.tv" site_id="17763" xmltv_id="The CW">The CW</channel>
+    <channel update="i" site="ustvgo.tv" site_id="17766" xmltv_id="MyNetworkTV">MyNetworkTV</channel>
+    <channel update="i" site="ustvgo.tv" site_id="9062" xmltv_id="ION East Cable/Dish">ION East Cable/Dish</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1986" xmltv_id="Telemundo Network (East)">Telemundo Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="417" xmltv_id="Univisión Network (East)">Univisión Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="426" xmltv_id="A&amp;E Network (East)">A&amp;E Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="433" xmltv_id="AMC (East)">AMC (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="448" xmltv_id="Animal Planet (East)">Animal Planet (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="3389" xmltv_id="BBC America (East)">BBC America (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="439" xmltv_id="Black Entertainment Television (East)">Black Entertainment Television (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="404" xmltv_id="Bravo (East)">Bravo (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="3460" xmltv_id="Cartoon Network (East)">Cartoon Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="27" xmltv_id="CMT (East)">CMT (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="28" xmltv_id="Consumer News &amp; Business Channel">Consumer News &amp; Business Channel</channel>
+    <channel update="i" site="ustvgo.tv" site_id="429" xmltv_id="Cable News Network">Cable News Network</channel>
+    <channel update="i" site="ustvgo.tv" site_id="26" xmltv_id="Comedy Central (East)">Comedy Central (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="430" xmltv_id="The Disney Channel (East)">The Disney Channel (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="3474" xmltv_id="Disney XD (East)">Disney XD (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="6332" xmltv_id="Do it Yourself Network (East)">Do it Yourself Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="5799" xmltv_id="Discovery Life Channel">Discovery Life Channel</channel>
+    <channel update="i" site="ustvgo.tv" site_id="399" xmltv_id="The Discovery Channel (East)">The Discovery Channel (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="408" xmltv_id="E! Entertainment Television (East)">E! Entertainment Television (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="423" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="ustvgo.tv" site_id="435" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="ustvgo.tv" site_id="25" xmltv_id="ESPN Classic">ESPN Classic</channel>
+    <channel update="i" site="ustvgo.tv" site_id="15702" xmltv_id="ESPNU">ESPNU</channel>
+    <channel update="i" site="ustvgo.tv" site_id="450" xmltv_id="Fox News Channel">Fox News Channel</channel>
+    <channel update="i" site="ustvgo.tv" site_id="2006" xmltv_id="Food Network (East)">Food Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="441" xmltv_id="Freeform (East)">Freeform (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="44423" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1206" xmltv_id="Fuse (East)">Fuse (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="398" xmltv_id="FX (East)">FX (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="2419" xmltv_id="FX Movie Channel">FX Movie Channel</channel>
+    <channel update="i" site="ustvgo.tv" site_id="44425" xmltv_id="FXX (East)">FXX (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="4580" xmltv_id="FYI">FYI</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1185" xmltv_id="The Golf Channel">The Golf Channel</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1184" xmltv_id="GSN (East)">GSN (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1216" xmltv_id="Hallmark Channel (East)">Hallmark Channel (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="424" xmltv_id="Home &amp; Garden Television (East)">Home &amp; Garden Television (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1254" xmltv_id="History (East)">History (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1161" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1192" xmltv_id="IFC (East)">IFC (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="438" xmltv_id="Lifetime Television (East)">Lifetime Television (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="3818" xmltv_id="Lifetime Movies (East)">Lifetime Movies (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="10338" xmltv_id="Lifetime Real Women">Lifetime Real Women</channel>
+    <channel update="i" site="ustvgo.tv" site_id="440" xmltv_id="MTV (East)">MTV (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1280" xmltv_id="NewsNation SDTV">NewsNation SDTV</channel>
+    <channel update="i" site="ustvgo.tv" site_id="9426" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel update="i" site="ustvgo.tv" site_id="431" xmltv_id="Nickelodeon (East)">Nickelodeon (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="28508" xmltv_id="The Oprah Winfrey Network (East)">The Oprah Winfrey Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="8172" xmltv_id="Oxygen (East)">Oxygen (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="425" xmltv_id="Paramount Network (East)">Paramount Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="4678" xmltv_id="Pop (East)">Pop (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="436" xmltv_id="Quality Value Convenience Network">Quality Value Convenience Network</channel>
+    <channel update="i" site="ustvgo.tv" site_id="18127" xmltv_id="ReelzChannel">ReelzChannel</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1164" xmltv_id="Science">Science</channel>
+    <channel update="i" site="ustvgo.tv" site_id="28479" xmltv_id="Smithsonian Channel (East)">Smithsonian Channel (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1248" xmltv_id="SundanceTV (East)">SundanceTV (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1232" xmltv_id="Syfy (East)">Syfy (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="410" xmltv_id="TBS Superstation (East)">TBS Superstation (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1263" xmltv_id="Turner Classic Movies">Turner Classic Movies</channel>
+    <channel update="i" site="ustvgo.tv" site_id="452" xmltv_id="The Learning Channel (East)">The Learning Channel (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="427" xmltv_id="Turner Network Television (East)">Turner Network Television (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1260" xmltv_id="Travel Channel (East)">Travel Channel (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="6207" xmltv_id="TV Games Network">TV Games Network</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1269" xmltv_id="TV Land (East)">TV Land (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="432" xmltv_id="USA Network (East)">USA Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1275" xmltv_id="VH1 (East)">VH1 (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="2193" xmltv_id="Women’s Entertainment Network (East)">Women’s Entertainment Network (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1202" xmltv_id="msnbc">msnbc</channel>
+    <channel update="i" site="ustvgo.tv" site_id="33" xmltv_id="truTV (East)">truTV (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="412" xmltv_id="Cinemax (East)">Cinemax (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="2285" xmltv_id="Flix (East)">Flix (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="411" xmltv_id="HBO (East)">HBO (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1188" xmltv_id="HBO 2 (East)">HBO 2 (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="2139" xmltv_id="HBO Signature (East)">HBO Signature (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="3710" xmltv_id="More Max (East)">More Max (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="415" xmltv_id="Showtime (East)">Showtime (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="2159" xmltv_id="Showtime 2 (East)">Showtime 2 (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="420" xmltv_id="Starz (East)">Starz (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="413" xmltv_id="STARZ ENCORE (East)">STARZ ENCORE (East)</channel>
+    <channel update="i" site="ustvgo.tv" site_id="1535" xmltv_id="The Movie Channel (East)">The Movie Channel (East)</channel>
+  </channels>
+</site>

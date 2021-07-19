@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="discoverychannel.ru">
+  <channels>
+    <channel update="i" site="discoverychannel.ru" site_id="discovery_channel" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel update="i" site="discoverychannel.ru" site_id="discovery_ultra" xmltv_id="DISCOVERY ULTRA">DISCOVERY ULTRA</channel>
+    <channel update="i" site="discoverychannel.ru" site_id="animal_planet" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel update="i" site="discoverychannel.ru" site_id="id_investigation_discovery" xmltv_id="ID INVESTIGATION DISCOVERY">ID INVESTIGATION DISCOVERY</channel>
+    <channel update="i" site="discoverychannel.ru" site_id="discovery_science" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+  </channels>
+</site>

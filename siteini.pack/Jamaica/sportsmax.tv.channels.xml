@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="sportsmax.tv">
+  <channels>
+    <channel update="i" site="sportsmax.tv" site_id="sm1" xmltv_id="SportsMax">SportsMax</channel>
+    <channel update="i" site="sportsmax.tv" site_id="sm2" xmltv_id="SportsMax 2">SportsMax 2</channel>
+    <channel update="i" site="sportsmax.tv" site_id="smp" xmltv_id="SportsMax+">SportsMax+</channel>
+    <channel update="i" site="sportsmax.tv" site_id="ck1" xmltv_id="Cricket">Cricket</channel>
+  </channels>
+</site>

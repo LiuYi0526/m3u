@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="nova.gr">
+  <channels>
+    <channel update="i" site="nova.gr.E" site_id="2" xmltv_id="NovalifεHD">NovalifεHD</channel>
+    <channel update="i" site="nova.gr.E" site_id="4" xmltv_id="Skai TV">Skai TV</channel>
+    <channel update="i" site="nova.gr.E" site_id="5" xmltv_id="Novacinema4HD">Novacinema4HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="7" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="nova.gr.E" site_id="8" xmltv_id="InsightTV">InsightTV</channel>
+    <channel update="i" site="nova.gr.E" site_id="9" xmltv_id="Ant1">Ant1</channel>
+    <channel update="i" site="nova.gr.E" site_id="10" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="nova.gr.E" site_id="11" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="nova.gr.E" site_id="12" xmltv_id="NovasummerkidsHD">NovasummerkidsHD</channel>
+    <channel update="i" site="nova.gr.E" site_id="14" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel update="i" site="nova.gr.E" site_id="15" xmltv_id="Novasports4HD">Novasports4HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="16" xmltv_id="Mad TV">Mad TV</channel>
+    <channel update="i" site="nova.gr.E" site_id="17" xmltv_id="ΕΡΤ1">ΕΡΤ1</channel>
+    <channel update="i" site="nova.gr.E" site_id="18" xmltv_id="Macedonia TV">Macedonia TV</channel>
+    <channel update="i" site="nova.gr.E" site_id="19" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="nova.gr.E" site_id="20" xmltv_id="Βουλή - Τηλεόραση">Βουλή - Τηλεόραση</channel>
+    <channel update="i" site="nova.gr.E" site_id="21" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="nova.gr.E" site_id="22" xmltv_id="ΕΡΤ3">ΕΡΤ3</channel>
+    <channel update="i" site="nova.gr.E" site_id="23" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="nova.gr.E" site_id="25" xmltv_id="Novasports5HD">Novasports5HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="26" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="nova.gr.E" site_id="27" xmltv_id="Action24">Action24</channel>
+    <channel update="i" site="nova.gr.E" site_id="28" xmltv_id="Kontra Channel">Kontra Channel</channel>
+    <channel update="i" site="nova.gr.E" site_id="30" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="31" xmltv_id="Novacinema3HD">Novacinema3HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="32" xmltv_id="MAD GREEKZ">MAD GREEKZ</channel>
+    <channel update="i" site="nova.gr.E" site_id="33" xmltv_id="Novasports24HD">Novasports24HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="34" xmltv_id="One Channel">One Channel</channel>
+    <channel update="i" site="nova.gr.E" site_id="35" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="36" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="nova.gr.E" site_id="37" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="nova.gr.E" site_id="38" xmltv_id="Novacinema2HD">Novacinema2HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="40" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="nova.gr.E" site_id="41" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="nova.gr.E" site_id="43" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="44" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="46" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="48" xmltv_id="Novasports2HD">Novasports2HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="49" xmltv_id="Novasports1HD">Novasports1HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="50" xmltv_id="Novacinema1HD">Novacinema1HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="51" xmltv_id="Eurosport 1HD">Eurosport 1HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="53" xmltv_id="ERT SPORTS">ERT SPORTS</channel>
+    <channel update="i" site="nova.gr.E" site_id="55" xmltv_id="Eurosport 1 (International, GREEK)">Eurosport 1 (International, GREEK)</channel>
+    <channel update="i" site="nova.gr.E" site_id="56" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="nova.gr.E" site_id="58" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="nova.gr.E" site_id="59" xmltv_id="OPEN BEYOND">OPEN BEYOND</channel>
+    <channel update="i" site="nova.gr.E" site_id="60" xmltv_id="NR1 HD">NR1 HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="63" xmltv_id="ΕΡΤ2">ΕΡΤ2</channel>
+    <channel update="i" site="nova.gr.E" site_id="64" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="nova.gr.E" site_id="66" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="nova.gr.E" site_id="67" xmltv_id="Dorcel TV HD">Dorcel TV HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="69" xmltv_id="Novasports3HD">Novasports3HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="71" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="nova.gr.E" site_id="72" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="nova.gr.E" site_id="73" xmltv_id="MEGA">MEGA</channel>
+  </channels>
+</site>

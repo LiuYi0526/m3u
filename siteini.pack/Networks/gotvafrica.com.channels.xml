@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="gotvafrica.com">
+  <channels>
+    <channel update="i" site="gotvafrica.com" site_id="gh##ADW" xmltv_id="Ghana-ADOM TV">Ghana-ADOM TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##AMW" xmltv_id="Ghana-Africa Magic Family">Ghana-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##HS7" xmltv_id="Ghana-Africa Magic Hausa">Ghana-Africa Magic Hausa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##A2W" xmltv_id="Ghana-AfricaMagic Epic">Ghana-AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##NAW" xmltv_id="Ghana-africanews">Ghana-africanews</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##AFS" xmltv_id="Ghana-Afro Music">Ghana-Afro Music</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##ALW" xmltv_id="Ghana-Al Jazeera">Ghana-Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##B4U" xmltv_id="Ghana-B4U Movies">Ghana-B4U Movies</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##BW4" xmltv_id="Ghana-BBC World News">Ghana-BBC World News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##BE7" xmltv_id="Ghana-BET">Ghana-BET</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##O2W" xmltv_id="Ghana-Big Brother Naija">Ghana-Big Brother Naija</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##CA4" xmltv_id="Ghana-Cartoon Network">Ghana-Cartoon Network</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##RT4" xmltv_id="Ghana-CBS Reality">Ghana-CBS Reality</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##CI7" xmltv_id="Ghana-Citi TV">Ghana-Citi TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##CN4" xmltv_id="Ghana-CNN International">Ghana-CNN International</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##DV7" xmltv_id="Ghana-Da Vinci">Ghana-Da Vinci</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##HDF" xmltv_id="Ghana-Discovery Family">Ghana-Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##DJW" xmltv_id="Ghana-Disney Junior">Ghana-Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##DOW" xmltv_id="Ghana-Dominion TV">Ghana-Dominion TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##EEW" xmltv_id="Ghana-E! Entertainment Television">Ghana-E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##ET4" xmltv_id="Ghana-e.TV Africa">Ghana-e.TV Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##EGT" xmltv_id="Ghana-e.tv Ghana">Ghana-e.tv Ghana</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##EM7" xmltv_id="Ghana-Emmanuel TV">Ghana-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##E1W" xmltv_id="Ghana-ESPN">Ghana-ESPN</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##EV7" xmltv_id="Ghana-Eva Plus">Ghana-Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##TBN" xmltv_id="Ghana-FAITH">Ghana-FAITH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##FEW" xmltv_id="Ghana-FOX">Ghana-FOX</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##FL7" xmltv_id="Ghana-FOX Life">Ghana-FOX Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##FIW" xmltv_id="Ghana-Ghana Learning TV">Ghana-Ghana Learning TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##GH1" xmltv_id="Ghana-GHOne TV">Ghana-GHOne TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##GTW" xmltv_id="Ghana-GTV">Ghana-GTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##HDI" xmltv_id="Ghana-Investigation Discovery">Ghana-Investigation Discovery</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##ISW" xmltv_id="Ghana-Islam Channel">Ghana-Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##JJ7" xmltv_id="Ghana-JimJam">Ghana-JimJam</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##JNW" xmltv_id="Ghana-JOY NEWS">Ghana-JOY NEWS</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##JPW" xmltv_id="Ghana-Joy Prime">Ghana-Joy Prime</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##FAS" xmltv_id="Ghana-Metro TV">Ghana-Metro TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##MZ7" xmltv_id="Ghana-M-Net Movies 4">Ghana-M-Net Movies 4</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##MTW" xmltv_id="Ghana-MTV Base">Ghana-MTV Base</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##NWW" xmltv_id="Ghana-National Geographic WILD">Ghana-National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##NIW" xmltv_id="Ghana-Nickelodeon">Ghana-Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##RTW" xmltv_id="Ghana-Real Time">Ghana-Real Time</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##ROS" xmltv_id="Ghana-ROK 2">Ghana-ROK 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##RO7" xmltv_id="Ghana-ROK GH">Ghana-ROK GH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##HBW" xmltv_id="Ghana-SS Blitz">Ghana-SS Blitz</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##SST" xmltv_id="Ghana-SS Football">Ghana-SS Football</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##SDT" xmltv_id="Ghana-SS La Liga">Ghana-SS La Liga</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##DS3" xmltv_id="Ghana-SS Select 1">Ghana-SS Select 1</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##DS4" xmltv_id="Ghana-SS Select 2">Ghana-SS Select 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##SI7" xmltv_id="Ghana-Star Life">Ghana-Star Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##TE7" xmltv_id="Ghana-Telemundo">Ghana-Telemundo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##TC4" xmltv_id="Ghana-TNT Africa">Ghana-TNT Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##TV4" xmltv_id="Ghana-TV Africa">Ghana-TV Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##TV7" xmltv_id="Ghana-TV3">Ghana-TV3</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##PRW" xmltv_id="Ghana-Urban TV">Ghana-Urban TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##UTV" xmltv_id="Ghana-UTV">Ghana-UTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="gh##ZW7" xmltv_id="Ghana-Zee World">Ghana-Zee World</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##AMW" xmltv_id="Kenya-Africa Magic Family">Kenya-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##A2W" xmltv_id="Kenya-AfricaMagic Epic">Kenya-AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##NAW" xmltv_id="Kenya-africanews">Kenya-africanews</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##AFE" xmltv_id="Kenya-Afro Music Pop">Kenya-Afro Music Pop</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##ALW" xmltv_id="Kenya-Al Jazeera">Kenya-Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##B4U" xmltv_id="Kenya-B4U Movies">Kenya-B4U Movies</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##BW4" xmltv_id="Kenya-BBC World News">Kenya-BBC World News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##BE7" xmltv_id="Kenya-BET">Kenya-BET</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##O2W" xmltv_id="Kenya-Big Brother Naija">Kenya-Big Brother Naija</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##CA4" xmltv_id="Kenya-Cartoon Network">Kenya-Cartoon Network</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##RT4" xmltv_id="Kenya-CBS Reality">Kenya-CBS Reality</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##CTS" xmltv_id="Kenya-Citizen TV">Kenya-Citizen TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##CN4" xmltv_id="Kenya-CNN International">Kenya-CNN International</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##DV7" xmltv_id="Kenya-Da Vinci">Kenya-Da Vinci</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##HDF" xmltv_id="Kenya-Discovery Family">Kenya-Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##DJW" xmltv_id="Kenya-Disney Junior">Kenya-Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##EEW" xmltv_id="Kenya-E! Entertainment Television">Kenya-E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##ET4" xmltv_id="Kenya-e.TV Africa">Kenya-e.TV Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##EM7" xmltv_id="Kenya-Emmanuel TV">Kenya-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##E1W" xmltv_id="Kenya-ESPN">Kenya-ESPN</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##EV7" xmltv_id="Kenya-Eva Plus">Kenya-Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##TBN" xmltv_id="Kenya-FAITH">Kenya-FAITH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##FEW" xmltv_id="Kenya-FOX">Kenya-FOX</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##FL7" xmltv_id="Kenya-FOX Life">Kenya-FOX Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##INS" xmltv_id="Kenya-iNooro TV">Kenya-iNooro TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##HDI" xmltv_id="Kenya-Investigation Discovery">Kenya-Investigation Discovery</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##ISW" xmltv_id="Kenya-Islam Channel">Kenya-Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##JJ7" xmltv_id="Kenya-JimJam">Kenya-JimJam</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##K2W" xmltv_id="Kenya-K24">Kenya-K24</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##KA7" xmltv_id="Kenya-Kameme">Kenya-Kameme</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##KAW" xmltv_id="Kenya-KASS TV">Kenya-KASS TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##KBS" xmltv_id="Kenya-KBCTV">Kenya-KBCTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##KTS" xmltv_id="Kenya-KTN">Kenya-KTN</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##KT7" xmltv_id="Kenya-KTN News">Kenya-KTN News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##MT7" xmltv_id="Kenya-Maisha Magic BONGO">Kenya-Maisha Magic BONGO</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##HME" xmltv_id="Kenya-Maisha Magic East">Kenya-Maisha Magic East</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##MZ7" xmltv_id="Kenya-M-Net Movies 4">Kenya-M-Net Movies 4</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##MTW" xmltv_id="Kenya-MTV Base">Kenya-MTV Base</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##NWW" xmltv_id="Kenya-National Geographic WILD">Kenya-National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##NIW" xmltv_id="Kenya-Nickelodeon">Kenya-Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##NTS" xmltv_id="Kenya-NTV">Kenya-NTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##PB7" xmltv_id="Kenya-PBS Kids">Kenya-PBS Kids</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##RTW" xmltv_id="Kenya-Real Time">Kenya-Real Time</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##ROS" xmltv_id="Kenya-ROK 2">Kenya-ROK 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##HBW" xmltv_id="Kenya-SS Blitz">Kenya-SS Blitz</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##SST" xmltv_id="Kenya-SS Football">Kenya-SS Football</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##SDT" xmltv_id="Kenya-SS La Liga">Kenya-SS La Liga</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##DS3" xmltv_id="Kenya-SS Select 1">Kenya-SS Select 1</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##DS4" xmltv_id="Kenya-SS Select 2">Kenya-SS Select 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##SI7" xmltv_id="Kenya-Star Life">Kenya-Star Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##TE7" xmltv_id="Kenya-Telemundo">Kenya-Telemundo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##TC4" xmltv_id="Kenya-TNT Africa">Kenya-TNT Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##TG7" xmltv_id="Kenya-TRACE Gospel">Kenya-TRACE Gospel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##TR7" xmltv_id="Kenya-TRACE Mziki">Kenya-TRACE Mziki</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##ZW7" xmltv_id="Kenya-Zee World">Kenya-Zee World</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##PM7" xmltv_id="Kenya-Pearl Magic">Kenya-Pearl Magic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ke##AFS" xmltv_id="Kenya-Afro Music">Kenya-Afro Music</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##AFM" xmltv_id="Malawi-Africa Magic Family">Malawi-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##IA9" xmltv_id="Malawi-AfricaMagic Epic">Malawi-AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##CEE" xmltv_id="Malawi-africanews">Malawi-africanews</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##AFS" xmltv_id="Malawi-Afro Music">Malawi-Afro Music</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##ALJ" xmltv_id="Malawi-Al Jazeera">Malawi-Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##B4U" xmltv_id="Malawi-B4U Movies">Malawi-B4U Movies</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##BW4" xmltv_id="Malawi-BBC World News">Malawi-BBC World News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##BHD" xmltv_id="Malawi-BET">Malawi-BET</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##O2W" xmltv_id="Malawi-Big Brother Naija">Malawi-Big Brother Naija</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##CA4" xmltv_id="Malawi-Cartoon Network">Malawi-Cartoon Network</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##RT4" xmltv_id="Malawi-CBS Reality">Malawi-CBS Reality</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##CNN" xmltv_id="Malawi-CNN International">Malawi-CNN International</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##DV7" xmltv_id="Malawi-Da Vinci">Malawi-Da Vinci</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##F32" xmltv_id="Malawi-Discovery Family">Malawi-Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##DPH" xmltv_id="Malawi-Disney Junior">Malawi-Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##E26" xmltv_id="Malawi-E! Entertainment Television">Malawi-E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##ETA" xmltv_id="Malawi-e.TV Africa">Malawi-e.TV Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##EMM" xmltv_id="Malawi-Emmanuel TV">Malawi-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##EV7" xmltv_id="Malawi-Eva Plus">Malawi-Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##TBK" xmltv_id="Malawi-FAITH">Malawi-FAITH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##FEW" xmltv_id="Malawi-FOX">Malawi-FOX</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##FL7" xmltv_id="Malawi-FOX Life">Malawi-FOX Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##HDI" xmltv_id="Malawi-Investigation Discovery">Malawi-Investigation Discovery</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##ART" xmltv_id="Malawi-Islam Channel">Malawi-Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##JJM" xmltv_id="Malawi-JimJam">Malawi-JimJam</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##MAL" xmltv_id="Malawi-Malawi TV">Malawi-Malawi TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##MZ7" xmltv_id="Malawi-M-Net Movies 4">Malawi-M-Net Movies 4</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##B33" xmltv_id="Malawi-MTV Base">Malawi-MTV Base</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##NGW" xmltv_id="Malawi-National Geographic WILD">Malawi-National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##NKA" xmltv_id="Malawi-Nickelodeon">Malawi-Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##PB7" xmltv_id="Malawi-PBS Kids">Malawi-PBS Kids</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##RTW" xmltv_id="Malawi-Real Time">Malawi-Real Time</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##ROS" xmltv_id="Malawi-ROK 2">Malawi-ROK 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##HBW" xmltv_id="Malawi-SS Blitz">Malawi-SS Blitz</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##SST" xmltv_id="Malawi-SS Football">Malawi-SS Football</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##SDT" xmltv_id="Malawi-SS La Liga">Malawi-SS La Liga</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##DS3" xmltv_id="Malawi-SS Select 1">Malawi-SS Select 1</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##DS4" xmltv_id="Malawi-SS Select 2">Malawi-SS Select 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##SI7" xmltv_id="Malawi-Star Life">Malawi-Star Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##TEL" xmltv_id="Malawi-Telemundo">Malawi-Telemundo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##TC4" xmltv_id="Malawi-TNT Africa">Malawi-TNT Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##ZZ3" xmltv_id="Malawi-TTV">Malawi-TTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##ZZ2" xmltv_id="Malawi-Zodiak TV">Malawi-Zodiak TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##AMW" xmltv_id="Malawi-Africa Magic Family">Malawi-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mw##EM7" xmltv_id="Malawi-Emmanuel TV">Malawi-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##AFM" xmltv_id="Mozambique-Africa Magic Family">Mozambique-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##IA9" xmltv_id="Mozambique-AfricaMagic Epic">Mozambique-AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##CEE" xmltv_id="Mozambique-africanews">Mozambique-africanews</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##AFS" xmltv_id="Mozambique-Afro Music">Mozambique-Afro Music</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##ALJ" xmltv_id="Mozambique-Al Jazeera">Mozambique-Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##AHD" xmltv_id="Mozambique-AXN">Mozambique-AXN</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##BHD" xmltv_id="Mozambique-BET">Mozambique-BET</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##O2W" xmltv_id="Mozambique-Big Brother Naija">Mozambique-Big Brother Naija</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##CA4" xmltv_id="Mozambique-Cartoon Network">Mozambique-Cartoon Network</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##CNN" xmltv_id="Mozambique-CNN International">Mozambique-CNN International</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##DV7" xmltv_id="Mozambique-Da Vinci">Mozambique-Da Vinci</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##F32" xmltv_id="Mozambique-Discovery Family">Mozambique-Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##DPH" xmltv_id="Mozambique-Disney Junior">Mozambique-Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##PPW" xmltv_id="Mozambique-DStv Pipoca">Mozambique-DStv Pipoca</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##E26" xmltv_id="Mozambique-E! Entertainment Television">Mozambique-E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##EM7" xmltv_id="Mozambique-Emmanuel TV">Mozambique-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##EUW" xmltv_id="Mozambique-Euro News Português">Mozambique-Euro News Português</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##FLS" xmltv_id="Mozambique-FOX Life">Mozambique-FOX Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##GLW" xmltv_id="Mozambique-GLOOM">Mozambique-GLOOM</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##HDI" xmltv_id="Mozambique-Investigation Discovery">Mozambique-Investigation Discovery</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##ISW" xmltv_id="Mozambique-Islam Channel">Mozambique-Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##IT4" xmltv_id="Mozambique-i-TV">Mozambique-i-TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##IST" xmltv_id="Mozambique-iTV Networks">Mozambique-iTV Networks</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##JJM" xmltv_id="Mozambique-JimJam">Mozambique-JimJam</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##301" xmltv_id="Mozambique-Miramar">Mozambique-Miramar</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##MZ7" xmltv_id="Mozambique-M-Net Movies 4">Mozambique-M-Net Movies 4</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##B33" xmltv_id="Mozambique-MTV Base">Mozambique-MTV Base</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##FM7" xmltv_id="Mozambique-Mundo Fox">Mozambique-Mundo Fox</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##NGW" xmltv_id="Mozambique-National Geographic WILD">Mozambique-National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##NKA" xmltv_id="Mozambique-Nickelodeon">Mozambique-Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##PAS" xmltv_id="Mozambique-Panda">Mozambique-Panda</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##PBW" xmltv_id="Mozambique-Panda Biggs">Mozambique-Panda Biggs</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##PB7" xmltv_id="Mozambique-PBS Kids">Mozambique-PBS Kids</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##RTW" xmltv_id="Mozambique-Real Time">Mozambique-Real Time</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##ROS" xmltv_id="Mozambique-ROK 2">Mozambique-ROK 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##RAS" xmltv_id="Mozambique-RTP Africa">Mozambique-RTP Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##HBW" xmltv_id="Mozambique-SS Blitz">Mozambique-SS Blitz</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##SST" xmltv_id="Mozambique-SS Football">Mozambique-SS Football</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##SDT" xmltv_id="Mozambique-SS La Liga">Mozambique-SS La Liga</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##DS5" xmltv_id="Mozambique-SS MáXimo 360">Mozambique-SS MáXimo 360</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##DS3" xmltv_id="Mozambique-SS Select 1">Mozambique-SS Select 1</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##DS4" xmltv_id="Mozambique-SS Select 2">Mozambique-SS Select 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##SI7" xmltv_id="Mozambique-Star Life">Mozambique-Star Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##SM4" xmltv_id="Mozambique-STV">Mozambique-STV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##TP7" xmltv_id="Mozambique-Telemundo">Mozambique-Telemundo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##M24" xmltv_id="Mozambique-Telescola">Mozambique-Telescola</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##TN7" xmltv_id="Mozambique-TLN">Mozambique-TLN</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##TC4" xmltv_id="Mozambique-TNT Africa">Mozambique-TNT Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##102" xmltv_id="Mozambique-TopTV">Mozambique-TopTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##TTW" xmltv_id="Mozambique-TRACE Toca">Mozambique-TRACE Toca</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##MZS" xmltv_id="Mozambique-TV Moçambique">Mozambique-TV Moçambique</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##789" xmltv_id="Mozambique-TV Mozambique 2">Mozambique-TV Mozambique 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##RNW" xmltv_id="Mozambique-TV Record News">Mozambique-TV Record News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##TS4" xmltv_id="Mozambique-TV Sucesso">Mozambique-TV Sucesso</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##ZW7" xmltv_id="Mozambique-Zee World">Mozambique-Zee World</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##EV7" xmltv_id="Mozambique-Eva Plus">Mozambique-Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##BKS" xmltv_id="Mozambique-GO Channel">Mozambique-GO Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="mz##ITM" xmltv_id="Mozambique-i-TV">Mozambique-i-TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##AFM" xmltv_id="Namibia-Africa Magic Family">Namibia-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##IA9" xmltv_id="Namibia-AfricaMagic Epic">Namibia-AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##CEE" xmltv_id="Namibia-africanews">Namibia-africanews</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##AFS" xmltv_id="Namibia-Afro Music">Namibia-Afro Music</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##ALJ" xmltv_id="Namibia-Al Jazeera">Namibia-Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##B4U" xmltv_id="Namibia-B4U Movies">Namibia-B4U Movies</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##BW4" xmltv_id="Namibia-BBC World News">Namibia-BBC World News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##BHD" xmltv_id="Namibia-BET">Namibia-BET</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##O2W" xmltv_id="Namibia-Big Brother Naija">Namibia-Big Brother Naija</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##CA4" xmltv_id="Namibia-Cartoon Network">Namibia-Cartoon Network</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##RT4" xmltv_id="Namibia-CBS Reality">Namibia-CBS Reality</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##CNN" xmltv_id="Namibia-CNN International">Namibia-CNN International</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##DV7" xmltv_id="Namibia-Da Vinci">Namibia-Da Vinci</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##DW4" xmltv_id="Namibia-Deutsche Welle">Namibia-Deutsche Welle</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##F32" xmltv_id="Namibia-Discovery Family">Namibia-Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##DPH" xmltv_id="Namibia-Disney Junior">Namibia-Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##E26" xmltv_id="Namibia-E! Entertainment Television">Namibia-E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##ETA" xmltv_id="Namibia-e.TV Africa">Namibia-e.TV Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##EMM" xmltv_id="Namibia-Emmanuel TV">Namibia-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##ENH" xmltv_id="Namibia-eNCA">Namibia-eNCA</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##EV7" xmltv_id="Namibia-Eva Plus">Namibia-Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##TBK" xmltv_id="Namibia-FAITH">Namibia-FAITH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##FEW" xmltv_id="Namibia-FOX">Namibia-FOX</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##FL7" xmltv_id="Namibia-FOX Life">Namibia-FOX Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##BKS" xmltv_id="Namibia-GO Channel">Namibia-GO Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##HDI" xmltv_id="Namibia-Investigation Discovery">Namibia-Investigation Discovery</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##ART" xmltv_id="Namibia-Islam Channel">Namibia-Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##JJM" xmltv_id="Namibia-JimJam">Namibia-JimJam</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##K30" xmltv_id="Namibia-kykNET \u0026 Kie">Namibia-kykNET \u0026 Kie</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##MZ7" xmltv_id="Namibia-M-Net Movies 4">Namibia-M-Net Movies 4</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##B33" xmltv_id="Namibia-MTV Base">Namibia-MTV Base</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##W30" xmltv_id="Namibia-Mzansi Wethu">Namibia-Mzansi Wethu</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##NGW" xmltv_id="Namibia-National Geographic WILD">Namibia-National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##SET" xmltv_id="Namibia-NBC">Namibia-NBC</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##TS7" xmltv_id="Namibia-NBC2">Namibia-NBC2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##NKA" xmltv_id="Namibia-Nickelodeon">Namibia-Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##1AF" xmltv_id="Namibia-One Africa TV">Namibia-One Africa TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##RTW" xmltv_id="Namibia-Real Time">Namibia-Real Time</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##ROS" xmltv_id="Namibia-ROK 2">Namibia-ROK 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##SAN" xmltv_id="Namibia-SABC News">Namibia-SABC News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##HBW" xmltv_id="Namibia-SS Blitz">Namibia-SS Blitz</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##SST" xmltv_id="Namibia-SS Football">Namibia-SS Football</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##SDT" xmltv_id="Namibia-SS La Liga">Namibia-SS La Liga</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##DS3" xmltv_id="Namibia-SS Select 1">Namibia-SS Select 1</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##DS4" xmltv_id="Namibia-SS Select 2">Namibia-SS Select 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##SI7" xmltv_id="Namibia-Star Life">Namibia-Star Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##TEL" xmltv_id="Namibia-Telemundo">Namibia-Telemundo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##TC4" xmltv_id="Namibia-TNT Africa">Namibia-TNT Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##M11" xmltv_id="Namibia-Zee World">Namibia-Zee World</channel>
+    <channel update="i" site="gotvafrica.com" site_id="na##AMW" xmltv_id="Namibia-Africa Magic Family">Namibia-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##HS7" xmltv_id="Nigeria-Africa Magic Hausa">Nigeria-Africa Magic Hausa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##YR7" xmltv_id="Nigeria-Africa Magic Yoruba">Nigeria-Africa Magic Yoruba</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##A2W" xmltv_id="Nigeria-AfricaMagic Epic">Nigeria-AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##IGW" xmltv_id="Nigeria-AfricaMagic Igbo">Nigeria-AfricaMagic Igbo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##AFE" xmltv_id="Nigeria-Afro Music Pop">Nigeria-Afro Music Pop</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##AIT" xmltv_id="Nigeria-AIT">Nigeria-AIT</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##ALW" xmltv_id="Nigeria-Al Jazeera">Nigeria-Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##AR7" xmltv_id="Nigeria-Arewa 24">Nigeria-Arewa 24</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##ARW" xmltv_id="Nigeria-Arise News">Nigeria-Arise News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##BCO" xmltv_id="Nigeria-BCOS">Nigeria-BCOS</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##BCT" xmltv_id="Nigeria-BISCON TV">Nigeria-BISCON TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##CHT" xmltv_id="Nigeria-Channels">Nigeria-Channels</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##DO7" xmltv_id="Nigeria-DOVE TV">Nigeria-DOVE TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##EEW" xmltv_id="Nigeria-E! Entertainment Television">Nigeria-E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##ETS" xmltv_id="Nigeria-EBS">Nigeria-EBS</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##EM7" xmltv_id="Nigeria-Emmanuel TV">Nigeria-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TBN" xmltv_id="Nigeria-FAITH">Nigeria-FAITH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##FL7" xmltv_id="Nigeria-FOX Life">Nigeria-FOX Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##GXW" xmltv_id="Nigeria-Galaxy">Nigeria-Galaxy</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##ISW" xmltv_id="Nigeria-Islam Channel">Nigeria-Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##IVB" xmltv_id="Nigeria-ITV Benin">Nigeria-ITV Benin</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##JJ7" xmltv_id="Nigeria-JimJam">Nigeria-JimJam</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##LTW" xmltv_id="Nigeria-Lagos TV">Nigeria-Lagos TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##WC4" xmltv_id="Nigeria-MiTV">Nigeria-MiTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##NIW" xmltv_id="Nigeria-Nickelodeon">Nigeria-Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##NE7" xmltv_id="Nigeria-NTA 2">Nigeria-NTA 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##NN7" xmltv_id="Nigeria-NTA News 24">Nigeria-NTA News 24</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##NP7" xmltv_id="Nigeria-NTA Parliament">Nigeria-NTA Parliament</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##NTW" xmltv_id="Nigeria-NTAi">Nigeria-NTAi</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##OG7" xmltv_id="Nigeria-OGTV">Nigeria-OGTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##ON7" xmltv_id="Nigeria-ONTV MAX">Nigeria-ONTV MAX</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##PB7" xmltv_id="Nigeria-PBS Kids">Nigeria-PBS Kids</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##RT2" xmltv_id="Nigeria-R2TV">Nigeria-R2TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##RTT" xmltv_id="Nigeria-Rave TV">Nigeria-Rave TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##RTW" xmltv_id="Nigeria-Real Time">Nigeria-Real Time</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##RST" xmltv_id="Nigeria-RSTV">Nigeria-RSTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##SBW" xmltv_id="Nigeria-Silverbird">Nigeria-Silverbird</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##SCW" xmltv_id="Nigeria-SOUNDCITY">Nigeria-SOUNDCITY</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##SP7" xmltv_id="Nigeria-Spice TV">Nigeria-Spice TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##HBW" xmltv_id="Nigeria-SS Blitz">Nigeria-SS Blitz</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##DS4" xmltv_id="Nigeria-SS Select 2">Nigeria-SS Select 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##SU4" xmltv_id="Nigeria-Sunna TV">Nigeria-Sunna TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TDT" xmltv_id="Nigeria-Tiwa n Tiwa">Nigeria-Tiwa n Tiwa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TRW" xmltv_id="Nigeria-Trybe TV">Nigeria-Trybe TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TEW" xmltv_id="Nigeria-TVC Entertainment">Nigeria-TVC Entertainment</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TNS" xmltv_id="Nigeria-TVC News Nigeria">Nigeria-TVC News Nigeria</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##UR7" xmltv_id="Nigeria-Urban TV">Nigeria-Urban TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##WA7" xmltv_id="Nigeria-wapTV">Nigeria-wapTV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##WTT" xmltv_id="Nigeria-Wazobia TV">Nigeria-Wazobia TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##AMW" xmltv_id="Nigeria-Africa Magic Family">Nigeria-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##B4U" xmltv_id="Nigeria-B4U Movies">Nigeria-B4U Movies</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##BW4" xmltv_id="Nigeria-BBC World News">Nigeria-BBC World News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##O2W" xmltv_id="Nigeria-Big Brother Naija">Nigeria-Big Brother Naija</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##RT4" xmltv_id="Nigeria-CBS Reality">Nigeria-CBS Reality</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##CN4" xmltv_id="Nigeria-CNN International">Nigeria-CNN International</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##HDF" xmltv_id="Nigeria-Discovery Family">Nigeria-Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##DJW" xmltv_id="Nigeria-Disney Junior">Nigeria-Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##EV7" xmltv_id="Nigeria-Eva Plus">Nigeria-Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##FEW" xmltv_id="Nigeria-FOX">Nigeria-FOX</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##HI7" xmltv_id="Nigeria-HIP TV">Nigeria-HIP TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##MTW" xmltv_id="Nigeria-MTV Base">Nigeria-MTV Base</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##NWW" xmltv_id="Nigeria-National Geographic WILD">Nigeria-National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##ROS" xmltv_id="Nigeria-ROK 2">Nigeria-ROK 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##RO7" xmltv_id="Nigeria-ROK GH">Nigeria-ROK GH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##SST" xmltv_id="Nigeria-SS Football">Nigeria-SS Football</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TE7" xmltv_id="Nigeria-Telemundo">Nigeria-Telemundo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TES" xmltv_id="Nigeria-Televista">Nigeria-Televista</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##ZW7" xmltv_id="Nigeria-Zee World">Nigeria-Zee World</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##NAW" xmltv_id="Nigeria-africanews">Nigeria-africanews</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##BE7" xmltv_id="Nigeria-BET">Nigeria-BET</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##CA4" xmltv_id="Nigeria-Cartoon Network">Nigeria-Cartoon Network</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##DV7" xmltv_id="Nigeria-Da Vinci">Nigeria-Da Vinci</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##E1W" xmltv_id="Nigeria-ESPN">Nigeria-ESPN</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##HDI" xmltv_id="Nigeria-Investigation Discovery">Nigeria-Investigation Discovery</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##MZ7" xmltv_id="Nigeria-M-Net Movies 4">Nigeria-M-Net Movies 4</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##MM2" xmltv_id="Nigeria-SOUNDCITY">Nigeria-SOUNDCITY</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##SDT" xmltv_id="Nigeria-SS La Liga">Nigeria-SS La Liga</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##DS3" xmltv_id="Nigeria-SS Select 1">Nigeria-SS Select 1</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##SI7" xmltv_id="Nigeria-Star Life">Nigeria-Star Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TC4" xmltv_id="Nigeria-TNT Africa">Nigeria-TNT Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##TGW" xmltv_id="Nigeria-TRACE Jama">Nigeria-TRACE Jama</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ng##PRW" xmltv_id="Nigeria-Urban TV">Nigeria-Urban TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##AMW" xmltv_id="Uganda-Africa Magic Family">Uganda-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##A2W" xmltv_id="Uganda-AfricaMagic Epic">Uganda-AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##NAW" xmltv_id="Uganda-africanews">Uganda-africanews</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##AFE" xmltv_id="Uganda-Afro Music Pop">Uganda-Afro Music Pop</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##ALW" xmltv_id="Uganda-Al Jazeera">Uganda-Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##B4U" xmltv_id="Uganda-B4U Movies">Uganda-B4U Movies</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##BW4" xmltv_id="Uganda-BBC World News">Uganda-BBC World News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##BSW" xmltv_id="Uganda-BBS TV">Uganda-BBS TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##BE7" xmltv_id="Uganda-BET">Uganda-BET</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##O2W" xmltv_id="Uganda-Big Brother Naija">Uganda-Big Brother Naija</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##BU2" xmltv_id="Uganda-Bukedde 2">Uganda-Bukedde 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##BKW" xmltv_id="Uganda-Bukedde TV">Uganda-Bukedde TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##CA4" xmltv_id="Uganda-Cartoon Network">Uganda-Cartoon Network</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##RT4" xmltv_id="Uganda-CBS Reality">Uganda-CBS Reality</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##CTS" xmltv_id="Uganda-Citizen TV">Uganda-Citizen TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##CN4" xmltv_id="Uganda-CNN International">Uganda-CNN International</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##DV7" xmltv_id="Uganda-Da Vinci">Uganda-Da Vinci</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##HDF" xmltv_id="Uganda-Discovery Family">Uganda-Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##DJW" xmltv_id="Uganda-Disney Junior">Uganda-Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##EEW" xmltv_id="Uganda-E! Entertainment Television">Uganda-E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##ET4" xmltv_id="Uganda-e.TV Africa">Uganda-e.TV Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##EM7" xmltv_id="Uganda-Emmanuel TV">Uganda-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##E1W" xmltv_id="Uganda-ESPN">Uganda-ESPN</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##EV7" xmltv_id="Uganda-Eva Plus">Uganda-Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##TBN" xmltv_id="Uganda-FAITH">Uganda-FAITH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##FEW" xmltv_id="Uganda-FOX">Uganda-FOX</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##FL7" xmltv_id="Uganda-FOX Life">Uganda-FOX Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##HDI" xmltv_id="Uganda-Investigation Discovery">Uganda-Investigation Discovery</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##ISW" xmltv_id="Uganda-Islam Channel">Uganda-Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##JJ7" xmltv_id="Uganda-JimJam">Uganda-JimJam</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##KT7" xmltv_id="Uganda-KTN News">Uganda-KTN News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##MZ7" xmltv_id="Uganda-M-Net Movies 4">Uganda-M-Net Movies 4</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##MTW" xmltv_id="Uganda-MTV Base">Uganda-MTV Base</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##NWW" xmltv_id="Uganda-National Geographic WILD">Uganda-National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##NBW" xmltv_id="Uganda-NBS">Uganda-NBS</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##NIW" xmltv_id="Uganda-Nickelodeon">Uganda-Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##NAS" xmltv_id="Uganda-NTVU">Uganda-NTVU</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##PB7" xmltv_id="Uganda-PBS Kids">Uganda-PBS Kids</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##PM7" xmltv_id="Uganda-Pearl Magic">Uganda-Pearl Magic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##RTW" xmltv_id="Uganda-Real Time">Uganda-Real Time</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##ROS" xmltv_id="Uganda-ROK 2">Uganda-ROK 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##SPW" xmltv_id="Uganda-Spark TV">Uganda-Spark TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##HBW" xmltv_id="Uganda-SS Blitz">Uganda-SS Blitz</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##SST" xmltv_id="Uganda-SS Football">Uganda-SS Football</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##SDT" xmltv_id="Uganda-SS La Liga">Uganda-SS La Liga</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##DS3" xmltv_id="Uganda-SS Select 1">Uganda-SS Select 1</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##DS4" xmltv_id="Uganda-SS Select 2">Uganda-SS Select 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##SI7" xmltv_id="Uganda-Star Life">Uganda-Star Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##STS" xmltv_id="Uganda-STN TV">Uganda-STN TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##TE7" xmltv_id="Uganda-Telemundo">Uganda-Telemundo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##TC4" xmltv_id="Uganda-TNT Africa">Uganda-TNT Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##TR7" xmltv_id="Uganda-TRACE Mziki">Uganda-TRACE Mziki</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##TWD" xmltv_id="Uganda-TV West">Uganda-TV West</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##UGS" xmltv_id="Uganda-Uganda Broadcasting Corporation">Uganda-Uganda Broadcasting Corporation</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##UR7" xmltv_id="Uganda-Urban TV">Uganda-Urban TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##ZW7" xmltv_id="Uganda-Zee World">Uganda-Zee World</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##HME" xmltv_id="Uganda-Maisha Magic East">Uganda-Maisha Magic East</channel>
+    <channel update="i" site="gotvafrica.com" site_id="ug##AFS" xmltv_id="Uganda-Afro Music">Uganda-Afro Music</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##AFM" xmltv_id="Zambia-Africa Magic Family">Zambia-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##IA9" xmltv_id="Zambia-AfricaMagic Epic">Zambia-AfricaMagic Epic</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##CEE" xmltv_id="Zambia-africanews">Zambia-africanews</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##AFS" xmltv_id="Zambia-Afro Music">Zambia-Afro Music</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##ALJ" xmltv_id="Zambia-Al Jazeera">Zambia-Al Jazeera</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##B4U" xmltv_id="Zambia-B4U Movies">Zambia-B4U Movies</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##BB8" xmltv_id="Zambia-BBC World News">Zambia-BBC World News</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##BHD" xmltv_id="Zambia-BET">Zambia-BET</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##O2W" xmltv_id="Zambia-Big Brother Naija">Zambia-Big Brother Naija</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##CMT" xmltv_id="Zambia-Camnet">Zambia-Camnet</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##CA4" xmltv_id="Zambia-Cartoon Network">Zambia-Cartoon Network</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##ZZ1" xmltv_id="Zambia-CBC">Zambia-CBC</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##RT4" xmltv_id="Zambia-CBS Reality">Zambia-CBS Reality</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##TYT" xmltv_id="Zambia-City TV">Zambia-City TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##CNN" xmltv_id="Zambia-CNN International">Zambia-CNN International</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##DV7" xmltv_id="Zambia-Da Vinci">Zambia-Da Vinci</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##DTV" xmltv_id="Zambia-Diamond TV">Zambia-Diamond TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##F32" xmltv_id="Zambia-Discovery Family">Zambia-Discovery Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##DPH" xmltv_id="Zambia-Disney Junior">Zambia-Disney Junior</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##E26" xmltv_id="Zambia-E! Entertainment Television">Zambia-E! Entertainment Television</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##ETA" xmltv_id="Zambia-e.TV Africa">Zambia-e.TV Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##A29" xmltv_id="Zambia-EDU TV">Zambia-EDU TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##EMM" xmltv_id="Zambia-Emmanuel TV">Zambia-Emmanuel TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##ENH" xmltv_id="Zambia-eNCA">Zambia-eNCA</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##EV7" xmltv_id="Zambia-Eva Plus">Zambia-Eva Plus</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##TBK" xmltv_id="Zambia-FAITH">Zambia-FAITH</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##FEW" xmltv_id="Zambia-FOX">Zambia-FOX</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##FOC" xmltv_id="Zambia-FOX Life">Zambia-FOX Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##HTV" xmltv_id="Zambia-Hope TV">Zambia-Hope TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##HDI" xmltv_id="Zambia-Investigation Discovery">Zambia-Investigation Discovery</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##ART" xmltv_id="Zambia-Islam Channel">Zambia-Islam Channel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##JJM" xmltv_id="Zambia-JimJam">Zambia-JimJam</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##MZ7" xmltv_id="Zambia-M-Net Movies 4">Zambia-M-Net Movies 4</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##B33" xmltv_id="Zambia-MTV Base">Zambia-MTV Base</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##MZB" xmltv_id="Zambia-Mzansi Bioskop">Zambia-Mzansi Bioskop</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##NGW" xmltv_id="Zambia-National Geographic WILD">Zambia-National Geographic WILD</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##NKA" xmltv_id="Zambia-Nickelodeon">Zambia-Nickelodeon</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##1ZW" xmltv_id="Zambia-OneZED">Zambia-OneZED</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##PTZ" xmltv_id="Zambia-Parliament TV Zambia">Zambia-Parliament TV Zambia</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##PB7" xmltv_id="Zambia-PBS Kids">Zambia-PBS Kids</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##RTW" xmltv_id="Zambia-Real Time">Zambia-Real Time</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##RTV" xmltv_id="Zambia-Revelation TV">Zambia-Revelation TV</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##ROS" xmltv_id="Zambia-ROK 2">Zambia-ROK 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##HBW" xmltv_id="Zambia-SS Blitz">Zambia-SS Blitz</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##SST" xmltv_id="Zambia-SS Football">Zambia-SS Football</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##SDT" xmltv_id="Zambia-SS La Liga">Zambia-SS La Liga</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##DS3" xmltv_id="Zambia-SS Select 1">Zambia-SS Select 1</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##DS4" xmltv_id="Zambia-SS Select 2">Zambia-SS Select 2</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##SI7" xmltv_id="Zambia-Star Life">Zambia-Star Life</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##TEL" xmltv_id="Zambia-Telemundo">Zambia-Telemundo</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##TC4" xmltv_id="Zambia-TNT Africa">Zambia-TNT Africa</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##TG7" xmltv_id="Zambia-TRACE Gospel">Zambia-TRACE Gospel</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##M11" xmltv_id="Zambia-Zee World">Zambia-Zee World</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##ZBK" xmltv_id="Zambia-ZNBC">Zambia-ZNBC</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##AMW" xmltv_id="Zambia-Africa Magic Family">Zambia-Africa Magic Family</channel>
+    <channel update="i" site="gotvafrica.com" site_id="zm##FL7" xmltv_id="Zambia-FOX Life">Zambia-FOX Life</channel>
+  </channels>
+</site>

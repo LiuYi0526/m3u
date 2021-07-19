@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" site="ncplus.pl">
+  <channels>
+    <channel update="i" site="ncplus.pl" site_id="canal-hd" xmltv_id="CANAL+ Premium">CANAL+ Premium</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-1" xmltv_id="CANAL+ 1 HD">CANAL+ 1 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-film-hd" xmltv_id="CANAL+ FILM HD">CANAL+ FILM HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-seriale" xmltv_id="CANAL+ SERIALE HD">CANAL+ SERIALE HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-family-hd" xmltv_id="CANAL+ FAMILY HD">CANAL+ FAMILY HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-discovery" xmltv_id="CANAL+ DOKUMENT HD">CANAL+ DOKUMENT HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-sport-hd" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-sport-2" xmltv_id="CANAL+ SPORT 2 HD">CANAL+ SPORT 2 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-sport-3" xmltv_id="CANAL+ SPORT 3 HD">CANAL+ SPORT 3 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-sport-4" xmltv_id="CANAL+ SPORT 4 HD">CANAL+ SPORT 4 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="38" xmltv_id="CANAL+ NOW">CANAL+ NOW</channel>
+    <channel update="i" site="ncplus.pl" site_id="nsport-hd" xmltv_id="nSport+ HD">nSport+ HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="ale-kino-hd" xmltv_id="ALE KINO+ HD">ALE KINO+ HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="minimini-hd" xmltv_id="MiniMini+ HD">MiniMini+ HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="teletoon-hd" xmltv_id="teleTOON+ HD">teleTOON+ HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="planete-hd" xmltv_id="Planete+ HD">Planete+ HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="kuchnia-hd" xmltv_id="Kuchnia+ HD">Kuchnia+ HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="domo-hd" xmltv_id="Domo+ HD">Domo+ HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvn-hd" xmltv_id="TVN HD">TVN HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvn-7-hd" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvn-style-hd" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvn-turbo-hd" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="ttv" xmltv_id="TTV HD">TTV HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvn-24-hd" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-hd" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tv-4" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-2" xmltv_id="Polsat 2 HD">Polsat 2 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-1-hd" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-2-hd" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-hd" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-seriale" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-info" xmltv_id="TVP INFO">TVP INFO</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-kultura" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-polonia" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-historia" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-rozrywka" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="ncplus.pl" site_id="tv-puls" xmltv_id="TV PULS">TV PULS</channel>
+    <channel update="i" site="ncplus.pl" site_id="tv-6" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-news-2" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-news-hd" xmltv_id="Polsat News HD">Polsat News HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvn-biznes-i-swiat" xmltv_id="TVN24 BiS HD">TVN24 BiS HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvn-meteo-active" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="ncplus.pl" site_id="metro-tv" xmltv_id="METRO">METRO</channel>
+    <channel update="i" site="ncplus.pl" site_id="superstacja" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="ncplus.pl" site_id="puls-2" xmltv_id="Puls2">Puls2</channel>
+    <channel update="i" site="ncplus.pl" site_id="cinemax-hd" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="cinemax2-hd" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="hbo2-hd" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="hbo-comedy-hd" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="fox-hd" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="fox-comedy-hd" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="axn-hd" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="axn-spin-hd" xmltv_id="AXN Spin HD">AXN Spin HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="mgm-hd" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="ncplus.pl" site_id="romance-tv-hd" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="sundance-hd" xmltv_id="Sundance TV HD">Sundance TV HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-film-hd" xmltv_id="Polsat Film HD">Polsat Film HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="paramount-channel-hd" xmltv_id="Paramount Channel HD">Paramount Channel HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="kino-polska" xmltv_id="Kino Polska HD">Kino Polska HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="ncplus.pl" site_id="axn-black" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="ncplus.pl" site_id="filmbox" xmltv_id="Kino TV HD">Kino TV HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="comedy-central-family" xmltv_id="Polsat Comedy Central Extra">Polsat Comedy Central Extra</channel>
+    <channel update="i" site="ncplus.pl" site_id="Epic-HD" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="ncplus.pl" site_id="bbc-hd" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvn-fabula-hd" xmltv_id="TVN Fabula HD">TVN Fabula HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="TNT" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="13-ulica" xmltv_id="13 Ulica HD">13 Ulica HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="discovery-channel-hd" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="discovery-science" xmltv_id="D. SCIENCE HD">D. SCIENCE HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="discovery-historia" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="ncplus.pl" site_id="bbc-earth-hd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="national-geographic-hd" xmltv_id="National Geo HD">National Geo HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="nat-geo-wild-hd" xmltv_id="NATIONAL GEOGRAPHIC WILD HD">NATIONAL GEOGRAPHIC WILD HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="history-hd" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="h2-hd" xmltv_id="HISTORY 2 HD">HISTORY 2 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="adventure-hd" xmltv_id="Adventure HD">Adventure HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="travel-channel" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="fokus-tv" xmltv_id="FOKUS TV">FOKUS TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="ncplus.pl" site_id="nick-jr" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="ncplus.pl" site_id="cbeebies" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-jimjam" xmltv_id="Polsat JimJam">Polsat JimJam</channel>
+    <channel update="i" site="ncplus.pl" site_id="baby-tv" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="disney-channel" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="disney-xd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="ncplus.pl" site_id="nickelodeon-hd" xmltv_id="NickToons HD">NickToons HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="ncplus.pl" site_id="cartoon-network" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="boomerang" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-abc" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="ncplus.pl" site_id="da-vinci-learning" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="ncplus.pl" site_id="eurosport-hd" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="eurosport2-hd" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-sport-hd" xmltv_id="TVP Sport HD">TVP Sport HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="discovery-turbo-xtra-hd" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="ncplus.pl" site_id="bbc-brit-hd" xmltv_id="BBC Brit HD">BBC Brit HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-play" xmltv_id="Polsat Play HD">Polsat Play HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="motowizja-tv" xmltv_id="Motowizja HD">Motowizja HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="sportklub" xmltv_id="Sportklub HD">Sportklub HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="extreme-sports" xmltv_id="EXTREME SPORTS HD">EXTREME SPORTS HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-sport-news" xmltv_id="Super Polsat HD">Super Polsat HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="fightklub-hd" xmltv_id="Fightklub HD">Fightklub HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="fightbox" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="active-family" xmltv_id="Active Family">Active Family</channel>
+    <channel update="i" site="ncplus.pl" site_id="eleven-hd" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="eleven-sports-hd" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="eleven-extra-hd" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="eleven-sports-4-hd" xmltv_id="Eleven Sports 4 HD">Eleven Sports 4 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-sport-premium-1" xmltv_id="Polsat Sport Premium 1">Polsat Sport Premium 1</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-sport-premium-2" xmltv_id="Polsat Sport Premium 2">Polsat Sport Premium 2</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-sport-premium-ppv3" xmltv_id="Polsat Sport Premium PPV3">Polsat Sport Premium PPV3</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-sport-premium-ppv4" xmltv_id="Polsat Sport Premium PPV4">Polsat Sport Premium PPV4</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-sport-premium-ppv5" xmltv_id="Polsat Sport Premium PPV5">Polsat Sport Premium PPV5</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-sport-premium-ppv6" xmltv_id="Polsat Sport Premium PPV6">Polsat Sport Premium PPV6</channel>
+    <channel update="i" site="ncplus.pl" site_id="bbc-lifestyle" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-cafe" xmltv_id="Polsat Cafe HD">Polsat Cafe HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="discovery-life" xmltv_id="Discovery Life HD">Discovery Life HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="id-hd" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="lifetime-hd" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="ci-polsat" xmltv_id="Crime+Investigation Polsat HD">Crime+Investigation Polsat HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="mtv-polska" xmltv_id="MTV Polska HD">MTV Polska HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="nat-geo-people-hd" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="e-entertainment" xmltv_id="E!Entertainment HD">E!Entertainment HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="nowa-tv" xmltv_id="Nowa TV">Nowa TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="polsat-romans" xmltv_id="Polsat Seriale">Polsat Seriale</channel>
+    <channel update="i" site="ncplus.pl" site_id="ntl-radomsko" xmltv_id="TVC">TVC</channel>
+    <channel update="i" site="ncplus.pl" site_id="viva-polska" xmltv_id="MTV Music Polska">MTV Music Polska</channel>
+    <channel update="i" site="ncplus.pl" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="mtv-rocks" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="ncplus.pl" site_id="vh1" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="ncplus.pl" site_id="8tv" xmltv_id="ESKA TV">ESKA TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="4-fun-tv" xmltv_id="4 FUN.TV">4 FUN.TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="mjuziktv" xmltv_id="4 Fun Kids">4 Fun Kids</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvdisco" xmltv_id="4 Fun Fit and Dance">4 Fun Fit and Dance</channel>
+    <channel update="i" site="ncplus.pl" site_id="vox-music-tv" xmltv_id="VOX MUSIC TV">VOX MUSIC TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="starstv" xmltv_id="STARS.TV">STARS.TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="kino-polska-muzyka" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="ncplus.pl" site_id="muzotv" xmltv_id="Polsat Music HD">Polsat Music HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="power-tv-1" xmltv_id="Power TV">Power TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="polo-tv" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="disco-polo-music" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="ncplus.pl" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="ncplus.pl" site_id="eska-tv" xmltv_id="ESKA TV EXTRA">ESKA TV EXTRA</channel>
+    <channel update="i" site="ncplus.pl" site_id="wp" xmltv_id="WP">WP</channel>
+    <channel update="i" site="ncplus.pl" site_id="hip-hop-tv" xmltv_id="ESKA ROCK TV">ESKA ROCK TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="viasat-history-hd" xmltv_id="Polsat Viasat History HD">Polsat Viasat History HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="viasat-nature" xmltv_id="Polsat Viasat Nature HD">Polsat Viasat Nature HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="viasat-explore-hd" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="filmbox-hd" xmltv_id="FILMBOX EXTRA HD">FILMBOX EXTRA HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="filmbox-extra" xmltv_id="FILMBOX PREMIUM HD">FILMBOX PREMIUM HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="filmbox-family" xmltv_id="FILMBOX FAMILY">FILMBOX FAMILY</channel>
+    <channel update="i" site="ncplus.pl" site_id="filmbox-action" xmltv_id="FILMBOX ACTION">FILMBOX ACTION</channel>
+    <channel update="i" site="ncplus.pl" site_id="filmbox-arthouse" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel update="i" site="ncplus.pl" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="ncplus.pl" site_id="cbs-europa" xmltv_id="CBS Europa HD">CBS Europa HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="stopklatka-tv" xmltv_id="Stopklatka TV">Stopklatka TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="sci-fi" xmltv_id="Sci fi HD">Sci fi HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="blue-hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="ncplus.pl" site_id="private-tv" xmltv_id="Private TV HD">Private TV HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="redlight-hd" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="tv-republika" xmltv_id="TV Republika">TV Republika</channel>
+    <channel update="i" site="ncplus.pl" site_id="tvp-regionalna" xmltv_id="TVP 3">TVP 3</channel>
+    <channel update="i" site="ncplus.pl" site_id="polonia-1" xmltv_id="Polonia 1">Polonia 1</channel>
+    <channel update="i" site="ncplus.pl" site_id="tele5" xmltv_id="Tele5">Tele5</channel>
+    <channel update="i" site="ncplus.pl" site_id="itv" xmltv_id="GOLD TV">GOLD TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="cnn" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="ncplus.pl" site_id="hustler-3d-hd" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="dorcel-tv" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="food-network-hd" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="ncplus.pl" site_id="zoom-tv" xmltv_id="Zoom TV">Zoom TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="uatv" xmltv_id="UA-TV">UA-TV</channel>
+    <channel update="i" site="ncplus.pl" site_id="tbn-polska" xmltv_id="TBN Polska">TBN Polska</channel>
+    <channel update="i" site="ncplus.pl" site_id="canal-4k-ultra-hd" xmltv_id="CANAL+ 4K ULTRA HD">CANAL+ 4K ULTRA HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="biznes24-hd" xmltv_id="BIZNES24 HD">BIZNES24 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="kanal-wirtualny3" xmltv_id="Kanał wirtualny 3">Kanał wirtualny 3</channel>
+    <channel update="i" site="ncplus.pl" site_id="novelas-2" xmltv_id="Novelas+">Novelas+</channel>
+  </channels>
+</site>

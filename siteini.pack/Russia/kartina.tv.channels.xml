@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="kartina.tv">
+  <channels>
+    <channel update="i" site="kartina.tv" site_id="815" xmltv_id="Первый HD(DVB-T)">Первый HD(DVB-T)</channel>
+    <channel update="i" site="kartina.tv" site_id="817" xmltv_id="Россия 1 HD">Россия 1 HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1521" xmltv_id="НТВ HD">НТВ HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1543" xmltv_id="НТВ Америка HD">НТВ Америка HD</channel>
+    <channel update="i" site="kartina.tv" site_id="7" xmltv_id="Рен ТВ HD">Рен ТВ HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2035" xmltv_id="ТНТ HD">ТНТ HD</channel>
+    <channel update="i" site="kartina.tv" site_id="5" xmltv_id="ТВЦ HD">ТВЦ HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1533" xmltv_id="TVCI">TVCI</channel>
+    <channel update="i" site="kartina.tv" site_id="2305" xmltv_id="СТС Премиум HD">СТС Премиум HD</channel>
+    <channel update="i" site="kartina.tv" site_id="9" xmltv_id="СТС">СТС</channel>
+    <channel update="i" site="kartina.tv" site_id="1053" xmltv_id="Дождь">Дождь</channel>
+    <channel update="i" site="kartina.tv" site_id="61" xmltv_id="5 канал Петербург">5 канал Петербург</channel>
+    <channel update="i" site="kartina.tv" site_id="14" xmltv_id="Домашний">Домашний</channel>
+    <channel update="i" site="kartina.tv" site_id="1783" xmltv_id="Новый мир">Новый мир</channel>
+    <channel update="i" site="kartina.tv" site_id="1913" xmltv_id="7D7TV">7D7TV</channel>
+    <channel update="i" site="kartina.tv" site_id="1781" xmltv_id="Центральное Телевидение">Центральное Телевидение</channel>
+    <channel update="i" site="kartina.tv" site_id="85" xmltv_id="ТВ3">ТВ3</channel>
+    <channel update="i" site="kartina.tv" site_id="15" xmltv_id="Че!">Че!</channel>
+    <channel update="i" site="kartina.tv" site_id="1481" xmltv_id="Перец International">Перец International</channel>
+    <channel update="i" site="kartina.tv" site_id="1547" xmltv_id="RTVi">RTVi</channel>
+    <channel update="i" site="kartina.tv" site_id="1525" xmltv_id="8 канал">8 канал</channel>
+    <channel update="i" site="kartina.tv" site_id="2189" xmltv_id="360 HD">360 HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2317" xmltv_id="BestMarket.TV">BestMarket.TV</channel>
+    <channel update="i" site="kartina.tv" site_id="2227" xmltv_id="Ювелирочка">Ювелирочка</channel>
+    <channel update="i" site="kartina.tv" site_id="2287" xmltv_id="Viasat History Channel">Viasat History Channel</channel>
+    <channel update="i" site="kartina.tv" site_id="2285" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="kartina.tv" site_id="1455" xmltv_id="История">История</channel>
+    <channel update="i" site="kartina.tv" site_id="26" xmltv_id="Россия К">Россия К</channel>
+    <channel update="i" site="kartina.tv" site_id="71" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="kartina.tv" site_id="2125" xmltv_id="Тайны галактики HD(тест)">Тайны галактики HD(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="2015" xmltv_id="НТВ Право">НТВ Право</channel>
+    <channel update="i" site="kartina.tv" site_id="603" xmltv_id="HDL">HDL</channel>
+    <channel update="i" site="kartina.tv" site_id="795" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="kartina.tv" site_id="797" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="kartina.tv" site_id="41" xmltv_id="TOP SECRET">TOP SECRET</channel>
+    <channel update="i" site="kartina.tv" site_id="235" xmltv_id="Кто есть кто">Кто есть кто</channel>
+    <channel update="i" site="kartina.tv" site_id="89" xmltv_id="365 дней ТВ">365 дней ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="1515" xmltv_id="RTД HD">RTД HD</channel>
+    <channel update="i" site="kartina.tv" site_id="605" xmltv_id="Наука HD">Наука HD</channel>
+    <channel update="i" site="kartina.tv" site_id="28" xmltv_id="Доктор">Доктор</channel>
+    <channel update="i" site="kartina.tv" site_id="2041" xmltv_id="Бобёр">Бобёр</channel>
+    <channel update="i" site="kartina.tv" site_id="253" xmltv_id="ТелеКафе">ТелеКафе</channel>
+    <channel update="i" site="kartina.tv" site_id="2283" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="kartina.tv" site_id="1437" xmltv_id="Живая Планета">Живая Планета</channel>
+    <channel update="i" site="kartina.tv" site_id="799" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="kartina.tv" site_id="2173" xmltv_id="Живая природа HD(тест)">Живая природа HD(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="2177" xmltv_id="HOME 4K(тест)">HOME 4K(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="2175" xmltv_id="Глазами Туриста HD(тест)">Глазами Туриста HD(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="1089" xmltv_id="Моя Планета HD">Моя Планета HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2121" xmltv_id="КтоКуда(тест)">КтоКуда(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="205" xmltv_id="Russian Travel Guide HD">Russian Travel Guide HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1453" xmltv_id="Техно 24">Техно 24</channel>
+    <channel update="i" site="kartina.tv" site_id="1489" xmltv_id="Рыбалка и охота">Рыбалка и охота</channel>
+    <channel update="i" site="kartina.tv" site_id="2247" xmltv_id="Диалоги о рыбалке">Диалоги о рыбалке</channel>
+    <channel update="i" site="kartina.tv" site_id="2145" xmltv_id="Дикий">Дикий</channel>
+    <channel update="i" site="kartina.tv" site_id="237" xmltv_id="Авто плюс">Авто плюс</channel>
+    <channel update="i" site="kartina.tv" site_id="1177" xmltv_id="Мужской">Мужской</channel>
+    <channel update="i" site="kartina.tv" site_id="51" xmltv_id="Кухня ТВ">Кухня ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="2123" xmltv_id="Первый Вегетарианский HD(тест)">Первый Вегетарианский HD(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="2149" xmltv_id="ЖиВи!">ЖиВи!</channel>
+    <channel update="i" site="kartina.tv" site_id="1175" xmltv_id="Загородная жизнь">Загородная жизнь</channel>
+    <channel update="i" site="kartina.tv" site_id="1457" xmltv_id="Мама">Мама</channel>
+    <channel update="i" site="kartina.tv" site_id="137" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="kartina.tv" site_id="339" xmltv_id="EuroNews">EuroNews</channel>
+    <channel update="i" site="kartina.tv" site_id="6" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="kartina.tv" site_id="2295" xmltv_id="Настоящее Время HD">Настоящее Время HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2143" xmltv_id="Известия HD">Известия HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2127" xmltv_id="360 Новости">360 Новости</channel>
+    <channel update="i" site="kartina.tv" site_id="73" xmltv_id="РБК ТВ">РБК ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="39" xmltv_id="Пятница!">Пятница!</channel>
+    <channel update="i" site="kartina.tv" site_id="2217" xmltv_id="Суббота!">Суббота!</channel>
+    <channel update="i" site="kartina.tv" site_id="1451" xmltv_id="Сарафан">Сарафан</channel>
+    <channel update="i" site="kartina.tv" site_id="1935" xmltv_id="ТНТ 4">ТНТ 4</channel>
+    <channel update="i" site="kartina.tv" site_id="13" xmltv_id="Ностальгия">Ностальгия</channel>
+    <channel update="i" site="kartina.tv" site_id="37" xmltv_id="Канал «Ю»(тест)">Канал «Ю»(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="801" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="kartina.tv" site_id="2017" xmltv_id="НТВ Стиль">НТВ Стиль</channel>
+    <channel update="i" site="kartina.tv" site_id="2019" xmltv_id="КВН ТВ">КВН ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="2223" xmltv_id="CTC Love">CTC Love</channel>
+    <channel update="i" site="kartina.tv" site_id="2093" xmltv_id="Kartina Live">Kartina Live</channel>
+    <channel update="i" site="kartina.tv" site_id="91" xmltv_id="Время">Время</channel>
+    <channel update="i" site="kartina.tv" site_id="1449" xmltv_id="Мульт HD">Мульт HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2213" xmltv_id="Мультимузыка">Мультимузыка</channel>
+    <channel update="i" site="kartina.tv" site_id="2225" xmltv_id="CTC Kids HD">CTC Kids HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2211" xmltv_id="Ani">Ani</channel>
+    <channel update="i" site="kartina.tv" site_id="1093" xmltv_id="В гостях у сказки">В гостях у сказки</channel>
+    <channel update="i" site="kartina.tv" site_id="20" xmltv_id="Мультиландия">Мультиландия</channel>
+    <channel update="i" site="kartina.tv" site_id="845" xmltv_id="TiJi">TiJi</channel>
+    <channel update="i" site="kartina.tv" site_id="847" xmltv_id="Gulli Girl">Gulli Girl</channel>
+    <channel update="i" site="kartina.tv" site_id="1747" xmltv_id="Карамелька">Карамелька</channel>
+    <channel update="i" site="kartina.tv" site_id="1201" xmltv_id="Детский мир">Детский мир</channel>
+    <channel update="i" site="kartina.tv" site_id="1551" xmltv_id="Смайлик ТВ">Смайлик ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="19" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="kartina.tv" site_id="2039" xmltv_id="О!">О!</channel>
+    <channel update="i" site="kartina.tv" site_id="895" xmltv_id="Муз-ТВ">Муз-ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="22" xmltv_id="RU TV">RU TV</channel>
+    <channel update="i" site="kartina.tv" site_id="725" xmltv_id="Шансон ТВ">Шансон ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="23" xmltv_id="Жара">Жара</channel>
+    <channel update="i" site="kartina.tv" site_id="647" xmltv_id="Europa Plus TV">Europa Plus TV</channel>
+    <channel update="i" site="kartina.tv" site_id="229" xmltv_id="Russian Music Box HD">Russian Music Box HD</channel>
+    <channel update="i" site="kartina.tv" site_id="49" xmltv_id="Ля-Минор. Мой Музыкальный">Ля-Минор. Мой Музыкальный</channel>
+    <channel update="i" site="kartina.tv" site_id="2281" xmltv_id="1HD Music Television">1HD Music Television</channel>
+    <channel update="i" site="kartina.tv" site_id="2303" xmltv_id="AIVA TV">AIVA TV</channel>
+    <channel update="i" site="kartina.tv" site_id="1403" xmltv_id="Первый Музыкальный канал">Первый Музыкальный канал</channel>
+    <channel update="i" site="kartina.tv" site_id="2057" xmltv_id="ТНТ Music">ТНТ Music</channel>
+    <channel update="i" site="kartina.tv" site_id="369" xmltv_id="BRiDGE TV Русский Хит">BRiDGE TV Русский Хит</channel>
+    <channel update="i" site="kartina.tv" site_id="291" xmltv_id="First Music channel">First Music channel</channel>
+    <channel update="i" site="kartina.tv" site_id="589" xmltv_id="MTV LIVE HD">MTV LIVE HD</channel>
+    <channel update="i" site="kartina.tv" site_id="21" xmltv_id="Музыка Первого">Музыка Первого</channel>
+    <channel update="i" site="kartina.tv" site_id="27" xmltv_id="Матч! БОЕЦ">Матч! БОЕЦ</channel>
+    <channel update="i" site="kartina.tv" site_id="1261" xmltv_id="Матч! ТВ HD">Матч! ТВ HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2275" xmltv_id="Матч! Премьер HD">Матч! Премьер HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1251" xmltv_id="Матч! Игра HD">Матч! Игра HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1253" xmltv_id="Матч! Арена HD">Матч! Арена HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1539" xmltv_id="БОКС ТВ">БОКС ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="1989" xmltv_id="M-1 Global HD">M-1 Global HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2153" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2155" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2033" xmltv_id="Конный мир HD">Конный мир HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1537" xmltv_id="КХЛ ТВ HD">КХЛ ТВ HD</channel>
+    <channel update="i" site="kartina.tv" site_id="53" xmltv_id="Телеканал КХЛ">Телеканал КХЛ</channel>
+    <channel update="i" site="kartina.tv" site_id="581" xmltv_id="Матч! Футбол 1 HD">Матч! Футбол 1 HD</channel>
+    <channel update="i" site="kartina.tv" site_id="837" xmltv_id="Матч! Футбол 2 HD">Матч! Футбол 2 HD</channel>
+    <channel update="i" site="kartina.tv" site_id="989" xmltv_id="Матч! Футбол 3 HD">Матч! Футбол 3 HD</channel>
+    <channel update="i" site="kartina.tv" site_id="245" xmltv_id="Матч! Страна">Матч! Страна</channel>
+    <channel update="i" site="kartina.tv" site_id="2315" xmltv_id="Мосфильм. Золотая коллекция">Мосфильм. Золотая коллекция</channel>
+    <channel update="i" site="kartina.tv" site_id="249" xmltv_id="TV1000 Русское Кино">TV1000 Русское Кино</channel>
+    <channel update="i" site="kartina.tv" site_id="2131" xmltv_id="Мужское Кино HD">Мужское Кино HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2129" xmltv_id="Киносвидание HD">Киносвидание HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2133" xmltv_id="Киноужас HD">Киноужас HD</channel>
+    <channel update="i" site="kartina.tv" site_id="833" xmltv_id="Кинохит">Кинохит</channel>
+    <channel update="i" site="kartina.tv" site_id="585" xmltv_id="Кинопремьера HD">Кинопремьера HD</channel>
+    <channel update="i" site="kartina.tv" site_id="87" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="kartina.tv" site_id="259" xmltv_id="Киномикс">Киномикс</channel>
+    <channel update="i" site="kartina.tv" site_id="1107" xmltv_id="Наше новое кино">Наше новое кино</channel>
+    <channel update="i" site="kartina.tv" site_id="831" xmltv_id="Родное кино">Родное кино</channel>
+    <channel update="i" site="kartina.tv" site_id="1105" xmltv_id="Киносемья">Киносемья</channel>
+    <channel update="i" site="kartina.tv" site_id="1439" xmltv_id="Русский Бестселлер">Русский Бестселлер</channel>
+    <channel update="i" site="kartina.tv" site_id="16" xmltv_id="НСТ">НСТ</channel>
+    <channel update="i" site="kartina.tv" site_id="1203" xmltv_id="Наше любимое кино">Наше любимое кино</channel>
+    <channel update="i" site="kartina.tv" site_id="10" xmltv_id="Киносерия">Киносерия</channel>
+    <channel update="i" site="kartina.tv" site_id="2013" xmltv_id="НТВ Сериал">НТВ Сериал</channel>
+    <channel update="i" site="kartina.tv" site_id="1265" xmltv_id="Мир сериала">Мир сериала</channel>
+    <channel update="i" site="kartina.tv" site_id="17" xmltv_id="Индийское кино">Индийское кино</channel>
+    <channel update="i" site="kartina.tv" site_id="2151" xmltv_id="ZEE TV Россия">ZEE TV Россия</channel>
+    <channel update="i" site="kartina.tv" site_id="12" xmltv_id="Дом кино">Дом кино</channel>
+    <channel update="i" site="kartina.tv" site_id="163" xmltv_id="Кинозал 1">Кинозал 1</channel>
+    <channel update="i" site="kartina.tv" site_id="165" xmltv_id="Кинозал 2">Кинозал 2</channel>
+    <channel update="i" site="kartina.tv" site_id="167" xmltv_id="Кинозал 3">Кинозал 3</channel>
+    <channel update="i" site="kartina.tv" site_id="169" xmltv_id="Кинозал 4">Кинозал 4</channel>
+    <channel update="i" site="kartina.tv" site_id="171" xmltv_id="Кинозал 5">Кинозал 5</channel>
+    <channel update="i" site="kartina.tv" site_id="173" xmltv_id="Кинозал 6">Кинозал 6</channel>
+    <channel update="i" site="kartina.tv" site_id="261" xmltv_id="Кинозал HD 1">Кинозал HD 1</channel>
+    <channel update="i" site="kartina.tv" site_id="295" xmltv_id="Кинозал HD 2">Кинозал HD 2</channel>
+    <channel update="i" site="kartina.tv" site_id="297" xmltv_id="Кинозал HD 3">Кинозал HD 3</channel>
+    <channel update="i" site="kartina.tv" site_id="309" xmltv_id="Кинозал HD 4">Кинозал HD 4</channel>
+    <channel update="i" site="kartina.tv" site_id="207" xmltv_id="Кинозал HD 5">Кинозал HD 5</channel>
+    <channel update="i" site="kartina.tv" site_id="393" xmltv_id="Кинозал 3D">Кинозал 3D</channel>
+    <channel update="i" site="kartina.tv" site_id="783" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="kartina.tv" site_id="785" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="kartina.tv" site_id="1991" xmltv_id="PRO7">PRO7</channel>
+    <channel update="i" site="kartina.tv" site_id="1993" xmltv_id="SAT1">SAT1</channel>
+    <channel update="i" site="kartina.tv" site_id="1497" xmltv_id="Kika">Kika</channel>
+    <channel update="i" site="kartina.tv" site_id="1995" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel update="i" site="kartina.tv" site_id="2291" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel update="i" site="kartina.tv" site_id="1997" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel update="i" site="kartina.tv" site_id="763" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="kartina.tv" site_id="2001" xmltv_id="SIXX">SIXX</channel>
+    <channel update="i" site="kartina.tv" site_id="1503" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="kartina.tv" site_id="1499" xmltv_id="3 Sat">3 Sat</channel>
+    <channel update="i" site="kartina.tv" site_id="1509" xmltv_id="BR">BR</channel>
+    <channel update="i" site="kartina.tv" site_id="1501" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="kartina.tv" site_id="1507" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="kartina.tv" site_id="1505" xmltv_id="SR">SR</channel>
+    <channel update="i" site="kartina.tv" site_id="1999" xmltv_id="SAT1 Gold">SAT1 Gold</channel>
+    <channel update="i" site="kartina.tv" site_id="1511" xmltv_id="BBC">BBC</channel>
+    <channel update="i" site="kartina.tv" site_id="1811" xmltv_id="Интер">Интер</channel>
+    <channel update="i" site="kartina.tv" site_id="67" xmltv_id="СТБ">СТБ</channel>
+    <channel update="i" site="kartina.tv" site_id="29" xmltv_id="1+1">1+1</channel>
+    <channel update="i" site="kartina.tv" site_id="81" xmltv_id="2+2">2+2</channel>
+    <channel update="i" site="kartina.tv" site_id="69" xmltv_id="ICTV">ICTV</channel>
+    <channel update="i" site="kartina.tv" site_id="1473" xmltv_id="Перший Незалежний">Перший Незалежний</channel>
+    <channel update="i" site="kartina.tv" site_id="1899" xmltv_id="Украина 24(тест)">Украина 24(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="2313" xmltv_id="Прямий(тест)">Прямий(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="2311" xmltv_id="XSPORT HD">XSPORT HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2139" xmltv_id="Трофей">Трофей</channel>
+    <channel update="i" site="kartina.tv" site_id="1911" xmltv_id="Рибалка ТВ HD">Рибалка ТВ HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1907" xmltv_id="Star Family HD(тест)">Star Family HD(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="1905" xmltv_id="Star Cinema HD(тест)">Star Cinema HD(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="33" xmltv_id="Inter+">Inter+</channel>
+    <channel update="i" site="kartina.tv" site_id="145" xmltv_id="Новый канал">Новый канал</channel>
+    <channel update="i" site="kartina.tv" site_id="2235" xmltv_id="ТЕТ">ТЕТ</channel>
+    <channel update="i" site="kartina.tv" site_id="2299" xmltv_id="FILMUADRAMA (тест)">FILMUADRAMA (тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="30" xmltv_id="5 канал">5 канал</channel>
+    <channel update="i" site="kartina.tv" site_id="2307" xmltv_id="Еспресо TV(тест)">Еспресо TV(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="2167" xmltv_id="UKRAINE 1">UKRAINE 1</channel>
+    <channel update="i" site="kartina.tv" site_id="2169" xmltv_id="UKRAINE 2">UKRAINE 2</channel>
+    <channel update="i" site="kartina.tv" site_id="147" xmltv_id="Перший">Перший</channel>
+    <channel update="i" site="kartina.tv" site_id="1813" xmltv_id="UA TV">UA TV</channel>
+    <channel update="i" site="kartina.tv" site_id="2245" xmltv_id="ОЦЕ">ОЦЕ</channel>
+    <channel update="i" site="kartina.tv" site_id="2241" xmltv_id="M1">M1</channel>
+    <channel update="i" site="kartina.tv" site_id="2243" xmltv_id="M2">M2</channel>
+    <channel update="i" site="kartina.tv" site_id="2165" xmltv_id="NLO TV 2">NLO TV 2</channel>
+    <channel update="i" site="kartina.tv" site_id="2271" xmltv_id="Music Box UA HD">Music Box UA HD</channel>
+    <channel update="i" site="kartina.tv" site_id="213" xmltv_id="9 Канал">9 Канал</channel>
+    <channel update="i" site="kartina.tv" site_id="2207" xmltv_id="Reshet 13(DVB-T)">Reshet 13(DVB-T)</channel>
+    <channel update="i" site="kartina.tv" site_id="2219" xmltv_id="Kанал 11(DVB-T)">Kанал 11(DVB-T)</channel>
+    <channel update="i" site="kartina.tv" site_id="1553" xmltv_id="SONGTV HD Armenia">SONGTV HD Armenia</channel>
+    <channel update="i" site="kartina.tv" site_id="2265" xmltv_id="Armenia HD">Armenia HD</channel>
+    <channel update="i" site="kartina.tv" site_id="737" xmltv_id="Armenia 1 TV">Armenia 1 TV</channel>
+    <channel update="i" site="kartina.tv" site_id="2251" xmltv_id="Armenia 1 HD">Armenia 1 HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1803" xmltv_id="Armenia 2 TV">Armenia 2 TV</channel>
+    <channel update="i" site="kartina.tv" site_id="1807" xmltv_id="Kentron TV">Kentron TV</channel>
+    <channel update="i" site="kartina.tv" site_id="2259" xmltv_id="Ararat HD">Ararat HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1549" xmltv_id="YERKIRMEDIA TV">YERKIRMEDIA TV</channel>
+    <channel update="i" site="kartina.tv" site_id="2267" xmltv_id="Armenia News HD">Armenia News HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2043" xmltv_id="ARTN HD">ARTN HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2067" xmltv_id="Atv HD">Atv HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2255" xmltv_id="H3">H3</channel>
+    <channel update="i" site="kartina.tv" site_id="2065" xmltv_id="Dar21">Dar21</channel>
+    <channel update="i" site="kartina.tv" site_id="1809" xmltv_id="Shoghakat TV">Shoghakat TV</channel>
+    <channel update="i" site="kartina.tv" site_id="149" xmltv_id="Беларусь 24">Беларусь 24</channel>
+    <channel update="i" site="kartina.tv" site_id="47" xmltv_id="ТСВ">ТСВ</channel>
+    <channel update="i" site="kartina.tv" site_id="2137" xmltv_id="Первый ПМР">Первый ПМР</channel>
+    <channel update="i" site="kartina.tv" site_id="787" xmltv_id="Kazakh TV">Kazakh TV</channel>
+    <channel update="i" site="kartina.tv" site_id="151" xmltv_id="Грозный ТВ">Грозный ТВ</channel>
+    <channel update="i" site="kartina.tv" site_id="2073" xmltv_id="Jurnal TV">Jurnal TV</channel>
+    <channel update="i" site="kartina.tv" site_id="2075" xmltv_id="Publika TV">Publika TV</channel>
+    <channel update="i" site="kartina.tv" site_id="729" xmltv_id="ТНВ - Планета">ТНВ - Планета</channel>
+    <channel update="i" site="kartina.tv" site_id="2277" xmltv_id="Zor TV (тест)">Zor TV (тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="1785" xmltv_id="UZREPORT">UZREPORT</channel>
+    <channel update="i" site="kartina.tv" site_id="2069" xmltv_id="Канал Milliy">Канал Milliy</channel>
+    <channel update="i" site="kartina.tv" site_id="777" xmltv_id="Uzbekistan">Uzbekistan</channel>
+    <channel update="i" site="kartina.tv" site_id="2269" xmltv_id="Uzbekistan 24">Uzbekistan 24</channel>
+    <channel update="i" site="kartina.tv" site_id="1903" xmltv_id="BIZ TV (тест)">BIZ TV (тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="2221" xmltv_id="Imedi HD">Imedi HD</channel>
+    <channel update="i" site="kartina.tv" site_id="719" xmltv_id="AzTV">AzTV</channel>
+    <channel update="i" site="kartina.tv" site_id="1099" xmltv_id="Xəzər TV">Xəzər TV</channel>
+    <channel update="i" site="kartina.tv" site_id="1101" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="kartina.tv" site_id="1791" xmltv_id="Таджикистан">Таджикистан</channel>
+    <channel update="i" site="kartina.tv" site_id="1789" xmltv_id="Джахоннамо">Джахоннамо</channel>
+    <channel update="i" site="kartina.tv" site_id="1787" xmltv_id="Сафина">Сафина</channel>
+    <channel update="i" site="kartina.tv" site_id="1793" xmltv_id="Бахористон">Бахористон</channel>
+    <channel update="i" site="kartina.tv" site_id="765" xmltv_id="LTV1">LTV1</channel>
+    <channel update="i" site="kartina.tv" site_id="861" xmltv_id="LTV7">LTV7</channel>
+    <channel update="i" site="kartina.tv" site_id="769" xmltv_id="TV3 Life">TV3 Life</channel>
+    <channel update="i" site="kartina.tv" site_id="767" xmltv_id="TV3 Latvia">TV3 Latvia</channel>
+    <channel update="i" site="kartina.tv" site_id="2237" xmltv_id="LRT HD">LRT HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2239" xmltv_id="LNK Lithuania">LNK Lithuania</channel>
+    <channel update="i" site="kartina.tv" site_id="771" xmltv_id="TV3 Lithuania">TV3 Lithuania</channel>
+    <channel update="i" site="kartina.tv" site_id="733" xmltv_id="Радость моя(тест)">Радость моя(тест)</channel>
+    <channel update="i" site="kartina.tv" site_id="381" xmltv_id="Спас">Спас</channel>
+    <channel update="i" site="kartina.tv" site_id="377" xmltv_id="Союз">Союз</channel>
+    <channel update="i" site="kartina.tv" site_id="269" xmltv_id="ТБН Россия">ТБН Россия</channel>
+    <channel update="i" site="kartina.tv" site_id="129" xmltv_id="CNL">CNL</channel>
+    <channel update="i" site="kartina.tv" site_id="2049" xmltv_id="Impact">Impact</channel>
+    <channel update="i" site="kartina.tv" site_id="2273" xmltv_id="Vivid Red HD">Vivid Red HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1057" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="kartina.tv" site_id="1059" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="kartina.tv" site_id="1061" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel update="i" site="kartina.tv" site_id="2037" xmltv_id="Vivid TV">Vivid TV</channel>
+    <channel update="i" site="kartina.tv" site_id="2233" xmltv_id="O-la-la">O-la-la</channel>
+    <channel update="i" site="kartina.tv" site_id="257" xmltv_id="Русская ночь">Русская ночь</channel>
+  </channels>
+</site>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="dubaione.ae">
+  <channels>
+    <channel update="i" site="dubaione_en.ae" site_id="dubaione" xmltv_id="Dubai One">Dubai One</channel>
+  </channels>
+</site>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="aljazeera.com">
+  <channels>
+    <channel update="i" site="aljazeera.com" site_id="aje" xmltv_id="AlJazeera English">AlJazeera English</channel>
+    <channel update="i" site="aljazeera.com" site_id="aja" xmltv_id="AlJazeera Arabic">AlJazeera Arabic</channel>
+  </channels>
+</site>

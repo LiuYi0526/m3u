@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="htv.com.vn">
+  <channels>
+    <channel update="i" site="htv.com.vn" site_id="htv7##1" xmltv_id="HTV7">HTV7</channel>
+    <channel update="i" site="htv.com.vn" site_id="htv9##3" xmltv_id="HTV9">HTV9</channel>
+    <channel update="i" site="htv.com.vn" site_id="htvtt##10" xmltv_id="HTVTT">HTVTT</channel>
+    <channel update="i" site="htv.com.vn" site_id="htv1##11" xmltv_id="HTV1">HTV1</channel>
+    <channel update="i" site="htv.com.vn" site_id="htv2##12" xmltv_id="HTV2">HTV2</channel>
+    <channel update="i" site="htv.com.vn" site_id="htv3##13" xmltv_id="HTV3">HTV3</channel>
+    <channel update="i" site="htv.com.vn" site_id="htv4##14" xmltv_id="HTV4">HTV4</channel>
+  </channels>
+</site>

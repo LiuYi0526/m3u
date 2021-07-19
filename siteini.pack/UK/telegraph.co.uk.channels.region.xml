@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="telegraph.co.uk">
+  <channels>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##89007aa9-d0ad-5766-b040-1792b55973c5" xmltv_id="BT - Cambridgeshire">BT - Cambridgeshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##9990c014-49fd-5cce-849e-e42ce79fcc50" xmltv_id="BT - Channel Islands">BT - Channel Islands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##731a8c06-b92e-530d-8422-757610951b97" xmltv_id="BT - Cumbria">BT - Cumbria</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##bf34e927-96a5-5bb1-96a3-e4fb1d1e9106" xmltv_id="BT - East">BT - East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##131b6e7a-9a8a-58d5-a8ee-f7340e552e02" xmltv_id="BT - East Midlands">BT - East Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##6fc91c8e-7b21-5232-9668-495c363ea788" xmltv_id="BT - London">BT - London</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##bf2185dd-5dff-5cd5-b8c1-0781e2823280" xmltv_id="BT - North East">BT - North East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##79417c14-0c0f-53cc-a825-87179f3716b4" xmltv_id="BT - North West">BT - North West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##81e95d97-35fa-5c7b-9174-f1d74439d15d" xmltv_id="BT - Northern Ireland">BT - Northern Ireland</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##1e6c7f38-4c1c-5bf2-9bc7-78ecb9f68bb8" xmltv_id="BT - Oxfordshire">BT - Oxfordshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##f7ff4a04-c2ac-5afa-b48c-87a7deaea960" xmltv_id="BT - Scotland (Borders)">BT - Scotland (Borders)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##b65ec31c-eaf7-5bd9-9f31-ab7445d03bd9" xmltv_id="BT - Scotland (Central)">BT - Scotland (Central)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##adeef78a-1dd0-5d17-b095-44af9ea62adf" xmltv_id="BT - Scotland (North)">BT - Scotland (North)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##8d94054e-3256-5380-91fd-ccc093a1b259" xmltv_id="BT - South">BT - South</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##0f9d0570-837b-5f6e-abdc-0315a7588ecd" xmltv_id="BT - South East">BT - South East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##cc638e9e-2411-5e3d-a0a2-779a01031ce8" xmltv_id="BT - South West">BT - South West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##21e22dd3-d1ef-554c-a4a3-c9f3bb404c9d" xmltv_id="BT - Wales">BT - Wales</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##b6b44be8-8c6b-5f9a-bfd9-3890b29875f5" xmltv_id="BT - West">BT - West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##42d784d9-43af-5da3-90df-f83426e9ac4b" xmltv_id="BT - West Midlands">BT - West Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##7ed72881-ddd6-54e3-8acd-1433d9a91218" xmltv_id="BT - Yorkshire">BT - Yorkshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f55acb3b-a288-5ff7-962b-0da29811d046##71b21dc4-953a-590d-bbd5-c0f6b18d9c33" xmltv_id="BT - Yorkshire &amp; Lincolnshire">BT - Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##6a329b4a-0f0c-5277-976e-d89ce92b7994" xmltv_id="FREEVIEW - Cambridgeshire">FREEVIEW - Cambridgeshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##8f20db5c-409b-5fbc-b23f-129f5e7c1550" xmltv_id="FREEVIEW - Channel Islands">FREEVIEW - Channel Islands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##9c8768f1-4d79-5a6f-99b6-1db267e4c74e" xmltv_id="FREEVIEW - Cumbria">FREEVIEW - Cumbria</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##feef8097-477e-5521-a809-28ec9a9fb6bb" xmltv_id="FREEVIEW - East">FREEVIEW - East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##d6ecb20a-c6b4-5348-b11b-ea2ea29388da" xmltv_id="FREEVIEW - East Midlands">FREEVIEW - East Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##ea5c70a7-e135-502b-8709-127acb445b1c" xmltv_id="FREEVIEW - London">FREEVIEW - London</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##f04b036b-4738-5e43-988a-8d8e36057be1" xmltv_id="FREEVIEW - North East">FREEVIEW - North East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##6e53e895-e133-5c94-813a-1446091c7d60" xmltv_id="FREEVIEW - North West">FREEVIEW - North West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##9fd93c62-0775-5dd8-8552-ebda758d0cf3" xmltv_id="FREEVIEW - Northern Ireland">FREEVIEW - Northern Ireland</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##96615bed-8cb9-53fc-849b-7aa8d941f966" xmltv_id="FREEVIEW - Oxfordshire">FREEVIEW - Oxfordshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##02b6f91f-760e-5373-b5b4-7c81a31979ae" xmltv_id="FREEVIEW - Scotland (Borders)">FREEVIEW - Scotland (Borders)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##18ec523d-dab5-56c7-adb0-5147f3b9f9fd" xmltv_id="FREEVIEW - Scotland (Central)">FREEVIEW - Scotland (Central)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##eae76e45-2e9b-5540-a839-40245748b046" xmltv_id="FREEVIEW - Scotland (North)">FREEVIEW - Scotland (North)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##49c82ea5-f56e-5185-8414-b590317789e8" xmltv_id="FREEVIEW - South">FREEVIEW - South</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##5f99ee43-de04-57fa-8c98-f1134651082b" xmltv_id="FREEVIEW - South East">FREEVIEW - South East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##a2b5e0e4-08e5-5c34-9e0d-eb17fb414940" xmltv_id="FREEVIEW - South West">FREEVIEW - South West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##a0415f33-771e-588d-8018-6c16c78da563" xmltv_id="FREEVIEW - Wales">FREEVIEW - Wales</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##c7e9b074-a931-5566-80ca-d0ba13d62673" xmltv_id="FREEVIEW - West">FREEVIEW - West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##73b39966-4be5-534b-9e0b-6e63762e6986" xmltv_id="FREEVIEW - West Midlands">FREEVIEW - West Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##483f5dc2-17b8-5e47-89a0-e1c908e98d23" xmltv_id="FREEVIEW - Yorkshire">FREEVIEW - Yorkshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="f00688ce-618e-52bd-ac1b-6829e20fc236##afcc2e5e-d0ff-5ed5-916a-c674cf3b5037" xmltv_id="FREEVIEW - Yorkshire &amp; Lincolnshire">FREEVIEW - Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##b7ca55cd-8528-5422-bb04-5c14491a3274" xmltv_id="SKY - Anglia">SKY - Anglia</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##de884ff9-8ab7-5edc-a16a-7f4ad9dbf166" xmltv_id="SKY - Cambridgeshire">SKY - Cambridgeshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##b21a3fcd-36cd-5d12-8536-52cdc9ef63b4" xmltv_id="SKY - Channel Islands">SKY - Channel Islands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##829567ed-24f2-54cd-bb85-bb5fc2f67905" xmltv_id="SKY - Cumbria">SKY - Cumbria</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##75a338d1-8d7d-5d0a-b238-e54179125883" xmltv_id="SKY - East Midlands">SKY - East Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##09306c52-9a17-54ef-94a8-083de0d12a2c" xmltv_id="SKY - Henley on Thames">SKY - Henley on Thames</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##afa4f624-da9b-54ce-b514-570345dbbdce" xmltv_id="SKY - London">SKY - London</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##e5853569-fe8a-5ca5-a32f-2e8839840208" xmltv_id="SKY - London (Essex)">SKY - London (Essex)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##524c217c-4fa2-5014-9e0c-9153cd74a10b" xmltv_id="SKY - London (Kent)">SKY - London (Kent)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##256b81ef-c59e-52a2-a796-b192b04e6d2a" xmltv_id="SKY - London (Thames Valley)">SKY - London (Thames Valley)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##e79b3026-f5a6-57c6-804b-de93e8e8a8b2" xmltv_id="SKY - Meridian (East)">SKY - Meridian (East)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##e89d390e-26ba-5f35-a2e8-d54dd0bcf6ae" xmltv_id="SKY - Meridian (West)">SKY - Meridian (West)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##83075f0f-36a5-50a8-9c8d-2845999fffe7" xmltv_id="SKY - North East">SKY - North East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##59efa109-b2b4-5419-9fa0-05b0eb5e3d5d" xmltv_id="SKY - North East Midlands">SKY - North East Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##659a1123-2ee2-52bb-9303-57b97207158f" xmltv_id="SKY - North West">SKY - North West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##6920c4f7-696f-53f5-a3b8-469d2377469b" xmltv_id="SKY - North Yorkshire">SKY - North Yorkshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##d89d3ed4-481e-5bf4-9135-72619fed851b" xmltv_id="SKY - Northern Ireland">SKY - Northern Ireland</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##8bf03071-074a-505b-a64f-9e4a1fae36be" xmltv_id="SKY - Oxford">SKY - Oxford</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##557c087b-8240-5572-8198-34805c1be581" xmltv_id="SKY - Republic of Ireland">SKY - Republic of Ireland</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##28458fa0-64d2-5e64-b9b4-451b2d6cc2c3" xmltv_id="SKY - Scotland (Borders)">SKY - Scotland (Borders)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##656e9aa1-22c0-5d4e-b578-346d8d792cba" xmltv_id="SKY - Scotland (Central)">SKY - Scotland (Central)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##a8a15e39-03b9-5558-a3fe-504bc08e85cf" xmltv_id="SKY - Scotland (North)">SKY - Scotland (North)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##0652fdcc-20ec-5fb8-a34e-1bd24a8db32f" xmltv_id="SKY - South Lakeland">SKY - South Lakeland</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##5421f94f-80fd-508a-8d42-894670a4312d" xmltv_id="SKY - Wales">SKY - Wales</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##829efe7a-c036-5fcb-afc3-15a3ce874131" xmltv_id="SKY - West Dorset">SKY - West Dorset</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##43747838-29cf-5c24-8845-a6d53542530c" xmltv_id="SKY - West England">SKY - West England</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##a500c123-d8a1-5000-a25e-afe7b7000b11" xmltv_id="SKY - West Midlands">SKY - West Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##5d79ede2-8636-556e-9811-e1f94458cd4d" xmltv_id="SKY - Yorkshire">SKY - Yorkshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3##d15e1f49-20c5-5c84-a2d0-fb6607a673aa" xmltv_id="SKY - Yorkshire &amp; Lincolnshire">SKY - Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##05fe9a4d-d2dc-5b82-b711-da8acf68e58c" xmltv_id="VIRGIN - Cambridge">VIRGIN - Cambridge</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##d18c2b5b-6d4b-5e0d-a003-af807bd00d96" xmltv_id="VIRGIN - East">VIRGIN - East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##8f4cc380-95aa-5ec4-b147-9771add56c9b" xmltv_id="VIRGIN - East Midlands">VIRGIN - East Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##2dacc331-870c-5385-a7e9-45743da5bd3d" xmltv_id="VIRGIN - London">VIRGIN - London</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##99651e13-c86e-57be-acbd-a0a959431385" xmltv_id="VIRGIN - North East">VIRGIN - North East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##75146757-7efe-5e68-9b90-43ee27ebc258" xmltv_id="VIRGIN - North West">VIRGIN - North West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##64078366-b770-5f09-a0a3-cfaf3cbea2db" xmltv_id="VIRGIN - Northern Ireland">VIRGIN - Northern Ireland</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##63373146-e0f8-5f9c-81c5-d6bbec72970f" xmltv_id="VIRGIN - Oxfordshire">VIRGIN - Oxfordshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##1b3fdb27-162d-5fca-ba6d-d5e79fb2d311" xmltv_id="VIRGIN - Scotland (Central)">VIRGIN - Scotland (Central)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##4becd100-66ac-59a6-b622-ac2a9fd67474" xmltv_id="VIRGIN - Scotland (North)">VIRGIN - Scotland (North)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##af4d3b5b-6f5f-58b0-989b-4d3941632ec8" xmltv_id="VIRGIN - South East">VIRGIN - South East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##85b54407-080d-562a-a868-5af615db66a1" xmltv_id="VIRGIN - South England">VIRGIN - South England</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##a34132d1-a100-5aed-83f0-78305a2c5139" xmltv_id="VIRGIN - South West">VIRGIN - South West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##a8786ff5-c7e7-5bb0-b263-e8dd2afbad15" xmltv_id="VIRGIN - Wales">VIRGIN - Wales</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##8de5d0dc-b293-5434-a982-08a06f468190" xmltv_id="VIRGIN - West">VIRGIN - West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##489fd029-23fe-5669-bfe4-0ab2f344064d" xmltv_id="VIRGIN - West Midlands">VIRGIN - West Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##4a55e795-5ed2-5aa0-ad40-264d94c71f52" xmltv_id="VIRGIN - Yorkshire">VIRGIN - Yorkshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="972ff074-8146-554a-b0b9-9b20238f1553##5b0857fe-caf8-589c-af1f-236b9c494614" xmltv_id="VIRGIN - Yorkshire &amp; Lincolnshire">VIRGIN - Yorkshire &amp; Lincolnshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##da588ba1-01c1-50af-8d81-eb465cbc2026" xmltv_id="YOUVIEW - Cambridgeshire">YOUVIEW - Cambridgeshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##5d6670dc-2f35-5430-a82f-9cc33b73db11" xmltv_id="YOUVIEW - Channel Islands">YOUVIEW - Channel Islands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##05055d85-7046-508d-9ce4-c42f2c4b26fc" xmltv_id="YOUVIEW - Cumbria">YOUVIEW - Cumbria</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##40b3a7b4-b76a-5130-8698-3b39cece4a07" xmltv_id="YOUVIEW - East">YOUVIEW - East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##a86d189b-660a-5ca9-8286-4b151c7a9491" xmltv_id="YOUVIEW - East Midlands">YOUVIEW - East Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##ab179f6b-a90d-5c27-b05f-18f2e615d362" xmltv_id="YOUVIEW - London">YOUVIEW - London</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##6415e5e8-9a5f-5db0-a086-9133e8a735ae" xmltv_id="YOUVIEW - North East">YOUVIEW - North East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##a613a124-eb7b-5333-9567-c4fdac4f2b79" xmltv_id="YOUVIEW - North West">YOUVIEW - North West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##1332a500-4467-563a-b161-f4208ab8a16a" xmltv_id="YOUVIEW - Northern Ireland">YOUVIEW - Northern Ireland</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##8519af07-fbd2-5a47-af65-f8f7bc72d950" xmltv_id="YOUVIEW - Oxfordshire">YOUVIEW - Oxfordshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##77f2d566-cbbb-5f10-b9c6-e0cef514a473" xmltv_id="YOUVIEW - Scotland (Borders)">YOUVIEW - Scotland (Borders)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##3a924875-74e8-5a20-926a-606c604cfad5" xmltv_id="YOUVIEW - Scotland (Central)">YOUVIEW - Scotland (Central)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##fb847922-63ca-50cc-bbaa-b01466beeb5a" xmltv_id="YOUVIEW - Scotland (North)">YOUVIEW - Scotland (North)</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##770f0e09-ec1f-51d0-ad14-fac1b439c594" xmltv_id="YOUVIEW - South">YOUVIEW - South</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##b92767fb-4e54-596b-9b24-bc15a1ae377a" xmltv_id="YOUVIEW - South East">YOUVIEW - South East</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##623365af-75bd-5420-9f62-4fcd11bcac4f" xmltv_id="YOUVIEW - South West">YOUVIEW - South West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##cd987e51-9f5a-5b77-8ea9-0805453b07dd" xmltv_id="YOUVIEW - Wales">YOUVIEW - Wales</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##7bfcd578-6690-5f13-ad28-6342a2172c1f" xmltv_id="YOUVIEW - West">YOUVIEW - West</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##9578f3ef-6f0b-5dcb-8037-1cb8e7bb8291" xmltv_id="YOUVIEW - West Midlands">YOUVIEW - West Midlands</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##f15a3059-70d7-55df-8e68-3c3e8ed2f806" xmltv_id="YOUVIEW - Yorkshire">YOUVIEW - Yorkshire</channel>
+    <channel update="i" site="telegraph.co.uk" site_id="752f9903-b233-58f9-9b38-65f16f09a65b##58a641bc-3d81-5311-bb56-daa0f18f8a30" xmltv_id="YOUVIEW - Yorkshire &amp; Lincolnshire">YOUVIEW - Yorkshire &amp; Lincolnshire</channel>
+  </channels>
+</site>

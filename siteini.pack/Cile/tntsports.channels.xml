@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="tntsports">
+  <channels>
+    <channel update="i" site="tntsports" site_id="TNTSPO_AR" xmltv_id="TNT Sports Argentina">TNT Sports Argentina</channel>
+    <channel update="i" site="tntsports" site_id="CDFH_CL" xmltv_id="TNT Sports  Cile">TNT Sports  Cile</channel>
+  </channels>
+</site>

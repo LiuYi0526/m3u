@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="hteronet.ba">
+  <channels>
+    <channel update="i" site="hteronet.ba" site_id="BHT" xmltv_id="BHT">BHT</channel>
+    <channel update="i" site="hteronet.ba" site_id="FTV" xmltv_id="FTV">FTV</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTRS" xmltv_id="RTRS">RTRS</channel>
+    <channel update="i" site="hteronet.ba" site_id="HTV 1" xmltv_id="HTV 1">HTV 1</channel>
+    <channel update="i" site="hteronet.ba" site_id="HTV 2" xmltv_id="HTV 2">HTV 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="HRT 3" xmltv_id="HRT 3">HRT 3</channel>
+    <channel update="i" site="hteronet.ba" site_id="HRT 4" xmltv_id="HRT 4">HRT 4</channel>
+    <channel update="i" site="hteronet.ba" site_id="HRT 5" xmltv_id="HRT 5">HRT 5</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nova TV" xmltv_id="Nova TV">Nova TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL 2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL Kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL Living" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="hteronet.ba" site_id="Laudato TV" xmltv_id="Laudato TV">Laudato TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTV HB" xmltv_id="RTV HB">RTV HB</channel>
+    <channel update="i" site="hteronet.ba" site_id="Maria Vision" xmltv_id="Maria Vision">Maria Vision</channel>
+    <channel update="i" site="hteronet.ba" site_id="Z1 TV" xmltv_id="Z1 TV">Z1 TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Poljoprivredna TV" xmltv_id="Poljoprivredna TV">Poljoprivredna TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Jabuka TV" xmltv_id="Jabuka TV">Jabuka TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="TV Dalmacija" xmltv_id="TV Dalmacija">TV Dalmacija</channel>
+    <channel update="i" site="hteronet.ba" site_id="Agro TV" xmltv_id="Agro TV">Agro TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nova BH" xmltv_id="Nova BH">Nova BH</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTRS Plus" xmltv_id="RTRS Plus">RTRS Plus</channel>
+    <channel update="i" site="hteronet.ba" site_id="OBN" xmltv_id="OBN">OBN</channel>
+    <channel update="i" site="hteronet.ba" site_id="PINK BH" xmltv_id="PINK BH">PINK BH</channel>
+    <channel update="i" site="hteronet.ba" site_id="ATV" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Posavina TV" xmltv_id="Posavina TV">Posavina TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="OTV Valentino" xmltv_id="OTV Valentino">OTV Valentino</channel>
+    <channel update="i" site="hteronet.ba" site_id="HTV Oskar C" xmltv_id="HTV Oskar C">HTV Oskar C</channel>
+    <channel update="i" site="hteronet.ba" site_id="City TV" xmltv_id="City TV">City TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="ELTA 1" xmltv_id="ELTA 1">ELTA 1</channel>
+    <channel update="i" site="hteronet.ba" site_id="TV 1" xmltv_id="TV 1">TV 1</channel>
+    <channel update="i" site="hteronet.ba" site_id="Hayat" xmltv_id="Hayat">Hayat</channel>
+    <channel update="i" site="hteronet.ba" site_id="Hayat Plus" xmltv_id="Hayat Plus">Hayat Plus</channel>
+    <channel update="i" site="hteronet.ba" site_id="BN TV" xmltv_id="BN TV">BN TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Face TV" xmltv_id="Face TV">Face TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Kanal 6" xmltv_id="Kanal 6">Kanal 6</channel>
+    <channel update="i" site="hteronet.ba" site_id="Al Jazeera Balkans" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTV TK" xmltv_id="RTV TK">RTV TK</channel>
+    <channel update="i" site="hteronet.ba" site_id="NTV Jata" xmltv_id="NTV Jata">NTV Jata</channel>
+    <channel update="i" site="hteronet.ba" site_id="Tatabrada TV" xmltv_id="Tatabrada TV">Tatabrada TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="N1" xmltv_id="N1">N1</channel>
+    <channel update="i" site="hteronet.ba" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="hteronet.ba" site_id="Russia Today" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTCG" xmltv_id="RTCG">RTCG</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL.de" xmltv_id="RTL.de">RTL.de</channel>
+    <channel update="i" site="hteronet.ba" site_id="Rai Uno" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK1 BiH" xmltv_id="SK1 BiH">SK1 BiH</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK1" xmltv_id="SK1">SK1</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK2" xmltv_id="SK2">SK2</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK3" xmltv_id="SK3">SK3</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK4" xmltv_id="SK4">SK4</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK5" xmltv_id="SK5">SK5</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK6" xmltv_id="SK6">SK6</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK7" xmltv_id="SK7">SK7</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK8" xmltv_id="SK8">SK8</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK9" xmltv_id="SK9">SK9</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK10" xmltv_id="SK10">SK10</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK HD" xmltv_id="SK HD">SK HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="SK GOLF" xmltv_id="SK GOLF">SK GOLF</channel>
+    <channel update="i" site="hteronet.ba" site_id="Lov i Ribolov" xmltv_id="Lov i Ribolov">Lov i Ribolov</channel>
+    <channel update="i" site="hteronet.ba" site_id="HNTV" xmltv_id="HNTV">HNTV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Sport 1" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="hteronet.ba" site_id="Eurosport 1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="hteronet.ba" site_id="Eurosport 2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="ArenaSport1.hr" xmltv_id="ArenaSport1.hr">ArenaSport1.hr</channel>
+    <channel update="i" site="hteronet.ba" site_id="ArenaSport1" xmltv_id="ArenaSport1">ArenaSport1</channel>
+    <channel update="i" site="hteronet.ba" site_id="ArenaSport1.sr" xmltv_id="ArenaSport1.sr">ArenaSport1.sr</channel>
+    <channel update="i" site="hteronet.ba" site_id="ArenaSport2" xmltv_id="ArenaSport2">ArenaSport2</channel>
+    <channel update="i" site="hteronet.ba" site_id="ArenaSport3" xmltv_id="ArenaSport3">ArenaSport3</channel>
+    <channel update="i" site="hteronet.ba" site_id="ArenaSport4" xmltv_id="ArenaSport4">ArenaSport4</channel>
+    <channel update="i" site="hteronet.ba" site_id="Arena ESPORT" xmltv_id="Arena ESPORT">Arena ESPORT</channel>
+    <channel update="i" site="hteronet.ba" site_id="Arena FIGHT" xmltv_id="Arena FIGHT">Arena FIGHT</channel>
+    <channel update="i" site="hteronet.ba" site_id="Fight Network" xmltv_id="Fight Network">Fight Network</channel>
+    <channel update="i" site="hteronet.ba" site_id="Kreator TV" xmltv_id="Kreator TV">Kreator TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="GameHub" xmltv_id="GameHub">GameHub</channel>
+    <channel update="i" site="hteronet.ba" site_id="Doku TV" xmltv_id="Doku TV">Doku TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nat Geo" xmltv_id="Nat Geo">Nat Geo</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nat Geo Wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="hteronet.ba" site_id="Discovery" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="hteronet.ba" site_id="ID" xmltv_id="ID">ID</channel>
+    <channel update="i" site="hteronet.ba" site_id="TLC" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="hteronet.ba" site_id="Animal Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="hteronet.ba" site_id="History Channel" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="hteronet.ba" site_id="H2" xmltv_id="H2">H2</channel>
+    <channel update="i" site="hteronet.ba" site_id="Da Vinci" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="hteronet.ba" site_id="English Club" xmltv_id="English Club">English Club</channel>
+    <channel update="i" site="hteronet.ba" site_id="M1 Film" xmltv_id="M1 Film">M1 Film</channel>
+    <channel update="i" site="hteronet.ba" site_id="M1 Gold" xmltv_id="M1 Gold">M1 Gold</channel>
+    <channel update="i" site="hteronet.ba" site_id="M1 Family" xmltv_id="M1 Family">M1 Family</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Film" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="hteronet.ba" site_id="Kino TV" xmltv_id="Kino TV">Kino TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="HBO" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="hteronet.ba" site_id="HBO 2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="HBO 3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="hteronet.ba" site_id="Cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="hteronet.ba" site_id="Cinemax 2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="FOX" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="hteronet.ba" site_id="FOX Life" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="hteronet.ba" site_id="FOX Crime" xmltv_id="FOX Crime">FOX Crime</channel>
+    <channel update="i" site="hteronet.ba" site_id="Superstar TV" xmltv_id="Superstar TV">Superstar TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nick Jr." xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="hteronet.ba" site_id="Vavoom" xmltv_id="Vavoom">Vavoom</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pikaboo" xmltv_id="Pikaboo">Pikaboo</channel>
+    <channel update="i" site="hteronet.ba" site_id="Cartoon Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="hteronet.ba" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="hteronet.ba" site_id="CMC" xmltv_id="CMC">CMC</channel>
+    <channel update="i" site="hteronet.ba" site_id="Jugoton TV" xmltv_id="Jugoton TV">Jugoton TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Klape i tambure TV" xmltv_id="Klape i tambure TV">Klape i tambure TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="VH1 Europe" xmltv_id="VH1 Europe">VH1 Europe</channel>
+    <channel update="i" site="hteronet.ba" site_id="MTV 80's" xmltv_id="MTV 80's">MTV 80's</channel>
+    <channel update="i" site="hteronet.ba" site_id="Hayat Music" xmltv_id="Hayat Music">Hayat Music</channel>
+    <channel update="i" site="hteronet.ba" site_id="MTV Hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="hteronet.ba" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Grand" xmltv_id="Grand">Grand</channel>
+    <channel update="i" site="hteronet.ba" site_id="DM Sat" xmltv_id="DM Sat">DM Sat</channel>
+    <channel update="i" site="hteronet.ba" site_id="BN Music" xmltv_id="BN Music">BN Music</channel>
+    <channel update="i" site="hteronet.ba" site_id="Hayat Folk" xmltv_id="Hayat Folk">Hayat Folk</channel>
+    <channel update="i" site="hteronet.ba" site_id="Valentino Music HD" xmltv_id="Valentino Music HD">Valentino Music HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Valentino Etno" xmltv_id="Valentino Etno">Valentino Etno</channel>
+    <channel update="i" site="hteronet.ba" site_id="Toxic TV" xmltv_id="Toxic TV">Toxic TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="Travel Channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="hteronet.ba" site_id="24Kitchen" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel update="i" site="hteronet.ba" site_id="E! Entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Style" xmltv_id="Pink Style">Pink Style</channel>
+    <channel update="i" site="hteronet.ba" site_id="Balkan Trip" xmltv_id="Balkan Trip">Balkan Trip</channel>
+    <channel update="i" site="hteronet.ba" site_id="Dorcel" xmltv_id="Dorcel">Dorcel</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Erotic" xmltv_id="Pink Erotic">Pink Erotic</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Erotic 2" xmltv_id="Pink Erotic 2">Pink Erotic 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Erotic 3" xmltv_id="Pink Erotic 3">Pink Erotic 3</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Erotic 4" xmltv_id="Pink Erotic 4">Pink Erotic 4</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink" xmltv_id="Pink">Pink</channel>
+    <channel update="i" site="hteronet.ba" site_id="RED TV" xmltv_id="RED TV">RED TV</channel>
+    <channel update="i" site="hteronet.ba" site_id="VESTI" xmltv_id="VESTI">VESTI</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink M" xmltv_id="Pink M">Pink M</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Plus" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Extra" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Family" xmltv_id="Pink Family">Pink Family</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Movies" xmltv_id="Pink Movies">Pink Movies</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Romance" xmltv_id="Pink Romance">Pink Romance</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Sci-Fi &amp; Fantasy" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Action" xmltv_id="Pink Action">Pink Action</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Thriller" xmltv_id="Pink Thriller">Pink Thriller</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Crime &amp; Mystery" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Premium" xmltv_id="Pink Premium">Pink Premium</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Horror" xmltv_id="Pink Horror">Pink Horror</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Comedy" xmltv_id="Pink Comedy">Pink Comedy</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Classic" xmltv_id="Pink Classic">Pink Classic</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Western" xmltv_id="Pink Western">Pink Western</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Soap" xmltv_id="Pink Soap">Pink Soap</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Serije" xmltv_id="Pink Serije">Pink Serije</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink World Cinema" xmltv_id="Pink World Cinema">Pink World Cinema</channel>
+    <channel update="i" site="hteronet.ba" site_id="Bravo Music" xmltv_id="Bravo Music">Bravo Music</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Music" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Music 2" xmltv_id="Pink Music 2">Pink Music 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Hits 2" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Hits" xmltv_id="Pink Hits">Pink Hits</channel>
+    <channel update="i" site="hteronet.ba" site_id="City PLAY" xmltv_id="City PLAY">City PLAY</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Koncert" xmltv_id="Pink Koncert">Pink Koncert</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink &amp; Roll" xmltv_id="Pink &amp; Roll">Pink &amp; Roll</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Folk" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Folk 2" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Show" xmltv_id="Pink Show">Pink Show</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Reality" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Zabava" xmltv_id="Pink Zabava">Pink Zabava</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Fashion" xmltv_id="Pink Fashion">Pink Fashion</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink World" xmltv_id="Pink World">Pink World</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Kids" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Super Kids" xmltv_id="Pink Super Kids">Pink Super Kids</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Pedia" xmltv_id="Pink Pedia">Pink Pedia</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink Kuvar" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink HA HA" xmltv_id="Pink HA HA">Pink HA HA</channel>
+    <channel update="i" site="hteronet.ba" site_id="Pink LOL" xmltv_id="Pink LOL">Pink LOL</channel>
+    <channel update="i" site="hteronet.ba" site_id="Arena Sport 1 HD" xmltv_id="Arena Sport 1 HD">Arena Sport 1 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Arena Sport 2 HD" xmltv_id="Arena Sport 2 HD">Arena Sport 2 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Arena Sport 3 HD" xmltv_id="Arena Sport 3 HD">Arena Sport 3 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Arena Sport 4 HD" xmltv_id="Arena Sport 4 HD">Arena Sport 4 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="BHT HD" xmltv_id="BHT HD">BHT HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="FTV HD" xmltv_id="FTV HD">FTV HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="HRT 1 HD" xmltv_id="HRT 1 HD">HRT 1 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="HRT 2 HD" xmltv_id="HRT 2 HD">HRT 2 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="HRT 3 HD" xmltv_id="HRT 3 HD">HRT 3 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="HRT 4 HD" xmltv_id="HRT 4 HD">HRT 4 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nova TV HD" xmltv_id="Nova TV HD">Nova TV HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL HD" xmltv_id="RTL HD">RTL HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL 2 HD" xmltv_id="RTL 2 HD">RTL 2 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL Kockica HD" xmltv_id="RTL Kockica HD">RTL Kockica HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTL Living HD" xmltv_id="RTL Living HD">RTL Living HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Laudato TV HD" xmltv_id="Laudato TV HD">Laudato TV HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="RTV HB HD" xmltv_id="RTV HB HD">RTV HB HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nova BH HD" xmltv_id="Nova BH HD">Nova BH HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Elta 1 HD" xmltv_id="Elta 1 HD">Elta 1 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Hayat HD" xmltv_id="Hayat HD">Hayat HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="BN TV HD" xmltv_id="BN TV HD">BN TV HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Al Jazeera Balkans HD" xmltv_id="Al Jazeera Balkans HD">Al Jazeera Balkans HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Doku TV HD" xmltv_id="Doku TV HD">Doku TV HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="H2 HD" xmltv_id="H2 HD">H2 HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="M1 Film HD" xmltv_id="M1 Film HD">M1 Film HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="M1 Gold HD" xmltv_id="M1 Gold HD">M1 Gold HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Kino TV HD" xmltv_id="Kino TV HD">Kino TV HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="Nickelodeon HD" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="CMC HD" xmltv_id="CMC HD">CMC HD</channel>
+    <channel update="i" site="hteronet.ba" site_id="E! HD" xmltv_id="E! HD">E! HD</channel>
+  </channels>
+</site>

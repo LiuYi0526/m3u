@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.1 -- Jan van Straaten" site="hbolatam.com">
+  <channels>
+    <channel update="i" site="hbolatam.com" site_id="br_3" xmltv_id="HBO (Brasil)">HBO (Brasil)</channel>
+    <channel update="i" site="hbolatam.com" site_id="br_4" xmltv_id="HBO 2 (Brasil)">HBO 2 (Brasil)</channel>
+    <channel update="i" site="hbolatam.com" site_id="br_11" xmltv_id="HBO PLUS (Brasil)">HBO PLUS (Brasil)</channel>
+    <channel update="i" site="hbolatam.com" site_id="br_15" xmltv_id="HBO XTREME (Brasil)">HBO XTREME (Brasil)</channel>
+    <channel update="i" site="hbolatam.com" site_id="br_19" xmltv_id="HBO FAMILY (Brasil)">HBO FAMILY (Brasil)</channel>
+    <channel update="i" site="hbolatam.com" site_id="br_20" xmltv_id="HBO SIGNATURE (Brasil)">HBO SIGNATURE (Brasil)</channel>
+    <channel update="i" site="hbolatam.com" site_id="br_27" xmltv_id="HBO MUNDI (Brasil)">HBO MUNDI (Brasil)</channel>
+    <channel update="i" site="hbolatam.com" site_id="br_29" xmltv_id="HBO POP (Brasil)">HBO POP (Brasil)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ar_1" xmltv_id="HBO (Argentina)">HBO (Argentina)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ar_10" xmltv_id="HBO PLUS (Argentina)">HBO PLUS (Argentina)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ar_13" xmltv_id="HBO XTREME (Argentina)">HBO XTREME (Argentina)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ar_17" xmltv_id="HBO FAMILY (Argentina)">HBO FAMILY (Argentina)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ar_18" xmltv_id="HBO SIGNATURE (Argentina)">HBO SIGNATURE (Argentina)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ar_25" xmltv_id="HBO 2 (Argentina)">HBO 2 (Argentina)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ar_26" xmltv_id="HBO MUNDI (Argentina)">HBO MUNDI (Argentina)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ar_28" xmltv_id="HBO POP (Argentina)">HBO POP (Argentina)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cl_1" xmltv_id="HBO (Chile)">HBO (Chile)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cl_10" xmltv_id="HBO PLUS (Chile)">HBO PLUS (Chile)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cl_13" xmltv_id="HBO XTREME (Chile)">HBO XTREME (Chile)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cl_17" xmltv_id="HBO FAMILY (Chile)">HBO FAMILY (Chile)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cl_18" xmltv_id="HBO SIGNATURE (Chile)">HBO SIGNATURE (Chile)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cl_25" xmltv_id="HBO 2 (Chile)">HBO 2 (Chile)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cl_26" xmltv_id="HBO MUNDI (Chile)">HBO MUNDI (Chile)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cl_28" xmltv_id="HBO POP (Chile)">HBO POP (Chile)</channel>
+    <channel update="i" site="hbolatam.com" site_id="uy_1" xmltv_id="HBO (Uruguay)">HBO (Uruguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="uy_10" xmltv_id="HBO PLUS (Uruguay)">HBO PLUS (Uruguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="uy_13" xmltv_id="HBO XTREME (Uruguay)">HBO XTREME (Uruguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="uy_17" xmltv_id="HBO FAMILY (Uruguay)">HBO FAMILY (Uruguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="uy_18" xmltv_id="HBO SIGNATURE (Uruguay)">HBO SIGNATURE (Uruguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="uy_25" xmltv_id="HBO 2 (Uruguay)">HBO 2 (Uruguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="uy_26" xmltv_id="HBO MUNDI (Uruguay)">HBO MUNDI (Uruguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="uy_28" xmltv_id="HBO POP (Uruguay)">HBO POP (Uruguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ec_1" xmltv_id="HBO (Ecuador)">HBO (Ecuador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ec_10" xmltv_id="HBO PLUS (Ecuador)">HBO PLUS (Ecuador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ec_13" xmltv_id="HBO XTREME (Ecuador)">HBO XTREME (Ecuador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ec_17" xmltv_id="HBO FAMILY (Ecuador)">HBO FAMILY (Ecuador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ec_18" xmltv_id="HBO SIGNATURE (Ecuador)">HBO SIGNATURE (Ecuador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ec_25" xmltv_id="HBO 2 (Ecuador)">HBO 2 (Ecuador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ec_26" xmltv_id="HBO MUNDI (Ecuador)">HBO MUNDI (Ecuador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ec_28" xmltv_id="HBO POP (Ecuador)">HBO POP (Ecuador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pe_1" xmltv_id="HBO (Perú)">HBO (Perú)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pe_10" xmltv_id="HBO PLUS (Perú)">HBO PLUS (Perú)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pe_13" xmltv_id="HBO XTREME (Perú)">HBO XTREME (Perú)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pe_17" xmltv_id="HBO FAMILY (Perú)">HBO FAMILY (Perú)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pe_18" xmltv_id="HBO SIGNATURE (Perú)">HBO SIGNATURE (Perú)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pe_25" xmltv_id="HBO 2 (Perú)">HBO 2 (Perú)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pe_26" xmltv_id="HBO MUNDI (Perú)">HBO MUNDI (Perú)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pe_28" xmltv_id="HBO POP (Perú)">HBO POP (Perú)</channel>
+    <channel update="i" site="hbolatam.com" site_id="co_1" xmltv_id="HBO (Colombia)">HBO (Colombia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="co_10" xmltv_id="HBO PLUS (Colombia)">HBO PLUS (Colombia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="co_13" xmltv_id="HBO XTREME (Colombia)">HBO XTREME (Colombia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="co_17" xmltv_id="HBO FAMILY (Colombia)">HBO FAMILY (Colombia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="co_18" xmltv_id="HBO SIGNATURE (Colombia)">HBO SIGNATURE (Colombia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="co_25" xmltv_id="HBO 2 (Colombia)">HBO 2 (Colombia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="co_26" xmltv_id="HBO MUNDI (Colombia)">HBO MUNDI (Colombia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="co_28" xmltv_id="HBO POP (Colombia)">HBO POP (Colombia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ve_1" xmltv_id="HBO (Venezuela)">HBO (Venezuela)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ve_10" xmltv_id="HBO PLUS (Venezuela)">HBO PLUS (Venezuela)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ve_13" xmltv_id="HBO XTREME (Venezuela)">HBO XTREME (Venezuela)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ve_17" xmltv_id="HBO FAMILY (Venezuela)">HBO FAMILY (Venezuela)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ve_18" xmltv_id="HBO SIGNATURE (Venezuela)">HBO SIGNATURE (Venezuela)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ve_25" xmltv_id="HBO 2 (Venezuela)">HBO 2 (Venezuela)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ve_26" xmltv_id="HBO MUNDI (Venezuela)">HBO MUNDI (Venezuela)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ve_28" xmltv_id="HBO POP (Venezuela)">HBO POP (Venezuela)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bo_1" xmltv_id="HBO (Bolivia)">HBO (Bolivia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bo_10" xmltv_id="HBO PLUS (Bolivia)">HBO PLUS (Bolivia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bo_13" xmltv_id="HBO XTREME (Bolivia)">HBO XTREME (Bolivia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bo_17" xmltv_id="HBO FAMILY (Bolivia)">HBO FAMILY (Bolivia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bo_18" xmltv_id="HBO SIGNATURE (Bolivia)">HBO SIGNATURE (Bolivia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bo_25" xmltv_id="HBO 2 (Bolivia)">HBO 2 (Bolivia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bo_26" xmltv_id="HBO MUNDI (Bolivia)">HBO MUNDI (Bolivia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bo_28" xmltv_id="HBO POP (Bolivia)">HBO POP (Bolivia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="py_1" xmltv_id="HBO (Paraguay)">HBO (Paraguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="py_10" xmltv_id="HBO PLUS (Paraguay)">HBO PLUS (Paraguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="py_13" xmltv_id="HBO XTREME (Paraguay)">HBO XTREME (Paraguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="py_17" xmltv_id="HBO FAMILY (Paraguay)">HBO FAMILY (Paraguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="py_18" xmltv_id="HBO SIGNATURE (Paraguay)">HBO SIGNATURE (Paraguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="py_25" xmltv_id="HBO 2 (Paraguay)">HBO 2 (Paraguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="py_26" xmltv_id="HBO MUNDI (Paraguay)">HBO MUNDI (Paraguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="py_28" xmltv_id="HBO POP (Paraguay)">HBO POP (Paraguay)</channel>
+    <channel update="i" site="hbolatam.com" site_id="mx_2" xmltv_id="HBO (México)">HBO (México)</channel>
+    <channel update="i" site="hbolatam.com" site_id="mx_12" xmltv_id="HBO PLUS (México)">HBO PLUS (México)</channel>
+    <channel update="i" site="hbolatam.com" site_id="mx_16" xmltv_id="HBO XTREME (México)">HBO XTREME (México)</channel>
+    <channel update="i" site="hbolatam.com" site_id="mx_17" xmltv_id="HBO FAMILY (México)">HBO FAMILY (México)</channel>
+    <channel update="i" site="hbolatam.com" site_id="mx_18" xmltv_id="HBO SIGNATURE (México)">HBO SIGNATURE (México)</channel>
+    <channel update="i" site="hbolatam.com" site_id="mx_24" xmltv_id="HBO 2 (México)">HBO 2 (México)</channel>
+    <channel update="i" site="hbolatam.com" site_id="mx_30" xmltv_id="HBO POP (México)">HBO POP (México)</channel>
+    <channel update="i" site="hbolatam.com" site_id="mx_31" xmltv_id="HBO MUNDI (México)">HBO MUNDI (México)</channel>
+    <channel update="i" site="hbolatam.com" site_id="us_1" xmltv_id="HBO (Estados Unidos)">HBO (Estados Unidos)</channel>
+    <channel update="i" site="hbolatam.com" site_id="us_2" xmltv_id="HBO (Estados Unidos)">HBO (Estados Unidos)</channel>
+    <channel update="i" site="hbolatam.com" site_id="us_10" xmltv_id="HBO PLUS (Estados Unidos)">HBO PLUS (Estados Unidos)</channel>
+    <channel update="i" site="hbolatam.com" site_id="us_13" xmltv_id="HBO XTREME (Estados Unidos)">HBO XTREME (Estados Unidos)</channel>
+    <channel update="i" site="hbolatam.com" site_id="us_17" xmltv_id="HBO FAMILY (Estados Unidos)">HBO FAMILY (Estados Unidos)</channel>
+    <channel update="i" site="hbolatam.com" site_id="us_18" xmltv_id="HBO SIGNATURE (Estados Unidos)">HBO SIGNATURE (Estados Unidos)</channel>
+    <channel update="i" site="hbolatam.com" site_id="us_25" xmltv_id="HBO 2 (Estados Unidos)">HBO 2 (Estados Unidos)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cr_2" xmltv_id="HBO (Costa Rica)">HBO (Costa Rica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cr_12" xmltv_id="HBO PLUS (Costa Rica)">HBO PLUS (Costa Rica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cr_17" xmltv_id="HBO FAMILY (Costa Rica)">HBO FAMILY (Costa Rica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cr_18" xmltv_id="HBO SIGNATURE (Costa Rica)">HBO SIGNATURE (Costa Rica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cr_24" xmltv_id="HBO 2 (Costa Rica)">HBO 2 (Costa Rica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cr_26" xmltv_id="HBO MUNDI (Costa Rica)">HBO MUNDI (Costa Rica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cr_30" xmltv_id="HBO POP (Costa Rica)">HBO POP (Costa Rica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sv_2" xmltv_id="HBO (El Salvador)">HBO (El Salvador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sv_12" xmltv_id="HBO PLUS (El Salvador)">HBO PLUS (El Salvador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sv_17" xmltv_id="HBO FAMILY (El Salvador)">HBO FAMILY (El Salvador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sv_18" xmltv_id="HBO SIGNATURE (El Salvador)">HBO SIGNATURE (El Salvador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sv_24" xmltv_id="HBO 2 (El Salvador)">HBO 2 (El Salvador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sv_26" xmltv_id="HBO MUNDI (El Salvador)">HBO MUNDI (El Salvador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sv_30" xmltv_id="HBO POP (El Salvador)">HBO POP (El Salvador)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gt_12" xmltv_id="HBO PLUS (Guatemala)">HBO PLUS (Guatemala)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gt_17" xmltv_id="HBO FAMILY (Guatemala)">HBO FAMILY (Guatemala)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gt_18" xmltv_id="HBO SIGNATURE (Guatemala)">HBO SIGNATURE (Guatemala)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gt_24" xmltv_id="HBO 2 (Guatemala)">HBO 2 (Guatemala)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gt_26" xmltv_id="HBO MUNDI (Guatemala)">HBO MUNDI (Guatemala)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gt_30" xmltv_id="HBO POP (Guatemala)">HBO POP (Guatemala)</channel>
+    <channel update="i" site="hbolatam.com" site_id="hn_2" xmltv_id="HBO (Honduras)">HBO (Honduras)</channel>
+    <channel update="i" site="hbolatam.com" site_id="hn_12" xmltv_id="HBO PLUS (Honduras)">HBO PLUS (Honduras)</channel>
+    <channel update="i" site="hbolatam.com" site_id="hn_17" xmltv_id="HBO FAMILY (Honduras)">HBO FAMILY (Honduras)</channel>
+    <channel update="i" site="hbolatam.com" site_id="hn_18" xmltv_id="HBO SIGNATURE (Honduras)">HBO SIGNATURE (Honduras)</channel>
+    <channel update="i" site="hbolatam.com" site_id="hn_24" xmltv_id="HBO 2 (Honduras)">HBO 2 (Honduras)</channel>
+    <channel update="i" site="hbolatam.com" site_id="hn_26" xmltv_id="HBO MUNDI (Honduras)">HBO MUNDI (Honduras)</channel>
+    <channel update="i" site="hbolatam.com" site_id="hn_30" xmltv_id="HBO POP (Honduras)">HBO POP (Honduras)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ni_2" xmltv_id="HBO (Nicaragua)">HBO (Nicaragua)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ni_12" xmltv_id="HBO PLUS (Nicaragua)">HBO PLUS (Nicaragua)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ni_17" xmltv_id="HBO FAMILY (Nicaragua)">HBO FAMILY (Nicaragua)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ni_18" xmltv_id="HBO SIGNATURE (Nicaragua)">HBO SIGNATURE (Nicaragua)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ni_24" xmltv_id="HBO 2 (Nicaragua)">HBO 2 (Nicaragua)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ni_26" xmltv_id="HBO MUNDI (Nicaragua)">HBO MUNDI (Nicaragua)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ni_30" xmltv_id="HBO POP (Nicaragua)">HBO POP (Nicaragua)</channel>
+    <channel update="i" site="hbolatam.com" site_id="do_1" xmltv_id="HBO (República Dominicana)">HBO (República Dominicana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="do_10" xmltv_id="HBO PLUS (República Dominicana)">HBO PLUS (República Dominicana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="do_13" xmltv_id="HBO XTREME (República Dominicana)">HBO XTREME (República Dominicana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="do_17" xmltv_id="HBO FAMILY (República Dominicana)">HBO FAMILY (República Dominicana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="do_18" xmltv_id="HBO SIGNATURE (República Dominicana)">HBO SIGNATURE (República Dominicana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="do_25" xmltv_id="HBO 2 (República Dominicana)">HBO 2 (República Dominicana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="do_26" xmltv_id="HBO MUNDI (República Dominicana)">HBO MUNDI (República Dominicana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="do_28" xmltv_id="HBO POP (República Dominicana)">HBO POP (República Dominicana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pa_1" xmltv_id="HBO (Panama)">HBO (Panama)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pa_12" xmltv_id="HBO PLUS (Panama)">HBO PLUS (Panama)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pa_17" xmltv_id="HBO FAMILY (Panama)">HBO FAMILY (Panama)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pa_18" xmltv_id="HBO SIGNATURE (Panama)">HBO SIGNATURE (Panama)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pa_25" xmltv_id="HBO 2 (Panama)">HBO 2 (Panama)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pa_26" xmltv_id="HBO MUNDI (Panama)">HBO MUNDI (Panama)</channel>
+    <channel update="i" site="hbolatam.com" site_id="pa_30" xmltv_id="HBO POP (Panama)">HBO POP (Panama)</channel>
+    <channel update="i" site="hbolatam.com" site_id="aw_10" xmltv_id="HBO PLUS (Aruba)">HBO PLUS (Aruba)</channel>
+    <channel update="i" site="hbolatam.com" site_id="aw_17" xmltv_id="HBO FAMILY (Aruba)">HBO FAMILY (Aruba)</channel>
+    <channel update="i" site="hbolatam.com" site_id="aw_18" xmltv_id="HBO SIGNATURE (Aruba)">HBO SIGNATURE (Aruba)</channel>
+    <channel update="i" site="hbolatam.com" site_id="aw_21" xmltv_id="HBO (Aruba)">HBO (Aruba)</channel>
+    <channel update="i" site="hbolatam.com" site_id="aw_25" xmltv_id="HBO 2 (Aruba)">HBO 2 (Aruba)</channel>
+    <channel update="i" site="hbolatam.com" site_id="aw_33" xmltv_id="HBO MUNDI (Aruba)">HBO MUNDI (Aruba)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bs_10" xmltv_id="HBO PLUS (Bahamas)">HBO PLUS (Bahamas)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bs_13" xmltv_id="HBO XTREME (Bahamas)">HBO XTREME (Bahamas)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bs_17" xmltv_id="HBO FAMILY (Bahamas)">HBO FAMILY (Bahamas)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bs_18" xmltv_id="HBO SIGNATURE (Bahamas)">HBO SIGNATURE (Bahamas)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bs_21" xmltv_id="HBO (Bahamas)">HBO (Bahamas)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bs_25" xmltv_id="HBO 2 (Bahamas)">HBO 2 (Bahamas)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bs_28" xmltv_id="HBO POP (Bahamas)">HBO POP (Bahamas)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bs_33" xmltv_id="HBO MUNDI (Bahamas)">HBO MUNDI (Bahamas)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bb_10" xmltv_id="HBO PLUS (Barbados)">HBO PLUS (Barbados)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bb_13" xmltv_id="HBO XTREME (Barbados)">HBO XTREME (Barbados)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bb_17" xmltv_id="HBO FAMILY (Barbados)">HBO FAMILY (Barbados)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bb_18" xmltv_id="HBO SIGNATURE (Barbados)">HBO SIGNATURE (Barbados)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bb_21" xmltv_id="HBO (Barbados)">HBO (Barbados)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bb_25" xmltv_id="HBO 2 (Barbados)">HBO 2 (Barbados)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bb_28" xmltv_id="HBO POP (Barbados)">HBO POP (Barbados)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bb_33" xmltv_id="HBO MUNDI (Barbados)">HBO MUNDI (Barbados)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bq_10" xmltv_id="HBO PLUS (Bonaire)">HBO PLUS (Bonaire)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bq_13" xmltv_id="HBO XTREME (Bonaire)">HBO XTREME (Bonaire)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bq_17" xmltv_id="HBO FAMILY (Bonaire)">HBO FAMILY (Bonaire)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bq_18" xmltv_id="HBO SIGNATURE (Bonaire)">HBO SIGNATURE (Bonaire)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bq_21" xmltv_id="HBO (Bonaire)">HBO (Bonaire)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bq_25" xmltv_id="HBO 2 (Bonaire)">HBO 2 (Bonaire)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bq_28" xmltv_id="HBO POP (Bonaire)">HBO POP (Bonaire)</channel>
+    <channel update="i" site="hbolatam.com" site_id="bq_33" xmltv_id="HBO MUNDI (Bonaire)">HBO MUNDI (Bonaire)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vg_10" xmltv_id="HBO PLUS (British Virgin Islands)">HBO PLUS (British Virgin Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vg_13" xmltv_id="HBO XTREME (British Virgin Islands)">HBO XTREME (British Virgin Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vg_17" xmltv_id="HBO FAMILY (British Virgin Islands)">HBO FAMILY (British Virgin Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vg_18" xmltv_id="HBO SIGNATURE (British Virgin Islands)">HBO SIGNATURE (British Virgin Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vg_21" xmltv_id="HBO (British Virgin Islands)">HBO (British Virgin Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vg_25" xmltv_id="HBO 2 (British Virgin Islands)">HBO 2 (British Virgin Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vg_28" xmltv_id="HBO POP (British Virgin Islands)">HBO POP (British Virgin Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vg_33" xmltv_id="HBO MUNDI (British Virgin Islands)">HBO MUNDI (British Virgin Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ky_10" xmltv_id="HBO PLUS (Cayman Islands)">HBO PLUS (Cayman Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ky_13" xmltv_id="HBO XTREME (Cayman Islands)">HBO XTREME (Cayman Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ky_17" xmltv_id="HBO FAMILY (Cayman Islands)">HBO FAMILY (Cayman Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ky_18" xmltv_id="HBO SIGNATURE (Cayman Islands)">HBO SIGNATURE (Cayman Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ky_21" xmltv_id="HBO (Cayman Islands)">HBO (Cayman Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ky_25" xmltv_id="HBO 2 (Cayman Islands)">HBO 2 (Cayman Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ky_28" xmltv_id="HBO POP (Cayman Islands)">HBO POP (Cayman Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ky_33" xmltv_id="HBO MUNDI (Cayman Islands)">HBO MUNDI (Cayman Islands)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cw_10" xmltv_id="HBO PLUS (Curucao)">HBO PLUS (Curucao)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cw_13" xmltv_id="HBO XTREME (Curucao)">HBO XTREME (Curucao)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cw_17" xmltv_id="HBO FAMILY (Curucao)">HBO FAMILY (Curucao)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cw_18" xmltv_id="HBO SIGNATURE (Curucao)">HBO SIGNATURE (Curucao)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cw_21" xmltv_id="HBO (Curucao)">HBO (Curucao)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cw_25" xmltv_id="HBO 2 (Curucao)">HBO 2 (Curucao)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cw_28" xmltv_id="HBO POP (Curucao)">HBO POP (Curucao)</channel>
+    <channel update="i" site="hbolatam.com" site_id="cw_33" xmltv_id="HBO MUNDI (Curucao)">HBO MUNDI (Curucao)</channel>
+    <channel update="i" site="hbolatam.com" site_id="jm_10" xmltv_id="HBO PLUS (Jamaica)">HBO PLUS (Jamaica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="jm_13" xmltv_id="HBO XTREME (Jamaica)">HBO XTREME (Jamaica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="jm_17" xmltv_id="HBO FAMILY (Jamaica)">HBO FAMILY (Jamaica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="jm_18" xmltv_id="HBO SIGNATURE (Jamaica)">HBO SIGNATURE (Jamaica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="jm_21" xmltv_id="HBO (Jamaica)">HBO (Jamaica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="jm_25" xmltv_id="HBO 2 (Jamaica)">HBO 2 (Jamaica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="jm_28" xmltv_id="HBO POP (Jamaica)">HBO POP (Jamaica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="jm_33" xmltv_id="HBO MUNDI (Jamaica)">HBO MUNDI (Jamaica)</channel>
+    <channel update="i" site="hbolatam.com" site_id="lc_10" xmltv_id="HBO PLUS (St. Lucia)">HBO PLUS (St. Lucia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="lc_13" xmltv_id="HBO XTREME (St. Lucia)">HBO XTREME (St. Lucia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="lc_17" xmltv_id="HBO FAMILY (St. Lucia)">HBO FAMILY (St. Lucia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="lc_18" xmltv_id="HBO SIGNATURE (St. Lucia)">HBO SIGNATURE (St. Lucia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="lc_21" xmltv_id="HBO (St. Lucia)">HBO (St. Lucia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="lc_25" xmltv_id="HBO 2 (St. Lucia)">HBO 2 (St. Lucia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="lc_28" xmltv_id="HBO POP (St. Lucia)">HBO POP (St. Lucia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="lc_33" xmltv_id="HBO MUNDI (St. Lucia)">HBO MUNDI (St. Lucia)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sx_10" xmltv_id="HBO PLUS (St. Maarten)">HBO PLUS (St. Maarten)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sx_13" xmltv_id="HBO XTREME (St. Maarten)">HBO XTREME (St. Maarten)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sx_17" xmltv_id="HBO FAMILY (St. Maarten)">HBO FAMILY (St. Maarten)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sx_18" xmltv_id="HBO SIGNATURE (St. Maarten)">HBO SIGNATURE (St. Maarten)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sx_21" xmltv_id="HBO (St. Maarten)">HBO (St. Maarten)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sx_25" xmltv_id="HBO 2 (St. Maarten)">HBO 2 (St. Maarten)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sx_28" xmltv_id="HBO POP (St. Maarten)">HBO POP (St. Maarten)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sx_33" xmltv_id="HBO MUNDI (St. Maarten)">HBO MUNDI (St. Maarten)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vc_10" xmltv_id="HBO PLUS (St. Vincent &amp; The Grenadines)">HBO PLUS (St. Vincent &amp; The Grenadines)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vc_13" xmltv_id="HBO XTREME (St. Vincent &amp; The Grenadines)">HBO XTREME (St. Vincent &amp; The Grenadines)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vc_17" xmltv_id="HBO FAMILY (St. Vincent &amp; The Grenadines)">HBO FAMILY (St. Vincent &amp; The Grenadines)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vc_18" xmltv_id="HBO SIGNATURE (St. Vincent &amp; The Grenadines)">HBO SIGNATURE (St. Vincent &amp; The Grenadines)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vc_21" xmltv_id="HBO (St. Vincent &amp; The Grenadines)">HBO (St. Vincent &amp; The Grenadines)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vc_25" xmltv_id="HBO 2 (St. Vincent &amp; The Grenadines)">HBO 2 (St. Vincent &amp; The Grenadines)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vc_28" xmltv_id="HBO POP (St. Vincent &amp; The Grenadines)">HBO POP (St. Vincent &amp; The Grenadines)</channel>
+    <channel update="i" site="hbolatam.com" site_id="vc_33" xmltv_id="HBO MUNDI (St. Vincent &amp; The Grenadines)">HBO MUNDI (St. Vincent &amp; The Grenadines)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_1" xmltv_id="HBO (Suriname)">HBO (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_10" xmltv_id="HBO PLUS (Suriname)">HBO PLUS (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_13" xmltv_id="HBO XTREME (Suriname)">HBO XTREME (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_17" xmltv_id="HBO FAMILY (Suriname)">HBO FAMILY (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_18" xmltv_id="HBO SIGNATURE (Suriname)">HBO SIGNATURE (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_21" xmltv_id="HBO (Suriname)">HBO (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_25" xmltv_id="HBO 2 (Suriname)">HBO 2 (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_28" xmltv_id="HBO POP (Suriname)">HBO POP (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="sr_33" xmltv_id="HBO MUNDI (Suriname)">HBO MUNDI (Suriname)</channel>
+    <channel update="i" site="hbolatam.com" site_id="tt_10" xmltv_id="HBO PLUS (Trinidad &amp; Tobago)">HBO PLUS (Trinidad &amp; Tobago)</channel>
+    <channel update="i" site="hbolatam.com" site_id="tt_13" xmltv_id="HBO XTREME (Trinidad &amp; Tobago)">HBO XTREME (Trinidad &amp; Tobago)</channel>
+    <channel update="i" site="hbolatam.com" site_id="tt_17" xmltv_id="HBO FAMILY (Trinidad &amp; Tobago)">HBO FAMILY (Trinidad &amp; Tobago)</channel>
+    <channel update="i" site="hbolatam.com" site_id="tt_18" xmltv_id="HBO SIGNATURE (Trinidad &amp; Tobago)">HBO SIGNATURE (Trinidad &amp; Tobago)</channel>
+    <channel update="i" site="hbolatam.com" site_id="tt_21" xmltv_id="HBO (Trinidad &amp; Tobago)">HBO (Trinidad &amp; Tobago)</channel>
+    <channel update="i" site="hbolatam.com" site_id="tt_25" xmltv_id="HBO 2 (Trinidad &amp; Tobago)">HBO 2 (Trinidad &amp; Tobago)</channel>
+    <channel update="i" site="hbolatam.com" site_id="tt_28" xmltv_id="HBO POP (Trinidad &amp; Tobago)">HBO POP (Trinidad &amp; Tobago)</channel>
+    <channel update="i" site="hbolatam.com" site_id="tt_33" xmltv_id="HBO MUNDI (Trinidad &amp; Tobago)">HBO MUNDI (Trinidad &amp; Tobago)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_2" xmltv_id="HBO (Grenada)">HBO (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_10" xmltv_id="HBO PLUS (Grenada)">HBO PLUS (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_13" xmltv_id="HBO XTREME (Grenada)">HBO XTREME (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_17" xmltv_id="HBO FAMILY (Grenada)">HBO FAMILY (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_18" xmltv_id="HBO SIGNATURE (Grenada)">HBO SIGNATURE (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_21" xmltv_id="HBO (Grenada)">HBO (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_25" xmltv_id="HBO 2 (Grenada)">HBO 2 (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_28" xmltv_id="HBO POP (Grenada)">HBO POP (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gd_33" xmltv_id="HBO MUNDI (Grenada)">HBO MUNDI (Grenada)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gy_10" xmltv_id="HBO PLUS (Guyana)">HBO PLUS (Guyana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gy_13" xmltv_id="HBO XTREME (Guyana)">HBO XTREME (Guyana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gy_17" xmltv_id="HBO FAMILY (Guyana)">HBO FAMILY (Guyana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gy_18" xmltv_id="HBO SIGNATURE (Guyana)">HBO SIGNATURE (Guyana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gy_21" xmltv_id="HBO (Guyana)">HBO (Guyana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gy_25" xmltv_id="HBO 2 (Guyana)">HBO 2 (Guyana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gy_28" xmltv_id="HBO POP (Guyana)">HBO POP (Guyana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="gy_33" xmltv_id="HBO MUNDI (Guyana)">HBO MUNDI (Guyana)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ht_10" xmltv_id="HBO PLUS (Haiti)">HBO PLUS (Haiti)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ht_13" xmltv_id="HBO XTREME (Haiti)">HBO XTREME (Haiti)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ht_17" xmltv_id="HBO FAMILY (Haiti)">HBO FAMILY (Haiti)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ht_18" xmltv_id="HBO SIGNATURE (Haiti)">HBO SIGNATURE (Haiti)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ht_21" xmltv_id="HBO (Haiti)">HBO (Haiti)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ht_25" xmltv_id="HBO 2 (Haiti)">HBO 2 (Haiti)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ht_28" xmltv_id="HBO POP (Haiti)">HBO POP (Haiti)</channel>
+    <channel update="i" site="hbolatam.com" site_id="ht_33" xmltv_id="HBO MUNDI (Haiti)">HBO MUNDI (Haiti)</channel>
+  </channels>
+</site>

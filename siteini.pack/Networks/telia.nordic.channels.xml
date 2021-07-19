@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="telia.nordic">
+  <channels>
+    <channel update="i" site="telia.nordic" site_id="dk##2010" xmltv_id="DK DR1">DK DR1</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2011" xmltv_id="DK DR2">DK DR2</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2130" xmltv_id="DK TV2 Øst">DK TV2 Øst</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2131" xmltv_id="DK TV2 Syd">DK TV2 Syd</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2132" xmltv_id="DK TV2 Nord">DK TV2 Nord</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2133" xmltv_id="DK TV2 Midt-Vest">DK TV2 Midt-Vest</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2134" xmltv_id="DK TV2 Bornholm">DK TV2 Bornholm</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2135" xmltv_id="DK TV2 Østjylland">DK TV2 Østjylland</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2136" xmltv_id="DK TV2 Fyn">DK TV2 Fyn</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2035" xmltv_id="DK TV2 Lorry HD">DK TV2 Lorry HD</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2105" xmltv_id="DK TV2 News">DK TV2 News</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2107" xmltv_id="DK TV2 Zulu">DK TV2 Zulu</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2104" xmltv_id="DK TV2 Sport">DK TV2 Sport</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2014" xmltv_id="DK Kanal4">DK Kanal4</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2015" xmltv_id="DK Kanal 5">DK Kanal 5</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2102" xmltv_id="DK Regional Syd">DK Regional Syd</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2108" xmltv_id="DK Regional Fyn">DK Regional Fyn</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2109" xmltv_id="DK Regional Ost">DK Regional Ost</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2110" xmltv_id="DK Regional Nord">DK Regional Nord</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2111" xmltv_id="DK Regional Lorry">DK Regional Lorry</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2112" xmltv_id="DK Regional Midt-Vest">DK Regional Midt-Vest</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2113" xmltv_id="DK Regional Østjylland">DK Regional Østjylland</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2114" xmltv_id="DK Regional Bornholm">DK Regional Bornholm</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2103" xmltv_id="DK TV2 Charlie">DK TV2 Charlie</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2036" xmltv_id="DK TV2 Fri">DK TV2 Fri</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2031" xmltv_id="DK Folketingskanalen">DK Folketingskanalen</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2028" xmltv_id="DK DR Ramasjang">DK DR Ramasjang</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2137" xmltv_id="DK SVT Barn">DK SVT Barn</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2080" xmltv_id="DK Disney channel">DK Disney channel</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2081" xmltv_id="DK Disney XD">DK Disney XD</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2082" xmltv_id="DK Disney Junior">DK Disney Junior</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2083" xmltv_id="DK Cartoon Network">DK Cartoon Network</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2084" xmltv_id="DK nickelodeon">DK nickelodeon</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2085" xmltv_id="DK nick jr">DK nick jr</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2086" xmltv_id="DK Boomerang">DK Boomerang</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2016" xmltv_id="DK 6´eren">DK 6´eren</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2019" xmltv_id="DK Canal 9">DK Canal 9</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2094" xmltv_id="DK Investigation Discovery">DK Investigation Discovery</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2087" xmltv_id="DK Paramount Network">DK Paramount Network</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2017" xmltv_id="DK Eurosport">DK Eurosport</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2018" xmltv_id="DK Eurosport 2">DK Eurosport 2</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2009" xmltv_id="DK TV2 Sport X">DK TV2 Sport X</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2117" xmltv_id="DK SVT1">DK SVT1</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2118" xmltv_id="DK SVT2">DK SVT2</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2116" xmltv_id="DK TV4 Sverige">DK TV4 Sverige</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2100" xmltv_id="DK NRK1">DK NRK1</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2115" xmltv_id="DK TV2 Norge">DK TV2 Norge</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2124" xmltv_id="DK ZDF">DK ZDF</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2123" xmltv_id="DK RTL">DK RTL</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2093" xmltv_id="DK VH1 Dk">DK VH1 Dk</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2025" xmltv_id="DK MTV Denmark">DK MTV Denmark</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2020" xmltv_id="DK Discovery channel DK">DK Discovery channel DK</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2021" xmltv_id="DK Discovery Science">DK Discovery Science</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2022" xmltv_id="DK TLC">DK TLC</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2024" xmltv_id="DK Animal Planet">DK Animal Planet</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2091" xmltv_id="DK BBC Brit">DK BBC Brit</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2090" xmltv_id="DK BBC World News">DK BBC World News</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2092" xmltv_id="DK CNN">DK CNN</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2077" xmltv_id="DK Fuel TV">DK Fuel TV</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2032" xmltv_id="DK History channel">DK History channel</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2026" xmltv_id="DK National Geographic">DK National Geographic</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2034" xmltv_id="DK National Geographic Wild">DK National Geographic Wild</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2033" xmltv_id="DK Outdoor channel">DK Outdoor channel</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2120" xmltv_id="DK Al Jazeera English">DK Al Jazeera English</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2121" xmltv_id="DK TV Polonia">DK TV Polonia</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2122" xmltv_id="DK TV5 Monde">DK TV5 Monde</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2050" xmltv_id="DK SF kanalen">DK SF kanalen</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2047" xmltv_id="DK C More Stars">DK C More Stars</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2045" xmltv_id="DK C More First">DK C More First</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2049" xmltv_id="DK C More Hits">DK C More Hits</channel>
+    <channel update="i" site="telia.nordic" site_id="dk##2048" xmltv_id="DK C More Series">DK C More Series</channel>
+    <channel update="i" site="telia.nordic" site_id="se##1" xmltv_id="SE SVT1">SE SVT1</channel>
+    <channel update="i" site="telia.nordic" site_id="se##2" xmltv_id="SE SVT2">SE SVT2</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3" xmltv_id="SE TV3">SE TV3</channel>
+    <channel update="i" site="telia.nordic" site_id="se##4" xmltv_id="SE TV4">SE TV4</channel>
+    <channel update="i" site="telia.nordic" site_id="se##5" xmltv_id="SE Kanal 5">SE Kanal 5</channel>
+    <channel update="i" site="telia.nordic" site_id="se##7" xmltv_id="SE TV6">SE TV6</channel>
+    <channel update="i" site="telia.nordic" site_id="se##31" xmltv_id="SE Sjuan">SE Sjuan</channel>
+    <channel update="i" site="telia.nordic" site_id="se##86" xmltv_id="SE TV8">SE TV8</channel>
+    <channel update="i" site="telia.nordic" site_id="se##14" xmltv_id="SE Kanal 9">SE Kanal 9</channel>
+    <channel update="i" site="telia.nordic" site_id="se##33" xmltv_id="SE TV10">SE TV10</channel>
+    <channel update="i" site="telia.nordic" site_id="se##46" xmltv_id="SE Kanal 11">SE Kanal 11</channel>
+    <channel update="i" site="telia.nordic" site_id="se##122" xmltv_id="SE TV12">SE TV12</channel>
+    <channel update="i" site="telia.nordic" site_id="se##10" xmltv_id="SE Eurosport 1">SE Eurosport 1</channel>
+    <channel update="i" site="telia.nordic" site_id="se##18" xmltv_id="SE Kunskapskanalen">SE Kunskapskanalen</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3370992" xmltv_id="SE TV4 Fakta">SE TV4 Fakta</channel>
+    <channel update="i" site="telia.nordic" site_id="se##9" xmltv_id="SE MTV">SE MTV</channel>
+    <channel update="i" site="telia.nordic" site_id="se##72" xmltv_id="SE Paramount Network">SE Paramount Network</channel>
+    <channel update="i" site="telia.nordic" site_id="se##62" xmltv_id="SE TLC">SE TLC</channel>
+    <channel update="i" site="telia.nordic" site_id="se##17" xmltv_id="SE Discovery">SE Discovery</channel>
+    <channel update="i" site="telia.nordic" site_id="se##61" xmltv_id="SE Discovery Science">SE Discovery Science</channel>
+    <channel update="i" site="telia.nordic" site_id="se##43" xmltv_id="SE Godare">SE Godare</channel>
+    <channel update="i" site="telia.nordic" site_id="se##108" xmltv_id="SE Axess TV">SE Axess TV</channel>
+    <channel update="i" site="telia.nordic" site_id="se##27" xmltv_id="SE Animal Planet">SE Animal Planet</channel>
+    <channel update="i" site="telia.nordic" site_id="se##28" xmltv_id="SE National Geographic">SE National Geographic</channel>
+    <channel update="i" site="telia.nordic" site_id="se##114" xmltv_id="SE National Geographic Wild">SE National Geographic Wild</channel>
+    <channel update="i" site="telia.nordic" site_id="se##115" xmltv_id="SE Outdoor Channel">SE Outdoor Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="se##69" xmltv_id="SE History">SE History</channel>
+    <channel update="i" site="telia.nordic" site_id="se##59" xmltv_id="SE BBC Earth">SE BBC Earth</channel>
+    <channel update="i" site="telia.nordic" site_id="se##71" xmltv_id="SE BBC Brit">SE BBC Brit</channel>
+    <channel update="i" site="telia.nordic" site_id="se##120" xmltv_id="SE Travel Channel">SE Travel Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="se##98" xmltv_id="SE Sportkanalen">SE Sportkanalen</channel>
+    <channel update="i" site="telia.nordic" site_id="se##99" xmltv_id="SE C More Live">SE C More Live</channel>
+    <channel update="i" site="telia.nordic" site_id="se##96" xmltv_id="SE C More Fotboll">SE C More Fotboll</channel>
+    <channel update="i" site="telia.nordic" site_id="se##97" xmltv_id="SE C More Hockey">SE C More Hockey</channel>
+    <channel update="i" site="telia.nordic" site_id="se##91" xmltv_id="SE C More Golf">SE C More Golf</channel>
+    <channel update="i" site="telia.nordic" site_id="se##100" xmltv_id="SE SF-kanalen">SE SF-kanalen</channel>
+    <channel update="i" site="telia.nordic" site_id="se##23" xmltv_id="SE C More First">SE C More First</channel>
+    <channel update="i" site="telia.nordic" site_id="se##24" xmltv_id="SE C More Series">SE C More Series</channel>
+    <channel update="i" site="telia.nordic" site_id="se##22" xmltv_id="SE C More Stars">SE C More Stars</channel>
+    <channel update="i" site="telia.nordic" site_id="se##90" xmltv_id="SE C More Hits">SE C More Hits</channel>
+    <channel update="i" site="telia.nordic" site_id="se##20" xmltv_id="SE V film premiere">SE V film premiere</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3366367" xmltv_id="SE V series">SE V series</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3363953" xmltv_id="SE V film action">SE V film action</channel>
+    <channel update="i" site="telia.nordic" site_id="se##84" xmltv_id="SE V film hits">SE V film hits</channel>
+    <channel update="i" site="telia.nordic" site_id="se##26" xmltv_id="SE V film family">SE V film family</channel>
+    <channel update="i" site="telia.nordic" site_id="se##47" xmltv_id="SE TV4 Film">SE TV4 Film</channel>
+    <channel update="i" site="telia.nordic" site_id="se##370" xmltv_id="SE V sport premium">SE V sport premium</channel>
+    <channel update="i" site="telia.nordic" site_id="se##369" xmltv_id="SE V sport extra">SE V sport extra</channel>
+    <channel update="i" site="telia.nordic" site_id="se##55" xmltv_id="SE Eurosport 2">SE Eurosport 2</channel>
+    <channel update="i" site="telia.nordic" site_id="se##87" xmltv_id="SE V sport hockey">SE V sport hockey</channel>
+    <channel update="i" site="telia.nordic" site_id="se##15" xmltv_id="SE V sport 1">SE V sport 1</channel>
+    <channel update="i" site="telia.nordic" site_id="se##81" xmltv_id="SE V sport football">SE V sport football</channel>
+    <channel update="i" site="telia.nordic" site_id="se##82" xmltv_id="SE V sport motor">SE V sport motor</channel>
+    <channel update="i" site="telia.nordic" site_id="se##742278402" xmltv_id="SE V sport golf">SE V sport golf</channel>
+    <channel update="i" site="telia.nordic" site_id="se##449" xmltv_id="SE V Sport UHD">SE V Sport UHD</channel>
+    <channel update="i" site="telia.nordic" site_id="se##116" xmltv_id="SE Fuel TV">SE Fuel TV</channel>
+    <channel update="i" site="telia.nordic" site_id="se##63" xmltv_id="SE Nickelodeon">SE Nickelodeon</channel>
+    <channel update="i" site="telia.nordic" site_id="se##112" xmltv_id="SE Nick jr">SE Nick jr</channel>
+    <channel update="i" site="telia.nordic" site_id="se##19" xmltv_id="SE Cartoon network">SE Cartoon network</channel>
+    <channel update="i" site="telia.nordic" site_id="se##32" xmltv_id="SE Disney Channel">SE Disney Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="se##2935688" xmltv_id="SE Disney XD">SE Disney XD</channel>
+    <channel update="i" site="telia.nordic" site_id="se##94" xmltv_id="SE Disney junior">SE Disney junior</channel>
+    <channel update="i" site="telia.nordic" site_id="se##113" xmltv_id="SE Boomerang">SE Boomerang</channel>
+    <channel update="i" site="telia.nordic" site_id="se##11" xmltv_id="SE SVT Barn/SVT24">SE SVT Barn/SVT24</channel>
+    <channel update="i" site="telia.nordic" site_id="se##16" xmltv_id="SE CNN">SE CNN</channel>
+    <channel update="i" site="telia.nordic" site_id="se##58" xmltv_id="SE BBC World News">SE BBC World News</channel>
+    <channel update="i" site="telia.nordic" site_id="se##13" xmltv_id="SE VH1">SE VH1</channel>
+    <channel update="i" site="telia.nordic" site_id="se##43321471" xmltv_id="SE TV4 Guld">SE TV4 Guld</channel>
+    <channel update="i" site="telia.nordic" site_id="se##126" xmltv_id="SE Discovery ID">SE Discovery ID</channel>
+    <channel update="i" site="telia.nordic" site_id="se##570" xmltv_id="SE Discovery+ extra1">SE Discovery+ extra1</channel>
+    <channel update="i" site="telia.nordic" site_id="se##571" xmltv_id="SE Discovery+ extra2">SE Discovery+ extra2</channel>
+    <channel update="i" site="telia.nordic" site_id="se##572" xmltv_id="SE Discovery+ extra3">SE Discovery+ extra3</channel>
+    <channel update="i" site="telia.nordic" site_id="se##573" xmltv_id="SE Discovery+ extra4">SE Discovery+ extra4</channel>
+    <channel update="i" site="telia.nordic" site_id="se##574" xmltv_id="SE Discovery+ extra5">SE Discovery+ extra5</channel>
+    <channel update="i" site="telia.nordic" site_id="se##575" xmltv_id="SE Discovery+ extra6">SE Discovery+ extra6</channel>
+    <channel update="i" site="telia.nordic" site_id="se##576" xmltv_id="SE Discovery+ extra7">SE Discovery+ extra7</channel>
+    <channel update="i" site="telia.nordic" site_id="se##577" xmltv_id="SE Discovery+ extra8">SE Discovery+ extra8</channel>
+    <channel update="i" site="telia.nordic" site_id="se##73" xmltv_id="SE C More Live 2">SE C More Live 2</channel>
+    <channel update="i" site="telia.nordic" site_id="se##74" xmltv_id="SE C More Live 3">SE C More Live 3</channel>
+    <channel update="i" site="telia.nordic" site_id="se##75" xmltv_id="SE C More Live 4">SE C More Live 4</channel>
+    <channel update="i" site="telia.nordic" site_id="se##76" xmltv_id="SE C More Live 5">SE C More Live 5</channel>
+    <channel update="i" site="telia.nordic" site_id="se##595" xmltv_id="SE C More Event 1">SE C More Event 1</channel>
+    <channel update="i" site="telia.nordic" site_id="se##596" xmltv_id="SE C More Event 2">SE C More Event 2</channel>
+    <channel update="i" site="telia.nordic" site_id="se##597" xmltv_id="SE C More Event 3">SE C More Event 3</channel>
+    <channel update="i" site="telia.nordic" site_id="se##598" xmltv_id="SE C More Event 4">SE C More Event 4</channel>
+    <channel update="i" site="telia.nordic" site_id="se##599" xmltv_id="SE C More Event 5">SE C More Event 5</channel>
+    <channel update="i" site="telia.nordic" site_id="se##960" xmltv_id="SE Liiga HIFK">SE Liiga HIFK</channel>
+    <channel update="i" site="telia.nordic" site_id="se##961" xmltv_id="SE Liiga HPK">SE Liiga HPK</channel>
+    <channel update="i" site="telia.nordic" site_id="se##962" xmltv_id="SE Liiga Ilves">SE Liiga Ilves</channel>
+    <channel update="i" site="telia.nordic" site_id="se##963" xmltv_id="SE Liiga Jukurit">SE Liiga Jukurit</channel>
+    <channel update="i" site="telia.nordic" site_id="se##964" xmltv_id="SE Liiga JYP">SE Liiga JYP</channel>
+    <channel update="i" site="telia.nordic" site_id="se##965" xmltv_id="SE Liiga Kalpa">SE Liiga Kalpa</channel>
+    <channel update="i" site="telia.nordic" site_id="se##966" xmltv_id="SE Liiga KooKoo">SE Liiga KooKoo</channel>
+    <channel update="i" site="telia.nordic" site_id="se##967" xmltv_id="SE Liiga Kärpät">SE Liiga Kärpät</channel>
+    <channel update="i" site="telia.nordic" site_id="se##968" xmltv_id="SE Liiga Lukko">SE Liiga Lukko</channel>
+    <channel update="i" site="telia.nordic" site_id="se##969" xmltv_id="SE Liiga Pelicans">SE Liiga Pelicans</channel>
+    <channel update="i" site="telia.nordic" site_id="se##970" xmltv_id="SE Liiga SaiPa">SE Liiga SaiPa</channel>
+    <channel update="i" site="telia.nordic" site_id="se##971" xmltv_id="SE Liiga Sport">SE Liiga Sport</channel>
+    <channel update="i" site="telia.nordic" site_id="se##972" xmltv_id="SE Liiga Tappara">SE Liiga Tappara</channel>
+    <channel update="i" site="telia.nordic" site_id="se##973" xmltv_id="SE Liiga TPS">SE Liiga TPS</channel>
+    <channel update="i" site="telia.nordic" site_id="se##974" xmltv_id="SE Liiga Ässät">SE Liiga Ässät</channel>
+    <channel update="i" site="telia.nordic" site_id="se##975" xmltv_id="SE Liiga TV">SE Liiga TV</channel>
+    <channel update="i" site="telia.nordic" site_id="se##8388606" xmltv_id="SE v5">SE v5</channel>
+    <channel update="i" site="telia.nordic" site_id="se##777" xmltv_id="SE Telia Nöje">SE Telia Nöje</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3090" xmltv_id="SE SVT1 Stockholm">SE SVT1 Stockholm</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3000" xmltv_id="SE SVT1 Blekinge">SE SVT1 Blekinge</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3001" xmltv_id="SE SVT1 Dalarna">SE SVT1 Dalarna</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3002" xmltv_id="SE SVT1 Gävleborg">SE SVT1 Gävleborg</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3003" xmltv_id="SE SVT1 Halland">SE SVT1 Halland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3004" xmltv_id="SE SVT1 Helsingborg">SE SVT1 Helsingborg</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3005" xmltv_id="SE SVT1 Jämtland">SE SVT1 Jämtland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3006" xmltv_id="SE SVT1 Jönköping">SE SVT1 Jönköping</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3007" xmltv_id="SE SVT1 Norrbotten">SE SVT1 Norrbotten</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3008" xmltv_id="SE SVT1 Skåne">SE SVT1 Skåne</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3009" xmltv_id="SE SVT1 Småland">SE SVT1 Småland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3010" xmltv_id="SE SVT1 Södertälje">SE SVT1 Södertälje</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3011" xmltv_id="SE SVT1 Sörmland">SE SVT1 Sörmland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3012" xmltv_id="SE SVT1 Uppsala">SE SVT1 Uppsala</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3013" xmltv_id="SE SVT1 Värmland">SE SVT1 Värmland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3014" xmltv_id="SE SVT1 Väst">SE SVT1 Väst</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3015" xmltv_id="SE SVT1 Västerbotten">SE SVT1 Västerbotten</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3016" xmltv_id="SE SVT1 Västernorrland">SE SVT1 Västernorrland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3017" xmltv_id="SE SVT1 Västmanland">SE SVT1 Västmanland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3018" xmltv_id="SE SVT1 Örebro">SE SVT1 Örebro</channel>
+    <channel update="i" site="telia.nordic" site_id="se##3019" xmltv_id="SE SVT1 Öst">SE SVT1 Öst</channel>
+    <channel update="i" site="telia.nordic" site_id="se##900" xmltv_id="SE TV4 Borås">SE TV4 Borås</channel>
+    <channel update="i" site="telia.nordic" site_id="se##901" xmltv_id="SE TV4 Dalarna">SE TV4 Dalarna</channel>
+    <channel update="i" site="telia.nordic" site_id="se##902" xmltv_id="SE TV4 Gävle">SE TV4 Gävle</channel>
+    <channel update="i" site="telia.nordic" site_id="se##903" xmltv_id="SE TV4 Göteborg">SE TV4 Göteborg</channel>
+    <channel update="i" site="telia.nordic" site_id="se##904" xmltv_id="SE TV4 Halland">SE TV4 Halland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##906" xmltv_id="SE TV4 Hälsingland">SE TV4 Hälsingland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##907" xmltv_id="SE TV4 Jönköping">SE TV4 Jönköping</channel>
+    <channel update="i" site="telia.nordic" site_id="se##908" xmltv_id="SE TV4 Kalmar">SE TV4 Kalmar</channel>
+    <channel update="i" site="telia.nordic" site_id="se##909" xmltv_id="SE TV4 Karlskrona">SE TV4 Karlskrona</channel>
+    <channel update="i" site="telia.nordic" site_id="se##910" xmltv_id="SE TV4 Värmland">SE TV4 Värmland</channel>
+    <channel update="i" site="telia.nordic" site_id="se##911" xmltv_id="SE TV4 Linköping">SE TV4 Linköping</channel>
+    <channel update="i" site="telia.nordic" site_id="se##912" xmltv_id="SE TV4 Luleå">SE TV4 Luleå</channel>
+    <channel update="i" site="telia.nordic" site_id="se##913" xmltv_id="SE TV4 Malmö">SE TV4 Malmö</channel>
+    <channel update="i" site="telia.nordic" site_id="se##914" xmltv_id="SE TV4 Norrköping">SE TV4 Norrköping</channel>
+    <channel update="i" site="telia.nordic" site_id="se##916" xmltv_id="SE TV4 Skaraborg">SE TV4 Skaraborg</channel>
+    <channel update="i" site="telia.nordic" site_id="se##917" xmltv_id="SE TV4 Skellefteå">SE TV4 Skellefteå</channel>
+    <channel update="i" site="telia.nordic" site_id="se##918" xmltv_id="SE TV4 Sundsvall">SE TV4 Sundsvall</channel>
+    <channel update="i" site="telia.nordic" site_id="se##919" xmltv_id="SE TV4 Umeå">SE TV4 Umeå</channel>
+    <channel update="i" site="telia.nordic" site_id="se##920" xmltv_id="SE TV4 Uppsala">SE TV4 Uppsala</channel>
+    <channel update="i" site="telia.nordic" site_id="se##922" xmltv_id="SE TV4 Väst">SE TV4 Väst</channel>
+    <channel update="i" site="telia.nordic" site_id="se##924" xmltv_id="SE TV4 Västerås">SE TV4 Västerås</channel>
+    <channel update="i" site="telia.nordic" site_id="se##925" xmltv_id="SE TV4 Växjö">SE TV4 Växjö</channel>
+    <channel update="i" site="telia.nordic" site_id="se##926" xmltv_id="SE TV4 Örebro">SE TV4 Örebro</channel>
+    <channel update="i" site="telia.nordic" site_id="se##927" xmltv_id="SE TV4 Örnsköldsvik">SE TV4 Örnsköldsvik</channel>
+    <channel update="i" site="telia.nordic" site_id="se##928" xmltv_id="SE TV4 Östersund">SE TV4 Östersund</channel>
+    <channel update="i" site="telia.nordic" site_id="se##929" xmltv_id="SE TV4 Stockholm">SE TV4 Stockholm</channel>
+    <channel update="i" site="telia.nordic" site_id="se##1113" xmltv_id="SE SolidSport">SE SolidSport</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##184" xmltv_id="FI Yle TV1 HD">FI Yle TV1 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##185" xmltv_id="FI Yle TV2 HD">FI Yle TV2 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##168" xmltv_id="FI MTV3 HD">FI MTV3 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##174" xmltv_id="FI Nelonen">FI Nelonen</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##183" xmltv_id="FI Yle Teema &amp; Fem HD">FI Yle Teema &amp; Fem HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##187" xmltv_id="FI Sub HD">FI Sub HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##702" xmltv_id="FI TV5  HD">FI TV5  HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##179" xmltv_id="FI LIV">FI LIV</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##166" xmltv_id="FI JIM">FI JIM</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##178" xmltv_id="FI Kutonen  HD">FI Kutonen  HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##164" xmltv_id="FI TLC HD">FI TLC HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##633" xmltv_id="FI FOX HD">FI FOX HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##136" xmltv_id="FI AVA HD">FI AVA HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##176" xmltv_id="FI Hero">FI Hero</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##636" xmltv_id="FI AlfaTV HD">FI AlfaTV HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##699" xmltv_id="FI Frii HD">FI Frii HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##774" xmltv_id="FI Paramount Network HD">FI Paramount Network HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##627" xmltv_id="FI Nat Geo HD">FI Nat Geo HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##798" xmltv_id="FI inez">FI inez</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##640" xmltv_id="FI Telia TV Extra">FI Telia TV Extra</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##145" xmltv_id="FI Travel Channel">FI Travel Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1887" xmltv_id="FI Nasa TV UHD">FI Nasa TV UHD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##626" xmltv_id="FI Nick Jr">FI Nick Jr</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##610" xmltv_id="FI Disney Channel">FI Disney Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##779486864" xmltv_id="FI 1 Disney XD">FI 1 Disney XD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##614" xmltv_id="FI Disney Junior">FI Disney Junior</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##616" xmltv_id="FI Cartoon Network">FI Cartoon Network</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##678" xmltv_id="FI Boomerang">FI Boomerang</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##629" xmltv_id="FI C More Juniori">FI C More Juniori</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##139" xmltv_id="FI C More MAX">FI C More MAX</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1879" xmltv_id="FI C More Sport 1">FI C More Sport 1</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1880" xmltv_id="FI C More Sport 2">FI C More Sport 2</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##140" xmltv_id="FI C More Max 2 HD">FI C More Max 2 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##156" xmltv_id="FI C More First">FI C More First</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##157" xmltv_id="FI C More Hits">FI C More Hits</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##155" xmltv_id="FI C More Stars">FI C More Stars</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##154" xmltv_id="FI C More Series">FI C More Series</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##679" xmltv_id="FI SF Kanalen">FI SF Kanalen</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##197" xmltv_id="FI V film premiere">FI V film premiere</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##602" xmltv_id="FI V film action">FI V film action</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##605" xmltv_id="FI V film hits">FI V film hits</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##632" xmltv_id="FI V film family">FI V film family</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##606" xmltv_id="FI Viasat Explore">FI Viasat Explore</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##779490117" xmltv_id="FI Viasat Nature">FI Viasat Nature</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##623" xmltv_id="FI Viasat History">FI Viasat History</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##172" xmltv_id="FI V sport urheilu">FI V sport urheilu</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##171" xmltv_id="FI V sport hockey">FI V sport hockey</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##839798335" xmltv_id="FI V sport golf">FI V sport golf</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##620" xmltv_id="FI V sport 1">FI V sport 1</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##711" xmltv_id="FI V sport urheilu NHL">FI V sport urheilu NHL</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##710" xmltv_id="FI V sport 1 NHL">FI V sport 1 NHL</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##617" xmltv_id="FI V sport jalkapallo HD">FI V sport jalkapallo HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##729" xmltv_id="FI V sport football HD">FI V sport football HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##730" xmltv_id="FI V sport premium HD">FI V sport premium HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##619" xmltv_id="FI V sport jääkiekko HD">FI V sport jääkiekko HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##731" xmltv_id="FI V sport live 1">FI V sport live 1</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##732" xmltv_id="FI V sport live 2">FI V sport live 2</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##733" xmltv_id="FI V sport live 3">FI V sport live 3</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##734" xmltv_id="FI V sport live 4">FI V sport live 4</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##735" xmltv_id="FI V sport live 5">FI V sport live 5</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##160" xmltv_id="FI Investigation Discovery">FI Investigation Discovery</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##161" xmltv_id="FI Discovery Channel HD">FI Discovery Channel HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##150" xmltv_id="FI Animal Planet">FI Animal Planet</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##163" xmltv_id="FI Discovery Science">FI Discovery Science</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1882" xmltv_id="FI Eurosport">FI Eurosport</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1883" xmltv_id="FI Eurosport 2">FI Eurosport 2</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##621" xmltv_id="FI FuelTV">FI FuelTV</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1885" xmltv_id="FI Outdoor">FI Outdoor</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##775" xmltv_id="FI TOTOtv HD">FI TOTOtv HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1884" xmltv_id="FI Nat Geo Wild">FI Nat Geo Wild</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##618" xmltv_id="FI History Channel">FI History Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##697" xmltv_id="FI BBC Earth HD">FI BBC Earth HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##698" xmltv_id="FI BBC Brit HD">FI BBC Brit HD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##615" xmltv_id="FI VH1">FI VH1</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##613" xmltv_id="FI Euronews">FI Euronews</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##142" xmltv_id="FI BBC World News">FI BBC World News</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##188" xmltv_id="FI CNN">FI CNN</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##795" xmltv_id="FI Liiga TV">FI Liiga TV</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##780" xmltv_id="FI HIFK">FI HIFK</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##781" xmltv_id="FI HPK">FI HPK</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##782" xmltv_id="FI Ilves">FI Ilves</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##783" xmltv_id="FI Jukurit">FI Jukurit</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##784" xmltv_id="FI JYP">FI JYP</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##785" xmltv_id="FI KalPa">FI KalPa</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##786" xmltv_id="FI KooKoo">FI KooKoo</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##787" xmltv_id="FI Kärpät">FI Kärpät</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##788" xmltv_id="FI Lukko">FI Lukko</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##789" xmltv_id="FI Pelicans">FI Pelicans</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##790" xmltv_id="FI SaiPa">FI SaiPa</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##791" xmltv_id="FI Sport">FI Sport</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##792" xmltv_id="FI Tappara">FI Tappara</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##793" xmltv_id="FI TPS">FI TPS</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##794" xmltv_id="FI Ässät">FI Ässät</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##796" xmltv_id="FI Liiga UHD">FI Liiga UHD</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##779" xmltv_id="FI OTT Test Channel">FI OTT Test Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##641" xmltv_id="FI Test2 Channel">FI Test2 Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1881" xmltv_id="FI HBO">FI HBO</channel>
+    <channel update="i" site="telia.nordic" site_id="fi##1114" xmltv_id="FI SolidSport">FI SolidSport</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5009" xmltv_id="LT LRT Televizija HD">LT LRT Televizija HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5008" xmltv_id="LT LNK HD">LT LNK HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5055" xmltv_id="LT TV3 HD">LT TV3 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5006" xmltv_id="LT BTV HD">LT BTV HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5007" xmltv_id="LT Lietuvos rytas TV HD">LT Lietuvos rytas TV HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5056" xmltv_id="LT TV6 HD">LT TV6 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5011" xmltv_id="LT TV1 HD">LT TV1 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5057" xmltv_id="LT TV8 HD">LT TV8 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5014" xmltv_id="LT Info TV HD">LT Info TV HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5005" xmltv_id="LT LRT Plius HD">LT LRT Plius HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5049" xmltv_id="LT Fox HD">LT Fox HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5050" xmltv_id="LT FOXlife HD">LT FOXlife HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5018" xmltv_id="LT Duo3 HD">LT Duo3 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5043" xmltv_id="LT FilmZone+ HD">LT FilmZone+ HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5042" xmltv_id="LT FilmZone HD">LT FilmZone HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5040" xmltv_id="LT Epic Drama HD">LT Epic Drama HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5045" xmltv_id="LT Vip Comedy HD">LT Vip Comedy HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5039" xmltv_id="LT Balticum Auksinis">LT Balticum Auksinis</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5044" xmltv_id="LT Duo6 HD">LT Duo6 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5041" xmltv_id="LT Eurochannel">LT Eurochannel</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5019" xmltv_id="LT TV1000 Action">LT TV1000 Action</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5004" xmltv_id="LT TV3 Film HD">LT TV3 Film HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5020" xmltv_id="LT TV1000">LT TV1000</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5021" xmltv_id="LT TV1000 Russkoje Kino">LT TV1000 Russkoje Kino</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5031" xmltv_id="LT Dom Kino">LT Dom Kino</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5032" xmltv_id="LT Dom Kino Premium HD">LT Dom Kino Premium HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5052" xmltv_id="LT Nashe Liubimoje Kino">LT Nashe Liubimoje Kino</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5016" xmltv_id="LT Travel Channel HD">LT Travel Channel HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5027" xmltv_id="LT Animal Planet HD">LT Animal Planet HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5070" xmltv_id="LT Discovery Science HD">LT Discovery Science HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5051" xmltv_id="LT History Channel HD">LT History Channel HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5071" xmltv_id="LT DocuBox HD">LT DocuBox HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5073" xmltv_id="LT Viasat Explore HD">LT Viasat Explore HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5074" xmltv_id="LT Viasat History HD">LT Viasat History HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5072" xmltv_id="LT Ochota i Rybalka">LT Ochota i Rybalka</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5022" xmltv_id="LT Discovery">LT Discovery</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5075" xmltv_id="LT Discovery IDX HD">LT Discovery IDX HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5053" xmltv_id="LT National Geographic Channel">LT National Geographic Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5084" xmltv_id="LT TLC">LT TLC</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5076" xmltv_id="LT Food Network HD">LT Food Network HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5036" xmltv_id="LT Discovery DTX HD">LT Discovery DTX HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5015" xmltv_id="LT Sport1 HD">LT Sport1 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5001" xmltv_id="LT Eurosport1 HD">LT Eurosport1 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5002" xmltv_id="LT Eurosport2 HD">LT Eurosport2 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5003" xmltv_id="LT TV3 Sport HD">LT TV3 Sport HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5060" xmltv_id="LT TV3 Sport2 HD">LT TV3 Sport2 HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5037" xmltv_id="LT Fight Sports HD">LT Fight Sports HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5038" xmltv_id="LT Setanta Sports HD">LT Setanta Sports HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5028" xmltv_id="LT Cartoon Network">LT Cartoon Network</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5017" xmltv_id="LT KidZone">LT KidZone</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5046" xmltv_id="LT Baby TV">LT Baby TV</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5012" xmltv_id="LT Nickelodeon">LT Nickelodeon</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5066" xmltv_id="LT Kidzone+">LT Kidzone+</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5065" xmltv_id="LT Duck TV HD">LT Duck TV HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5061" xmltv_id="LT Boomerang">LT Boomerang</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5063" xmltv_id="LT Disney Channel">LT Disney Channel</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5064" xmltv_id="LT Disney Junior">LT Disney Junior</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5068" xmltv_id="LT JimJam">LT JimJam</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5069" xmltv_id="LT SmartZone HD">LT SmartZone HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5067" xmltv_id="LT Nick Jr">LT Nick Jr</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5062" xmltv_id="LT Da Vinci Learning">LT Da Vinci Learning</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5025" xmltv_id="LT CNN HD">LT CNN HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5026" xmltv_id="LT BBC World News HD">LT BBC World News HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5048" xmltv_id="LT Euronews HD">LT Euronews HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5083" xmltv_id="LT Deutsche Welle">LT Deutsche Welle</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5047" xmltv_id="LT CurrentTime HD">LT CurrentTime HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5080" xmltv_id="LT Moya Planeta">LT Moya Planeta</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5029" xmltv_id="LT Pervyj Baltijskij">LT Pervyj Baltijskij</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5033" xmltv_id="LT NTV Mir Lithuania">LT NTV Mir Lithuania</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5034" xmltv_id="LT NTV Serial">LT NTV Serial</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5030" xmltv_id="LT TNT">LT TNT</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5010" xmltv_id="LT REN TV">LT REN TV</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5059" xmltv_id="LT RTVi">LT RTVi</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5082" xmltv_id="LT TVCI">LT TVCI</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5078" xmltv_id="LT Balticum Platinum HD">LT Balticum Platinum HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5079" xmltv_id="LT Domashniy">LT Domashniy</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5081" xmltv_id="LT STS">LT STS</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5023" xmltv_id="LT VH1 Europe">LT VH1 Europe</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5024" xmltv_id="LT MTV Hits">LT MTV Hits</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5077" xmltv_id="LT Mezzo">LT Mezzo</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5013" xmltv_id="LT 2TV HD">LT 2TV HD</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5058" xmltv_id="LT TVP Polonia">LT TVP Polonia</channel>
+    <channel update="i" site="telia.nordic" site_id="lt##5054" xmltv_id="LT RTL Television">LT RTL Television</channel>
+  </channels>
+</site>
